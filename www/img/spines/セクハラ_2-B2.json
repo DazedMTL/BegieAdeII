@@ -1,0 +1,36 @@
+{
+"skeleton": {
+	"hash": "AasTsquKvZ/krw/6P7MIX62aueE",
+	"spine": "3.8.99",
+	"x": -267,
+	"y": 615,
+	"width": 511,
+	"height": 105,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "ステータスバー", "bone": "root", "attachment": "ステータスバー" },
+	{ "name": "枠", "bone": "root", "attachment": "枠" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"ステータスバー": {
+				"ステータスバー": { "x": -11.5, "y": 667.5, "width": 511, "height": 105 }
+			},
+			"枠": {
+				"枠": { "x": -36, "y": 357.5, "width": 560, "height": 723 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {},
+	"test1": {}
+}
+}

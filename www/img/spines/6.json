@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "iM2mc0J81eO8sMVsniU03OCWa50",
+	"spine": "3.8.99",
+	"x": -244,
+	"y": 614,
+	"width": 511,
+	"height": 105,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "ステータスバー", "bone": "root", "attachment": "ステータスバー" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"ステータスバー": {
+				"ステータスバー": { "x": 11.5, "y": 666.5, "width": 511, "height": 105 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}
