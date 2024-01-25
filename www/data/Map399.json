@@ -13636,7 +13636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リフレッシュポーションを手に入れた！"
+                                "Gained a Refresh Potion!"
                             ]
                         },
                         {
@@ -15159,7 +15159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーション×２を手に入れた！"
+                                "Gained 2 High Potions!"
                             ]
                         },
                         {
@@ -15420,7 +15420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムコロン×２を手に入れた！"
+                                "Gained 2 Folium Colon!"
                             ]
                         },
                         {

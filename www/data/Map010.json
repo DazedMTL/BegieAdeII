@@ -35264,7 +35264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気勢の指輪を手に入れた！"
+                                "Gained the Ring of Vigor!"
                             ]
                         },
                         {
@@ -35525,7 +35525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーション×２を手に入れた！"
+                                "Gained 2 High Potions!"
                             ]
                         },
                         {
@@ -36477,7 +36477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水を手に入れた！"
+                                "Gained beautiful water!"
                             ]
                         },
                         {
@@ -39462,7 +39462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「誰かッ…！　誰か、助けてくれッ…！」"
+                                "\\n<Man's voice>\"Someone...! Someone, please help...!\""
                             ]
                         },
                         {
@@ -39479,7 +39479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くから悲痛な叫び声が聞こえる…。"
+                                "A cry of agony can be heard from nearby..."
                             ]
                         },
                         {
@@ -39661,7 +39661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「う、ぅ……！」"
+                                "\\n<Child>\"U-uh...!\""
                             ]
                         },
                         {
@@ -40117,7 +40117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――いったい何がありました」"
+                                "\\n<Roselitte>\"What on earth happened?\""
                             ]
                         },
                         {
@@ -40134,14 +40134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「人！？　ああ、良かった、大変なんだ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うちの子がッ！　魔物にッ！」"
+                                "\\n<Man>\"A person!? Ah, thank goodness, it's terrible! My child has\nbeen attacked by a monster!\""
                             ]
                         },
                         {
@@ -40158,14 +40151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女>「治療薬を持ってない！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私たち、手ぶらで！　何もないの！」"
+                                "\\n<Woman>\"We don't have any healing medicine!? We came empty-handed!\nWe have nothing!\""
                             ]
                         },
                         {
@@ -40224,14 +40210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「子供が怪我！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大丈夫！　私、医術士だよ！　私に診させて！」"
+                                "\\n<Ameria>\"A child is injured!? It's okay! I'm a healer! Let me take a\nlook!\""
                             ]
                         },
                         {
@@ -40248,14 +40227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「なんだって！　それじゃあすぐに――って、あれ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアちゃん！？」"
+                                "\\n<Man>\"What!? Then quickly--wait, is that... Ameria-chan!?\""
                             ]
                         },
                         {
@@ -40314,14 +40286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えっ――ああっ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それじゃあ怪我をしたのって…！」"
+                                "\\n<Ameria>\"Eh--ahh! So the one who's injured is...!\""
                             ]
                         },
                         {
@@ -40338,7 +40303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「痛いぃッ……！　うあああぁぁぁッ……！」"
+                                "\\n<Child>\"It hurts...! Uwaaaahhh...!\""
                             ]
                         },
                         {
@@ -40355,7 +40320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「そうなんだよ、またこの子が！」"
+                                "\\n<Man>\"Yes, it's this child again!\""
                             ]
                         },
                         {
@@ -40372,28 +40337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「村が襲われた時、魔物に追いかけ回されて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで結局この森に迷い込んでしまったんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうにかがんばってきたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ついさっき、見つかってしまって…！」"
+                                "\\n<Man>\"When the village was attacked, we were chased by monsters.\nAnd in the end, we got lost in this forest! We've been\nstruggling to survive, but just a moment ago, we were\nfound...\""
                             ]
                         },
                         {
@@ -40410,21 +40354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女>「アメリアちゃん！　ルエールさんは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ルエールさんはいないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの人ならこの子を助けられる！」"
+                                "\\n<Woman>\"Ameria-chan! Where's Luerre-san? Isn't Luerre-san here? She\ncould save this child!\""
                             ]
                         },
                         {
@@ -40483,14 +40413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…司祭様なら、いないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この子の怪我は私が診る…！」"
+                                "\\n<Ameria>\"...The priestess isn't here. I will treat this child's\ninjuries...!\""
                             ]
                         },
                         {
@@ -40507,14 +40430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「そんな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアちゃん、この前は治せなかったじゃないか！」"
+                                "\\n<Man>\"No way! Ameria-chan, you couldn't heal them last time,\ncould you?\""
                             ]
                         },
                         {
@@ -40573,14 +40489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ッ――…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ううん。大丈夫。今ならもう、大丈夫…！」"
+                                "\\n<Ameria>\"No--... It's okay. Now, I can definitely do it...!\""
                             ]
                         },
                         {
@@ -40639,7 +40548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「場所を開けて！　私が必ず治すからッ！」"
+                                "\\n<Ameria>\"Make way! I will surely heal them!\""
                             ]
                         },
                         {
@@ -40752,7 +40661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「うっ……ぅ……」"
+                                "\\n<Child>\"Ugh...uh...\""
                             ]
                         },
                         {
@@ -40769,7 +40678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「……」"
+                                "\\n<Child>\"...\""
                             ]
                         },
                         {
@@ -40786,14 +40695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「ほ…ほら！　やっぱり治せないじゃないか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いでルエールさんを！　ルエールさんの所にっ…！」"
+                                "\\n<Man>\"Look...! You can't heal them after all! Hurry and find\nLuerre-san! To Luerre-san's place...!\""
                             ]
                         },
                         {
@@ -40810,7 +40712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「…………」"
+                                "\\n<Child>\"...\""
                             ]
                         },
                         {
@@ -40911,7 +40813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「――あれ。痛くない…。痛くないよ！」"
+                                "\\n<Child>\"--Huh. It doesn't hurt... It doesn't hurt anymore!\""
                             ]
                         },
                         {
@@ -40928,7 +40830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「…本当かい？　本当にもう痛くないかい？」"
+                                "\\n<Man>\"...Really? Are you truly not in pain anymore?\""
                             ]
                         },
                         {
@@ -40945,14 +40847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「うん！　嘘みたいだ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あっという間に怪我が治っちゃった！」"
+                                "\\n<Child>\"Yeah! It's like a lie! My injury healed up in no time!\""
                             ]
                         },
                         {
@@ -40969,14 +40864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女>「ああっ…ああっ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良かった…本当に良かった…！」"
+                                "\\n<Woman>\"Ah...ahh...! Thank goodness... Truly thank goodness...!\""
                             ]
                         },
                         {
@@ -40993,7 +40881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「…………」"
+                                "\\n<Man>\"...\""
                             ]
                         },
                         {
@@ -41010,14 +40898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「…アメリアちゃん、ありがとう。本当にありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　治せないなんて言って、ごめんね」"
+                                "\\n<Man>\"...Ameria-chan, thank you. Truly thank you. I'm sorry for\nsaying you couldn't heal them.\""
                             ]
                         },
                         {
@@ -41076,14 +40957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ううん、大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時は本当に治せなかったから…」"
+                                "\\n<Ameria>\"...No, it's okay. I really couldn't heal them at that\ntime...\""
                             ]
                         },
                         {
@@ -41142,21 +41016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女>「そんなことないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ルエールさんに教えてもらったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアちゃんが頑張ってくれたおかげで助かったって」"
+                                "\\n<Woman>\"That's not true. Luerre-san told me. It's thanks to Ameria-\nchan's hard work that we were saved.\""
                             ]
                         },
                         {
@@ -41173,28 +41033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女>「私たちは二度もあなたに救われたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアちゃんは神様よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうほんと、感謝し切れないわ。ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当に、ありがとう…！」"
+                                "\\n<Woman>\"We have been saved by you twice now. Ameria-chan is like a\ngoddess to us. Really, we can't thank you enough. Thank you.\nTruly, thank you...!\""
                             ]
                         },
                         {
@@ -41211,21 +41050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「お姉ちゃん、ありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕、決めたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕もお姉ちゃんみたいな医術士になりたい！」"
+                                "\\n<Child>\"Big sister, thank you! I've decided. I want to become a\nhealer just like big sister!\""
                             ]
                         },
                         {
@@ -41242,7 +41067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -41301,7 +41126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えへっ……えへへへ……♪」"
+                                "\\n<Ameria>\"Eheh...ehehehe...♪\""
                             ]
                         },
                         {
@@ -41360,7 +41185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ハレルヤ！♪」"
+                                "\\n<Ameria>\"--Hallelujah!♪\""
                             ]
                         },
                         {
@@ -41412,14 +41237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテたちは一度引き返して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "親子をアンナベルンに避難させた。"
+                                "Roselitte and her party turned back once and evacuated the\nfamily to Annabern."
                             ]
                         },
                         {
@@ -41649,7 +41467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女>「ああっ、どうしようっ！　どうしようっ！」"
+                                "\\n<Woman>\"Aahh, what should I do! What should I do!\""
                             ]
                         },
                         {
@@ -41956,7 +41774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムハーブを手に入れた！"
+                                "Gained Folium Herb!"
                             ]
                         },
                         {
@@ -42217,7 +42035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムコロン×２を手に入れた！"
+                                "Gained 2 Folium Colon!"
                             ]
                         },
                         {
@@ -42478,7 +42296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムコロン×２を手に入れた！"
+                                "Gained 2 Folium Colon!"
                             ]
                         },
                         {

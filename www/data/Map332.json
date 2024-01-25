@@ -12625,7 +12625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーター×３を手に入れた！"
+                                "Gained Magic Water ×3!"
                             ]
                         },
                         {
@@ -14211,7 +14211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "保護の指輪を手に入れた！"
+                                "Gained the Ring of Protection!"
                             ]
                         },
                         {
@@ -14472,7 +14472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポイズンアウェイ×２を手に入れた！"
+                                "Gained 2 Poison Away!"
                             ]
                         },
                         {

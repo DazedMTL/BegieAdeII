@@ -12356,14 +12356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「待たせちゃってごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか怪我をしている人があんなにいるなんて…」"
+                                "\\n<Ameria>\"Sorry to keep you waiting. I had no idea there would be so\nmany injured people...\""
                             ]
                         },
                         {
@@ -12394,14 +12387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「謝ることではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたこそ、大丈夫ですか？」"
+                                "\\n<Roselitte>\"There's no need to apologize. Are you okay yourself?\""
                             ]
                         },
                         {
@@ -12474,14 +12460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「平気！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだまだ全然大丈夫だよ」"
+                                "\\n<Ameria>\"I'm fine! I'm still totally okay.\""
                             ]
                         },
                         {
@@ -12554,21 +12533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「これからエイベルに向かうんだよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それならまずは\"ナヌーマ森林\"を抜けなきゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道は分かるから案内するよ。ついてきて！」"
+                                "\\n<Ameria>\"We're heading to Abel next, right? Then first we have to\nget through 'Nanu-Ma Forest'. I know the way, so I'll guide\nyou. Follow me!\""
                             ]
                         },
                         {
@@ -13072,7 +13037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…元気だね、アメリア」"
+                                "\\n<Lyric>\"...You're full of energy, Ameria.\""
                             ]
                         },
                         {
@@ -13103,7 +13068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。頼もしい限りです」"
+                                "\\n<Roselitte>\"Yes. It's very reassuring.\""
                             ]
                         },
                         {
@@ -13183,7 +13148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…そだね」"
+                                "\\n<Lyric>\"...That's true.\""
                             ]
                         },
                         {
@@ -14821,14 +14786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配給手伝い>「ああ…、忙しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　次の配給までに料理を間に合わせないと…！」"
+                                "\\n<Distribution Assistant>\"Ah... so busy! I have to get the cooking done before the\nnext distribution...!\""
                             ]
                         },
                         {
@@ -14978,14 +14936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配給手伝い>「ああ…、忙しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　次の配給までに料理を間に合わせないと…！」"
+                                "\\n<Distribution assistance>\"Ah... so busy! I have to get the cooking done before the\nnext distribution...!\""
                             ]
                         },
                         {
@@ -15062,14 +15013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「嫌な予感がするんだ。とてもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時に似ているんだよ」"
+                                "\\n<Refugee>\"I have a bad feeling. A very bad one. It's similar to that\ntime.\""
                             ]
                         },
                         {
@@ -15086,21 +15030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「あの時も同じだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきなり魔物達がこの町を襲ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…それからさ。何もかも狂ってしまったのは」"
+                                "\\n<Refugee>\"It was the same back then. Suddenly, monsters attacked the\ntown.... And after that, everything went crazy.\""
                             ]
                         },
                         {
@@ -15124,14 +15054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「ああ…あれからもう１０年になるんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　時間の流れは本当に早い」"
+                                "\\n<Refugee>\"Ah... It's already been 10 years since then. Time really\nflies.\""
                             ]
                         },
                         {
@@ -15288,14 +15211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「嫌な予感がするんだ。とてもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時に似ているんだよ」"
+                                "\\n<Refugee>\"I have a bad feeling. A very bad one. It's similar to that\ntime.\""
                             ]
                         },
                         {
@@ -15312,21 +15228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「あの時も同じだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきなり魔物達がこの町を襲ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…それからさ。何もかも狂ってしまったのは」"
+                                "\\n<Refugee>\"It was the same back then. Suddenly, monsters attacked the\ntown.... And after that, everything went mad.\""
                             ]
                         },
                         {
@@ -15350,14 +15252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「ああ…あれからもう１０年になるんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　時間の流れは本当に早い」"
+                                "\\n<Refugee>\"Ah... It's already been 10 years since then. Time really\nflies.\""
                             ]
                         },
                         {
@@ -15441,14 +15336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「最近は盗賊や魔物の話を聞くことも少なかったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それなのに、いったいどうしてこんなことに…」"
+                                "\\n<Refugee>\"Lately, there have been few tales of bandits or monsters.\nAnd yet, how did things come to this...\""
                             ]
                         },
                         {
@@ -15598,14 +15486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「最近は盗賊や魔物の話を聞くことも少なかったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それなのに、いったいどうしてこんなことに…」"
+                                "\\n<Refugee>\"Lately, there have been few tales of bandits or monsters.\nAnd yet, how did things come to this...\""
                             ]
                         },
                         {

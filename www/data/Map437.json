@@ -2157,14 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「よしよし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　司祭様は蔵の中にいるはずだから、今のうちっと…」"
+                                "\\n<Ameria>\"Alright... The priest should be in the storeroom now, so\nthis is my chance...\""
                             ]
                         },
                         {
@@ -2409,14 +2402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えぇーっと…医術式教本・青の書…青の書…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――あった、これだ！」"
+                                "\\n<Ameria>\"Let's see... The Medical Technique Manual, the Blue Book...\nBlue Book...--Ah, here it is!\""
                             ]
                         },
                         {
@@ -2452,7 +2438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは本棚から一冊の本を抜き取った。"
+                                "Ameria pulled a book from the shelf."
                             ]
                         },
                         {
@@ -2518,21 +2504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「勉強するのはまだ早いって言われたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　読むぶんには構わないよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今夜読んでみて、またこっそり戻しておこっと」"
+                                "\\n<Ameria>\"They said it's too early for me to study it, but just\nreading it should be fine... I'll read it tonight and sneak\nit back afterwards.\""
                             ]
                         },
                         {
@@ -2605,14 +2577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「それまで分からないように、他の本を寄せて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…うん、完璧！　これでバレない♪」"
+                                "\\n<Ameria>\"To make sure it's not noticeable, I'll push the other books\ntogether......yeah, perfect! Now I won't get caught♪\""
                             ]
                         },
                         {
@@ -2643,14 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…よし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いで戻らないと司祭様が――」"
+                                "\\n<Ameria>\"...Okay. I need to hurry back before the priest--\""
                             ]
                         },
                         {
@@ -2688,7 +2646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「――アメリア！」"
+                                "\\n<??>\"--Ameria!\""
                             ]
                         },
                         {
@@ -2792,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひゃああッ！？　し…司祭様！」"
+                                "\\n<Ameria>\"Hyaaah!? P... Priest!\""
                             ]
                         },
                         {
@@ -2823,21 +2781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭の声>「んー？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の部屋にいるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい何をしている？」"
+                                "\\n<Priest's voice>\"Hmm? Are you in my room? What are you doing?\""
                             ]
                         },
                         {
@@ -2975,14 +2919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「それは…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　部屋のお掃除をしようと思って！」"
+                                "\\n<Ameria>\"That is...! I was thinking of cleaning your room!\""
                             ]
                         },
                         {
@@ -3013,14 +2950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭の声>「掃除なら昨日もしていたと思うが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まあいい。ちょっと、こっちにこーい」"
+                                "\\n<Priest's voice>\"But I thought you cleaned it yesterday... Well, never mind.\nCome here for a moment.\""
                             ]
                         },
                         {
@@ -3051,21 +2981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭の声>「お前のねーさんが戻ってきたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　妙な手土産を持ってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運ぶのを手伝ってくれー」"
+                                "\\n<Priest's voice>\"Your sister has returned. She brought some strange\nsouvenirs. Help her carry them.\""
                             ]
                         },
                         {
@@ -3138,7 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「お姉ちゃんが！？　すぐに行く！」"
+                                "\\n<Ameria>\"My sister!? I'll be right there!\""
                             ]
                         },
                         {
@@ -3381,14 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「お姉ちゃん！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ステラお姉ちゃん！」"
+                                "\\n<Ameria>\"Sister! Stella Onee-san!\""
                             ]
                         },
                         {
@@ -3419,21 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　感動の再会は後にして、まずはこいつを――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…って、おい！　その手に持っているのはなんだ！」"
+                                "\\n<Priest>\"Ameria. Save the emotional reunion for later, first help\nwith this--...hey! What's that you're holding?\""
                             ]
                         },
                         {
@@ -3464,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「え――あっ！　これは…！」"
+                                "\\n<Ameria>\"Eh--Ah! This is...!\""
                             ]
                         },
                         {
@@ -3495,7 +3390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「お前、また私の本を勝手に読もうとしたな！」"
+                                "\\n<Priest>\"You were trying to read my book without permission again,\nweren't you!\""
                             ]
                         },
                         {
@@ -3526,7 +3421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ご、ごめんなさい！」"
+                                "\\n<Ameria>\"I'm sorry!\""
                             ]
                         },
                         {
@@ -3557,7 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「読むならバレずにやれ！　私に怒られるだろ！」"
+                                "\\n<Priest>\"If you're going to read, do it without getting caught! You\nwant to get scolded by me?!\""
                             ]
                         },
                         {
@@ -3588,7 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ごめ――って、どういうこと！？」"
+                                "\\n<Ameria>\"Sorry--wait, what do you mean?!\""
                             ]
                         },
                         {

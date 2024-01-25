@@ -18645,7 +18645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーション×２を手に入れた！"
+                                "Gained 2 High Potions!"
                             ]
                         },
                         {
@@ -18907,7 +18907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生気の指輪を手に入れた！"
+                                "Gained the Ring of Vitality!"
                             ]
                         },
                         {
@@ -19168,7 +19168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムコロン×２を手に入れた！"
+                                "Gained 2 Folium Colon!"
                             ]
                         },
                         {
@@ -19429,7 +19429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裁ちばさみ×３を手に入れた！"
+                                "Gained 3 Tailoring Scissors!"
                             ]
                         },
                         {
@@ -19690,7 +19690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法の裁縫道具×３を手に入れた！"
+                                "Gained 3 Magic Sewing Kits!"
                             ]
                         },
                         {
@@ -19832,14 +19832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[魔法の裁縫道具]が潤沢に置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利用させてもらおう。"
+                                "There's an abundance of [Magical Sewing Tools] here. Let's\nmake use of them."
                             ]
                         },
                         {
@@ -19856,7 +19849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衣服の修繕を行いますか？"
+                                "Would you like to repair your clothes?"
                             ]
                         },
                         {
@@ -19864,8 +19857,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

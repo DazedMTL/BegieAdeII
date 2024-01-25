@@ -14620,7 +14620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -14644,14 +14644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あいつを堕としたい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　淫堕させたい……」"
+                                "\\n<Lyric>\"I want to corrupt him... to lead him into depravity...\""
                             ]
                         },
                         {
@@ -14675,7 +14668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -14741,7 +14734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああ、そうか……」"
+                                "\\n<Lyric>\"Ah, I see...\""
                             ]
                         },
                         {
@@ -14772,7 +14765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「全部、僕が……」"
+                                "\\n<Lyric>\"It's all me...\""
                             ]
                         },
                         {
@@ -14852,7 +14845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ちゅ」"
+                                "\\n<Lyric>\"--*kiss*\""
                             ]
                         },
                         {
@@ -14921,14 +14914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでの進行をセーブしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※必ずセーブデータを分けるようにお願いします。"
+                                "Would you like to save your progress up to this\npoint?※Please make sure to save your data separately."
                             ]
                         },
                         {
@@ -14936,8 +14922,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

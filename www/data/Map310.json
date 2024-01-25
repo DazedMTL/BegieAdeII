@@ -8235,14 +8235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士の声>「――ひるむな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　押し返せ！　押し返せええええっ！」"
+                                "\\n<Soldier's voice>\"Don't falter! Push them back! Push them baaack!\""
                             ]
                         },
                         {
@@ -8259,7 +8252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士たち>「「「おおおおおおッッ！！」」」"
+                                "\\n<Soldiers>\"Oooooohhh!!\""
                             ]
                         },
                         {
@@ -8819,14 +8812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「ち――ちくしょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい何匹いやがるんだ！」"
+                                "\\n<Soldier a>\"Damn it! How many of them are there?!\""
                             ]
                         },
                         {
@@ -8843,7 +8829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「こんなの、気合いでどうこうできるもんじゃない…！」"
+                                "\\n<Soldier b>\"This isn't something we can overcome with just spirit...!\""
                             ]
                         },
                         {
@@ -8901,14 +8887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｃ>「――また来るぞッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全員備えろーッ！！」"
+                                "\\n<Soldier c>\"--They're coming again! Everyone, brace yourselves--!!\""
                             ]
                         },
                         {
@@ -9795,7 +9774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物たち>「「「ガアアアアァァァ…！！」」」"
+                                "\\n<Monsters>\"Grrraaaargh...!!\""
                             ]
                         },
                         {
@@ -9812,14 +9791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「今のは！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい誰の魔法だ！？」"
+                                "\\n<Soldier a>\"Whose magic was that just now?! Who did it?!\""
                             ]
                         },
                         {
@@ -10018,14 +9990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…まったく、複雑な心境だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕も一応魔物なんだけどなぁ」"
+                                "\\n<Lyric>\"...Seriously, this is complicated. I'm technically a\nmonster too, you know.\""
                             ]
                         },
                         {
@@ -10058,14 +10023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「なんだあの女は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっきの魔法は彼女がやったのか？」"
+                                "\\n<Soldier a>\"Who is that woman... Did she cast that magic earlier?\""
                             ]
                         },
                         {
@@ -10082,14 +10040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「気をつけろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしたら敵かもしれない！」"
+                                "\\n<Soldier b>\"Be careful! She might be an enemy!\""
                             ]
                         },
                         {
@@ -10113,14 +10064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「――彼女は味方です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全員、剣を下ろしなさい」"
+                                "\\n<??>\"--She is an ally. Everyone, lower your swords.\""
                             ]
                         },
                         {
@@ -11173,21 +11117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「…味方だと？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前たち、アンナベルンの市民ではないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい何者だ」"
+                                "\\n<Soldier a>\"...An ally? You're not citizens of Annabern. Who exactly\nare you?\""
                             ]
                         },
                         {
@@ -11253,14 +11183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…私は近衛十二騎士団のローゼリッテ・シュバルツ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この場の指揮官は誰ですか」"
+                                "\\n<Roselitte>\"...I am Roselitte Schwarz of the Royal Guard's Twelve\nKnights. Who is in command here?\""
                             ]
                         },
                         {
@@ -11476,14 +11399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「近衛騎士の――ローゼリッテ様！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁ…！　確かに、そのお姿は…！」"
+                                "\\n<Soldier a>\"A member of the Royal Knights--Lady Roselitte?! Ah...!\nIndeed, that is your appearance...!\""
                             ]
                         },
                         {
@@ -11766,14 +11682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「し、失礼しました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が兵を指揮しております！」"
+                                "\\n<Captain>\"My apologies! I am in command of the troops here!\""
                             ]
                         },
                         {
@@ -11797,7 +11706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「状況報告を」"
+                                "\\n<Roselitte>\"Report the situation.\""
                             ]
                         },
                         {
@@ -11821,7 +11730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「は…ハッ！」"
+                                "\\n<Captain>\"Yes... Sir!\""
                             ]
                         },
                         {
@@ -11967,21 +11876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「突如魔物の大群が東から現れ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンを包囲、総攻撃が行われました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　現在は駐屯兵総出で町を守っております！」"
+                                "\\n<Captain>\"Suddenly, a horde of monsters appeared from the east,\nsurrounding Annabern and launching a full-scale attack!\nCurrently, all stationed soldiers are defending the town!\""
                             ]
                         },
                         {
@@ -11998,21 +11893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「しかし魔物がいくらか町へ侵入してしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　掃討に繰り出していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　状況はまだ、不透明です！」"
+                                "\\n<Captain>\"However, some monsters have managed to infiltrate the town,\nand we are dispatching troops to sweep them out, but the\nsituation is still unclear!\""
                             ]
                         },
                         {
@@ -12036,7 +11917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「住民の避難は」"
+                                "\\n<Roselitte>\"What about the evacuation of the residents?\""
                             ]
                         },
                         {
@@ -12060,28 +11941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「ま、間に合っておりません…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気づいた時には相当数の魔物に囲まれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　避難経路の確保もままなりませんでした…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　申し訳ありませんっ…！」"
+                                "\\n<Captain>\"We... We didn't make it in time...! By the time we\nrealized, we were already surrounded by a significant number\nof monsters, and securing evacuation routes was\nimpossible... I'm terribly sorry...!\""
                             ]
                         },
                         {
@@ -12147,14 +12007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンにはたくさんの人がいるのに！」"
+                                "\\n<Ameria>\"That's terrible...! There are so many people in Annabern!\""
                             ]
                         },
                         {
@@ -12269,7 +12122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いま下手に動けばかえって危険か…」"
+                                "\\n<Roselitte>\"Acting rashly now might only lead to more danger...\""
                             ]
                         },
                         {
@@ -12342,14 +12195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――リリック。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物使役術を止める方法は何かありませんか」"
+                                "\\n<Roselitte>\"--Lyric. Is there any way to stop the monster taming\nmagic?\""
                             ]
                         },
                         {
@@ -12373,7 +12219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -12543,7 +12389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック？」"
+                                "\\n<Roselitte>\"Lyric?\""
                             ]
                         },
                         {
@@ -12769,14 +12615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…近い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクがこの近くにいる」"
+                                "\\n<Lyric>\"...Close. Deorc is nearby.\""
                             ]
                         },
                         {
@@ -12929,28 +12768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「魔物使役術は、魔物一体一体に干渉して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　意識や認識を操作する魔法なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　数体程度ならいざ知れず、大勢を操るとしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それなりに近い場所にいないと扱いが難しい」"
+                                "\\n<Lyric>\"Monster taming magic involves interfering with each monster\nindividually, manipulating their consciousness and\nperception. It's one thing to handle a few, but to control\nmany requires being relatively close to manage.\""
                             ]
                         },
                         {
@@ -12981,21 +12799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「近くに魔物使役術を使っている術者がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…間違いない。デオルクだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奴を倒せば魔物を止められると思う」"
+                                "\\n<Lyric>\"There's a practitioner of monster taming magic nearby... No\ndoubt about it. It's Deorc. If we defeat him, I think we can\nstop the monsters.\""
                             ]
                         },
                         {
@@ -13068,14 +12872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「本当ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクの居場所は分かりますか」"
+                                "\\n<Roselitte>\"Is that true? Do you know where Deorc is?\""
                             ]
                         },
                         {
@@ -13106,14 +12903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「分かるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんとなく、だけれどね」"
+                                "\\n<Lyric>\"I have an idea. It's vague, but yeah.\""
                             ]
                         },
                         {
@@ -13186,7 +12976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「十分です」"
+                                "\\n<Roselitte>\"That's enough.\""
                             ]
                         },
                         {
@@ -13485,21 +13275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「兵士長。至急、腕の立つ兵を数名と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医薬品などの物資を用意して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物を操っている元凶を叩きに向かいます」"
+                                "\\n<Roselitte>\"Captain. Prepare some skilled soldiers and supplies like\nmedicine immediately. We're going to strike at the source\ncontrolling the monsters.\""
                             ]
                         },
                         {
@@ -13523,7 +13299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「ハッ！」"
+                                "\\n<Captain>\"Sir!\""
                             ]
                         },
                         {
@@ -13785,28 +13561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――ヴァラム兵！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物の討伐は私が引き受けます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたたちは住民を守ることを優先し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　深く密集して防衛線を築き直しなさい！」"
+                                "\\n<Roselitte>\"--Valam soldiers! I will take on the task of subduing the\nmonsters. You prioritize protecting the residents and\nrebuild a solid defensive line!\""
                             ]
                         },
                         {
@@ -13830,7 +13585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士たち>「「「ハッ！！」」」"
+                                "\\n<Soldiers>\"Sir!!\""
                             ]
                         },
                         {
@@ -15329,21 +15084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック、デオルクの居場所を教えてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それからアメリアを連れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　安全な場所へ逃げるように」"
+                                "\\n<Roselitte>\"Lyric, tell me where Deorc is. And make sure to take Ameria\nto a safe place.\""
                             ]
                         },
                         {
@@ -15532,14 +15273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も！　私も一緒に行く！」"
+                                "\\n<Ameria>\"Lady Roselitte! I want to go too! I want to come with you!\""
                             ]
                         },
                         {
@@ -15643,14 +15377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…あなたとの同行はここまで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここからは兵士の仕事です」"
+                                "\\n<Roselitte>\"...Your company ends here. From this point on, it's a\nsoldier's duty.\""
                             ]
                         },
                         {
@@ -15723,7 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でもっ…！」"
+                                "\\n<Ameria>\"But...!\""
                             ]
                         },
                         {
@@ -15747,7 +15474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -15813,7 +15540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…アメリア。よく聞きなさい」"
+                                "\\n<Roselitte>\"Ameria, listen carefully.\""
                             ]
                         },
                         {
@@ -15844,28 +15571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私たちには民間人を守る責任があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたの身を守ることが第一ですし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ましてや危険な場所に連れていくなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　許されることではありません」"
+                                "\\n<Roselitte>\"We have a responsibility to protect the civilians. Your\nsafety is our top priority, and taking you to a dangerous\nplace is out of the question.\""
                             ]
                         },
                         {
@@ -15938,7 +15644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私は医術士だよ！」"
+                                "\\n<Ameria>\"But I'm a medic!\""
                             ]
                         },
                         {
@@ -16011,21 +15717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「医術士であればなおのこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これから町にはあなたのチカラが必要になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　危険に晒すわけにはいきません」"
+                                "\\n<Roselitte>\"All the more reason. The town will need your skills soon.\nWe cannot afford to expose you to danger.\""
                             ]
                         },
                         {
@@ -16098,14 +15790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「他の兵士もきっと同じことを言いますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいから、私の言うことに従いなさい」"
+                                "\\n<Roselitte>\"The other soldiers would say the same. Now, do as I say.\""
                             ]
                         },
                         {
@@ -16178,7 +15863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも、私……」"
+                                "\\n<Ameria>\"But I...\""
                             ]
                         },
                         {
@@ -16251,14 +15936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「戦いたいという気持ちは分かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ですが、もう……」"
+                                "\\n<Roselitte>\"I understand your desire to fight... but no more...\""
                             ]
                         },
                         {
@@ -16282,7 +15960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -16348,7 +16026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「これ以上私に、恥をかかせないで」"
+                                "\\n<Roselitte>\"Don't make me feel ashamed any further.\""
                             ]
                         },
                         {
@@ -16495,7 +16173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな……恥、なんて……」"
+                                "\\n<Ameria>\"Shame... I don't mean to...\""
                             ]
                         },
                         {
@@ -16561,7 +16239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -16658,14 +16336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアを安全な場所へ」"
+                                "\\n<Roselitte>\"Lyric, take Ameria to a safe place.\""
                             ]
                         },
                         {
@@ -16745,21 +16416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…分かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも僕は連れて行ってもらうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし断るなら――」"
+                                "\\n<Lyric>\"...Understood. But I'm coming with you. If you refuse--\""
                             ]
                         },
                         {
@@ -16783,7 +16440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士の声>「――ローゼリッテ様！」"
+                                "\\n<Soldier's voice>\"--Lady Roselitte!\""
                             ]
                         },
                         {
@@ -17532,14 +17189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「作戦には我々が同行いたします！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんなりとご命令ください！」"
+                                "\\n<Soldier>\"We will accompany you on the mission! Please give us your\norders!\""
                             ]
                         },
                         {
@@ -17614,7 +17264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「分かりました。物資の用意は？」"
+                                "\\n<Roselitte>\"Understood. Are the supplies ready?\""
                             ]
                         },
                         {
@@ -17638,7 +17288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「そ、それが…」"
+                                "\\n<Soldier>\"Well, about that...\""
                             ]
                         },
                         {
@@ -17704,7 +17354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…なんですか。早く話しなさい」"
+                                "\\n<Roselitte>\"...What is it? Speak up.\""
                             ]
                         },
                         {
@@ -17770,28 +17420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「ハッ…。魔物の急襲により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　町では多くの兵や民間人が負傷しております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　更に運搬していた医薬品の類が魔物にやられてしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　補給がうまく機能していない状態です」"
+                                "\\n<Soldier>\"Sir... Due to a sudden monster attack, many soldiers and\ncivilians in town are injured. Moreover, the medical\nsupplies being transported were destroyed by the monsters,\nand we're having trouble with resupplying.\""
                             ]
                         },
                         {
@@ -17808,21 +17437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「我々がいま用意できた物資も…この通り、わずかです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　失礼を承知で申し上げます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この先、くれぐれもご用心ください」"
+                                "\\n<Soldier>\"The supplies we've managed to prepare are only this much...\nI apologize for speaking out of turn. Please be extra\ncautious going forward.\""
                             ]
                         },
                         {
@@ -17881,7 +17496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -18167,14 +17782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あの！　私、医術式が使えます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　治療なら任せてください！」"
+                                "\\n<Ameria>\"Excuse me! I can use healing magic! Leave the treatment to\nme!\""
                             ]
                         },
                         {
@@ -18283,7 +17891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリア、いい加減に――」"
+                                "\\n<Roselitte>\"Ameria, enough--\""
                             ]
                         },
                         {
@@ -18307,21 +17915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士たち>「おお！　それは本当かおチビちゃん！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戦えるのか？　前線に立てる医術士は少ない。来てくれ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはいいぞ、俺たちも満足に戦える！」"
+                                "\\n<Soldiers>\"Oh! Is that true, little one?\",\"Can you fight? We have few\nmedics who can stand on the front lines. Come with\nus!\",\"This is great, we can fight properly now!\""
                             ]
                         },
                         {
@@ -18460,7 +18054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなたたち……」"
+                                "\\n<Roselitte>\"You guys...\""
                             ]
                         },
                         {
@@ -18582,7 +18176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ぷ。あははははは！」"
+                                "\\n<Lyric>\"--Pfft. Ahahahahaha!\""
                             ]
                         },
                         {
@@ -18686,7 +18280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…リリック」"
+                                "\\n<Roselitte>\"...Lyric\""
                             ]
                         },
                         {
@@ -18831,21 +18425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あはははは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あー、はいはい。アメリアね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大丈夫、ちゃんと見てるよ。任せておいて」"
+                                "\\n<Lyric>\"Ahahahaha... Ah-, yes yes. Ameria, right. Don't worry, I'll\nkeep an eye on her. Leave it to me.\""
                             ]
                         },
                         {
@@ -18876,7 +18456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「まったく…」"
+                                "\\n<Roselitte>\"Honestly...\""
                             ]
                         },
                         {
@@ -19045,7 +18625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…アメリア」"
+                                "\\n<Roselitte>\"...Ameria\""
                             ]
                         },
                         {
@@ -19118,7 +18698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ぁ……う……」"
+                                "\\n<Ameria>\"Ah... uh...\""
                             ]
                         },
                         {
@@ -19149,14 +18729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ここからは何があっても自己責任です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいですね」"
+                                "\\n<Roselitte>\"...From here on out, it's your responsibility no matter\nwhat happens. Understood?\""
                             ]
                         },
                         {
@@ -19180,7 +18753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -19246,7 +18819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…大丈夫。でも、任せて」"
+                                "\\n<Ameria>\"...It's okay. But leave it to me.\""
                             ]
                         },
                         {
@@ -19319,7 +18892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさんは、私が必ず守るから」"
+                                "\\n<Ameria>\"I will definitely protect you, Roselitte-san.\""
                             ]
                         },
                         {
@@ -19385,7 +18958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {

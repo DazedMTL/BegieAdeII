@@ -3855,14 +3855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋の女主人>「おや、ローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またお部屋を借りてくださるのですか？」"
+                                "\\n<Innkeeper lady>\"Oh, Lady Roselitte. Are you going to rent a room again?\""
                             ]
                         },
                         {
@@ -3879,7 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。私のことは一人の客として扱ってください」"
+                                "\\n<Roselitte>\"Yes. Please treat me as any other guest.\""
                             ]
                         },
                         {
@@ -3896,7 +3889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋の女主人>「恐れ入ります。それでは――」"
+                                "\\n<Innkeeper lady>\"Certainly. Then--\""
                             ]
                         },
                         {
@@ -3913,14 +3906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋の女主人>「一度のご利用50\\Gになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お休みになられますか？」"
+                                "\\n<Innkeeper lady>\"It will be 50G for one use. Will you be staying the night?\""
                             ]
                         },
                         {
@@ -3928,8 +3914,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4159,7 +4145,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -4298,14 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋の女主人>「一度のご利用50\\Gになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お休みになられますか？」"
+                                "\\n<Innkeeper lady>\"It will be 50G for a one-time use. Would you like to rest?\""
                             ]
                         },
                         {
@@ -4313,8 +4292,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4544,7 +4523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -4675,14 +4654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「ここで昼間から一杯やるのが日課なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…でも今飲むのはなぁ」"
+                                "\\n<Villager>\"Having a drink here during the day is part of my daily\nroutine... but having one now, well...\""
                             ]
                         },
                         {
@@ -4775,7 +4747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「昨日飲んだ酒が、これまでで一番不味かったよ…」"
+                                "\\n<Villager>\"The booze I drank yesterday was the worst I've ever had...\""
                             ]
                         },
                         {

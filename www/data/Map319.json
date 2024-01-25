@@ -2326,21 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――その夜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\"国境沿いの町・アンナベルン\""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンナベルン城内・会議室にて。"
+                                "--That night, at the border town \"Annabern,\" within Annabern\nCastle's conference room."
                             ]
                         },
                         {
@@ -2390,21 +2376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――簡易ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　町の復興と補強計画を策定しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後ほど目を通してください」"
+                                "\\n<Roselitte>\"--I have drafted a simple plan for the town's\nreconstruction and reinforcement. Please review it later.\""
                             ]
                         },
                         {
@@ -2428,21 +2400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「はい。かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ様のご期待に添えられるよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　尽力させていただきます」"
+                                "\\n<Castle lord>\"Yes, understood. I will do my utmost to meet your\nexpectations, Lady Roselitte.\""
                             ]
                         },
                         {
@@ -2508,7 +2466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…では次に、この地方についての状況報告を」"
+                                "\\n<Roselitte>\"...Next, let's move on to the situation report for this\nregion.\""
                             ]
                         },
                         {
@@ -2532,14 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それでは、整理しつつご報告いたします」"
+                                "\\n<Castle lord>\"Yes, I will report while organizing the information.\""
                             ]
                         },
                         {
@@ -2618,21 +2569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「…デオルクはここから北の村\"エイベル\"で蜂起を起こし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その後すぐ、村の東に位置する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"城塞都市・アナトス\"を占領しました」"
+                                "\\n<Castle lord>\"...Deorc instigated an uprising in the northern village\n'Eibel,' and soon after, he occupied the 'fortress city of\nAnatos' located to the east of the village.\""
                             ]
                         },
                         {
@@ -2649,21 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「住民の大半はアナトスから東にある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"中央都市・レーベ\"に避難したようですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここ、アンナベルンにも多くの避難民が流れています」"
+                                "\\n<Castle lord>\"It seems that most of the residents have fled to 'Central\nCity Levee' to the east of Anatos, but many refugees have\nalso flowed into Annabern here.\""
                             ]
                         },
                         {
@@ -2680,28 +2603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「これによりいち早く事態を知った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　地方領主兼、レーベの城主は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　地方各地から兵を招集するとともに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　東の\"帝国本土\"へ救援要請を行いました」"
+                                "\\n<Castle lord>\"As a result, the regional lord who also serves as the\ncastellan of Levee, upon learning of the situation promptly,\ncalled for troops from various places in the region and\nrequested aid from the 'Imperial Mainland' to the east.\""
                             ]
                         },
                         {
@@ -2718,21 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「そうしてすぐアナトスとレーベの間に防衛線を築き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物の侵攻に備えたようなのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこで、今回の件が起こりました」"
+                                "\\n<Castle lord>\"Thus, they quickly established a defensive line between\nAnatos and Levee to prepare for the invasion of monsters...\nbut that's when this incident occurred.\""
                             ]
                         },
                         {
@@ -2756,14 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…デオルクは東にあるレーベや帝国本土ではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この場所。西のアンナベルンを攻撃した」"
+                                "\\n<Roselitte>\"...Deorc attacked this place, Annabern to the west, instead\nof Levee or the Imperial Mainland to the east.\""
                             ]
                         },
                         {
@@ -2787,14 +2668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「はい。ここはアナトスから西にあり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本土とは真逆に位置する辺境の町です」"
+                                "\\n<Castle lord>\"Yes. This town is located to the west of Anatos and is on\nthe opposite side of the mainland, a remote frontier town.\""
                             ]
                         },
                         {
@@ -2811,28 +2685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「デオルクがなぜアンナベルンを攻撃したのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　改めて考察いたしましたが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レーベはもちろん、帝国本土攻略のために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここを攻撃する明確な理由は分かりかねます」"
+                                "\\n<Castle lord>\"I have reconsidered why Deorc attacked Annabern... There\nseems to be no clear reason for attacking here in order to\nconquer Levee or the Imperial Mainland.\""
                             ]
                         },
                         {
@@ -2891,7 +2744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -2968,21 +2821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…デオルクと会った時。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奴は帝国本土に対して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さほど興味を抱いていないような口ぶりでした」"
+                                "\\n<Roselitte>\"...When I met Deorc, he didn't seem all that interested in\nthe Imperial Mainland.\""
                             ]
                         },
                         {
@@ -3055,21 +2894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「やはりこの場所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かしらの目的があるのは確かですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今ここで考えても、答えは出なさそうですね」"
+                                "\\n<Roselitte>\"It's certain that he has some sort of objective here... but\nthinking about it now doesn't seem to yield any answers.\""
                             ]
                         },
                         {
@@ -3142,21 +2967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私はアナトスを迂回してレーベに向かい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこで準備を整えてから攻勢に出ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたは引き続き、アンナベルンの警備を」"
+                                "\\n<Roselitte>\"I will bypass Anatos and head to Levee to prepare before\nlaunching an offensive. You will continue to oversee the\nsecurity of Annabern.\""
                             ]
                         },
                         {
@@ -3180,21 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「はい。かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ですが、ローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだもう一つお伝えしなければならないことが」"
+                                "\\n<Castle lord>\"Yes, understood.... However, Lady Roselitte, there is one\nmore thing I must report.\""
                             ]
                         },
                         {
@@ -3211,7 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは首を傾げて言葉を促した。"
+                                "Roselitte tilted her head to prompt further explanation."
                             ]
                         },
                         {
@@ -3228,21 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「つい先ほど、兵から報告を受けました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…レーベは今、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物の大群により包囲されているようなのです」"
+                                "\\n<Castle lord>\"Just a moment ago, I received a report from the soldiers...\nIt seems that Levee is now surrounded by a large horde of\nmonsters.\""
                             ]
                         },
                         {
@@ -3308,14 +3091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「なんですって！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてそれを早く言わない！」"
+                                "\\n<Roselitte>\"What did you say!? Why didn't you tell me sooner!\""
                             ]
                         },
                         {
@@ -3339,7 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「も、申し訳ございません！」"
+                                "\\n<Castle lord>\"My apologies!\""
                             ]
                         },
                         {
@@ -3356,21 +3132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「今回の件をレーベに伝えるため出向いた兵が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　つい先ほど引き返してきたのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご報告が遅れて申し訳ございません！」"
+                                "\\n<Castle lord>\"The soldiers who went to inform Levee about this matter\nhave just returned. I apologize for the delayed report!\""
                             ]
                         },
                         {
@@ -3436,21 +3198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…くそ。デオルクはいったい何を考えている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして今ごろレーベを…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンが目的ではなかったのか…？」"
+                                "\\n<Roselitte>\"...Damn it. What is Deorc thinking...? Why is he targeting\nLevee now... Was Annabern not his objective...?\""
                             ]
                         },
                         {
@@ -3474,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -3540,14 +3288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「急いで対策を練らないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひとまずあなたたちは、この町の補強を急いで」"
+                                "\\n<Roselitte>\"We need to come up with a plan quickly. For now, you all\nmust hurry with reinforcing this town.\""
                             ]
                         },
                         {
@@ -3571,21 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<城主>「承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…もし遠征されるのであれば、兵を用意いたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつでもご命令を」"
+                                "\\n<Castle lord>\"Understood.... If you are planning an expedition, I will\nprepare the troops. We await your orders at any time.\""
                             ]
                         },
                         {
@@ -3651,14 +3378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そうですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その件に関しては――」"
+                                "\\n<Roselitte>\"Yes... Regarding that matter--\""
                             ]
                         },
                         {
@@ -4277,14 +3997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「やっほー♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進捗どうッスか？」"
+                                "\\n<Lyric>\"Yoohoo♪ How's the progress?\""
                             ]
                         },
                         {
@@ -4357,7 +4070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ノックぐらいしなさい」"
+                                "\\n<Roselitte>\"...At least knock first.\""
                             ]
                         },
                         {
@@ -4437,14 +4150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「いいじゃん別に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話の区切りがついてたし」"
+                                "\\n<Lyric>\"It's fine, isn't it? The conversation had just paused.\""
                             ]
                         },
                         {
@@ -4517,14 +4223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「盗み聞きもやめなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…それで。どうかしましたか」"
+                                "\\n<Roselitte>\"Stop eavesdropping as well.... So, what is it?\""
                             ]
                         },
                         {
@@ -4604,14 +4303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああ、えっとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…アメリアが目を覚ましたよ」"
+                                "\\n<Lyric>\"Ah, well... Ameria has woken up.\""
                             ]
                         },
                         {
@@ -4684,7 +4376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「本当ですか。容態は？」"
+                                "\\n<Roselitte>\"Really? How is her condition?\""
                             ]
                         },
                         {
@@ -4708,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックは首を横に振った。"
+                                "Lyric shook her head."
                             ]
                         },
                         {
@@ -4774,7 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…何がありました」"
+                                "\\n<Roselitte>\"...What happened?\""
                             ]
                         },
                         {
@@ -4854,7 +4546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「自分の目で見たほうがいいよ」"
+                                "\\n<Lyric>\"You should see for yourself.\""
                             ]
                         },
                         {
@@ -4927,7 +4619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「っ……！」"
+                                "\\n<Roselitte>\"!\""
                             ]
                         },
                         {
@@ -5243,7 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「話はまた後で」"
+                                "\\n<Roselitte>\"We'll talk later.\""
                             ]
                         },
                         {

@@ -5000,7 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「……」"
+                                "\\n<Sister girl>\"...\""
                             ]
                         },
                         {
@@ -5781,7 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「はあ、はあ…ったく、ようやく観念したか！」"
+                                "\\n<Thief A>\"Hah, hah... Damn, you've finally given in!\""
                             ]
                         },
                         {
@@ -5798,14 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「おい、もう一人がいねえぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこに隠しやがった！」"
+                                "\\n<Thief B>\"Hey, the other one's missing! Where did you hide her?!\""
                             ]
                         },
                         {
@@ -5829,7 +5822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「っ……！」"
+                                "\\n<Sister girl>\"...\""
                             ]
                         },
                         {
@@ -5972,14 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「なんだよやる気か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おもしれえじゃねえか！」"
+                                "\\n<Thief A>\"What's the matter, you wanna fight? That's pretty funny!\""
                             ]
                         },
                         {
@@ -6335,14 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「――やめろお前ら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　傷がついたらどうしてくれんだ」"
+                                "\\n<Deorc>\"--Stop it, you guys. What am I supposed to do if she gets\nhurt?\""
                             ]
                         },
                         {
@@ -6937,7 +6916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「…あいつで間違いねえよな？」"
+                                "\\n<Deorc>\"...There's no mistake about it, right?\""
                             ]
                         },
                         {
@@ -6977,14 +6956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「ああ、あのシスターだ。アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼女で間違いない」"
+                                "\\n<??>\"Yeah, that's the sister. Ameria. She's definitely the one.\""
                             ]
                         },
                         {
@@ -7008,21 +6980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あなたが、盗賊の首領？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどうしてあの子を…ううん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして私たちを狙うの！」"
+                                "\\n<Ameria>\"...You're the leader of the thieves? Why on earth are you\ntargeting that child... No, why are you targeting us?!\""
                             ]
                         },
                         {
@@ -7077,7 +7035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「どうしてもなにも、仕事だからだよ」"
+                                "\\n<Deorc>\"Why? It's just business, that's all.\""
                             ]
                         },
                         {
@@ -7094,21 +7052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「お前の体にでけえ金がかけられてんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　引き渡せばかなりの儲けになるんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…なあ、リオラノの旦那？」"
+                                "\\n<Deorc>\"There's a hefty price on your body. Handing you over will\nmake for a nice profit... Right, Mr. Riolauno?\""
                             ]
                         },
                         {
@@ -7190,21 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「悪いが、お前はもう俺の大事な商品だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあれば奴隷商として俺の顔に傷がつく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　下手に暴れないでくれよ」"
+                                "\\n<Riolauno>\"Sorry, but you're already my valuable merchandise. As a\nslave trader, it would tarnish my reputation if anything\nhappened to you. Don't make a fuss, alright?\""
                             ]
                         },
                         {
@@ -7270,21 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「奴隷商？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな、どうして私なんか…――ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかあの子も同じ目的で捕まえる気なの？」"
+                                "\\n<Ameria>\"Slave trader? Why me...--! Don't tell me you plan to\ncapture that child for the same reason?\""
                             ]
                         },
                         {
@@ -7308,7 +7224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ん－まあ、そんなところだな」"
+                                "\\n<Deorc>\"Hmm—well, something like that.\""
                             ]
                         },
                         {
@@ -7374,7 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…なら、これ以上は行かせない！」"
+                                "\\n<Ameria>\"...Then I won't let you go any further!\""
                             ]
                         },
                         {
@@ -7410,7 +7326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは武器を持ち直して身構えた。"
+                                "Ameria readied herself with her weapon in hand."
                             ]
                         },
                         {
@@ -7427,14 +7343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おっと…おっかねえ、おっかねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきが良すぎるってのも厄介だな」"
+                                "\\n<Deorc>\"Whoa... Scary, scary. Being too spirited can also be a\nhassle.\""
                             ]
                         },
                         {
@@ -7451,21 +7360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「…シスター。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっきも言ったがお前を傷つけたくねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大人しく言うことを聞いてくれねえか？」"
+                                "\\n<Deorc>\"...Sister. Like I said before, I don't want to hurt you.\nCan't you just quietly do as you're told?\""
                             ]
                         },
                         {
@@ -7531,7 +7426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「誰があなたの言うことなんか！」"
+                                "\\n<Ameria>\"Who would listen to what you say?!\""
                             ]
                         },
                         {
@@ -7555,21 +7450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くく…なあ、よく聞けよ、シスター。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いまこの村が大変な目に合ってるのは全部、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らの身一つのせいなんだぜ？」"
+                                "\\n<Deorc>\"Heh heh... Listen up, Sister. The reason this village is in\nsuch a mess is all because of you lot.\""
                             ]
                         },
                         {
@@ -7586,21 +7467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ということは、だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これから俺たちがこの村にすることも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前の態度次第ってことだ」"
+                                "\\n<Deorc>\"That means, what we do to this village from now on depends\non your attitude.\""
                             ]
                         },
                         {
@@ -7666,7 +7533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ッ……！」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -7690,21 +7557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「大人しく言うことを聞くなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　酒と金目のもんだけいただいて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それ以上手は出さねえでいてやるよ」"
+                                "\\n<Deorc>\"If you quietly comply, we'll just take the booze and\nvaluables and won't do anything more.\""
                             ]
                         },
                         {
@@ -7721,14 +7574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「だが言うこと聞かねえっていうんなら…しょうがねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この村の誰かに痛い目にあってもらおうか？」"
+                                "\\n<Deorc>\"But if you refuse... Well, we might have to make someone in\nthis village suffer, right?\""
                             ]
                         },
                         {
@@ -7794,7 +7640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな…！」"
+                                "\\n<Ameria>\"You can't...!\""
                             ]
                         },
                         {
@@ -7818,14 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「それと、もう一つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前と一緒に逃げていた女のことだ」"
+                                "\\n<Deorc>\"And there's one more thing. About the woman who fled with\nyou.\""
                             ]
                         },
                         {
@@ -7842,14 +7681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「そいつも依頼を受けてんだが…誘拐じゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"殺し\"だよ」"
+                                "\\n<Deorc>\"We've got orders for her too... It's not kidnapping. It's\n'murder'.\""
                             ]
                         },
                         {
@@ -7873,7 +7705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「なっ――」"
+                                "\\n<Ameria>\"What--\""
                             ]
                         },
                         {
@@ -7897,21 +7729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「今もまだ近くに隠れてんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…村に火をつければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　探す手間もはぶけて殺せるかもしれねえなぁ？」"
+                                "\\n<Deorc>\"She's still hiding nearby, isn't she?... If we set fire to\nthe village, we could save the trouble of searching and kill\nher too, maybe?\""
                             ]
                         },
                         {
@@ -7977,7 +7795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「や…やめて！」"
+                                "\\n<Ameria>\"Stop... please stop!\""
                             ]
                         },
                         {
@@ -8001,14 +7819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くくっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やめてほしいなら…分かるだろ、シスター？」"
+                                "\\n<Deorc>\"Heh heh. If you want us to stop... You know what to do,\nSister.\""
                             ]
                         },
                         {
@@ -8074,7 +7885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「っ……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -8231,7 +8042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…言うこと聞くから、他の人には手を出さないで」"
+                                "\\n<Ameria>\"...I'll do as you say, so please don't harm anyone else.\""
                             ]
                         },
                         {
@@ -8255,7 +8066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「賢明だぜ、シスター」"
+                                "\\n<Deorc>\"That's wise of you, Sister.\""
                             ]
                         },
                         {
@@ -8303,14 +8114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おい、こいつを逃がすな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　キズはつけるんじゃねえぞ」"
+                                "\\n<Deorc>\"Hey, don't let her escape. And don't put any scratches on\nher.\""
                             ]
                         },
                         {
@@ -8327,7 +8131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「へへっ」"
+                                "\\n<Thief A>\"Heh heh.\""
                             ]
                         },
                         {
@@ -8612,21 +8416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「よし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前ら、もう一人の女を探し出せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見つけ次第殺してかまわねえぞ！」"
+                                "\\n<Deorc>\"Alright. You lot, find the other woman! Once you find her,\nyou can kill her!\""
                             ]
                         },
                         {
@@ -8643,7 +8433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「おおっ！」"
+                                "\\n<Thieves>\"Yeah!\""
                             ]
                         },
                         {
@@ -9552,21 +9342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「待って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言うこと聞いたんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子には手を出さないで！」"
+                                "\\n<Ameria>\"Wait! I did as you asked, so don't lay a hand on that\nchild!\""
                             ]
                         },
                         {
@@ -9590,21 +9366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「何言ってやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえがどうしようとあの女を殺すのは変わんねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　仕事だからな」"
+                                "\\n<Deorc>\"What are you talking about? No matter what you do, killing\nthat woman isn't going to change. It's just business.\""
                             ]
                         },
                         {
@@ -9628,7 +9390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな…！」"
+                                "\\n<Ameria>\"No...!\""
                             ]
                         },
                         {
@@ -9652,14 +9414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「言うこと聞かねえと本当に火ぃつけるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいから黙ってついてこい！」"
+                                "\\n<Deorc>\"If you don't listen, I'll really set the place on fire.\nJust shut up and follow me!\""
                             ]
                         },
                         {
@@ -9676,7 +9431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ほら、さっさと歩け！」"
+                                "\\n<Thief A>\"Hey, hurry up and walk!\""
                             ]
                         },
                         {
@@ -9742,7 +9497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅ……」"
+                                "\\n<Ameria>\"Ugh...\""
                             ]
                         },
                         {

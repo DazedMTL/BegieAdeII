@@ -1429,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -1446,14 +1446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかの建物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リリックがだるそうに椅子に腰かけていた。"
+                                "Inside a building, Lyric slouched in a chair, looking\nlistless."
                             ]
                         },
                         {
@@ -1470,7 +1463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「お待たせ、リリック」"
+                                "\\n<Ameria>\"Sorry to keep you waiting, Lyric.\""
                             ]
                         },
                         {
@@ -1487,14 +1480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「おっそい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでこんな待たせるんだよ、意味わかんない」"
+                                "\\n<Lyric>\"You're slow. Why make me wait like this? It makes no\nsense.\""
                             ]
                         },
                         {
@@ -1511,14 +1497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「しょうがないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人を自由に出入りさせるわけにはいかないし」"
+                                "\\n<Ameria>\"Can't be helped. We can't just let people come and go\nfreely.\""
                             ]
                         },
                         {
@@ -1535,14 +1514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「だからって身元審査はやりすぎでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕らは顔パスにしろよ」"
+                                "\\n<Lyric>\"Even so, the identity check is overkill. We should get a\npass on sight.\""
                             ]
                         },
                         {
@@ -1559,14 +1531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリックが身元不明の怪しい人物だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなに時間かかったんだけど…」"
+                                "\\n<Ameria>\"It took so long because Lyric is an unidentified suspicious\nperson...\""
                             ]
                         },
                         {
@@ -1583,14 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「とにかく早く行こ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　予定の時間をだいぶ過ぎちゃった」"
+                                "\\n<Ameria>\"Anyway, let's hurry. We're way past the scheduled time.\""
                             ]
                         },
                         {
@@ -1607,7 +1565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はいはい」"
+                                "\\n<Lyric>\"Yeah, yeah.\""
                             ]
                         },
                         {
@@ -1624,7 +1582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2人は歩き始める。"
+                                "The two began to walk."
                             ]
                         },
                         {
@@ -1641,14 +1599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして不意にリリックは立ち止まり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "窓の外の景色を眺めた。"
+                                "Then, unexpectedly, Lyric stopped and gazed out the window."
                             ]
                         },
                         {
@@ -1665,7 +1616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「なにしてるの？」"
+                                "\\n<Ameria>\"What are you doing?\""
                             ]
                         },
                         {
@@ -1682,7 +1633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「いや…いい天気だなぁと思って」"
+                                "\\n<Lyric>\"Just thinking... what nice weather.\""
                             ]
                         },
                         {
@@ -1699,14 +1650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「え…なにそれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　体調悪い？」"
+                                "\\n<Ameria>\"Huh... What's that about? Are you feeling ill?\""
                             ]
                         },
                         {
@@ -1723,7 +1667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ケンカ売ってんの？」"
+                                "\\n<Lyric>\"Are you picking a fight?\""
                             ]
                         },
                         {
@@ -1740,7 +1684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2人は再び歩き始める。"
+                                "The two started walking again."
                             ]
                         },
                         {
@@ -1757,21 +1701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でもなんかこう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　平和にお話するのも久しぶりな気がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずっと気を張り詰めていたからさ」"
+                                "\\n<Ameria>\"But you know, it feels like it's been a while since we've\nhad a peaceful chat. We've been on edge for so long.\""
                             ]
                         },
                         {
@@ -1788,28 +1718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「まあね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも気をつけないとダメだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　世の中には君を買いたいって誘拐するような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もの好きがいるんだからさ」"
+                                "\\n<Lyric>\"True. But we need to stay alert. There are weirdos out\nthere who'd want to kidnap and buy you.\""
                             ]
                         },
                         {
@@ -1826,7 +1735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「物好きって失礼な…」"
+                                "\\n<Ameria>\"Weirdo is a bit harsh...\""
                             ]
                         },
                         {
@@ -1843,21 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でもあれは驚いたなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい誰なんだろう？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私を買おうとする人なんて」"
+                                "\\n<Ameria>\"But yeah, that was a shock... Who would want to buy me?\""
                             ]
                         },
                         {
@@ -1874,21 +1769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「さあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなちんちくりんに手を出すくらいだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相当な変態と見た」"
+                                "\\n<Lyric>\"Who knows. Anyone who'd go after someone as pint-sized as\nyou must be a real pervert.\""
                             ]
                         },
                         {
@@ -1905,14 +1786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「さっきから馬鹿にして～…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "!\\アメリアは頬を膨らませた。"
+                                "\\n<Ameria>\"You've been making fun of me this whole time...\" Ameria\npuffed up her cheeks."
                             ]
                         },
                         {
@@ -1929,21 +1803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも奴隷商人の名前は帝国に報告してるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしその名前の人が捕まったら教えてくれるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうなったら聞いてみることにするよ」"
+                                "\\n<Ameria>\"But I've reported the slave trader's name to the empire. If\nthey catch someone with that name, they should let us know.\nI'll ask about it then.\""
                             ]
                         },
                         {
@@ -1960,14 +1820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふぅん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　で？　その奴隷商人ってなんて名前なの？」"
+                                "\\n<Lyric>\"Hmm, and what's the name of this slave trader?\""
                             ]
                         },
                         {
@@ -1984,7 +1837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えっとねぇ、名前は――」"
+                                "\\n<Ameria>\"Let's see, the name is--\""
                             ]
                         },
                         {
@@ -2001,7 +1854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リオラノっていう、男の人」"
+                                "\\n<Ameria>\"A man named Riolaro.\""
                             ]
                         },
                         {
@@ -2018,7 +1871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「へぇ～、リオラノ、リオラノ……」"
+                                "\\n<Lyric>\"Hmm, Riolaro, Riolaro...\""
                             ]
                         },
                         {
@@ -2042,7 +1895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ッ」"
+                                "\\n<Lyric>\"--Huh\""
                             ]
                         },
                         {
@@ -2059,14 +1912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…？　どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か知ってるの？」"
+                                "\\n<Ameria>\"...? What's wrong? Do you know something?\""
                             ]
                         },
                         {
@@ -2083,7 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -2100,14 +1946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「いや、知らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなの知るわけないじゃん」"
+                                "\\n<Lyric>\"No, I don't know anything. How could I possibly know that?\""
                             ]
                         },
                         {
@@ -2124,7 +1963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そうだよね。あはは」"
+                                "\\n<Ameria>\"Right, of course. Haha.\""
                             ]
                         },
                         {
@@ -2141,7 +1980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――あ、この部屋だ。ここだよリリック」"
+                                "\\n<Ameria>\"--Ah, this is the room. Here we are, Lyric.\""
                             ]
                         },
                         {
@@ -2158,7 +1997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋の前で止まり、アメリアは扉をノックした。"
+                                "In front of the room, Ameria knocked on the door."
                             ]
                         },
                         {
@@ -2175,7 +2014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女の声>「――どうぞ」"
+                                "\\n<Woman's voice>\"--Please come in.\""
                             ]
                         },
                         {
@@ -2192,7 +2031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がして、アメリアは扉を開けた。"
+                                "The response came, and Ameria opened the door."
                             ]
                         },
                         {
@@ -2209,7 +2048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中は病室で、ベッドにはローゼリッテが座っていた。"
+                                "Inside was a sickroom, with Roselitte sitting on the bed."
                             ]
                         },
                         {
@@ -2226,14 +2065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリア。リリック。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　来てくれてありがとう」"
+                                "\\n<Roselitte>\"Ameria, Lyric. Thank you for coming.\""
                             ]
                         },
                         {
@@ -2250,21 +2082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん、こんにち――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わ！　皇太子殿下！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアはびっくりして固まった。"
+                                "\\n<Ameria>\"Roselitte-san, good after--noon! Your Highness the Crown\nPrince!\" Ameria froze in surprise."
                             ]
                         },
                         {
@@ -2281,21 +2099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「そうかしこまらなくてもいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテから話を聞いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼女にするように、自然に話してくれて構わない」"
+                                "\\n<Yuri>\"No need to be so formal. I've heard all about it from\nRoselitte. Just talk naturally as you would with her; it's\nfine by me.\""
                             ]
                         },
                         {
@@ -2312,7 +2116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「は、はい！　ありがとうございます！」"
+                                "\\n<Ameria>\"Yes, yes! Thank you very much!\""
                             ]
                         },
                         {
@@ -2329,7 +2133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕もかしこまる気はないから、気にしないでね」"
+                                "\\n<Lyric>\"I'm not one for formalities either, so don't worry about\nit.\""
                             ]
                         },
                         {
@@ -2346,7 +2150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリックは少しは礼儀をわきまえなさい！」"
+                                "\\n<Ameria>\"Lyric, you should show a little more respect!\""
                             ]
                         },
                         {
@@ -2363,7 +2167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテたちはくすくすと笑った。"
+                                "Roselitte and the others chuckled softly."
                             ]
                         },
                         {
@@ -2380,7 +2184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん、怪我はもう大丈夫？」"
+                                "\\n<Ameria>\"Roselitte-san, are your injuries all better now?\""
                             ]
                         },
                         {
@@ -2397,14 +2201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。普通にしていれば痛みません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それにしばらく戦うこともないですから」"
+                                "\\n<Roselitte>\"Yes. It doesn't hurt as long as I'm not moving around too\nmuch. Besides, I won't be fighting for a while.\""
                             ]
                         },
                         {
@@ -2421,7 +2218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そう、良かった」"
+                                "\\n<Ameria>\"That's good to hear.\""
                             ]
                         },
                         {
@@ -2438,28 +2235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「大げさだよアメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつもう絶対治ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんな死にそうな雰囲気だしたくせに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ピンピンしてんじゃん」"
+                                "\\n<Lyric>\"You're exaggerating, Ameria. She's totally fine now.\nDespite acting like she was on death's door, she's bouncing\naround just fine.\""
                             ]
                         },
                         {
@@ -2476,7 +2252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック…それはもう、言わないで…」"
+                                "\\n<Roselitte>\"Lyric... please, don't say that...\""
                             ]
                         },
                         {
@@ -2493,14 +2269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「いやー言うね、死ぬまで言ってあげるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この感動詐欺師」"
+                                "\\n<Lyric>\"Nope—I'll say it, and I'll keep saying it until I die. You\nemotional scam artist.\""
                             ]
                         },
                         {
@@ -2517,7 +2286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックはローゼリッテの頭をひっぱたいた。"
+                                "Lyric slapped Roselitte on the head."
                             ]
                         },
                         {
@@ -2534,7 +2303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「痛ッ…！？」"
+                                "\\n<Roselitte>\"Ouch...!?\""
                             ]
                         },
                         {
@@ -2551,7 +2320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ！？　馬鹿！！」"
+                                "\\n<Ameria>\"Ah!? You idiot!!\""
                             ]
                         },
                         {
@@ -2568,7 +2337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは十字架をリリックに押し当てた。"
+                                "Ameria pressed a cross against Lyric."
                             ]
                         },
                         {
@@ -2585,7 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あああああああああ！！？」"
+                                "\\n<Lyric>\"Aaaaaaaaah!!?\""
                             ]
                         },
                         {
@@ -2602,7 +2371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックは悶え苦しん廊下に転がった。"
+                                "Lyric writhed in agony and rolled into the hallway."
                             ]
                         },
                         {
@@ -2619,7 +2388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫、ローゼリッテさん！？」"
+                                "\\n<Ameria>\"Are you okay, Roselitte-san!? \""
                             ]
                         },
                         {
@@ -2636,21 +2405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「だ、大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　軽くでしたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　怪我している場所ではなかったので…」"
+                                "\\n<Roselitte>\"I-I'm fine. It was just a light hit, and it wasn't where\nI'm injured...\""
                             ]
                         },
                         {
@@ -2667,14 +2422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「もう…馬鹿！　サイテー！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひどくなったらどうするの！」"
+                                "\\n<Ameria>\"You're such an idiot! What if it had gotten worse!?\""
                             ]
                         },
                         {
@@ -2691,14 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「軽く小突いただけじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕の方がよっぽどダメージでかいわ！」"
+                                "\\n<Lyric>\"It was just a light poke! I took way more damage than\nthat!\""
                             ]
                         },
                         {
@@ -2722,14 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あ、もうこんな時間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そろそろ戻らないと」"
+                                "\\n<Ameria>\"...Ah, look at the time. We should be getting back soon.\""
                             ]
                         },
                         {
@@ -2746,14 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ああ、本当だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…二人とも、今日はありがとう」"
+                                "\\n<Roselitte>\"Ah, that's true... Thank you both for coming today.\""
                             ]
                         },
                         {
@@ -2770,14 +2497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「いえいえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これくらい気にしないで」"
+                                "\\n<Ameria>\"No problem at all. Don't worry about it.\""
                             ]
                         },
                         {
@@ -2794,7 +2514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「街に出ると美味いもの食べれるしね」"
+                                "\\n<Lyric>\"Plus, we get to eat something delicious when we go out to\ntown.\""
                             ]
                         },
                         {
@@ -2811,14 +2531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリックったらもう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら、もう行くよ？」"
+                                "\\n<Ameria>\"Lyric, really... Come on, we're leaving now?\""
                             ]
                         },
                         {
@@ -2835,7 +2548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うん」"
+                                "\\n<Lyric>\"Yeah.\""
                             ]
                         },
                         {
@@ -2852,14 +2565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは扉の方へ向かっていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしリリックはその場に残り、ユーリのことを見ていた。"
+                                "Ameria headed towards the door. However, Lyric stayed\nbehind, looking at Yuri."
                             ]
                         },
                         {
@@ -2876,7 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…ん？　どうしたんだ？」"
+                                "\\n<Yuri>\"...Hmm? What's up?\""
                             ]
                         },
                         {
@@ -2893,21 +2599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああ、いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人間の偉い人ってあまり見ないからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見納めってやつ？」"
+                                "\\n<Lyric>\"Ah, no. It's just rare to see someone important from the\nhuman world. Just taking a last look, you know?\""
                             ]
                         },
                         {
@@ -2924,14 +2616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「そ…そうか。取"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　るに足らない身だが、気が済むまで見ていていいぞ」"
+                                "\\n<Yuri>\"I see. Well, I'm not much to look at, but feel free to\nstare to your heart's content.\""
                             ]
                         },
                         {
@@ -2948,14 +2633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　皇族と寝るなんて楽しそうだ」"
+                                "\\n<Lyric>\"Right. Sleeping with royalty sounds like fun.\""
                             ]
                         },
                         {
@@ -2972,7 +2650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「なっ――」"
+                                "\\n<Yuri>\"What--\""
                             ]
                         },
                         {
@@ -2989,14 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ちょ、リリック！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　失礼でしょ！」"
+                                "\\n<Ameria>\"Hey, Lyric! That's rude!\""
                             ]
                         },
                         {
@@ -3013,7 +2684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「いたたた！　引っ張るなバカ！」"
+                                "\\n<Lyric>\"Ow ow ow! Stop pulling, you idiot!\""
                             ]
                         },
                         {
@@ -3030,21 +2701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「それじゃあ、ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それに皇太子殿下。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またお見舞いに来るね」"
+                                "\\n<Ameria>\"Well then, Roselitte-san. And Your Highness the Crown\nPrince. We'll come visit again.\""
                             ]
                         },
                         {
@@ -3061,7 +2718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「次はお菓子とか用意しておいてね」"
+                                "\\n<Lyric>\"Next time, prepare some sweets or something for us.\""
                             ]
                         },
                         {
@@ -3078,7 +2735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアはリリックの頭をはたいた。"
+                                "Ameria smacked Lyric on the head."
                             ]
                         },
                         {
@@ -3095,7 +2752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふふ。ええ、用意しておきます」"
+                                "\\n<Roselitte>\"Hehe. Sure, I'll have some ready for you.\""
                             ]
                         },
                         {
@@ -3112,7 +2769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――あ、２人とも」"
+                                "\\n<Roselitte>\"--Ah, both of you\""
                             ]
                         },
                         {
@@ -3129,7 +2786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「どうしたの？」"
+                                "\\n<Ameria>\"What's wrong?\""
                             ]
                         },
                         {
@@ -3146,7 +2803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……その…」"
+                                "\\n<Roselitte>\"...Um...\""
                             ]
                         },
                         {
@@ -3163,14 +2820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「い…いつ来ても構いませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医者には話を通しておきます」"
+                                "\\n<Roselitte>\"You... you can come anytime. I'll let the doctor know.\""
                             ]
                         },
                         {
@@ -3187,14 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアとリリックは顔を見合わせて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "微笑んだ。"
+                                "Ameria and Lyric exchanged glances and smiled."
                             ]
                         },
                         {
@@ -3211,7 +2854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、分かった」"
+                                "\\n<Ameria>\"Yeah, got it.\""
                             ]
                         },
                         {
@@ -3228,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「寂しくて泣くなよ～」"
+                                "\\n<Lyric>\"Don't cry from loneliness, okay~\""
                             ]
                         },
                         {
@@ -3245,7 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２人は病室を出ていった。"
+                                "The two left the sickroom."
                             ]
                         },
                         {
@@ -3262,7 +2905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「愉快な友達を持ったな」"
+                                "\\n<Yuri>\"You've got some amusing friends.\""
                             ]
                         },
                         {
@@ -3279,7 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ、大切な友達です」"
+                                "\\n<Roselitte>\"Yes, they are precious friends to me.\""
                             ]
                         },
                         {
@@ -3296,7 +2939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「そうか」"
+                                "\\n<Yuri>\"I see.\""
                             ]
                         },
                         {
@@ -3313,7 +2956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「……」"
+                                "\\n<Yuri>\"...\""
                             ]
                         },
                         {
@@ -3330,14 +2973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「あれが、話をしていた淫魔か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とても魔物には見えないな」"
+                                "\\n<Yuri>\"So that was the succubus you were talking about. She\ndoesn't look like a demon at all.\""
                             ]
                         },
                         {
@@ -3354,7 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はい。とても困った魔物です」"
+                                "\\n<Roselitte>\"Yes. She's quite a troublesome demon.\""
                             ]
                         },
                         {
@@ -3371,7 +3007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「そうか」"
+                                "\\n<Yuri>\"I see.\""
                             ]
                         },
                         {
@@ -3388,7 +3024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「……」"
+                                "\\n<Yuri>\"...\""
                             ]
                         },
                         {
@@ -3405,7 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ローゼリッテ。少しいいか」"
+                                "\\n<Yuri>\"Roselitte, may I have a moment?\""
                             ]
                         },
                         {
@@ -3422,7 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はい…？」"
+                                "\\n<Roselitte>\"Yes...?\""
                             ]
                         },
                         {
@@ -3439,14 +3075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「お前はこれからしばらくの間、剣を置く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかしその身はヴァラムの騎士だ」"
+                                "\\n<Yuri>\"You will be laying down your sword for a while, but you are\nstill a knight of Valam.\""
                             ]
                         },
                         {
@@ -3463,14 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「今でもお前は帝国のため。皇帝陛下のため。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして…俺のために、騎士としての任を果たしてくれるか」"
+                                "\\n<Yuri>\"Even now, will you fulfill your duties as a knight for the\nempire, for His Imperial Majesty, and... for me?\""
                             ]
                         },
                         {
@@ -3487,7 +3109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -3504,14 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「もちろんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の身は、帝国のためにございます」"
+                                "\\n<Roselitte>\"Of course. My life is for the empire.\""
                             ]
                         },
                         {
@@ -3528,7 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「そうか…安心した」"
+                                "\\n<Yuri>\"I see... I'm relieved.\""
                             ]
                         },
                         {
@@ -3545,21 +3160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「急な話で申し訳ないが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前に、重要な任務を任せたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　引き受けてくれるな」"
+                                "\\n<Yuri>\"I apologize for the suddenness, but... I have an important\nmission I want to entrust to you. Will you accept it?\""
                             ]
                         },
                         {
@@ -3576,7 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はい、もちろんです」"
+                                "\\n<Roselitte>\"Yes, of course.\""
                             ]
                         },
                         {
@@ -3593,14 +3194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「よし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…さっきの、淫魔についてだ」"
+                                "\\n<Yuri>\"Good.... It's about that succubus from earlier.\""
                             ]
                         },
                         {
@@ -3617,7 +3211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…リリックの？」"
+                                "\\n<Roselitte>\"...Lyric's?\""
                             ]
                         },
                         {
@@ -3634,21 +3228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この任務は\"他の騎士\"に頼んでいたことだが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前に遂行してもらいたい」"
+                                "\\n<Yuri>\"Yes. This mission was something I had asked 'another\nknight' to do, but... I want you to carry it out.\""
                             ]
                         },
                         {
@@ -3665,7 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「その任務は――」"
+                                "\\n<Yuri>\"The mission is--\""
                             ]
                         },
                         {
@@ -3682,7 +3262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ベギーアデを持っている淫魔を殺せ」"
+                                "\\n<Yuri>\"Kill the succubus who possesses Begi-Ade.\""
                             ]
                         },
                         {
@@ -3699,7 +3279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -3716,14 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…へ、陛下。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご冗談を……」"
+                                "\\n<Roselitte>\"...Heh, Your Majesty. You jest...\""
                             ]
                         },
                         {
@@ -3740,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ローゼリッテ」"
+                                "\\n<Yuri>\"Roselitte\""
                             ]
                         },
                         {
@@ -3757,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーリはローゼリッテの目を真っすぐ見て、言った。"
+                                "Yuri looked straight into Roselitte's eyes and said."
                             ]
                         },
                         {
@@ -3774,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「リリックを殺せ」"
+                                "\\n<Yuri>\"Kill Lyric.\""
                             ]
                         },
                         {

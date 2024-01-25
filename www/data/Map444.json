@@ -5442,7 +5442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えへへ……へへへへへへ……♪」"
+                                "\\n<Ameria>\"Ehehe... hehehehehe...♪\""
                             ]
                         },
                         {
@@ -5473,7 +5473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「変な笑い方をするな。気持ち悪い」"
+                                "\\n<Luerre>\"Don't laugh like that. It's creepy.\""
                             ]
                         },
                         {
@@ -5546,14 +5546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だって今日は失敗しなかったんだもん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みんなにたくさんありがとうって言われた～♪」"
+                                "\\n<Ameria>\"But I didn't mess up today♪ Everyone thanked me a lot～♪\""
                             ]
                         },
                         {
@@ -5626,7 +5619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…私が助け船を出したこと、忘れてないか？」"
+                                "\\n<Luerre>\"...You haven't forgotten that I bailed you out, have you?\""
                             ]
                         },
                         {
@@ -5699,14 +5692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「もちろん忘れてないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その証拠に……」"
+                                "\\n<Ameria>\"Of course I haven't forgotten! As proof...\""
                             ]
                         },
                         {
@@ -5885,7 +5871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは手記を綴り、祈りを捧げた。"
+                                "Ameria wrote in her journal and offered a prayer."
                             ]
                         },
                         {
@@ -5982,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ほらね！♪」"
+                                "\\n<Ameria>\"See?!♪\""
                             ]
                         },
                         {
@@ -6055,14 +6041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…まあ、いいか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんと部屋の片付けをしておくんだぞ」"
+                                "\\n<Luerre>\"...Well, fine. Make sure you clean up your room.\""
                             ]
                         },
                         {
@@ -6093,7 +6072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「はーい！」"
+                                "\\n<Ameria>\"Yes-ir!\""
                             ]
                         },
                         {
@@ -6821,7 +6800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ヴァラムの騎士さん？」"
+                                "\\n<Ameria>\"...Sir Knight of Valam?\""
                             ]
                         },
                         {
@@ -7001,14 +6980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「珍しいな、わざわざこんな場所まで来るなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急になんの用だ？」"
+                                "\\n<Luerre>\"It's unusual for you to come all the way to a place like\nthis. What's the sudden occasion?\""
                             ]
                         },
                         {
@@ -7032,7 +7004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「……」"
+                                "\\n<Knight>\"...\""
                             ]
                         },
                         {
@@ -7134,7 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士はふところから１枚の封書を取り出した。"
+                                "The knight took out an envelope from his breast pocket."
                             ]
                         },
                         {
@@ -7151,7 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「受け取れ。本土からの令状だ」"
+                                "\\n<Knight>\"Take it. It's a writ from the mainland.\""
                             ]
                         },
                         {
@@ -7217,7 +7189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…この印は……」"
+                                "\\n<Luerre>\"...This seal is...\""
                             ]
                         },
                         {
@@ -7283,14 +7255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルエールは封筒に施されている封蝋を確認して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中の手紙に目を走らせた。"
+                                "Luerre checked the seal on the envelope and quickly read\nthrough the letter inside."
                             ]
                         },
                         {
@@ -7356,7 +7321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…やはり、本当だったのか」"
+                                "\\n<Luerre>\"...So it was true after all.\""
                             ]
                         },
                         {
@@ -7380,7 +7345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「…知っているのか。誰から聞いた」"
+                                "\\n<Knight>\"...You knew? Who told you?\""
                             ]
                         },
                         {
@@ -7446,14 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「職業柄、な。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なに、迷惑をかけるようなことはしていない」"
+                                "\\n<Luerre>\"It comes with the job. Don't worry, I haven't caused any\ntrouble.\""
                             ]
                         },
                         {
@@ -7477,7 +7435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「…明朝に出発する。準備を整えておけ」"
+                                "\\n<Knight>\"...We depart at dawn. Get your preparations in order.\""
                             ]
                         },
                         {
@@ -7543,7 +7501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…どいつもこいつも、馬鹿ばっかりだな」"
+                                "\\n<Luerre>\"...Everyone's an idiot, I swear.\""
                             ]
                         },
                         {
@@ -7567,7 +7525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「口を慎め。これは命令だぞ」"
+                                "\\n<Knight>\"Watch your mouth. This is an order.\""
                             ]
                         },
                         {
@@ -8147,7 +8105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…いったいどうしたの？」"
+                                "\\n<Ameria>\"...What on earth happened?\""
                             ]
                         },
                         {
@@ -8171,7 +8129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -8237,7 +8195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様…？」"
+                                "\\n<Ameria>\"Priest-sama...?\""
                             ]
                         },
                         {

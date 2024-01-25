@@ -12793,7 +12793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…落ち着きました？」"
+                                "\\n<Roselitte>\"Have you calmed down?\""
                             ]
                         },
                         {
@@ -12817,14 +12817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテの胸にうずくまるアメリアは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "首を横に振って応えた。"
+                                "Ameria, who was crouching in Roselitte's bosom, shook her\nhead in response."
                             ]
                         },
                         {
@@ -12946,21 +12939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…ねえ、アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かお腹にたまるやつ作ってくれない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　携帯食じゃあ物足りなくて」"
+                                "\\n<Lyric>\"Hey, Ameria. Can you make something filling for the\nstomach? Portable food just isn't satisfying enough.\""
                             ]
                         },
                         {
@@ -13033,7 +13012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「食いしん坊……太るよ……」"
+                                "\\n<Ameria>\"Glutton... You'll get fat...\""
                             ]
                         },
                         {
@@ -13113,7 +13092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「空くものはしょうがないだろ」"
+                                "\\n<Lyric>\"Hunger can't be helped.\""
                             ]
                         },
                         {
@@ -13186,7 +13165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でぶ」"
+                                "\\n<Ameria>\"Fatty.\""
                             ]
                         },
                         {
@@ -13266,7 +13245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「口悪いな！」"
+                                "\\n<Lyric>\"You've got a nasty mouth!\""
                             ]
                         },
                         {
@@ -13339,21 +13318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふふ。…リリック、そう文句を言わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰にでも苦手なものはあるんですから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し休ませてあげましょう」"
+                                "\\n<Roselitte>\"Hehe... Lyric, don't complain so much. Everyone has their\nweaknesses, let's give it a rest.\""
                             ]
                         },
                         {
@@ -13426,14 +13391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…やっぱり、ローゼリッテさん、優しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　好きぃ……」"
+                                "\\n<Ameria>\"...As expected, Roselitte-san, you're kind. I like you...\""
                             ]
                         },
                         {
@@ -13457,14 +13415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは一層小さく縮こまって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローゼリッテに抱きついた。"
+                                "Ameria curled up even smaller and clung to Roselitte."
                             ]
                         },
                         {
@@ -13537,21 +13488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「怖いのは分かるけど、子供じゃないんだからさぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まあいいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼにひっついてくれるなら楽でいいし」"
+                                "\\n<Lyric>\"I get that you're scared, but you're not a child... Well,\nit's fine. It's easier if you cling to Roselitte.\""
                             ]
                         },
                         {
@@ -13732,7 +13669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ッ――！！」"
+                                "\\n<Ameria>\"Ah--!!\""
                             ]
                         },
                         {
@@ -13763,7 +13700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…うん？　どうしました？」"
+                                "\\n<Roselitte>\"...Hmm? What's wrong?\""
                             ]
                         },
                         {
@@ -13836,7 +13773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ……あぁっ……！」"
+                                "\\n<Ameria>\"Ah... Ahh...!\""
                             ]
                         },
                         {
@@ -14142,7 +14079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは血相を変えてリリックにしがみついた。"
+                                "Ameria clung to Lyric with a changed complexion."
                             ]
                         },
                         {
@@ -14166,14 +14103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ぬあっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なに、なんなんだよ、情緒不安定か！」"
+                                "\\n<Lyric>\"Whoa!? What is it, are you emotionally unstable or\nsomething!?\""
                             ]
                         },
                         {
@@ -14246,7 +14176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……し……こ……」"
+                                "\\n<Ameria>\"...pee... pee...\""
                             ]
                         },
                         {
@@ -14326,7 +14256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はあ？　なに？」"
+                                "\\n<Lyric>\"Huh? What?\""
                             ]
                         },
                         {
@@ -14399,14 +14329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――お…おしっこ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おしっこ、ついてきて！」"
+                                "\\n<Ameria>\"--I... I need to pee! Come with me to pee!\""
                             ]
                         },
                         {
@@ -14486,21 +14409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はぁ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなの、すぐそこでしてくればいいだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どっか行ったりしないって」"
+                                "\\n<Lyric>\"Huh? Just go right there. I'm not going anywhere.\""
                             ]
                         },
                         {
@@ -14531,14 +14440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「や、やだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずっと我慢してたの！　お願い、ついてきて！」"
+                                "\\n<Ameria>\"No, I can't... I've been holding it for so long! Please,\ncome with me!\""
                             ]
                         },
                         {
@@ -14569,14 +14471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「えぇ～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すっごい嫌なんだけど…」"
+                                "\\n<Lyric>\"Ehh... I really don't want to...\""
                             ]
                         },
                         {
@@ -14607,7 +14502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんなぁ！」"
+                                "\\n<Ameria>\"Please!\""
                             ]
                         },
                         {
@@ -14680,7 +14575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私がついていきましょう。ほら、早く」"
+                                "\\n<Roselitte>\"I'll go with you. Come on, quickly.\""
                             ]
                         },
                         {
@@ -14788,7 +14683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは首を横に振った。"
+                                "Ameria shook her head."
                             ]
                         },
                         {
@@ -14812,7 +14707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさんにそんな恥ずかしいこと頼めない！」"
+                                "\\n<Ameria>\"I can't ask Roselitte-san to do something so embarrassing!\""
                             ]
                         },
                         {
@@ -14892,7 +14787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「なにぃ？　僕だったらいいのかよ」"
+                                "\\n<Lyric>\"What? It's okay if I do it?\""
                             ]
                         },
                         {
@@ -14923,7 +14818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリックはこういうの平気でしょ！」"
+                                "\\n<Ameria>\"Lyric is fine with this sort of thing, right?\""
                             ]
                         },
                         {
@@ -15003,21 +14898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はあ？　…あー！　なんかあったまきた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕だって清楚でおしとやかな女の子なんだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな品のないことに付き合ってられるか！」"
+                                "\\n<Lyric>\"Huh?... Ah! I'm getting heated up! I'm a pure and demure\ngirl, you know. I can't be involved in such unrefined\nmatters!\""
                             ]
                         },
                         {
@@ -15090,7 +14971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「じゃあこのまま漏らしてやる！」"
+                                "\\n<Ameria>\"Then I'll just let it leak here!\""
                             ]
                         },
                         {
@@ -15170,7 +15051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お前何言ってんの！？」"
+                                "\\n<Lyric>\"What are you saying!?\""
                             ]
                         },
                         {
@@ -15201,7 +15082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だったら――！」"
+                                "\\n<Ameria>\"If that's the case--!\""
                             ]
                         },
                         {
@@ -15337,7 +15218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――あっ…」"
+                                "\\n<Ameria>\"--Ah...\""
                             ]
                         },
                         {
@@ -15368,7 +15249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ……？」"
+                                "\\n<Lyric>\"Ah...?\""
                             ]
                         },
                         {
@@ -15568,7 +15449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ゙あ゙ッ……あ゙ッ……あ゙あ゙あッッ……！！」"
+                                "\\n<Ameria>\"Aghh... Ahh... Aghhahh...!!\""
                             ]
                         },
                         {
@@ -15599,14 +15480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ちょ！！？　おい！！　やめろよ！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出すなら早く離れろッ！！」"
+                                "\\n<Lyric>\"Hey!! Stop it!! If you're going to do it, get away from\nme!!\""
                             ]
                         },
                         {
@@ -15647,7 +15521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ゔ　ご　げ　な゛い゙ ッッ……！！」"
+                                "\\n<Ameria>\"I can't hold it...!!\""
                             ]
                         },
                         {
@@ -15720,14 +15594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――リリック！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く！！　早くアメリアを運んでッ！！」"
+                                "\\n<Roselitte>\"--Lyric!! Hurry!! Carry Ameria quickly!!\""
                             ]
                         },
                         {
@@ -15758,14 +15625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「もももももも！！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　漏れっ！　漏れっ――！！」"
+                                "\\n<Ameria>\"It's leaking! It's leaking--!!\""
                             ]
                         },
                         {
@@ -15845,7 +15705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――あああ、もうッ！！」"
+                                "\\n<Lyric>\"--Ahh, damn it!!\""
                             ]
                         },
                         {
@@ -16816,14 +16676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ～…焦った。マジで死神の時より焦った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　危うくおしっこまみれになるところだったよ」"
+                                "\\n<Lyric>\"Ah... I panicked. Seriously, I was more panicked than when\nfacing the Grim Reaper. I almost got covered in pee.\""
                             ]
                         },
                         {
@@ -16854,7 +16707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひっく……ひぐっ……」"
+                                "\\n<Ameria>\"*hic*... *sob*...\""
                             ]
                         },
                         {
@@ -16885,14 +16738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「めそめそするなよ、間に合ったんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　っていうか泣きたいのはこっちだっての」"
+                                "\\n<Lyric>\"Don't cry, we made it in time. Besides, I'm the one who\nfeels like crying here.\""
                             ]
                         },
                         {
@@ -16923,7 +16769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だって……だってぇ……」"
+                                "\\n<Ameria>\"But... but...\""
                             ]
                         },
                         {
@@ -16947,7 +16793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -17013,21 +16859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…しょうがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリア、少し待っていなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が美味しい料理をご馳走しましょう」"
+                                "\\n<Roselitte>\"It can't be helped. Ameria, wait just a moment. I'll treat\nyou to some delicious food.\""
                             ]
                         },
                         {
@@ -17149,14 +16981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「え…？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさんの料理…？」"
+                                "\\n<Ameria>\"Eh...? Roselitte-san's cooking...?\""
                             ]
                         },
                         {
@@ -17187,21 +17012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。前に話していたものを作りましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　落ち込んだ時には、美味しいご飯を食べるのがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それを食べて元気を出しなさい」"
+                                "\\n<Roselitte>\"Yes. I'll make what we talked about before. When you're\nfeeling down, it's good to eat something tasty. Eat this and\ncheer up.\""
                             ]
                         },
                         {
@@ -17323,14 +17134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お！　いいね、そりゃあいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　期待してもいいんだよね？」"
+                                "\\n<Lyric>\"Oh! That sounds great. Can I get my hopes up?\""
                             ]
                         },
                         {
@@ -17403,7 +17207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「もちろん」"
+                                "\\n<Roselitte>\"Of course.\""
                             ]
                         },
                         {
@@ -17476,14 +17280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「わあ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うん、うん！　楽しみ！」"
+                                "\\n<Ameria>\"Wow... yeah, yeah! I'm looking forward to it!\""
                             ]
                         },
                         {
@@ -17556,14 +17353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「では、少しだけ待っていてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに捕まえてきます」"
+                                "\\n<Roselitte>\"Then, please wait just a little bit. I'll catch it right\naway.\""
                             ]
                         },
                         {
@@ -17636,7 +17426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「捕まえるって、何かのお肉なの？」"
+                                "\\n<Ameria>\"Catch? Is it some kind of meat?\""
                             ]
                         },
                         {
@@ -17709,21 +17499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あれは肉なのでしょうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ともかく、すぐ見つかるはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　待っていてください」"
+                                "\\n<Roselitte>\"Whether it's meat or not... Anyway, it should be easy to\nfind. Please wait.\""
                             ]
                         },
                         {
@@ -18155,7 +17931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「捕えました」"
+                                "\\n<Roselitte>\"I've caught it.\""
                             ]
                         },
                         {
@@ -18186,14 +17962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「捕まえましたって……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それ、魔物のスライムだけど……」"
+                                "\\n<Lyric>\"Caught it...? But that's a slime monster...\""
                             ]
                         },
                         {
@@ -18266,14 +18035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ま、まさかとは思うけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それを料理するわけじゃないよね……？」"
+                                "\\n<Ameria>\"You don't mean... you're not going to cook that, are\nyou...?\""
                             ]
                         },
                         {
@@ -18377,21 +18139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ヴァラムに伝わる戦時の非常食です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　普通は盛るだけで少し味気ないのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こうやって……」"
+                                "\\n<Roselitte>\"It's an emergency ration from Valm, used during wartime.\nNormally, it's just served as is and a bit bland, but if you\ndo this...\""
                             ]
                         },
                         {
@@ -18549,7 +18297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「適量斬って、焼いて、調味料で味を整えれば……」"
+                                "\\n<Roselitte>\"Chop it up in the right amount, grill it, and season it...\""
                             ]
                         },
                         {
@@ -18629,7 +18377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――できました。どうぞ」"
+                                "\\n<Roselitte>\"--It's ready. Please enjoy.\""
                             ]
                         },
                         {
@@ -18653,7 +18401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは、スライムが盛られた器を二人に手渡した。"
+                                "Roselitte handed over the dishes filled with slime to the\ntwo of them."
                             ]
                         },
                         {
@@ -18719,21 +18467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ぅ……なにこれ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　スライムゼリーと……えっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この泡吹いてる固形物、なに……？」"
+                                "\\n<Ameria>\"Ugh... what is this... slime jelly and... huh? What's this\nfrothy solid thing...?\""
                             ]
                         },
                         {
@@ -18813,14 +18547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ローゼ……大変失礼かもしれませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これは料理なんですよね……？」"
+                                "\\n<Lyric>\"Roselitte... I mean no disrespect, but this is considered\nfood... right?\""
                             ]
                         },
                         {
@@ -18893,14 +18620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「失礼な。見た目はちょっとアレですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　れっきとした料理です」"
+                                "\\n<Roselitte>\"How rude. It may look a bit odd, but it's a proper dish.\""
                             ]
                         },
                         {
@@ -19057,14 +18777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローゼリッテは自分の分のスライムを頬ばった。"
+                                "Saying so, Roselitte took a bite of her portion of slime."
                             ]
                         },
                         {
@@ -19088,7 +18801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うわっ」"
+                                "\\n<Lyric>\"Ugh.\""
                             ]
                         },
                         {
@@ -19119,21 +18832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――うん、美味しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の味付けは部下にも評判なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さあどうぞ、冷めないうちに」"
+                                "\\n<Roselitte>\"--Mmm, delicious. My seasoning is popular even among my\nsubordinates. Now go ahead, eat it before it gets cold.\""
                             ]
                         },
                         {
@@ -19213,7 +18912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「マジっすか……」"
+                                "\\n<Lyric>\"Are you serious...?\""
                             ]
                         },
                         {
@@ -19286,14 +18985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…食べないのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うまく出来たと思うのですが…」"
+                                "\\n<Roselitte>\"...Aren't you going to eat? I think it turned out quite\nwell...\""
                             ]
                         },
                         {
@@ -19408,7 +19100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア／リリック>「…………」"
+                                "\\n<Ameria/Lyric>\"...\""
                             ]
                         },
                         {
@@ -19425,14 +19117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しそうにスライムを頬張るローゼリッテを横目に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アメリアとリリックは互いに目を合わせて――"
+                                "While Roselitte enjoyed the slime with apparent relish,\nAmeria and Lyric exchanged glances--"
                             ]
                         },
                         {
@@ -19589,7 +19274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……はむ…………」"
+                                "\\n<Ameria>\"...chew...\""
                             ]
                         },
                         {
@@ -19620,7 +19305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……んむ…………」"
+                                "\\n<Lyric>\"...nom...\""
                             ]
                         },
                         {
@@ -19679,7 +19364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムを、口に入れた。"
+                                "They put the slime in their mouths."
                             ]
                         },
                         {
@@ -20015,21 +19700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ん～…美味い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほんと、君の料理だけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　文句のつけどころがないよ、アメリア！」"
+                                "\\n<Lyric>\"Mmm... Delicious! Really, your cooking is beyond reproach,\nAmeria!\""
                             ]
                         },
                         {
@@ -20060,14 +19731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「もう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹空くとうるさいんだから、リリックは」"
+                                "\\n<Ameria>\"Geez... you're so noisy when you're hungry, Lyric.\""
                             ]
                         },
                         {
@@ -20133,7 +19797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -20199,7 +19863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あの、ローゼリッテさんも一緒に……」"
+                                "\\n<Ameria>\"...Um, Roselitte-san, won't you join us...?\""
                             ]
                         },
                         {
@@ -20332,7 +19996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -20405,14 +20069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ほっとけほっとけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんな馬鹿舌にアメリアの料理はもったいない」"
+                                "\\n<Lyric>\"Leave her be, leave her be. Ameria's cooking is too good\nfor such an uncultured palate.\""
                             ]
                         },
                         {
@@ -20485,7 +20142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「馬鹿舌……ぐすっ……」"
+                                "\\n<Roselitte>\"Uncultured palate... *sniffle*...\""
                             ]
                         },
                         {

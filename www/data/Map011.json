@@ -39287,7 +39287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムコロンを手に入れた！"
+                                "Gained Folium Cologne!"
                             ]
                         },
                         {
@@ -40479,7 +40479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーターαを手に入れた！"
+                                "Gained Magic Water α!"
                             ]
                         },
                         {
@@ -41311,7 +41311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法の裁縫道具×２を手に入れた！"
+                                "Gained 2 Magic Sewing Kits!"
                             ]
                         },
                         {
@@ -41572,7 +41572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水を手に入れた！"
+                                "Gained Beautiful Water!"
                             ]
                         },
                         {
@@ -41714,14 +41714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水が溜まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら体の汚れを落とせるだろう。"
+                                "There's clean water accumulated here. I should be able to\nwash off the dirt from my body."
                             ]
                         },
                         {
@@ -41738,7 +41731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の汚れを洗い流しますか？"
+                                "Would you like to wash off the dirt from your body?"
                             ]
                         },
                         {
@@ -41746,8 +41739,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -42000,7 +41993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒートアウェイ×２を手に入れた！"
+                                "Gained 2 Heat Aways!"
                             ]
                         },
                         {
@@ -42456,14 +42449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「おや…？　あなた様はもしかして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ様ではございせんか？」"
+                                "\\n<Man>\"Oh...? Could you possibly be Lady Roselitte?\""
                             ]
                         },
                         {
@@ -42480,7 +42466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。あなたは？」"
+                                "\\n<Roselitte>\"Yes. And you are?\""
                             ]
                         },
                         {
@@ -42497,21 +42483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男>「これは失礼しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、アンナベルンで商いをしております、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベンジと申します」"
+                                "\\n<Man>\"My apologies for the intrusion. I am Benji, a merchant from\nAnnabern.\""
                             ]
                         },
                         {
@@ -42528,28 +42500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「先の襲撃で、医薬品をはじめ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　多くの物資が不足してしまっているでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それでは私も商売上がったりで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからこうして、医薬品の材料を自ら集めているんです」"
+                                "\\n<Benji>\"Due to the recent attack, there's a shortage of medical\nsupplies and many other goods, isn't there? It's bad for\nbusiness. That's why I'm personally gathering ingredients\nfor medicine.\""
                             ]
                         },
                         {
@@ -42566,28 +42517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「慣れない環境で体調を崩す避難民も多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それならば、多少無茶をしてでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　商売しなきゃならんでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼らの為にも。私の為にも。ははは」"
+                                "\\n<Benji>\"Many refugees are falling ill in these unfamiliar\nconditions. I must do business, even if it's a bit reckless,\nfor their sake and mine. Hahaha.\""
                             ]
                         },
                         {
@@ -42646,14 +42576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「医薬品、とても助かります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　薬で継続的な治療をしないといけない人も多いので」"
+                                "\\n<Ameria>\"Medicine would be a great help! There are many who need\ncontinuous treatment.\""
                             ]
                         },
                         {
@@ -42670,28 +42593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「おや、君は……思い出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　広場で治療していた医術士の子だろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助かったよ。苦しそうにしている人を見るのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こちらも辛いからね」"
+                                "\\n<Benji>\"Oh, you are... I remember now. You're the young healer who\nwas treating people in the square, right? You've been a\ngreat help. It's hard to see people suffering.\""
                             ]
                         },
                         {
@@ -42708,7 +42610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「それに……」"
+                                "\\n<Benji>\"And...\""
                             ]
                         },
                         {
@@ -42725,7 +42627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベンジは目を細めてアメリアを見つめた。"
+                                "Benji narrowed his eyes as he looked at Ameria."
                             ]
                         },
                         {
@@ -42742,14 +42644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「こんなに可愛らしい医術士に診てもらえたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みんなもさぞ喜ぶことだろう」"
+                                "\\n<Benji>\"If everyone could be treated by such a lovely healer, they\nwould surely be delighted.\""
                             ]
                         },
                         {
@@ -42815,7 +42710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えへへ…可愛らしいだなんて、そんな…」"
+                                "\\n<Ameria>\"Ehehe... Lovely, you say? Oh, I don't know about that...\""
                             ]
                         },
                         {
@@ -42832,7 +42727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「…………」"
+                                "\\n<Benji>\"...\""
                             ]
                         },
                         {
@@ -42891,14 +42786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「…そうだ、ローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　差し出がましいこととは存じますが、ひとつ、ご提案が」"
+                                "\\n<Benji>\"...Right, Lady Roselitte. I hope I'm not overstepping my\nbounds, but I have a suggestion.\""
                             ]
                         },
                         {
@@ -42915,28 +42803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「先ほども申し上げましたように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は町の物資が不足しております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　開いてない店がほとんどで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　旅をするローゼリッテ様もさぞお困りでしょう」"
+                                "\\n<Benji>\"As I mentioned earlier, the town is running low on\nsupplies. Most shops are closed, and you must be having\ntrouble on your travels as well.\""
                             ]
                         },
                         {
@@ -42953,21 +42820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「そこでひとつ。どうでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私から頼み事があるのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それをお聞きくだされば物資をお安くご提供いたします」"
+                                "\\n<Benji>\"So here's an idea. If you would listen to a request from\nme, I could offer you supplies at a discounted price.\""
                             ]
                         },
                         {
@@ -42984,14 +42837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふむ…それは助かりますが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頼み事とはなんです？」"
+                                "\\n<Roselitte>\"Hmm... that would be helpful, but... what is this request?\""
                             ]
                         },
                         {
@@ -43008,7 +42854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「さすがはローゼリッテ様。ご判断が早い」"
+                                "\\n<Benji>\"As expected of Lady Roselitte, quick to discern.\""
                             ]
                         },
                         {
@@ -43025,21 +42871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「なに、簡単なことです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　町に戻られましたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しの間医術士のお嬢さんを貸していただきたい」"
+                                "\\n<Benji>\"It's nothing difficult. When you return to town, I would\nlike to borrow the young healer for a while.\""
                             ]
                         },
                         {
@@ -43098,7 +42930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリアを？」"
+                                "\\n<Roselitte>\"Ameria?\""
                             ]
                         },
                         {
@@ -43115,21 +42947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「アメリアさんと言うのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ええ、そうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しの間、彼女の手を借りたいのです」"
+                                "\\n<Benji>\"So her name is Ameria. Yes, that's right. I would like to\nborrow her assistance for a short time.\""
                             ]
                         },
                         {
@@ -43146,28 +42964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「職業柄、取引先との付き合いがございまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今回の襲撃で彼らの中にも困っている者が多いのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアさんのチカラがあれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼らもきっと喜んでくれることでしょう」"
+                                "\\n<Benji>\"Due to my profession, I have dealings with many partners.\nMany of them are in trouble because of the recent attacks.\nWith Ameria's help, they would surely be grateful.\""
                             ]
                         },
                         {
@@ -43226,7 +43023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふむ…。どうしますか、アメリア」"
+                                "\\n<Roselitte>\"Hmm... What do you think, Ameria?\""
                             ]
                         },
                         {
@@ -43285,14 +43082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私の助けが必要ならもちろんやるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもローゼリッテさんを優先したいから、出来る範囲で」"
+                                "\\n<Ameria>\"If my help is needed, of course I'll do it! But I want to\nprioritize you, Roselitte-san, so within what I can manage.\""
                             ]
                         },
                         {
@@ -43309,14 +43099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「素晴らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もちろん、余裕がある時で構いません」"
+                                "\\n<Benji>\"Wonderful. Of course, only when you can spare the time.\""
                             ]
                         },
                         {
@@ -43333,21 +43116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベンジ>「私は町に入ってすぐ左手の広場におりますので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　チカラを貸してくださる時に声をかけてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　商売の話もそこでしましょう」"
+                                "\\n<Benji>\"I'll be in the square just to the left as you enter town.\nPlease call on me when you're ready to lend your strength.\nWe can discuss business then.\""
                             ]
                         },
                         {

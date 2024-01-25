@@ -5380,7 +5380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「はあっ……はあっ……！」"
+                                "\\n<Sister girl>\"Haa... Haa...!\""
                             ]
                         },
                         {
@@ -5411,7 +5411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「おい何してんだよ、早く逃げるぞ！」"
+                                "\\n<Hooded woman>\"Hey, what are you doing? Hurry up and escape!\""
                             ]
                         },
                         {
@@ -5577,7 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「も…もうだめ、動けない…」"
+                                "\\n<Sister girl>\"I... I can't anymore, I can't move...\""
                             ]
                         },
                         {
@@ -5650,14 +5650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「このままじゃあ二人で捕まっちゃう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が残って囮になるから、そのすきに逃げて！」"
+                                "\\n<Sister girl>\"At this rate, we'll both get caught! I'll stay behind as a\ndecoy, so escape while you can!\""
                             ]
                         },
                         {
@@ -5737,21 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「…はん。囮だって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなことできるもんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ろくな時間も稼げずに、ただ捕まるのがオチさ」"
+                                "\\n<Hooded woman>\"...Hmph. A decoy? Like that's going to work. You won't buy\nus any time, you'll just get caught in the end.\""
                             ]
                         },
                         {
@@ -5782,7 +5761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「でも…！」"
+                                "\\n<Sister girl>\"But...!\""
                             ]
                         },
                         {
@@ -5822,7 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊の声>「こっちに逃げたぞ！　急げ！」"
+                                "\\n<Voice of the thief>\"They ran this way! Hurry up!\""
                             ]
                         },
                         {
@@ -5904,14 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「チッ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――ああ、くそ。なんでこんなことに…」"
+                                "\\n<Hooded woman>\"Tch... Ah, damn it. Why did it come to this...\""
                             ]
                         },
                         {
@@ -6145,7 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「なにしてるの？」"
+                                "\\n<Sister girl>\"What are you doing?\""
                             ]
                         },
                         {
@@ -6225,14 +6197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「囮の手本ってのを見せてあげるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　時間を稼いであげるから、どこかに隠れてて」"
+                                "\\n<Hooded woman>\"I'll show you how to be a decoy. I'll buy you some time, so\nhide somewhere.\""
                             ]
                         },
                         {
@@ -6305,14 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「ダメ！　そんなの絶対にダメ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一人で戦うなんて危険すぎる！」"
+                                "\\n<Sister girl>\"No! That's absolutely not okay! Fighting alone is too\ndangerous!\""
                             ]
                         },
                         {
@@ -6423,7 +6381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「…それ、どの口が言ってんの？」"
+                                "\\n<Hooded woman>\"...Which mouth is saying that?\""
                             ]
                         },
                         {
@@ -6503,21 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「まあ安心しなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんな奴らなんて消し炭だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　け・し・ず・み」"
+                                "\\n<Hooded woman>\"Well, don't worry about it. Those guys will be nothing but\nashes. Ashes to ashes.\""
                             ]
                         },
                         {
@@ -6590,14 +6534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「だからダメだって言ってるでしょ、バカ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言うこと聞いて！」"
+                                "\\n<Sister girl>\"That's why I'm saying it's no good, you idiot! Listen to\nme!\""
                             ]
                         },
                         {
@@ -6782,14 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「…うるさいなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいから黙って――」"
+                                "\\n<Hooded woman>\"...You're so noisy. Just be quiet and--\""
                             ]
                         },
                         {
@@ -6862,7 +6792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「ッ……」"
+                                "\\n<Sister girl>\"Ah...!\""
                             ]
                         },
                         {
@@ -7008,7 +6938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスターの少女は、歩き出した女の腕にしがみついた。"
+                                "The sister girl clung to the arm of the woman who had\nstarted to walk away."
                             ]
                         },
                         {
@@ -7081,7 +7011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「…なに。邪魔なんだけど」"
+                                "\\n<Hooded woman>\"...What. You're in the way.\""
                             ]
                         },
                         {
@@ -7112,7 +7042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「…大丈夫。大丈夫だから」"
+                                "\\n<Sister girl>\"...It's okay. It's going to be okay.\""
                             ]
                         },
                         {
@@ -7143,21 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「私のために誰かが傷つくなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それこそ耐えられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからお願い。逃げて」"
+                                "\\n<Sister girl>\"I can't bear the thought of someone getting hurt for me. So\nplease, escape.\""
                             ]
                         },
                         {
@@ -7230,7 +7146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「……」"
+                                "\\n<Hooded woman>\"...\""
                             ]
                         },
                         {
@@ -7254,14 +7170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「ほんと、自分勝手なヤツだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　逃げるなって言ったり、逃げろって言ったりさ」"
+                                "\\n<Hooded woman>\"Really, you're so selfish. Telling me not to escape, then\ntelling me to run away.\""
                             ]
                         },
                         {
@@ -7292,14 +7201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「…ごめんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、約束したんだもん」"
+                                "\\n<Sister girl>\"...I'm sorry. But I made a promise.\""
                             ]
                         },
                         {
@@ -7372,7 +7274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「私が、守るから。だから逃げて」"
+                                "\\n<Sister girl>\"I will protect you. So please, run away.\""
                             ]
                         },
                         {

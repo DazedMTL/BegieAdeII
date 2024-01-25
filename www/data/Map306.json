@@ -6772,14 +6772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも、魔物使役術が使われてるってことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはデオルクの仕業なの？」"
+                                "\\n<Ameria>\"But if monster taming magic is being used, does that mean\nthis is Deorc's doing?\""
                             ]
                         },
                         {
@@ -6810,14 +6803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うん。これだけの騒ぎだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奴が近くにいると見て間違いない」"
+                                "\\n<Lyric>\"Yeah. With all this commotion, it's certain he's nearby.\""
                             ]
                         },
                         {
@@ -6879,21 +6865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ここはデオルクのいるアナトスと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国本土とは真逆の場所にあるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてアンナベルンに攻撃をしたのでしょうか」"
+                                "\\n<Roselitte>\"...This place is supposed to be the exact opposite of the\nimperial mainland where Deorc is in Anatos. Why would he\nattack Annabern?\""
                             ]
                         },
                         {
@@ -7046,21 +7018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「さあ、分からない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもわざわざこんなことをするってことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か目的があるはずだよ」"
+                                "\\n<Lyric>\"I don't know. But going to such lengths means there must be\nsome purpose behind it.\""
                             ]
                         },
                         {
@@ -7133,21 +7091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「目的…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国へ向かうために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　周辺地域の制圧を考えましたか」"
+                                "\\n<Roselitte>\"Purpose... Could it be a plan to conquer the surrounding\nareas on the way to the empire?\""
                             ]
                         },
                         {
@@ -7269,7 +7213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック、魔物使役術は――」"
+                                "\\n<Roselitte>\"Lyric, the art of monster taming is--\""
                             ]
                         },
                         {
@@ -7407,14 +7351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ねえ二人とも！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はそんなゆっくり考えてる場合じゃないでしょ！」"
+                                "\\n<Ameria>\"--Hey, you two! Now's not the time to be thinking so\nleisurely!\""
                             ]
                         },
                         {
@@ -7698,14 +7635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「急いでアンナベルンに向かわないと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くッ！」"
+                                "\\n<Ameria>\"We need to hurry to Annabern! Quickly!\""
                             ]
                         },
                         {
@@ -7829,21 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「待ちなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっきの様子を見たでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　危険ですから、あなたはここで――」"
+                                "\\n<Roselitte>\"Wait. You saw what happened earlier, right? It's dangerous,\nso you should stay here--\""
                             ]
                         },
                         {
@@ -7916,21 +7832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「なに言ってるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　きっと大勢の人が困ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医術士の私が行かなくちゃ！」"
+                                "\\n<Ameria>\"What are you talking about! Surely many people are in\ntrouble. As a healer, I must go!\""
                             ]
                         },
                         {
@@ -8364,7 +8266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリア！？　待ちなさい！」"
+                                "\\n<Roselitte>\"Ameria!? Wait!\""
                             ]
                         },
                         {
@@ -8537,14 +8439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あーあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひとの事となるとすぐこれだ」"
+                                "\\n<Lyric>\"Ah-ah. She always does this when it comes to other people.\""
                             ]
                         },
                         {
@@ -8686,14 +8581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あいつ、ああなると話聞かないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く追いかけないと、本当に危ない」"
+                                "\\n<Lyric>\"Once she gets like that, she won't listen. We need to chase\nafter her quickly, or it'll really be dangerous.\""
                             ]
                         },
                         {
@@ -8766,7 +8654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「まったく…」"
+                                "\\n<Roselitte>\"Honestly...\""
                             ]
                         },
                         {
@@ -8790,7 +8678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -8856,21 +8744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…リリック。彼女のことをよく見ていて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この先もしものことがあれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　首根っこを押さえてでも逃げなさい」"
+                                "\\n<Roselitte>\"...Lyric. Keep a close eye on her. If anything happens,\ngrab her by the scruff of the neck and escape if you have\nto.\""
                             ]
                         },
                         {
@@ -8950,21 +8824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「言われなくても分かってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　危なくなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君を置いてさっさととんずらするから」"
+                                "\\n<Lyric>\"You don't have to tell me. If it gets dangerous, I'll leave\nyou behind and make a run for it.\""
                             ]
                         },
                         {
@@ -9037,7 +8897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「頼みます」"
+                                "\\n<Roselitte>\"Please do.\""
                             ]
                         },
                         {

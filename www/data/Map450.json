@@ -5451,7 +5451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -5882,7 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ぃ痛っってえぇぇぇッ！」"
+                                "\\n<Lyric>\"Ouch, that hurts!\""
                             ]
                         },
                         {
@@ -6362,7 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック！」"
+                                "\\n<Ameria>\"Lyric!\""
                             ]
                         },
                         {
@@ -6576,7 +6576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ちくしょう、この程度の障壁なんて…！」"
+                                "\\n<Lyric>\"Damn it, such a trivial barrier...!\""
                             ]
                         },
                         {
@@ -6813,14 +6813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ゙あ゙あ゙あ゙あ――ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちくしょう！　ちくしょうッ！」"
+                                "\\n<Lyric>\"Aaagh!! Damn it! Damn it all!\""
                             ]
                         },
                         {
@@ -6988,7 +6981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「やめて！　離れて！」"
+                                "\\n<Ameria>\"Stop it! Get away!\""
                             ]
                         },
                         {
@@ -7303,21 +7296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「障壁を張ってあるから魔物が出入りするのは無理だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなことしたら怪我――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ああ、やっぱり、腕やけどしてる！」"
+                                "\\n<Ameria>\"There's a barrier in place so monsters can't come and go as\nthey please! If you do that, you'll get hurt--ah, see,\nyou've burned your arm!\""
                             ]
                         },
                         {
@@ -7428,14 +7407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お前がやったくせに何言ってんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くそっ…離せ、触んな！」"
+                                "\\n<Lyric>\"You're the one who did this, what are you even saying!\nDamn... let go, don't touch me!\""
                             ]
                         },
                         {
@@ -7587,7 +7559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「痛っ…！」"
+                                "\\n<Ameria>\"Ouch...!\""
                             ]
                         },
                         {
@@ -7667,14 +7639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お前、いい加減にしろよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつまでこんなところに閉じ込めるつもりだ！」"
+                                "\\n<Lyric>\"Enough already! How long do you plan to keep me locked up\nin this place?!\""
                             ]
                         },
                         {
@@ -7747,14 +7712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　外に出すなって、お姉ちゃんが…！」"
+                                "\\n<Ameria>\"But... my sister said not to let you out...\""
                             ]
                         },
                         {
@@ -7785,21 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「誰かが僕を狙ってるって言うんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもだからって、そんな知らないやつの言うことなんか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聞きたくもないね！」"
+                                "\\n<Lyric>\"Someone's after me, right? But that doesn't mean I want to\nlisten to some stranger!\""
                             ]
                         },
                         {
@@ -7872,21 +7816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「知らないやつじゃない、私のお姉ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お姉ちゃんがダメって言ってるんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　外に出ちゃダメ！」"
+                                "\\n<Ameria>\"She's not a stranger, she's my sister! If sister says no,\nthen you can't go outside!\""
                             ]
                         },
                         {
@@ -7966,7 +7896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「だから知るかっての。お前馬鹿かよ！」"
+                                "\\n<Lyric>\"So what? Are you stupid or something?!\""
                             ]
                         },
                         {
@@ -8032,7 +7962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -8105,21 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…一応、お前には感謝してる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死んでる間に僕の世話をしてくれたみたいだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご飯も食べさせてくれるしね」"
+                                "\\n<Lyric>\"...For what it's worth, I'm grateful to you. It seems you\ntook care of me while I was dead, and you even fed me.\""
                             ]
                         },
                         {
@@ -8199,21 +8115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でもお前の言うことなんか聞く義理はないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕は悪魔だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　教会なんかに一秒でもいたくないんだよ」"
+                                "\\n<Lyric>\"But that doesn't mean I have to listen to you. I'm a demon.\nI don't want to be in a church for even a second.\""
                             ]
                         },
                         {
@@ -8293,7 +8195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…最後の忠告だ。障壁を解け」"
+                                "\\n<Lyric>\"...This is my final warning. Release the barrier.\""
                             ]
                         },
                         {
@@ -8366,7 +8268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…だめ」"
+                                "\\n<Ameria>\"...No.\""
                             ]
                         },
                         {
@@ -8446,7 +8348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「チッ…」"
+                                "\\n<Lyric>\"Tch...\""
                             ]
                         },
                         {
@@ -8618,7 +8520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックはアメリアの胸倉を掴んだ。"
+                                "Lyric grabbed Ameria by the collar."
                             ]
                         },
                         {
@@ -8642,7 +8544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「んぐっ…！」"
+                                "\\n<Ameria>\"Ngh...!\""
                             ]
                         },
                         {
@@ -8673,7 +8575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お前を殺して障壁を解いてもいいんだぞ、ぁあ？」"
+                                "\\n<Lyric>\"I could kill you and break the barrier, you know?\""
                             ]
                         },
                         {
@@ -8746,14 +8648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だ…だめ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　外には出さない…！」"
+                                "\\n<Ameria>\"No... no! I won't let you out...!\""
                             ]
                         },
                         {
@@ -8856,14 +8751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「こんの……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあお望みに通り殺してやる！」"
+                                "\\n<Lyric>\"You... then I'll just have to kill you as you wish!\""
                             ]
                         },
                         {
@@ -8936,14 +8824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひっ――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やめて……私は……私は、ただ……！」"
+                                "\\n<Ameria>\"Hii--!? Stop... I'm just...\""
                             ]
                         },
                         {
@@ -9016,7 +8897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -9082,7 +8963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…………」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -9155,7 +9036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…くそっ」"
+                                "\\n<Lyric>\"...Damn it.\""
                             ]
                         },
                         {
@@ -9191,7 +9072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックは胸倉を掴む手を離した。"
+                                "Lyric released his grip on Ameria's collar."
                             ]
                         },
                         {
@@ -9257,7 +9138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うっ…げほ、げほ！」"
+                                "\\n<Ameria>\"Ugh... cough, cough!\""
                             ]
                         },
                         {
@@ -9586,14 +9467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やけどしたとこ、診せて…」"
+                                "\\n<Ameria>\"Lyric... let me see where you got burned...\""
                             ]
                         },
                         {
@@ -9746,14 +9620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うるっさいんだよ！　僕に構うな！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前なんかに診てほしくない！」"
+                                "\\n<Lyric>\"Shut up! Don't bother with me! I don't want you to look at\nit!\""
                             ]
                         },
                         {
@@ -10040,7 +9907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -10085,7 +9952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ぐすっ…うぅ……」"
+                                "\\n<Ameria>\"--Sob... uhh...\""
                             ]
                         },
                         {

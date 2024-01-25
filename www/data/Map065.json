@@ -1977,14 +1977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>「ここは長らく空き家だったのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いまは怪我人や病人の為に使わせてもらっています」"
+                                "\\N<Villager>\"This place has been vacant for a long time, but now it's\nbeing used for the injured and sick.\""
                             ]
                         },
                         {
@@ -2075,14 +2068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>「以前、私と主人は病院で働いておりまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからここで看病のお手伝いをしているんです」"
+                                "\\N<Villager>\"My husband and I used to work at a hospital before. That's\nwhy we're helping out with nursing care here.\""
                             ]
                         },
                         {
@@ -2173,7 +2159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<難民>「命があるだけ良かった…。痛ててて…」"
+                                "\\N<Refugee>\"At least I'm still alive... Ouch, that hurts...\""
                             ]
                         },
                         {
@@ -2264,7 +2250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<難民>「もう！　なんで私がこんな目に――くしゅん！」"
+                                "\\N<Refugee>\"Ugh! Why do I have to go through this--achoo!\""
                             ]
                         },
                         {

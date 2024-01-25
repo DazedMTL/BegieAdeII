@@ -8978,14 +8978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この先は奥に繋がっているはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　違う道を進みましょう」"
+                                "\\n<Roselitte>\"This path should lead deeper inside. Let's take a different\nroute.\""
                             ]
                         },
                         {
@@ -9713,7 +9706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「無理しちゃダメだよ？」"
+                                "\\n<Ameria>\"You shouldn't push yourself too hard, okay?\""
                             ]
                         },
                         {
@@ -9779,14 +9772,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「体調はどう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　怪我を見せてもらってもいい？」"
+                                "\\n<Ameria>\"How are you feeling? May I see your injuries?\""
                             ]
                         },
                         {
@@ -9794,8 +9780,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9841,7 +9827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。お願いします」"
+                                "\\n<Roselitte>\"Yes, please do.\""
                             ]
                         },
                         {
@@ -9858,21 +9844,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<アメリア>「うん、分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　じゃあさっそく医術式を始めるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　少しの間じっとしててね」"
+                                "\\n<Ameria>\"Alright, understood. I'll start the healing magic now, so\nplease stay still for a bit.\""
                             ]
                         },
                         {
@@ -10003,7 +9975,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -10020,7 +9992,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -10079,7 +10051,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ッ――！？」"
+                                "\\n<Roselitte>\"Ah--!?\""
                             ]
                         },
                         {
@@ -10187,14 +10159,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ、今は少し…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　また後でお願いします」"
+                                "\\n<Roselitte>\"No, it's just that... I'll ask again later, please.\""
                             ]
                         },
                         {
@@ -10253,14 +10218,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<アメリア>「そう…分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　でも無理はしないでね」"
+                                "\\n<Ameria>\"I see... Understood. But don't overdo it, okay?\""
                             ]
                         },
                         {
@@ -10746,14 +10704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　終わったよ、ローゼリッテさん」"
+                                "\\n<Ameria>\"Yes, that's it. We're done, Roselitte-san.\""
                             ]
                         },
                         {
@@ -10777,7 +10728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -10843,7 +10794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさん？」"
+                                "\\n<Ameria>\"...Roselitte-san?\""
                             ]
                         },
                         {
@@ -10916,14 +10867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…え？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ああ…アメリア…」"
+                                "\\n<Roselitte>\"...Eh? Oh... Ameria...\""
                             ]
                         },
                         {
@@ -10996,14 +10940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして私、何か変なこと…」"
+                                "\\n<Ameria>\"Are you okay? Did I do something weird...?\""
                             ]
                         },
                         {
@@ -11076,14 +11013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…い、いえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何も問題ありません」"
+                                "\\n<Roselitte>\"...No, it's nothing. There's no problem at all.\""
                             ]
                         },
                         {
@@ -11156,21 +11086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そう…？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、何かあればすぐ教えてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ハレルヤ～♪」"
+                                "\\n<Ameria>\"Really...? But if there's anything, let me know right away.\nHallelujah~♪\""
                             ]
                         },
                         {
@@ -11220,7 +11136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "治療のおかげで、スキルのＨＰコスト量が減少した！"
+                                "Thanks to the treatment, the HP cost for skills has been\nreduced!"
                             ]
                         },
                         {
@@ -11606,14 +11522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この先は奥に繋がっているはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　違う道を進みましょう」"
+                                "\\n<Roselitte>\"This path should lead deeper in. Let's take a different\nroute.\""
                             ]
                         },
                         {
@@ -11990,14 +11899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この先は奥に繋がっているはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　違う道を進みましょう」"
+                                "\\n<Roselitte>\"This path should lead deeper inside. Let's take a different\nroute.\""
                             ]
                         },
                         {
@@ -12201,7 +12103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリアに怪我を診てもらってから進みましょう」"
+                                "\\n<Roselitte>\"Let's have Ameria look at our injuries before we move on.\""
                             ]
                         },
                         {
@@ -12719,7 +12621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子にはカギが掛かっている。"
+                                "The iron bars are locked."
                             ]
                         },
                         {
@@ -12820,7 +12722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子のカギを開けた。"
+                                "Unlocked the iron bars' key."
                             ]
                         },
                         {
@@ -13240,7 +13142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローズクリスタルを手に入れた！"
+                                "Gained the Rose Crystal!"
                             ]
                         },
                         {
@@ -13501,7 +13403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーター×２を手に入れた！"
+                                "Gained 2 Magic Waters!"
                             ]
                         },
                         {
@@ -13766,7 +13668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子にはカギが掛かっている。"
+                                "The iron bars are locked."
                             ]
                         },
                         {
@@ -13867,7 +13769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子のカギを開けた。"
+                                "Unlocked the iron bars."
                             ]
                         },
                         {
@@ -14287,7 +14189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュプリンガーを手に入れた！"
+                                "Gained the Springa!"
                             ]
                         },
                         {
@@ -14548,7 +14450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーション×３を手に入れた！"
+                                "Gained 3 Potions!"
                             ]
                         },
                         {
@@ -14720,7 +14622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴重品「透過スイッチ」を手に入れた！"
+                                "Key Item \"Transparency Switch\" acquired!"
                             ]
                         },
                         {
@@ -14903,7 +14805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴重品「立ち絵初期化スイッチ」を手に入れた！"
+                                "Gained the Key Item \"Character Art Reset Switch\"!"
                             ]
                         },
                         {

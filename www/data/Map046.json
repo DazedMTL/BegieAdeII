@@ -2289,14 +2289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「お父さんとお母さんはお仕事だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私はお留守番」"
+                                "\\n<Villager>\"Dad and Mom are at work. I'm house-sitting.\""
                             ]
                         },
                         {

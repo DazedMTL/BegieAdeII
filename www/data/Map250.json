@@ -5153,21 +5153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――数日前。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タルーザ地方\"城塞都市・アナトス\""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕刻にて。"
+                                "--Several days ago. In the evening at the \"Fortress City of\nAnatos\" in the Tar-Za region."
                             ]
                         },
                         {
@@ -5216,7 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「――でな、そこで俺がこう言ったわけよ！」"
+                                "\\n<Sentry A>\"--and that's when I said it!\""
                             ]
                         },
                         {
@@ -5233,7 +5219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「マジか！　お前度胸あるなぁ」"
+                                "\\n<Sentry B>\"Seriously? You've got guts, man.\""
                             ]
                         },
                         {
@@ -5282,14 +5268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「…にしても、退屈だねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く交代の時間にならねえかな」"
+                                "\\n<Sentry B>\"...But man, it's boring. Can't the shift change come any\nsooner?\""
                             ]
                         },
                         {
@@ -5306,21 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「もう少しの辛抱だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ああ、そういえば、もうそろそろじゃないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンからの定期便」"
+                                "\\n<Sentry A>\"Just a little longer to bear.... Ah, that reminds me, isn't\nit about time for the regular delivery from Annabern?\""
                             ]
                         },
                         {
@@ -5337,14 +5302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「そういえば今日はその日だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すっかり忘れてたぜ」"
+                                "\\n<Sentry B>\"Oh yeah, today's the day for that. Totally slipped my\nmind.\""
                             ]
                         },
                         {
@@ -5361,7 +5319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「…おっ。噂をすればなんとやら」"
+                                "\\n<Sentry B>\"...Oh. Speak of the devil.\""
                             ]
                         },
                         {
@@ -6104,21 +6062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「はいはい、お疲れさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンからの定期便だな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　許可証を見せてくれ」"
+                                "\\n<Sentry A>\"Alright, alright, good work. The regular delivery from\nAnnabern, right? Show me your permit.\""
                             ]
                         },
                         {
@@ -6166,7 +6110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<商人>「ええ、はい。これですよ」"
+                                "\\n<Merchant>\"Yes, here it is.\""
                             ]
                         },
                         {
@@ -6214,14 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<商人>「しかしいい加減、俺は顔パスで良くないですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう何年もやってるんですよ？」"
+                                "\\n<Merchant>\"But really, shouldn't I be on a face pass by now? I've been\ndoing this for years, you know?\""
                             ]
                         },
                         {
@@ -6238,21 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「それは俺じゃなくて管理局に言ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　キビシーんだよ、色々とな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…よし、大丈夫だ。行っていいぞ」"
+                                "\\n<Sentry A>\"That's something you need to take up with the management\noffice. They're strict about these things.... Alright,\nyou're good to go.\""
                             ]
                         },
                         {
@@ -6269,7 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<商人>「ええどうも」"
+                                "\\n<Merchant>\"Thank you very much.\""
                             ]
                         },
                         {
@@ -7562,14 +7485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「…さて、今日はこれで最後か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうさっさと交代しちまおうぜ」"
+                                "\\n<Sentry B>\"...So, is this the last one for today? Let's just hurry up\nand switch out.\""
                             ]
                         },
                         {
@@ -7617,21 +7533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…そうだ、今夜飲みにでもいかないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつものとこ、エール一杯半額の日だぜ」"
+                                "\\n<Sentry A>\"Yeah.... Right, how about we go for a drink tonight? It's\nhalf-price ale night at our usual spot.\""
                             ]
                         },
                         {
@@ -7648,14 +7550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「よく覚えてんなぁお前。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よっしゃ、じゃあ今夜は飲み行くとするかぁ」"
+                                "\\n<Sentry B>\"You've got a good memory for the important stuff. Alright,\nlet's go drinking tonight then.\""
                             ]
                         },
                         {
@@ -7973,7 +7868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「…おい、今のって」"
+                                "\\n<Sentry A>\"...Hey, did you hear that?\""
                             ]
                         },
                         {
@@ -7990,7 +7885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「冗談だろ…！」"
+                                "\\n<Sentry B>\"You're joking...!\""
                             ]
                         },
                         {
@@ -8582,14 +8477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「魔物だ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　積み荷を追ってきたのか！？」"
+                                "\\n<Sentry B>\"Monsters! Did they follow the cargo?!\""
                             ]
                         },
                         {
@@ -8606,14 +8494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「そんなことはどうでもいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やるぞ！」"
+                                "\\n<Sentry A>\"Who cares about that! Let's do this!\""
                             ]
                         },
                         {
@@ -8986,21 +8867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「…ふう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　珍しいな、魔物が来るなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上手い飯でも荷物に積んでたのか？」"
+                                "\\n<Sentry A>\"...Phew. It's rare for monsters to show up. Did we have\nsome tasty food in the cargo or something?\""
                             ]
                         },
                         {
@@ -9082,14 +8949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「さあ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ともかく一度戻って報告を――」"
+                                "\\n<Sentry B>\"Who knows... Anyway, let's head back and report--\""
                             ]
                         },
                         {
@@ -9208,7 +9068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「――はぁ…？」"
+                                "\\n<Sentry B>\"--Huh...?\""
                             ]
                         },
                         {
@@ -9225,7 +9085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「これは…どういうことだ…？」"
+                                "\\n<Sentry A>\"What is this... What's going on...?\""
                             ]
                         },
                         {
@@ -9944,7 +9804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「なんだこれ…なんだこれ…！？」"
+                                "\\n<Sentry A>\"What is this... What is this...?!\""
                             ]
                         },
                         {
@@ -10678,14 +10538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ａ>「うわああああああああッッ！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物がッ！　魔物の大群がぁ！！？」"
+                                "\\n<Sentry A>\"Aaaaahhhhhhh!! Monsters! There's a horde of them!!\""
                             ]
                         },
                         {
@@ -10714,14 +10567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<番兵Ｂ>「警備兵！！　誰か来てくれ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰かッ！！　誰かぁぁぁああああッッ！！」"
+                                "\\n<Sentry B>\"Guards!! Someone come help!! Anyone!! Anybodyyyyy!!\""
                             ]
                         },
                         {

@@ -36077,7 +36077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブリッツシュラークを手に入れた！"
+                                "Gained Blitz Schrack!"
                             ]
                         },
                         {
@@ -37573,7 +37573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーションを手に入れた！"
+                                "Gained a High Potion!"
                             ]
                         },
                         {
@@ -37834,7 +37834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裁ちばさみを手に入れた！"
+                                "Gained a pair of scissors!"
                             ]
                         },
                         {
@@ -38095,7 +38095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水×２を手に入れた！"
+                                "Gained 2 Beautiful Waters!"
                             ]
                         },
                         {
@@ -38237,14 +38237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水が溜まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら体の汚れを落とせるだろう。"
+                                "There's a pool of clear water here. This looks like a good\nplace to wash off the dirt on my body."
                             ]
                         },
                         {
@@ -38261,7 +38254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の汚れを洗い流しますか？"
+                                "Shall I wash off the dirt from my body?"
                             ]
                         },
                         {
@@ -38269,8 +38262,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -38718,14 +38711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「――君たち！　ああ、よかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかこんな時に人に会えるなんて思わなかった！」"
+                                "\\n<Man a>\"You guys! Ah, what a relief! I never thought I'd meet\nsomeone at a time like this!\""
                             ]
                         },
                         {
@@ -38742,14 +38728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなたたちこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな所でいったいなにを？」"
+                                "\\n<Roselitte>\"What about you? What are you doing in a place like this?\""
                             ]
                         },
                         {
@@ -38766,21 +38745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「俺たち、狩りに出ていたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしたら魔物がたくさん現れて町に戻れず…そう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それより、相棒を見てくれ！」"
+                                "\\n<Man a>\"We were out hunting. Then, a bunch of monsters appeared,\nand we couldn't make it back to town... Oh! More\nimportantly, please look at my partner!\""
                             ]
                         },
                         {
@@ -38797,7 +38762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｂ>「うう……」"
+                                "\\n<Man b>\"Ugh...\""
                             ]
                         },
                         {
@@ -38814,21 +38779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話をしていた男の後ろにもう一人の男が座っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その男の表情は苦悶に歪んでいて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黒い血に濡れた片足を引きずっている。"
+                                "Behind the man who was speaking, another man was sitting.\nHis expression was twisted in agony, and he was dragging a\nleg soaked in black blood."
                             ]
                         },
                         {
@@ -38978,7 +38929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「大変！　怪我してる！」"
+                                "\\n<Ameria>\"This is terrible! He's injured!\""
                             ]
                         },
                         {
@@ -38995,21 +38946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「なんとか町に戻ろうとしてたんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ついさっき魔物に襲われてしまったんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頼む！　助けてくれ！」"
+                                "\\n<Man a>\"We were trying to make it back to town somehow, but we were\njust attacked by a monster! Please, help us!\""
                             ]
                         },
                         {
@@ -39068,14 +39005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫！　私が治せるから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのままじっとしててね！」"
+                                "\\n<Ameria>\"It's okay! I can heal you! Just stay still, okay?\""
                             ]
                         },
                         {
@@ -39248,14 +39178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｂ>「ああ…噓みたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんなにひどい怪我だったのに、一瞬で…」"
+                                "\\n<Man b>\"Ah... It's like a lie. Such a terrible injury, healed in an\ninstant...\""
                             ]
                         },
                         {
@@ -39272,14 +39195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「す、素晴らしい！　奇跡だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかこんな所で医術士に出会えるなんて！」"
+                                "\\n<Man a>\"Amazing! A miracle! To think we'd meet a healer in a place\nlike this!\""
                             ]
                         },
                         {
@@ -39296,14 +39212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｂ>「…ありがとう。おかげで助かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少ないが、これを受け取ってほしい」"
+                                "\\n<Man b>\"...Thank you. You saved me. It's not much, but please\naccept this.\""
                             ]
                         },
                         {
@@ -39341,7 +39250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "3000\\G を受け取った。"
+                                "Gained 3000\\G."
                             ]
                         },
                         {
@@ -39358,7 +39267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「町まで同行しましょうか」"
+                                "\\n<Roselitte>\"Shall we accompany you to the town?\""
                             ]
                         },
                         {
@@ -39375,21 +39284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｂ>「いや…大丈夫。町はもうすぐそこだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君たちもこんな時に外に出ているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か急ぎの用でもあるんだろう？」"
+                                "\\n<Man b>\"No... It's okay. The town is just around the corner. You're\nout here at such a time too. You must have some urgent\nbusiness, right?\""
                             ]
                         },
                         {
@@ -39406,21 +39301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「怪我も治ったことだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここまで来れればもう心配ご無用だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この辺りは庭みたいなものだからね！」"
+                                "\\n<Man a>\"Now that the injury is healed, there's no need to worry if\nwe've made it this far! This area is like our backyard!\""
                             ]
                         },
                         {
@@ -39437,21 +39318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「さあ行こう、相棒！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く帰ってこの素晴らしい冒険譚を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　語り合おうではないか！」"
+                                "\\n<Man a>\"Let's go, partner! Let's hurry back and share our\nincredible adventure story!\""
                             ]
                         },
                         {
@@ -39468,14 +39335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「お嬢さん！　助けてくれて本当にありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君のような医術士に出会えて良かった！」"
+                                "\\n<Man a>\"Miss! Thank you so much for your help! We're lucky to have\nmet a healer like you!\""
                             ]
                         },
                         {
@@ -39534,21 +39394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも道中くれぐれも気をつけてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ハレルヤ～♪」"
+                                "\\n<Ameria>\"Ah, thank you. But please be careful on your way.\nHallelujah~♪\""
                             ]
                         },
                         {

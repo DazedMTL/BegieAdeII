@@ -9159,7 +9159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊のアジトA"
+                                "Thieves' Hideout A"
                             ]
                         },
                         {
@@ -9167,9 +9167,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv3",
-                                    "lv5",
-                                    "選択しない"
+                                    "Lv3",
+                                    "Lv5",
+                                    "Do not choose"
                                 ],
                                 2,
                                 0,
@@ -9904,10 +9904,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "胸はだけ",
-                                    "下着",
-                                    "全裸"
+                                    "Normal",
+                                    "Expose chest",
+                                    "Underwear",
+                                    "Fully Nude"
                                 ],
                                 1,
                                 0,
@@ -10672,7 +10672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫欲度・アメリアCP・リリックCPを封印します"
+                                "Sealing the Lust Level. Ameria CP. Lyric CP."
                             ]
                         },
                         {
@@ -10902,7 +10902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コヨルの森"
+                                "Koyoru Forest"
                             ]
                         },
                         {
@@ -10910,9 +10910,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv6",
-                                    "lv9",
-                                    "選択しない"
+                                    "Lv6",
+                                    "Lv9",
+                                    "Do not choose"
                                 ],
                                 2,
                                 0,
@@ -11094,14 +11094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫欲度・アメリア・リリックのCPを開放します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（メニュー開閉・マップ移動等が必要）"
+                                "Unlocking the Lust Level. Ameria and Lyric's CP (Menu toggle\nand map movement required)"
                             ]
                         },
                         {
@@ -11692,9 +11685,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "精液なし",
-                                    "精液(少)",
-                                    "精液(多)"
+                                    "Without semen",
+                                    "Semen (Small Amount)",
+                                    "Semen (a lot)"
                                 ],
                                 1,
                                 0,
@@ -12014,28 +12007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「サンプルテキスト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サンプルテキスト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サンプルテキスト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サンプルテキスト」"
+                                "\\n<Soldier>\"\""
                             ]
                         },
                         {
@@ -12128,7 +12100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敗北"
+                                "Defeat"
                             ]
                         },
                         {
@@ -12183,7 +12155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フェードアウトテキスト"
+                                "Fade-out Text"
                             ]
                         },
                         {
@@ -12205,21 +12177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンテキスト(弱)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "NEXT：決定キー"
+                                "Scene Text (Weak) NEXT: Confirm Key"
                             ]
                         },
                         {
@@ -12236,21 +12194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンテキスト(強)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "NEXT：決定キー"
+                                "Scene Text (Strong) NEXT: Confirm Key"
                             ]
                         },
                         {
@@ -12267,21 +12211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンテキスト(射精)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "NEXT：決定キー"
+                                "Scene Text (Ejaculation) NEXT: Confirm Key"
                             ]
                         },
                         {
@@ -12430,8 +12360,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "マップ立ち絵",
-                                    "戦闘立ち絵"
+                                    "Map Standing Picture",
+                                    "Battle Stance Image"
                                 ],
                                 1,
                                 0,
@@ -12789,8 +12719,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "非戦闘",
-                                    "戦闘"
+                                    "Non-combat",
+                                    "Battle"
                                 ],
                                 1,
                                 0,
@@ -12998,8 +12928,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "淫欲度開放ＯＮ",
-                                    "淫欲度開放ＯＦＦ"
+                                    "Lust Release ON",
+                                    "Lust Release OFF"
                                 ],
                                 1,
                                 0,
@@ -13911,9 +13841,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "淫欲度≦２９",
-                                    "淫欲度≦７９",
-                                    "淫欲度≦１００"
+                                    "Lewdness ≤ 29",
+                                    "Lewdness ≤ 79",
+                                    "Lewdness ≤ 100"
                                 ],
                                 1,
                                 0,
@@ -20249,8 +20179,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "剣あり",
-                                    "剣なし"
+                                    "Sword",
+                                    "No sword"
                                 ],
                                 1,
                                 0,
@@ -20376,8 +20306,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヒト",
-                                    "オーク"
+                                    "Human",
+                                    "Orc"
                                 ],
                                 1,
                                 0,
@@ -22599,9 +22529,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "破れ無し",
-                                    "破れＡ",
-                                    "破れＢ"
+                                    "No tears",
+                                    "Torn A",
+                                    "Torn B"
                                 ],
                                 1,
                                 0,
@@ -22834,9 +22764,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "男表示",
-                                    "男透過",
-                                    "男消去"
+                                    "Display Male",
+                                    "Transparent Man",
+                                    "Male Elimination"
                                 ],
                                 1,
                                 0,
@@ -24044,9 +23974,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "服装Ａ",
-                                    "服装Ｂ",
-                                    "服装Ｃ"
+                                    "Outfit A",
+                                    "Outfit B",
+                                    "Outfit C"
                                 ],
                                 1,
                                 0,
@@ -24385,7 +24315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホルヌス洞窟"
+                                "Holnus Cave"
                             ]
                         },
                         {
@@ -24393,9 +24323,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv10",
-                                    "lv13",
-                                    "選択しない"
+                                    "Lv10",
+                                    "Lv13",
+                                    "Do not select"
                                 ],
                                 2,
                                 0,
@@ -25121,7 +25051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナヌーマ森林"
+                                "Nanu-Ma Forest"
                             ]
                         },
                         {
@@ -25129,9 +25059,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv14",
-                                    "lv18",
-                                    "選択しない"
+                                    "Lv14",
+                                    "Lv18",
+                                    "Do not choose"
                                 ],
                                 2,
                                 0,
@@ -25653,7 +25583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナヌーマ密林"
+                                "Nanu-Ma Dense Forest"
                             ]
                         },
                         {
@@ -25661,9 +25591,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv19",
-                                    "lv24",
-                                    "選択しない"
+                                    "Lv19",
+                                    "Lv24",
+                                    "Do not select"
                                 ],
                                 2,
                                 0,
@@ -26205,7 +26135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下囚人街"
+                                "Underground Prison Town"
                             ]
                         },
                         {
@@ -26213,9 +26143,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv25",
-                                    "lv30",
-                                    "選択しない"
+                                    "Lv25",
+                                    "Lv30",
+                                    "Do not choose"
                                 ],
                                 2,
                                 0,
@@ -27721,7 +27651,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "どちらの敗北シーンに移行しますか？"
+                                "Which defeat scene would you like to proceed to?"
                             ]
                         },
                         {
@@ -27729,8 +27659,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "パターンＡ",
-                                    "パターンＢ"
+                                    "Pattern A",
+                                    "Pattern B"
                                 ],
                                 1,
                                 0,
@@ -28419,8 +28349,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "淫欲度上限開放ＯＮ",
-                                    "淫欲度上限開放ＯＦＦ"
+                                    "Lust Limit Release ON",
+                                    "Lust Limit Release OFF"
                                 ],
                                 1,
                                 0,
@@ -28542,8 +28472,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "処女",
-                                    "非処女"
+                                    "Virgin",
+                                    "Non-virgin"
                                 ],
                                 1,
                                 0,
@@ -28681,21 +28611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ひいっ…♡　ひいっ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケツ穴ぁ…すごいのぉ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケツ穴おちんぽで、脳みそ、溶けそっ…♡」"
+                                "\\n<Roselitte>\"Hii...♡ Hii...♡ My ass... it's amazing...♡ My brain is\nmelting from the cock in my ass...♡\""
                             ]
                         },
                         {
@@ -28719,21 +28635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｂ>「本当にぶっこわれたなぁ…(笑)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おーい、ローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　可愛そうだから、俺のちんぽもやるよ」"
+                                "\\n<Man B>\"You're really broken now, huh...(laughs) Hey, Lady\nRoselitte. I feel sorry for you, so I'll give you my dick\ntoo.\""
                             ]
                         },
                         {
@@ -28750,14 +28652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｃ>「俺も混ぜてくれや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見てたらヤりたくなったわ(笑)」"
+                                "\\n<Male C>\"Let me join in too. Watching you guys made me wanna fuck\ntoo (laughs)\""
                             ]
                         },
                         {
@@ -28774,14 +28669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｂ>「おっ、なら勝負しようぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どっちが先にケツ穴イかせるか」"
+                                "\\n<Man B>\"Oh, then let's have a competition. Let's see who can make\nher cum from her ass first.\""
                             ]
                         },
                         {
@@ -28798,7 +28686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ｃ>「いいね、やろやろ(笑)」"
+                                "\\n<Male C>\"Sounds good, let's do it (laughs)\""
                             ]
                         },
                         {
@@ -28822,21 +28710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あ…はっ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おちんぽ、いっぱぁい♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとうございます…ありがとうございますぅ…♡」"
+                                "\\n<Roselitte>\"Ah... Hah...♡ So many cocks♡ Thank you... Thank you so\nmuch...♡\""
                             ]
                         },
                         {
@@ -29977,11 +29851,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アメリア_H2",
-                                    "アメリア_H3",
-                                    "アメリア_H4",
-                                    "アメリア_H5",
-                                    "アメリア_H6"
+                                    "Ameria's pussy",
+                                    "Ameria's pussy",
+                                    "Ameria's pussy",
+                                    "Ameria H5",
+                                    "Ameria: Ah not there my pussy"
                                 ],
                                 1,
                                 0,
@@ -30002,8 +29876,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "前半",
-                                    "後半"
+                                    "First half",
+                                    "Second half"
                                 ],
                                 1,
                                 0,
@@ -30910,8 +30784,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "前半",
-                                    "後半"
+                                    "First half",
+                                    "Second half"
                                 ],
                                 1,
                                 0,
@@ -31818,8 +31692,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "前半",
-                                    "後半"
+                                    "First half",
+                                    "Second half"
                                 ],
                                 1,
                                 0,
@@ -34333,14 +34207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\^"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -34376,14 +34243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「確かに私は、一人で何もできなかった……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\|\\|\\^"
+                                "\\n<Roselitte>\"It's true, I couldn't do anything on my own...\""
                             ]
                         },
                         {
@@ -34414,21 +34274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あまつさえ二度も死んで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのたびに、奇跡を起こしてもらった……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\|\\|\\|\\^"
+                                "\\n<Roselitte>\"Even more, I've died twice, and each time, miracles were\nperformed to save me...\""
                             ]
                         },
                         {
@@ -34459,21 +34305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「それだけじゃない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これまで、ずっと……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\|\\|\\|\\^"
+                                "\\n<Roselitte>\"But that's not all... All this time, always...\""
                             ]
                         },
                         {
@@ -34546,21 +34378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ずっと、アメリアとリリックに……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助けられてきた……！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\|\\|\\^"
+                                "\\n<Roselitte>\"Always, I've been helped by Ameria and Lyric...!\""
                             ]
                         },
                         {
@@ -34591,14 +34409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「二人は命をかけて戦ってくれたのにッ…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\|\\|\\^"
+                                "\\n<Roselitte>\"They fought with their lives on the line for us...!\""
                             ]
                         },
                         {
@@ -34629,14 +34440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私が！　多くの人が！　二人に救われているのにッ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\|\\|\\|\\^"
+                                "\\n<Roselitte>\"I! So many people! We've all been saved by them!\""
                             ]
                         },
                         {
@@ -34709,14 +34513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――それなのにッ！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\^"
+                                "\\n<Roselitte>\"--And yet!!\""
                             ]
                         },
                         {
@@ -34933,7 +34730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「騎士の私が、二人を守れないでどうするッ！！」"
+                                "\\n<Roselitte>\"What am I doing if I, a knight, can't protect the two of\nthem!!\""
                             ]
                         },
                         {

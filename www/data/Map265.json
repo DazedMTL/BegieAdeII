@@ -21394,14 +21394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「ぉおっそい！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もっときりきり走れよ！」"
+                                "\\n<Hooded woman>\"You're so slow! Run faster, come on!\""
                             ]
                         },
                         {
@@ -21474,14 +21467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「はあ、はあ…そんな、無理だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し待って…！」"
+                                "\\n<Sister girl>\"Haa, haa... That's impossible! Wait a bit...!\""
                             ]
                         },
                         {
@@ -21561,7 +21547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「いやいや、待てって言ってもさぁ！」"
+                                "\\n<Hooded woman>\"No way, even if you say wait...!\""
                             ]
                         },
                         {
@@ -21585,7 +21571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊の声>「――いたぞ、あそこだ！」"
+                                "\\n<Voice of the thief>\"--There they are, over there!\""
                             ]
                         },
                         {
@@ -22090,7 +22076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「シスターの女を捕まえろ！」"
+                                "\\n<Thief A>\"Catch the sister girl!\""
                             ]
                         },
                         {
@@ -22163,7 +22149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「チッ…」"
+                                "\\n<Hooded woman>\"Tch...\""
                             ]
                         },
                         {
@@ -22464,14 +22450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「追い詰めたぜ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう一人の女も一緒だ！」"
+                                "\\n<Thief B>\"We've cornered them! The other girl is with her too!\""
                             ]
                         },
                         {
@@ -22602,7 +22581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「次から次へと、うざったいなぁ…」"
+                                "\\n<Hooded woman>\"One after another, how annoying...\""
                             ]
                         },
                         {
@@ -23051,7 +23030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「どうしよう…このままじゃ…！」"
+                                "\\n<Sister girl>\"What should we do... At this rate...!\""
                             ]
                         },
                         {
@@ -23185,7 +23164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フードを被った女>「――こっちだ！」"
+                                "\\n<Hooded woman>\"--This way!\""
                             ]
                         },
                         {
@@ -23550,7 +23529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスターの少女>「あ、待って！」"
+                                "\\n<Sister girl>\"Ah, wait!\""
                             ]
                         },
                         {
@@ -23784,7 +23763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「逃げたぞ、追えーッ！」"
+                                "\\n<Thief A>\"They've escaped, chase them--!\""
                             ]
                         },
                         {

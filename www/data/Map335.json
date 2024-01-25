@@ -5214,7 +5214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…リリックのこと嫌い」"
+                                "\\n<Ameria>\"I don't like Lyric...\""
                             ]
                         },
                         {
@@ -5294,14 +5294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「えー？　穏便に済ませたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　尋問の成果としてはなかなかだったでしょ、ローゼ？」"
+                                "\\n<Lyric>\"Eh-? Even though we settled things amicably. As for the\nresults of the interrogation, it was quite something, wasn't\nit, Rose?\""
                             ]
                         },
                         {
@@ -5374,7 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ノーコメントで」"
+                                "\\n<Roselitte>\"...No comment.\""
                             ]
                         },
                         {
@@ -5538,28 +5531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…しかしまさか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの場所がアナトスに通じているなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　にわかに信じがたいですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし本当ならこれは大きなチャンスですね」"
+                                "\\n<Roselitte>\"...But to think that place leads to Anatos... It's hard to\nbelieve, but if it's true, this could be a big opportunity.\""
                             ]
                         },
                         {
@@ -5590,7 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック、そこまでの道案内を頼めますか」"
+                                "\\n<Roselitte>\"Lyric, can you guide us there?\""
                             ]
                         },
                         {
@@ -5621,21 +5593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君たちを追って一人でそこまで行ったからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道はばっちり覚えてるよ」"
+                                "\\n<Lyric>\"Sure. I followed you guys all the way there by myself. I\nremember the way perfectly.\""
                             ]
                         },
                         {
@@ -5666,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「よし…。では、進みましょう」"
+                                "\\n<Roselitte>\"Alright... then let's move forward.\""
                             ]
                         },
                         {
@@ -6325,7 +6283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

@@ -1998,7 +1998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手紙や書類の類が無造作に置かれている。"
+                                "Letters and documents are carelessly placed around."
                             ]
                         },
                         {
@@ -2057,7 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――これは…？」"
+                                "\\n<Roselitte>\"--What's this...?\""
                             ]
                         },
                         {
@@ -2086,14 +2086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは中身の抜かれた封筒を手に取って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その様子を確かめた。"
+                                "Roselitte picked up an envelope with its contents removed\nand examined it."
                             ]
                         },
                         {
@@ -2152,14 +2145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この封蝋の模様は、帝国皇家のもの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　差出人の名前はない。宛名は…」"
+                                "\\n<Roselitte>\"This seal pattern is from the imperial family... There's no\nsender's name. The addressee is...\""
                             ]
                         },
                         {
@@ -2176,7 +2162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ルエール・テレイザ」"
+                                "\\n<Roselitte>\"Luerre. Theresa\""
                             ]
                         },
                         {
@@ -2193,7 +2179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -2271,7 +2257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは封筒を元に戻した。"
+                                "Roselitte put the envelope back in its place."
                             ]
                         },
                         {

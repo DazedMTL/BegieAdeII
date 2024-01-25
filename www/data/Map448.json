@@ -5001,7 +5001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様……」"
+                                "\\n<Ameria>\"Priest-sama...\""
                             ]
                         },
                         {
@@ -5049,7 +5049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ん、どうした？」"
+                                "\\n<Luerre>\"Hmm, what's wrong?\""
                             ]
                         },
                         {
@@ -5066,14 +5066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ごめんなさい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が……私が出しゃばったばかりに、こんな……」"
+                                "\\n<Ameria>\"I'm sorry... It's all because I... because I overstepped,\nthat this...\""
                             ]
                         },
                         {
@@ -5090,7 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -5107,7 +5100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「どうして私に謝っているのか、分からないな」"
+                                "\\n<Luerre>\"I don't understand why you're apologizing to me.\""
                             ]
                         },
                         {
@@ -5124,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「え……？」"
+                                "\\n<Ameria>\"Eh...?\""
                             ]
                         },
                         {
@@ -5141,21 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「お前はよくやった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　悪いのは私のほうだ。…すまない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私のせいでお前に苦労をかけそうだ」"
+                                "\\n<Luerre>\"You did well. The fault lies with me... I'm sorry. It seems\nI've caused you trouble because of my actions.\""
                             ]
                         },
                         {
@@ -5237,7 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな……。そんなことない……！」"
+                                "\\n<Ameria>\"No... that's not it...!\""
                             ]
                         },
                         {
@@ -5254,14 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私が失敗したから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私がもっとちゃんとしてればこんなことには――！」"
+                                "\\n<Ameria>\"It's because I failed! If I had been more careful, this\nwouldn't have happened--!\""
                             ]
                         },
                         {
@@ -5896,14 +5868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「ルエールの派遣医術士、ルエール・テレイザ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　既に話は伝わっているな」"
+                                "\\n<Valam soldier>\"Dispatched medical officer of Luerre, Luerre Theresa.\nYou've been informed already, haven't you?\""
                             ]
                         },
                         {
@@ -5920,28 +5885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「今回の一件…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あれはお前が判断し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまつさえ見習いの医術士に治療の支持をした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…間違っていないな？」"
+                                "\\n<Valam soldier>\"This incident... it was your judgment, and even more so,\nyou gave treatment instructions to an apprentice medic....\nAm I wrong?\""
                             ]
                         },
                         {
@@ -5958,7 +5902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ああ。その通りだ」"
+                                "\\n<Luerre>\"Yes, that's correct.\""
                             ]
                         },
                         {
@@ -5975,21 +5919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「お前の行動は帝国本土で大きな問題となっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　事の是非は本土の司法が収めることとなったため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま我々に従ってもらおうか」"
+                                "\\n<Valam soldier>\"Your actions have become a major issue in the imperial\nhomeland. The matter of right and wrong will be settled by\nthe homeland's judiciary, so for now, you will follow us.\""
                             ]
                         },
                         {
@@ -6510,7 +6440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様、待って！」"
+                                "\\n<Ameria>\"Priest-sama, wait!\""
                             ]
                         },
                         {
@@ -6558,14 +6488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「すまないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この場所は好きに使え。本も全部、お前にやる」"
+                                "\\n<Luerre>\"I'm sorry. Feel free to use this place as you like. All the\nbooks, I'll give them all to you.\""
                             ]
                         },
                         {
@@ -6582,21 +6505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嫌だ！　私、司祭様と離れたくない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もっと色々教えてほしいし、それに、まだ――！」"
+                                "\\n<Ameria>\"I don't want that... I don't want to be separated from\nPriest-sama! I want to learn so much more from you, and\nbesides, there's still--!\""
                             ]
                         },
                         {
@@ -6613,21 +6522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「まだちゃんと、助けてくれたお礼をしてない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな形で離れるのなんて嫌！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度は私が！　私が司祭様をッ…！」"
+                                "\\n<Ameria>\"I still haven't properly thanked you for helping me! I hate\nthe idea of parting like this! Next time, I will be the one!\nI will be the one to help Priest-sama...!\""
                             ]
                         },
                         {
@@ -6644,7 +6539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -6673,7 +6568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルエールは、アメリアの頭に手を置いた。"
+                                "Luerre placed her hand on Ameria's head."
                             ]
                         },
                         {
@@ -6690,21 +6585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前はもう、立派な医術士だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良い弟子を持って、私は幸せだよ」"
+                                "\\n<Luerre>\"...Ameria. You are already a fine medical officer. Having a\ngood disciple like you makes me happy.\""
                             ]
                         },
                         {
@@ -6721,14 +6602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「っ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぐす……！　う、うぅぅ……！」"
+                                "\\n<Ameria>\"Ah...! *sob*... *sniffle*...\""
                             ]
                         },
                         {
@@ -6745,7 +6619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「でも私の言ったことは、忘れていないな？」"
+                                "\\n<Luerre>\"But you haven't forgotten what I told you, have you?\""
                             ]
                         },
                         {
@@ -6762,28 +6636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「お前は優しく、強い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもだからこそ誰よりも努力して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　正しく学ばなければならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　練習を重ね、ゆっくりと知識や技術を積め」"
+                                "\\n<Luerre>\"You are kind and strong. But precisely because of that, you\nmust work harder than anyone else and learn correctly. Keep\npracticing and slowly accumulate knowledge and skills.\""
                             ]
                         },
                         {
@@ -6800,14 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うっ、う……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　司祭様ぁ……」"
+                                "\\n<Ameria>\"*sob*... *sniffle*... Priest-sama...\""
                             ]
                         },
                         {
@@ -6824,21 +6670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「さて、さて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かに今回は少し失敗したかもしれないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…こういう時、私はどうしろって言った？」"
+                                "\\n<Luerre>\"Now, now. Perhaps we did fail a bit this time.... What did\nI tell you to do in such situations?\""
                             ]
                         },
                         {
@@ -6855,21 +6687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひっく……ひっく……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　挑戦して……失敗したら、反省する……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手記に、書く……」"
+                                "\\n<Ameria>\"*hic*... *hic*... To challenge... and if I fail, to\nreflect... to write it down in my journal...\""
                             ]
                         },
                         {
@@ -6886,14 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「その通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…だが、もうひとつ忘れているよ」"
+                                "\\n<Luerre>\"That's right.... But there's one more thing you're\nforgetting.\""
                             ]
                         },
                         {
@@ -6910,14 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「神に祈れ。神はきっと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　がんばっているお前に応えてくれるはずだ」"
+                                "\\n<Luerre>\"Pray to God. Surely God will answer you who are working so\nhard.\""
                             ]
                         },
                         {
@@ -7140,7 +6944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -7157,7 +6961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私の……せい……」"
+                                "\\n<Ameria>\"It's my... fault...\""
                             ]
                         },
                         {
@@ -7174,14 +6978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「どうしよう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私のせいで……私の……わたし、が……」"
+                                "\\n<Ameria>\"What should I do... It's all my fault... It's all... me...\""
                             ]
                         },
                         {
@@ -7198,7 +6995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -7215,14 +7012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そうだ……手記……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　失敗したら、手記に書いて、反省……」"
+                                "\\n<Ameria>\"That's right... the journal... If I fail, I should write it\ndown in the journal and reflect...\""
                             ]
                         },
                         {
@@ -7341,7 +7131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは手記にペンを走らせた。"
+                                "Ameria began to write in her journal."
                             ]
                         },
                         {
@@ -7365,7 +7155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -7382,7 +7172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -7399,7 +7189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……う……うううぅぅぅぅッッ…！！」"
+                                "\\n<Ameria>\"...uh... uuuuuhhhhhhhhhhh...!!\""
                             ]
                         },
                         {
@@ -7553,7 +7343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは、書いている途中の手記を投げ捨てた。"
+                                "Ameria threw away the journal she was writing in."
                             ]
                         },
                         {
@@ -7570,14 +7360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅぅぅぅああああああんッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしよう！　私のせいで！　私のせいでぇ！！」"
+                                "\\n<Ameria>\"Uuuuuaaaaaahhhhh!! What should I do! It's all my fault!\nIt's all because of meee!!\""
                             ]
                         },
                         {
@@ -7594,14 +7377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ごめんなさい司祭様ぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が！　私なんかが！　でしゃばったばっかりに！」"
+                                "\\n<Ameria>\"I'm sorry Priest-sama! It's all because of me! Because\nsomeone like me overstepped!\""
                             ]
                         },
                         {
@@ -7618,14 +7394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ああああああッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ごめんなさい！　みんな！　ごめんなさいぃぃぃいい！！」"
+                                "\\n<Ameria>\"Aaaaaahhhhh! I'm sorry! Everyone! I'm so sorryyyyy!!\""
                             ]
                         },
                         {
@@ -7642,21 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ぁぁぁぁあああああ……ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うわぁぁああああん！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぁぁぁぁぁあああああッッ…！！」"
+                                "\\n<Ameria>\"Aaaaahhh... Ahhhhhhh!! Uwaaaaaahhh! Aaaaaahhhhh...!!\""
                             ]
                         },
                         {
@@ -7680,7 +7435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「うるさいなぁ」"
+                                "\\n<???>\"You're so noisy.\""
                             ]
                         },
                         {
@@ -7697,7 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――へっ…？」"
+                                "\\n<Ameria>\"--Eh...?\""
                             ]
                         },
                         {
@@ -7890,21 +7645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「やっと誰か来たと思えば、泣き虫シスターか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まったく…結界魔法のせいで外に出られないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま餓死するかと思ったよ」"
+                                "\\n<Lyric>\"Just when someone finally shows up, it's the crybaby\nsister. Seriously... I can't get out because of the barrier\nmagic, and I thought I was going to starve to death here.\""
                             ]
                         },
                         {
@@ -7921,7 +7662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「え……えぇっ……？」"
+                                "\\n<Ameria>\"Eh... Ehhh...?\""
                             ]
                         },
                         {
@@ -7938,28 +7679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕をここに連れてきたのは君か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死んだと思ったけど案外助かるもんだねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっそくだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずはその辺りの話を聞かせてもらおうか」"
+                                "\\n<Lyric>\"Did you bring me here? I thought I was dead, but it turns\nout I'm surprisingly alive. Anyway, let's start by you\ntelling me what's going on around here.\""
                             ]
                         },
                         {
@@ -8035,7 +7755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひぃッ！？」"
+                                "\\n<Ameria>\"Eek!?\""
                             ]
                         },
                         {
@@ -8052,14 +7772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「は？　おい、ちょっと待てよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　別に僕は何も――」"
+                                "\\n<Lyric>\"Huh? Hey, wait a minute. I didn't do anything--\""
                             ]
                         },
                         {
@@ -8076,14 +7789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「しししっ、死体が！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死体が、動いている！　ゾンビ！？　おばけ！！？」"
+                                "\\n<Ameria>\"The-the-the corpse! The corpse is moving! A zombie!? A\nghost!!?\""
                             ]
                         },
                         {
@@ -8100,14 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「は…はあ！？　おばけ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　んなわけあるか、生きてるっての！」"
+                                "\\n<Lyric>\"Ha... Hah!? A ghost!? No way, I'm alive!\""
                             ]
                         },
                         {
@@ -8124,21 +7823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「おおおおおおばけとしゃべってる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご、ごめんなさいごめんなさいごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　置いていったの謝るから、怒らないでッ！」"
+                                "\\n<Ameria>\"I'm talking to a ghost!!! I'm sorry, I'm sorry, I'm sorry!\nI apologize for leaving you behind, please don't be angry!\""
                             ]
                         },
                         {
@@ -8171,14 +7856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ちょ――待て、はやまるな！　話を聞け！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕はおばけじゃないし、何もしない！」"
+                                "\\n<Lyric>\"Wait--hold on, don't rush! Listen to me! I'm not a ghost,\nand I won't do anything!\""
                             ]
                         },
                         {
@@ -8258,7 +7936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「いやぁぁぁぁぁああああああッッ！！」"
+                                "\\n<Ameria>\"Nooooooaaaaaaahhhhh!!\""
                             ]
                         },
                         {
@@ -8298,7 +7976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああーーーーッッ！！？」"
+                                "\\n<Lyric>\"Aaah----!!\""
                             ]
                         },
                         {
@@ -8315,7 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「悪霊退散！　悪霊退散！　悪霊退散ッ！！」"
+                                "\\n<Ameria>\"Evil spirits begone! Evil spirits begone! Evil spirits\nbegone!!\""
                             ]
                         },
                         {
@@ -8332,14 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「待て待て待て待て待て待てッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死ぬッ！　死んじゃうッ！！」"
+                                "\\n<Lyric>\"Wait wait wait wait wait wait!! I'm going to die! I'll\ndie!!\""
                             ]
                         },
                         {
@@ -8356,7 +8027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「南無三――ッ！！」"
+                                "\\n<Ameria>\"Namu san--!!\""
                             ]
                         },
                         {
@@ -8447,7 +8118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ゙あ゙あ゙あ゙あ゙あ゙あ゙あ゙ーーーーッッ！！？」"
+                                "\\n<Lyric>\"Aaaaaaaaahhhhh----!!\""
                             ]
                         },
                         {
@@ -8638,7 +8309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――はい。終わったよ、ローゼリッテさん」"
+                                "\\n<Ameria>\"--There. It's done, Roselitte-san.\""
                             ]
                         },
                         {
@@ -8674,7 +8345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スキルのＨＰ消費量が減少した！（未実装）"
+                                "The HP cost of skills has been reduced! (Not implemented\nyet)"
                             ]
                         },
                         {
@@ -9516,7 +9187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -9540,7 +9211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……どう……しよう……」"
+                                "\\n<Ameria>\"...What should I... do...\""
                             ]
                         },
                         {
@@ -9571,14 +9242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私の……せい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私のせいで……私の……わたし、が……」"
+                                "\\n<Ameria>\"It's my... fault... It's all because of me... It's my... I,\nam...\""
                             ]
                         },
                         {
@@ -9644,7 +9308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -9710,14 +9374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そうだ……手記……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　失敗したら、手記に書いて、反省、しなきゃ……」"
+                                "\\n<Ameria>\"That's right... the diary... If I fail, I have to write it\nin the diary, to reflect on it...\""
                             ]
                         },
                         {
@@ -9850,7 +9507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは手記にペンを走らせた。"
+                                "Ameria began to write in her diary."
                             ]
                         },
                         {
@@ -9874,7 +9531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -9891,7 +9548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……………………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -9957,7 +9614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……う……うううぅぅぅぅッッ…！！」"
+                                "\\n<Ameria>\"...uh...uhhhhhhhhh...!!\""
                             ]
                         },
                         {
@@ -10125,14 +9782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしアメリアは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書いている途中の手記を床に投げ捨てた。"
+                                "However, Ameria threw the diary she was writing onto the\nfloor midway."
                             ]
                         },
                         {
@@ -10205,14 +9855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅぅぅぅああああああんッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしよう！　私のせいで！　私のせいでぇ！」"
+                                "\\n<Ameria>\"Uuuuuaaaaaahhh! What should I do! It's all my fault! It's\nall because of meee!\""
                             ]
                         },
                         {
@@ -10243,14 +9886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様ぁ！　ごめんなさいぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が！　私なんかがぁ！　でしゃばったばっかりにぃ！」"
+                                "\\n<Ameria>\"Priest-sama! I'm sorry! It's all because of me! Because\nsomeone like meee! Meddled too much!\""
                             ]
                         },
                         {
@@ -10281,14 +9917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ああああああッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やだよぉ、嫌だよぉ！　一人は嫌だよぉ！！」"
+                                "\\n<Ameria>\"Aaaaaaaaahhh! No, I don't want this! I hate being alone!!\""
                             ]
                         },
                         {
@@ -10319,14 +9948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うわぁぁああああん！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぁぁぁぁぁあああああッ…！」"
+                                "\\n<Ameria>\"Uwaaaaaaahhh! Aaaaaaaaahhh...!\""
                             ]
                         },
                         {
@@ -10364,7 +9986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「うるさいなぁ」"
+                                "\\n<??>\"You're so noisy.\""
                             ]
                         },
                         {
@@ -10437,7 +10059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――へっ…？」"
+                                "\\n<Ameria>\"--Eh...?\""
                             ]
                         },
                         {
@@ -10777,14 +10399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「やっと誰か来たかと思えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちんちくりんの泣き虫シスターか」"
+                                "\\n<Lyric>\"I thought someone finally came, but it's just a tiny\ncrybaby Sister.\""
                             ]
                         },
                         {
@@ -10815,21 +10430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕をここに連れてきたのは君なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　教会なんかに障壁で閉じ込めてさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一体全体、どういうつもりなんだよ」"
+                                "\\n<Lyric>\"Are you the one who brought me here? Trapped inside a\nbarrier in a church of all places. What on earth were you\nthinking?\""
                             ]
                         },
                         {
@@ -10860,7 +10461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「え……えぇっ……？」"
+                                "\\n<Ameria>\"Eh... Eh...?\""
                             ]
                         },
                         {
@@ -10940,21 +10541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「死んだと思ったけど、案外、助かるもんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっそくだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずはその辺りの話を詳しく聞かせてもらおうか」"
+                                "\\n<Lyric>\"I thought I was dead, but surprisingly, I survived. Anyway,\nlet's start by you telling me everything about what happened\nhere.\""
                             ]
                         },
                         {
@@ -11184,7 +10771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひいッ！！？」"
+                                "\\n<Ameria>\"Eek!!?\""
                             ]
                         },
                         {
@@ -11215,7 +10802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お、おい。ちょっと待てよ。別に僕は何も――」"
+                                "\\n<Lyric>\"Hey, wait a minute. I didn't do anything--\""
                             ]
                         },
                         {
@@ -11246,14 +10833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「しししっ、死体が！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死体が動いている！　オバケ！？」"
+                                "\\n<Ameria>\"A corpse! The corpse is moving! A ghost!? \""
                             ]
                         },
                         {
@@ -11333,14 +10913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はあ？　死体？　オバケ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　んなわけあるか、生きてるっての！」"
+                                "\\n<Lyric>\"Huh? Corpse? Ghost? No way, I'm alive!\""
                             ]
                         },
                         {
@@ -11413,21 +10986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「おおおおおオバケとしゃべってる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご、ごめんなさいごめんなさいごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　置いていったの謝るから、許してッ！」"
+                                "\\n<Ameria>\"I'm talking to a ghost!! I'm sorry, I'm sorry, I'm sorry! I\napologize for leaving you behind, please forgive me!\""
                             ]
                         },
                         {
@@ -11530,14 +11089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ちょ…！？　待て、はやまるな！　話を聞け！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕はオバケじゃないし、何もしない！」"
+                                "\\n<Lyric>\"Wait...!? Hold on, don't rush! Listen to me! I'm not a\nghost, and I won't do anything!\""
                             ]
                         },
                         {
@@ -11655,7 +11207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「いやぁぁぁぁぁああああああッッ！！」"
+                                "\\n<Ameria>\"Nooooooaaaaahhhhh!!\""
                             ]
                         },
                         {
@@ -11709,7 +11261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ゙あ゙あ゙ーーーーッッ！！」"
+                                "\\n<Lyric>\"Aaaaah----!!\""
                             ]
                         },
                         {
@@ -11740,7 +11292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「悪霊退散！　悪霊退散！　悪霊退散ッ！！」"
+                                "\\n<Ameria>\"Evil spirits begone! Evil spirits begone! Evil spirits\nbegone!!\""
                             ]
                         },
                         {
@@ -11771,21 +11323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「待て待て待て待て待て待てッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほんとにやめろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死ぬッ！　死んじゃうッ！！」"
+                                "\\n<Lyric>\"Wait wait wait wait wait wait!! Seriously stop it! I'll\ndie! I'll really die!!\""
                             ]
                         },
                         {
@@ -11816,7 +11354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「南無三――ッ！！」"
+                                "\\n<Ameria>\"Namu san--!!\""
                             ]
                         },
                         {
@@ -11921,7 +11459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ゙あ゙あ゙あ゙あ゙あ゙あ゙あ゙ーーーーッッ！！」"
+                                "\\n<Lyric>\"Aaaaahhhhh----!!\""
                             ]
                         },
                         {

@@ -3195,7 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふあ……ぁ……。ねむ……」"
+                                "\\n<Lyric>\"Fua...ah...sleepy...\""
                             ]
                         },
                         {
@@ -3268,7 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -3285,7 +3285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…………」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…覗きなんて、良い趣味とは思えないなぁ？」"
+                                "\\n<Lyric>\"...Peeping, huh? That's not exactly a noble hobby, is it?\""
                             ]
                         },
                         {
@@ -3638,14 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…気配を消していたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よく気がつきましたね」"
+                                "\\n<Roselitte>\"...Even though I erased my presence, you noticed me.\nImpressive.\""
                             ]
                         },
                         {
@@ -3725,14 +3718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　病み上がりで君の腕がにぶったんじゃないの」"
+                                "\\n<Lyric>\"Nfufu. Maybe your skills have dulled since you've been\nsick.\""
                             ]
                         },
                         {
@@ -3805,7 +3791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…そうかもしれませんね」"
+                                "\\n<Roselitte>\"...That might be true.\""
                             ]
                         },
                         {
@@ -3878,14 +3864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「まあ、終始辺りを警戒しているサキュバス相手に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見つからないでいろというのも無理がありますが」"
+                                "\\n<Roselitte>\"Well, it's impossible to remain undetected by a succubus\nwho's always on guard.\""
                             ]
                         },
                         {
@@ -3958,7 +3937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -3982,7 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「アメリアは？」"
+                                "\\n<Lyric>\"What about Ameria?\""
                             ]
                         },
                         {
@@ -4013,14 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「寝かしつけました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　口を開けて寝ています」"
+                                "\\n<Roselitte>\"I've put her to bed. She's sleeping with her mouth open.\""
                             ]
                         },
                         {
@@ -4100,21 +4072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「寝かしつけるって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつ、どうにかならないもんかね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　子供じゃああるまいし」"
+                                "\\n<Lyric>\"Putting her to bed... Can't she take care of herself? She's\nnot a child.\""
                             ]
                         },
                         {
@@ -4145,7 +4103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…今夜、ずっとそうしているつもりですか」"
+                                "\\n<Roselitte>\"...Do you intend to stay up all night like this?\""
                             ]
                         },
                         {
@@ -4225,21 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うん。明日にはアンナベルンに着くでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一日くらい徹夜したって問題ないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君たち人間より体は頑丈だしね」"
+                                "\\n<Lyric>\"Yeah. We'll arrive at Annabern by tomorrow, right? Staying\nup one night won't be a problem. Our bodies are more\nresilient than you humans, after all.\""
                             ]
                         },
                         {
@@ -4319,21 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「まぁ、気にせず寝てなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　周りはちゃんと見ておくし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君も嫌だろうから、僕もそっちには近づかない」"
+                                "\\n<Lyric>\"Just go to sleep without worrying. I'll keep an eye on our\nsurroundings, and since you probably don't like it, I won't\ncome any closer.\""
                             ]
                         },
                         {
@@ -4413,21 +4343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「というかアメリアを任せたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　放ったらかしにして覗き見なんて、馬鹿なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　危ないからさっさと戻りなよ、騎士さま」"
+                                "\\n<Lyric>\"Besides, you left Ameria in my care, and now you're peeping\ninstead of watching her? Are you stupid? It's dangerous, so\nhurry back there, knight.\""
                             ]
                         },
                         {
@@ -4493,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -4517,14 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　では遠慮なくそうさせてもらいますよ、サキュバス」"
+                                "\\n<Roselitte>\"...Indeed. Then I will retire without further ado,\nsuccubus.\""
                             ]
                         },
                         {
@@ -4738,7 +4647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――リリック」"
+                                "\\n<Roselitte>\"--Lyric\""
                             ]
                         },
                         {
@@ -4818,7 +4727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…うん？」"
+                                "\\n<Lyric>\"...Hmm?\""
                             ]
                         },
                         {
@@ -4849,14 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「明日までの同行とはいえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　寝不足で倒れられでもしたら、面倒です」"
+                                "\\n<Roselitte>\"Even though we're only traveling together until tomorrow,\nit would be troublesome if you collapsed from lack of\nsleep.\""
                             ]
                         },
                         {
@@ -4988,14 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…こっちで休みなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も周りを警戒していますから」"
+                                "\\n<Roselitte>\"...Rest here. I'm also keeping watch around us.\""
                             ]
                         },
                         {
@@ -5155,7 +5050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -5179,7 +5074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテの声>「早くしなさい」"
+                                "\\n<Roselitte's voice>\"Hurry up.\""
                             ]
                         },
                         {
@@ -5203,7 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -5276,14 +5171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…はいはい、分かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――ローゼ」"
+                                "\\n<Lyric>\"...Alright, alright, I got it. --Roselitte\""
                             ]
                         },
                         {

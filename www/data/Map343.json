@@ -3031,14 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「――おい！　医者！！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くッ！　早く診ろッ！」"
+                                "\\n<Man's voice>\"Hey! Doctor!! Hurry up! Hurry and examine her!\""
                             ]
                         },
                         {
@@ -3062,7 +3055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ぅ…………」"
+                                "\\n<Roselitte>\"Ugh...\""
                             ]
                         },
                         {
@@ -3086,14 +3079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「グズグズするな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前ら、このお方を、早く治せッ！」"
+                                "\\n<Man's voice>\"Don't dawdle! You all, quickly heal this person!\""
                             ]
                         },
                         {
@@ -3122,14 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ａ>「まさか…この方は…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　冗談だろ！？」"
+                                "\\n<Nurse a>\"No way... This person is...!? You're joking, right!?\""
                             ]
                         },
                         {
@@ -3146,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ｂ>「こんなことって…いったい何が！」"
+                                "\\n<Nurse b>\"How could this happen... What in the world?!\""
                             ]
                         },
                         {
@@ -3163,14 +3142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「おい何をモタモタしている！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くこのお方を治療しろッ！」"
+                                "\\n<Man's voice>\"Hey, what are you dilly-dallying for!? Quickly treat this\nperson!\""
                             ]
                         },
                         {
@@ -3187,14 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ａ>「わ…分かりました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騎士様、お下がりくださいっ」"
+                                "\\n<Nurse a>\"I... I understand! Sir Knight, please step back!\""
                             ]
                         },
                         {
@@ -3211,28 +3176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師たち>「頭の外傷がひどい…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「止血だ！　傷を押さえろ！　もっと布を持ってこい！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聞こえますか！　私の声が聞こえますか！？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめだ意識が――！」"
+                                "\\n<Nurses>\"The head injury is severe...!\",\"Stop the bleeding! Press\ndown on the wound! Bring more cloth!\",\"Can you hear me? Can\nyou hear my voice!?\",\"No good, she's losing\nconsciousness--!\""
                             ]
                         },
                         {
@@ -3249,21 +3193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「貴様ら！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このお方にもしものことがあれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうなるか分かっているだろうな！？」"
+                                "\\n<Man's voice>\"You lot! Do you understand what will happen if something\ngoes wrong with this person!? Do you!?\""
                             ]
                         },
                         {
@@ -3280,14 +3210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ａ>「そ、そんなこと言われても！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいから下がっていてください！」"
+                                "\\n<Nurse a>\"Even if you say that! Please just step back!\""
                             ]
                         },
                         {
@@ -3304,14 +3227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ｂ>「――だめだ、先生を…医術士を呼んでくるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いで医術式を施してもらわないと助からない！」"
+                                "\\n<Nurse b>\"--No good, we need the doctor... Call the medical\npractitioner! We need to perform medical arts quickly or she\nwon't make it!\""
                             ]
                         },
                         {
@@ -3328,21 +3244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「ちくしょう！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なら早くそいつを呼べ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その医術士はどこにいる！？」"
+                                "\\n<Man's voice>\"Damn it! Then hurry up and call that medic! Where are\nthey!?\""
                             ]
                         },
                         {
@@ -3359,7 +3261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ｃ>「お、奥の病室で他の患者を診ております！」"
+                                "\\n<Nurse c>\"They're in the back room, attending to other patients!\""
                             ]
                         },
                         {
@@ -3376,7 +3278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「くそッ！」"
+                                "\\n<Man's voice>\"Damn it!\""
                             ]
                         },
                         {
@@ -3419,14 +3321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――聞き覚えのある男の怒鳴り声が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の部下だった騎士の声だ。"
+                                "--A familiar man's shouting voice can be heard. It's the\nvoice of a knight who was once under my command."
                             ]
                         },
                         {
@@ -3585,28 +3480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひどく頭が痛い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その焼けるような痛みのせいか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は割とはっきりした意識で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "軍事演習で襲撃された当時のことを思い出していた。"
+                                "My head hurts terribly. Perhaps due to the searing pain, I\nhave a rather clear consciousness and remember being\nattacked during the military exercise."
                             ]
                         },
                         {
@@ -3637,21 +3511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これが走馬灯というものなのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夢を見ているようで、手足がまったく動かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は他人事のようにその慌ただしい様子を眺めていた。"
+                                "Is this what they call one's life flashing before their\neyes? It feels like I'm dreaming, unable to move my limbs at\nall. I watch the frantic scene as if it were happening to\nsomeone else."
                             ]
                         },
                         {
@@ -3675,7 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ａ>「――まずい、意識が…！」"
+                                "\\n<Nurse a>\"--This is bad, she's losing consciousness...!\""
                             ]
                         },
                         {
@@ -3692,14 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師Ｂ>「お気を確かに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先生！　早く来てください、先生――！」"
+                                "\\n<Nurse b>\"Stay with us! Doctor! Please come quickly, doctor--!\""
                             ]
                         },
                         {
@@ -4146,7 +3999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…………」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -4163,7 +4016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「おい医術士！　なにをモタモタしているんだ！」"
+                                "\\n<Knight>\"Hey, medical practitioner! What are you dawdling for?\""
                             ]
                         },
                         {
@@ -4187,21 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「治療を止めて無理やり引っ張り出すなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい何を考えている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　兵士を殺す気なのか？」"
+                                "\\n<Luerre>\"Stopping treatment to forcibly drag someone out. What are\nyou thinking? Are you trying to kill a soldier?\""
                             ]
                         },
                         {
@@ -4225,14 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「他の兵などどうでもいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このお方…ローゼリッテ様の治療を最優先にしろ！」"
+                                "\\n<Knight>\"I don't care about other soldiers! This person...\nPrioritize treating Lady Roselitte!\""
                             ]
                         },
                         {
@@ -4329,14 +4161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ローゼリッテ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ああ、こいつが噂の近衛騎士さまか」"
+                                "\\n<Luerre>\"Roselitte?... Ah, so this is the rumored royal guard\nknight.\""
                             ]
                         },
                         {
@@ -4360,14 +4185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「こいつだと！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴様、ローゼリッテ様になんて口の利き方だ！」"
+                                "\\n<Knight>\"This person!? You insolent fool, how dare you speak to Lady\nRoselitte like that!\""
                             ]
                         },
                         {
@@ -4440,7 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ふむ…」"
+                                "\\n<Luerre>\"Hmm...\""
                             ]
                         },
                         {
@@ -4544,21 +4362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…確かに危険な状況だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼女と同じくらい重篤な患者が先に待っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつの治療はそのあとだ」"
+                                "\\n<Luerre>\"...Indeed it's a dangerous situation, but there are\npatients just as critical waiting before her. Her treatment\nwill have to wait.\""
                             ]
                         },
                         {
@@ -4582,14 +4386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「ふ…ふざけるな！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい何を考えている！？」"
+                                "\\n<Knight>\"Don't joke with me! What are you thinking!? \""
                             ]
                         },
                         {
@@ -4662,21 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ふざけているのはどっちだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…お前と話している時間はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戻らせてもらうぞ」"
+                                "\\n<Luerre>\"The one joking here is you... I don't have time to talk\nwith you. I'm going back.\""
                             ]
                         },
                         {
@@ -4745,21 +4528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「き、貴様ぁ！　近衛十二騎士団を愚弄するか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ましてやローゼリッテ様を前にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなことが許されると思うのか！」"
+                                "\\n<Knight>\"You bastard! Do you mock the Royal Guard Knights? And to\nthink such behavior is permissible in front of Lady\nRoselitte!\""
                             ]
                         },
                         {
@@ -4863,28 +4632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「残念だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は軍医ではなく、講師として参加している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから近衛騎士だろうがなんだろうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前たちの命令に従う必要も義理もないんだよ。"
+                                "\\n<Luerre>\"Unfortunately, I am not here as a military doctor but as an\ninstructor. Therefore, whether it's the Royal Guard Knights\nor anyone else, I have no obligation or duty to follow your\norders.\""
                             ]
                         },
                         {
@@ -4915,21 +4663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「私は現場の医療指導を頼まれただけだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今行っている治療も、あくまで厚意だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　患者は私に選ばせてもらう」"
+                                "\\n<Luerre>\"I was only asked to provide medical guidance on-site, and\nany treatment I'm providing is purely out of goodwill. Let\nme choose my patients.\""
                             ]
                         },
                         {
@@ -4953,21 +4687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「い…いい加減にしろ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ様を治せぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さもなければここで叩き斬る！」"
+                                "\\n<Knight>\"Enough already! Heal Lady Roselitte! Otherwise, I'll cut\nyou down right here!\""
                             ]
                         },
                         {
@@ -5040,21 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…先に頭を診るのはお前のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこで大人しく座っていろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後でちゃんと診てやる」"
+                                "\\n<Luerre>\"...It seems like you're the one who needs their head\nexamined first. Sit down quietly over there. I'll properly\nexamine you later.\""
                             ]
                         },
                         {
@@ -5078,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「このッ――！」"
+                                "\\n<Knight>\"You--!\""
                             ]
                         },
                         {
@@ -5109,7 +4815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女の声>「――待って！」"
+                                "\\n<Woman's voice>\"--Wait!\""
                             ]
                         },
                         {
@@ -5511,14 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ様の怪我は私に診させて！」"
+                                "\\n<Ameria>\"Priestess! Please let me examine Lady Roselitte's\ninjuries!\""
                             ]
                         },
                         {
@@ -5591,14 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…お前にはまだ無理だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奥で私の手伝いをしろ」"
+                                "\\n<Luerre>\"...It's too much for you. Help me in the back.\""
                             ]
                         },
                         {
@@ -5629,21 +5321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だ…大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私できるから。　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　治してみせるから、お願い！」"
+                                "\\n<Ameria>\"No... It's okay. I can do it. I'll show you that I can heal\nher, please!\""
                             ]
                         },
                         {
@@ -5716,14 +5394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ダメだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の言うことを聞く約束だぞ」"
+                                "\\n<Luerre>\"No good. You promised to listen to what I say.\""
                             ]
                         },
                         {
@@ -5796,14 +5467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも…でも！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま放っておくことなんてできない！」"
+                                "\\n<Ameria>\"But... but! I can't just leave things as they are!\""
                             ]
                         },
                         {
@@ -5869,7 +5533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -5935,28 +5599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…どうしてそこまでしようとする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつは近衛騎士だぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつらは自分たちで争いを生むくせに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分が傷ついたら医者に泣きついてくる愚か者だ」"
+                                "\\n<Luerre>\"...Why do you insist on going this far? This person is a\nmember of the Royal Guard Knights. These knights create\nconflicts among themselves, and when they get hurt, they\ncome crying to doctors like fools.\""
                             ]
                         },
                         {
@@ -6029,14 +5672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「この演習は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいなんの為に行われていたと思う？」"
+                                "\\n<Luerre>\"What do you think this exercise was for?\""
                             ]
                         },
                         {
@@ -6109,21 +5745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「大戦を経てもヴァラムは何も変わらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騎士を救ったところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また新たな血が流れるだけだぞ」"
+                                "\\n<Luerre>\"Even after the great war, Valam hasn't changed a bit.\nSaving a knight will only lead to more bloodshed.\""
                             ]
                         },
                         {
@@ -6189,7 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6255,21 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…司祭様の言いたいこと。私も、分かるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもだからって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま騎士を放っておいてもいい理由にはならない！」"
+                                "\\n<Ameria>\"...I understand what you're trying to say, Priestess. But\nthat doesn't mean it's okay to just leave the knight like\nthis!\""
                             ]
                         },
                         {
@@ -6342,28 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「賊と魔物に怯える人たちだけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　国を想って戦う兵士だって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騎士がいるからこそ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　救われている命がたくさんあるはずでしょ？」"
+                                "\\n<Ameria>\"It's not just the people who are afraid of bandits and\nmonsters. There are soldiers who fight for their country.\nSurely there are many lives saved because of the knights,\nright?\""
                             ]
                         },
                         {
@@ -6478,7 +6065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「騎士を必要としている人は、たくさんいるんだよ！」"
+                                "\\n<Ameria>\"There are so many people who need knights!\""
                             ]
                         },
                         {
@@ -6509,7 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だって、私がそうだもん！」"
+                                "\\n<Ameria>\"Because that's true for me!\""
                             ]
                         },
                         {
@@ -6540,21 +6127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「むかし騎士に命を救われたから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　司祭様に会うことができて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今こうして医術士になることができたんだよ！」"
+                                "\\n<Ameria>\"I was saved by a knight in the past, which allowed me to\nmeet you, Priestess, and become a medical practitioner like\nI am today!\""
                             ]
                         },
                         {
@@ -6627,14 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だから今度は、私が騎士を助けるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度は私が、傷ついた人を救うんだ！」"
+                                "\\n<Ameria>\"So now it's my turn to help the knight! Now I will be the\none to save those who are hurt!\""
                             ]
                         },
                         {
@@ -6658,7 +6224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…………」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -6689,7 +6255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ああ、そんな……。"
+                                "--Ah, such..."
                             ]
                         },
                         {
@@ -6720,14 +6286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリア……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは、私を助けようとしただけじゃなくて……。"
+                                "Ameria... you not only tried to help me..."
                             ]
                         },
                         {
@@ -6806,14 +6365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『…そしてこれは憶測ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　襲撃を手引きした人物が帝国内にいるはずです』"
+                                "\"...And this is speculation, but there must be someone\nwithin the empire who orchestrated the attack.\""
                             ]
                         },
                         {
@@ -6876,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――私を、\"守って\"くれたんじゃないですか……。"
+                                "--You were protecting me, weren't you..."
                             ]
                         },
                         {
@@ -6949,7 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…………」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -7015,21 +6567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…アメリア。肝に銘じておけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　患者を治すと言って治せなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その後悔は、とても重く、お前を苦しめるだろう」"
+                                "\\n<Luerre>\"...Ameria. Remember this well. If you say you can heal a\npatient and fail to do so, that regret will weigh heavily on\nyou and cause you suffering.\""
                             ]
                         },
                         {
@@ -7060,21 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「医術士には、人の命を預かる覚悟と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　治すと口にしたら必ず治す責任が必要なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――次の言葉は慎重に選べ」"
+                                "\\n<Luerre>\"A medical practitioner needs the resolve to hold people's\nlives in their hands and the responsibility to heal them if\nthey say they will. Choose your next words carefully.\""
                             ]
                         },
                         {
@@ -7147,7 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「お前にその覚悟と責任を負うことができるか」"
+                                "\\n<Luerre>\"Are you prepared to take on that resolve and\nresponsibility?\""
                             ]
                         },
                         {
@@ -7178,14 +6702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が必ず治すから！」"
+                                "\\n<Ameria>\"Yes! I will definitely heal them!\""
                             ]
                         },
                         {
@@ -7223,7 +6740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうして、言ってくれなかったんですか……。"
+                                "Why didn't you tell me..."
                             ]
                         },
                         {
@@ -7302,14 +6819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『”守られて”いないのなら、殺してしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何も知りたくない』"
+                                "\"If I'm not being protected, then kill me. I don't want to\nknow anything.\""
                             ]
                         },
                         {
@@ -7372,7 +6882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…違う。私が言わせなかったんだ……。"
+                                "...No, it was me who didn't let you say it..."
                             ]
                         },
                         {
@@ -7403,7 +6913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -7469,7 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…なら、何も言わない」"
+                                "\\n<Luerre>\"...Then I won't say anything.\""
                             ]
                         },
                         {
@@ -7542,21 +7052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「お前が診ろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　必ず治せ。生かせ。救え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たとえどんなことがあっても」"
+                                "\\n<Luerre>\"You examine her. Make sure to heal her. Keep her alive.\nSave her. No matter what happens.\""
                             ]
                         },
                         {
@@ -7587,7 +7083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん！」"
+                                "\\n<Ameria>\"Yes!\""
                             ]
                         },
                         {
@@ -7978,14 +7474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「場所を空けてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医術式を始めます！」"
+                                "\\n<Ameria>\"Make way, please! I'm going to start the medical\nprocedure!\""
                             ]
                         },
                         {
@@ -8351,21 +7840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「外傷がひどい…でもそれより、頭の中が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――看護師さん、ローゼリッテさんの体を押さえて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頭の中に直接術式を施すから、きっと体が暴れちゃう！」"
+                                "\\n<Ameria>\"The external wounds are severe... but more than that, it's\ninside her head...--Nurse, hold down Lady Roselitte's body!\nI'm going to perform a direct procedure on her brain, she'll\nlikely thrash about!\""
                             ]
                         },
                         {
@@ -8389,7 +7864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<看護師>「は、はいッ！」"
+                                "\\n<Nurse>\"Y-Yes!\""
                             ]
                         },
                         {
@@ -8478,14 +7953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「お、おい…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前、本当に大丈夫なんだろうな！？」"
+                                "\\n<Knight>\"H-Hey...! Are you really sure about this!?\""
                             ]
                         },
                         {
@@ -8558,14 +8026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うるさい！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手が空いてるなら一緒に押さえて！」"
+                                "\\n<Ameria>\"Quiet! If your hands are free, help hold her down!\""
                             ]
                         },
                         {
@@ -8589,7 +8050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「なっ――」"
+                                "\\n<Knight>\"Wha--\""
                             ]
                         },
                         {
@@ -8620,7 +8081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「早く！！」"
+                                "\\n<Ameria>\"Quickly!!\""
                             ]
                         },
                         {
@@ -8644,7 +8105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「わ、分かった…！」"
+                                "\\n<Knight>\"O-Okay...!\""
                             ]
                         },
                         {
@@ -8761,14 +8222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん、もう大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が絶対に治すから！」"
+                                "\\n<Ameria>\"Lady Roselitte, it's going to be okay. I will definitely\nheal you!\""
                             ]
                         },
                         {
@@ -8847,21 +8301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『…こうなってしまったのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その演習に参加していた未熟な医術士に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　怪我を診てもらったことが原因なのです』"
+                                "\"...The reason it has come to this is because an\ninexperienced medical practitioner who participated in the\nexercise examined her injuries.\""
                             ]
                         },
                         {
@@ -8985,7 +8425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ぐぅぅぅぅああああッッ……！！」"
+                                "\\n<Roselitte>\"Guhhhhhhhhhhhhh...!!\""
                             ]
                         },
                         {
@@ -9009,7 +8449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「ローゼリッテ様！？」"
+                                "\\n<Knight>\"Lady Roselitte!?\""
                             ]
                         },
                         {
@@ -9033,7 +8473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫！　大丈夫だから！！」"
+                                "\\n<Ameria>\"It's okay! It's going to be okay!!\""
                             ]
                         },
                         {
@@ -9112,21 +8552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『後の診察で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もっと迅速に的確な治療が行われていれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後遺症は残らなかったはずだと告げられました』"
+                                "\"I was later informed that if she had received more prompt\nand accurate treatment after the examination, there would\nhave been no lasting aftereffects.\""
                             ]
                         },
                         {
@@ -9215,7 +8641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ああああッッ！！　ぐっ、ギッ…！！」"
+                                "\\n<Roselitte>\"Aaaaaahhh!! Guh, Gih...!!\""
                             ]
                         },
                         {
@@ -9288,14 +8714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫、大丈夫、ローゼリッテさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　治せるから、私も頑張るから、だから、がんばって…！」"
+                                "\\n<Ameria>\"It's okay, it's okay, Roselitte-san! I can heal you, so\nI'll do my best, so you have to hang in there...!\""
                             ]
                         },
                         {
@@ -9374,7 +8793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『…しかし結果はこの通り。ひどい有様です』"
+                                "\"...But the result is as you see. It's a terrible state.\""
                             ]
                         },
                         {
@@ -9470,14 +8889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「がっ…アッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あ、あッ…ああぁぁぁッ…！」"
+                                "\\n<Roselitte>\"Gah... Ah! A-Ah... Aaaaahhh...!\""
                             ]
                         },
                         {
@@ -9508,14 +8920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！　もう少し！　もう少し！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少しだけがんばって！」"
+                                "\\n<Ameria>\"Roselitte-san! Just a little more! Just a little longer!\nHang in there just a bit more!\""
                             ]
                         },
                         {
@@ -9574,7 +8979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度、会いたい……。"
+                                "I want to see her again..."
                             ]
                         },
                         {
@@ -9628,7 +9033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度会って……謝りたい……。"
+                                "I want to see her again... to apologize..."
                             ]
                         },
                         {
@@ -9682,7 +9087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度会って……ありがとうと、伝えたい……。"
+                                "I want to see her again... to say thank you..."
                             ]
                         },
                         {
@@ -9777,7 +9182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『…これならいっそ、死んだ方が良かった』"
+                                "\"...Perhaps it would have been better if she had died.\""
                             ]
                         },
                         {
@@ -9905,7 +9310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも……もう、できない……。"
+                                "But... it's too late now..."
                             ]
                         },
                         {
@@ -9957,7 +9362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…いいや。そんなことはない」"
+                                "\\n<???>\"...No. That's not true.\""
                             ]
                         },
                         {
@@ -9988,7 +9393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰……？"
+                                "Who...?"
                             ]
                         },
                         {
@@ -10019,14 +9424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「声を聞け。そして身を任せるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしたら、その願いを叶えることができる」"
+                                "\\n<???>\"Listen to my voice. And entrust your body to it. Then, I\ncan make your wish come true.\""
                             ]
                         },
                         {
@@ -10057,7 +9455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神様……？"
+                                "God...?"
                             ]
                         },
                         {
@@ -10088,7 +9486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…違う」"
+                                "\\n<???>\"...No.\""
                             ]
                         },
                         {
@@ -10119,7 +9517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「僕は――」"
+                                "\\n<???>\"I am--\""
                             ]
                         },
                         {
@@ -10320,7 +9718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「僕は、悪魔だ」"
+                                "\\n<???>\"I am a demon.\""
                             ]
                         },
                         {
@@ -10351,7 +9749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリック……？"
+                                "Lyric...?"
                             ]
                         },
                         {
@@ -10424,14 +9822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「起きろ、ローゼ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなところで呑気に寝てる場合じゃないだろ！」"
+                                "\\n<Lyric>\"Wake up, Rosé! This is no time to be sleeping so carefree!\""
                             ]
                         },
                         {
@@ -10462,7 +9853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「起きて一緒に、アメリアのところへ行くんだ！」"
+                                "\\n<Lyric>\"Get up and let's go to Ameria!\""
                             ]
                         },
                         {
@@ -10493,7 +9884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ですが……もう……。"
+                                "But... it's already..."
                             ]
                         },
                         {
@@ -10566,7 +9957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「もうじゃない！　やるんだ！」"
+                                "\\n<Lyric>\"It's not over yet! Do it!\""
                             ]
                         },
                         {
@@ -10597,14 +9988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「天下の騎士さまがそんな弱気でどうする！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕の知ってるローゼはもっと強いぞ！」"
+                                "\\n<Lyric>\"What kind of knight would you be if you're this faint-\nhearted! The Rosé I know is much stronger!\""
                             ]
                         },
                         {
@@ -10635,28 +10019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「アメリアに会いたいんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だったら立ち上がれ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕の声に手を伸ばせ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この程度の事で、諦めようとするんじゃない！」"
+                                "\\n<Lyric>\"You want to see Ameria, right? Then stand up! Reach out for\nmy voice! Don't think about giving up over something like\nthis!\""
                             ]
                         },
                         {
@@ -10680,7 +10043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -10704,7 +10067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕は、アメリアを助けたいんだ！」"
+                                "\\n<Lyric>\"I want to help Ameria!\""
                             ]
                         },
                         {
@@ -10735,7 +10098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も、アメリアを助けたい……。"
+                                "I also want to help Ameria..."
                             ]
                         },
                         {
@@ -10808,7 +10171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でも僕一人じゃあ、ダメなんだッ！」"
+                                "\\n<Lyric>\"But I can't do it alone!\""
                             ]
                         },
                         {
@@ -10839,7 +10202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私はもう、戦えない。"
+                                "...I can no longer fight."
                             ]
                         },
                         {
@@ -10912,14 +10275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「嫌だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『君と一緒にアメリアを助けたいんだッ！』」"
+                                "\\n<Lyric>\"No! 'I want to help Ameria with you!'\""
                             ]
                         },
                         {
@@ -10943,7 +10299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -10967,7 +10323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕に身を任せてくれるなら！」"
+                                "\\n<Lyric>\"If you entrust yourself to me!\""
                             ]
                         },
                         {
@@ -10998,7 +10354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕の声に手を伸ばしてくれるなら！」"
+                                "\\n<Lyric>\"If you reach out for my voice!\""
                             ]
                         },
                         {
@@ -11029,7 +10385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君の願いを、僕が叶えてやるッ！」"
+                                "\\n<Lyric>\"I will grant your wish!\""
                             ]
                         },
                         {
@@ -11053,7 +10409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -11077,7 +10433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも……。"
+                                "But..."
                             ]
                         },
                         {
@@ -11150,7 +10506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――僕を信じられないのかあッ！！」"
+                                "\\n<Lyric>\"--Don't you trust me!?\""
                             ]
                         },
                         {
@@ -11207,7 +10563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリック……"
+                                "Lyric..."
                             ]
                         },
                         {
@@ -11280,14 +10636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「立ち上がれ！　君は強い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『僕と一緒に戦うんだッ！』」"
+                                "\\n<Lyric>\"Stand up! You are strong! 'Fight with me!'\""
                             ]
                         },
                         {
@@ -11318,7 +10667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたと、一緒に……。"
+                                "With you, together..."
                             ]
                         },
                         {
@@ -11349,21 +10698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「騎士なら戦え！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦う意思を絶やすな！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　命が尽きるその時までッ！」"
+                                "\\n<Lyric>\"If you're a knight, then fight! Don't let your will to\nfight die out! Until your life runs out!\""
                             ]
                         },
                         {
@@ -11420,7 +10755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は……あなたと……。"
+                                "I am... with you..."
                             ]
                         },
                         {
@@ -11451,14 +10786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕の声に応えろッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦う意思で！　僕の手を掴めえッ！」"
+                                "\\n<Lyric>\"Respond to my voice with your will to fight! Grab my hand!\""
                             ]
                         },
                         {
@@ -11515,7 +10843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――リリック…！　私はッ…！"
+                                "--Lyric...! I am...!"
                             ]
                         },
                         {
@@ -11546,7 +10874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「『僕と一緒に、戦うんだッ！！』」"
+                                "\\n<Lyric>\"'Fight with me!!'\""
                             ]
                         },
                         {
@@ -11603,7 +10931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『私は、あなたと共に戦うッ！！』"
+                                "\"I will fight with you!!\""
                             ]
                         },
                         {
@@ -11703,7 +11031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ローゼ！！」"
+                                "\\n<Lyric>\"--Roselitte!!\""
                             ]
                         },
                         {
@@ -11734,7 +11062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「目を覚ませぇぇぇえええええッッ！！！！」"
+                                "\\n<Lyric>\"Wake upppppppp!!!!\""
                             ]
                         },
                         {

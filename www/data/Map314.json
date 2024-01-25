@@ -6977,7 +6977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック！　待って！」"
+                                "\\n<Ameria>\"Lyric! Wait!\""
                             ]
                         },
                         {
@@ -7090,14 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ダメ…！　ダメだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさんを置いて逃げるなんて！」"
+                                "\\n<Ameria>\"No...! No way! We can't just leave Roselitte behind and run\naway!\""
                             ]
                         },
                         {
@@ -7177,7 +7170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…いいから、このまま逃げるんだ」"
+                                "\\n<Lyric>\"...Just do as I say, and run away now.\""
                             ]
                         },
                         {
@@ -7250,14 +7243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「嫌だ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やっぱり私、もう一度戻る…！」"
+                                "\\n<Ameria>\"I refuse! I'm going back...!\""
                             ]
                         },
                         {
@@ -7388,21 +7374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「落ち着いてよく考えろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼが止めてくれなかったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今頃僕たちはどうなってたと思う？」"
+                                "\\n<Lyric>\"Calm down and think about it. If Roselitte hadn't stopped\nus, what do you think would have happened to us by now?\""
                             ]
                         },
                         {
@@ -7482,28 +7454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「それに言ってただろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この事を早くアンナベルンに伝えるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしないと、大勢の人間が死ぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君はそれでもいいのか！"
+                                "\\n<Lyric>\"Besides, I already told you. We need to report this to\nAnnabern quickly. If we don't, a lot of people will die. Are\nyou okay with that!?\""
                             ]
                         },
                         {
@@ -7576,14 +7527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だったらリリックだけでも逃げて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は残ってローゼリッテさんを助ける！」"
+                                "\\n<Ameria>\"Then you should run away, Lyric. I'll stay behind and save\nRoselitte!\""
                             ]
                         },
                         {
@@ -7663,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…ダメ」"
+                                "\\n<Lyric>\"...No.\""
                             ]
                         },
                         {
@@ -7736,7 +7680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「どうして！？」"
+                                "\\n<Ameria>\"Why not!?\""
                             ]
                         },
                         {
@@ -7767,7 +7711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -7898,7 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君を守るって決めたからだ」"
+                                "\\n<Lyric>\"Because I've decided to protect you.\""
                             ]
                         },
                         {
@@ -7971,7 +7915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック……？」"
+                                "\\n<Ameria>\"Lyric...?\""
                             ]
                         },
                         {
@@ -8002,21 +7946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「例え君が何と言おうと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして誰が何人死のうと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"あの時\"から僕は、君を守るって決めたんだ」"
+                                "\\n<Lyric>\"No matter what you say, no matter how many people may die,\nsince 'that time', I've decided to protect you.\""
                             ]
                         },
                         {
@@ -8082,7 +8012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -8155,14 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…だから、逃げるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいね？」"
+                                "\\n<Lyric>\"...So we're going to run away. Okay?\""
                             ]
                         },
                         {
@@ -8228,7 +8151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -8245,7 +8168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -8311,14 +8234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うん。今の言葉で、私…決めた」"
+                                "\\n<Ameria>\"...I understand. Yes. With those words, I've... decided.\""
                             ]
                         },
                         {
@@ -8612,7 +8528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私、ローゼリッテさんのところに戻る」"
+                                "\\n<Ameria>\"I'm going back to Roselitte.\""
                             ]
                         },
                         {
@@ -8692,21 +8608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「は…はあ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてそうなるんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕の話聞いてた！？」"
+                                "\\n<Lyric>\"Wha... What!? Why does it end up like that!? Were you even\nlistening to me!?\""
                             ]
                         },
                         {
@@ -8779,21 +8681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リリックの気持ち、すごく嬉しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リリックのこと、大好きだよ」"
+                                "\\n<Ameria>\"...Thank you. I'm really happy to hear Lyric's feelings. I\nlove you, Lyric.\""
                             ]
                         },
                         {
@@ -8915,21 +8803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でもね、私も、同じ気持ちなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさんを死なせたくない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度こそ…今度こそッ…！」"
+                                "\\n<Ameria>\"But you see, I feel the same way. I don't want Roselitte to\ndie. This time for sure... This time for sure...!\""
                             ]
                         },
                         {
@@ -9025,21 +8899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「今度こそ助けるんだッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私だって！　あの時！　絶対！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助けるって、決めたんだからッ！」"
+                                "\\n<Ameria>\"This time for sure I'll save her! Me too! That time!\nDefinitely! I decided that I would save her!\""
                             ]
                         },
                         {
@@ -9070,21 +8930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさんは私を頼ろうとしてくれた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　必要としてくれた！　守ろうとしてくれた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから絶対、その想いに応えなくちゃ！」"
+                                "\\n<Ameria>\"Roselitte tried to rely on me! She needed me! She tried to\nprotect me! So I absolutely must respond to those feelings!\""
                             ]
                         },
                         {
@@ -9115,21 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「アンナベルンも！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして、ローゼリッテさんも！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全部私が、救ってみせるッ…！！」"
+                                "\\n<Ameria>\"Annabern too! And Roselitte as well! I will save them\nall...!!\""
                             ]
                         },
                         {
@@ -9153,7 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -9250,7 +9082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…わがままばかり言って、ごめんね」"
+                                "\\n<Ameria>\"...I'm sorry for being so selfish.\""
                             ]
                         },
                         {
@@ -9647,14 +9479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…付き合ってられないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなに死にたいなら勝手にすればいいさ」"
+                                "\\n<Lyric>\"...I can't deal with this. If you want to die that badly,\nthen do as you please.\""
                             ]
                         },
                         {
@@ -9806,7 +9631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -9823,7 +9648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…………」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -9896,7 +9721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…守ろうとしてくれた、か……」"
+                                "\\n<Lyric>\"...She tried to protect me, huh...\""
                             ]
                         },
                         {

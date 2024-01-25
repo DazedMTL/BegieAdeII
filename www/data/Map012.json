@@ -8401,7 +8401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊のアジトB"
+                                "Thieves' Hideout B"
                             ]
                         },
                         {
@@ -8409,9 +8409,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv25",
-                                    "lv30",
-                                    "選択しない"
+                                    "Lv25",
+                                    "Lv30",
+                                    "Do not choose"
                                 ],
                                 2,
                                 0,

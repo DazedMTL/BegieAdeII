@@ -2466,7 +2466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「町が…アンナベルンが、燃えている…？」"
+                                "\\n<Roselitte>\"The town... Annabern is burning...?\""
                             ]
                         },
                         {
@@ -2497,14 +2497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな…どうして！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただの火事じゃないよね！？」"
+                                "\\n<Ameria>\"No way... Why?! This isn't just a regular fire, is it?!\""
                             ]
                         },
                         {
@@ -2535,14 +2528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「この魔力……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物使役術が使われている……」"
+                                "\\n<Lyric>\"This magical power... A monster summoning spell has been\nused...\""
                             ]
                         },
                         {
@@ -2573,7 +2559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「なんですって…？」"
+                                "\\n<Roselitte>\"What did you say...?\""
                             ]
                         },
                         {

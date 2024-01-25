@@ -2016,7 +2016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリアの声>「…司祭様」"
+                                "\\n<Ameria's voice>\"Priest-sama...\""
                             ]
                         },
                         {
@@ -2089,7 +2089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「なんだ、どうした？」"
+                                "\\n<Luerre>\"What is it, what's wrong?\""
                             ]
                         },
                         {
@@ -2378,7 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -2444,7 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…辛気臭い顔はやめろ。においが移る」"
+                                "\\n<Luerre>\"...Stop with that gloomy face. The mood might rub off on\nme.\""
                             ]
                         },
                         {
@@ -2475,7 +2475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「移らないよ…」"
+                                "\\n<Ameria>\"It won't rub off...\""
                             ]
                         },
                         {
@@ -2499,7 +2499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -2565,14 +2565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…司祭様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの治療、簡単だった？」"
+                                "\\n<Ameria>\"...Priest-sama. Was that treatment easy for you?\""
                             ]
                         },
                         {
@@ -2645,7 +2638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「そりゃあな」"
+                                "\\n<Luerre>\"Of course.\""
                             ]
                         },
                         {
@@ -2718,14 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私には、難しかった……」"
+                                "\\n<Ameria>\"Huh... For me, it was difficult...\""
                             ]
                         },
                         {
@@ -2756,7 +2742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「そうか」"
+                                "\\n<Luerre>\"Is that so.\""
                             ]
                         },
                         {
@@ -2829,7 +2815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「怒らないの…？」"
+                                "\\n<Ameria>\"Aren't you angry...?\""
                             ]
                         },
                         {
@@ -2902,14 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「怒る？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどうして」"
+                                "\\n<Luerre>\"Angry? Why on earth should I be?\""
                             ]
                         },
                         {
@@ -2940,14 +2919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…たくさん、勉強してるのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医術士なのに、怪我を治せなかったから…」"
+                                "\\n<Ameria>\"...Even though I study so much. Despite being a healer, I\ncouldn't heal the injury...\""
                             ]
                         },
                         {
@@ -3020,14 +2992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…なんで失敗したか、勉強し直したか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　反省しているか？」"
+                                "\\n<Luerre>\"...Have you reflected on why you failed? Have you restudied\nit?\""
                             ]
                         },
                         {
@@ -3058,7 +3023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん…」"
+                                "\\n<Ameria>\"Yes...\""
                             ]
                         },
                         {
@@ -3131,14 +3096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「知っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから、怒る必要はない」"
+                                "\\n<Luerre>\"I know. That's why there's no need to be angry.\""
                             ]
                         },
                         {
@@ -3162,7 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -3228,14 +3186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…でも、私には、無理なのかな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　司祭様みたいな医術士に、なれないのかな…」"
+                                "\\n<Ameria>\"...But maybe it's impossible for me... to become a healer\nlike Priest-sama...\""
                             ]
                         },
                         {
@@ -3301,7 +3252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -3367,14 +3318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かにお前は、医術式の才能もセンスもない」"
+                                "\\n<Luerre>\"...Ameria. Indeed, you lack both the talent and the sense\nfor healing arts.\""
                             ]
                         },
                         {
@@ -3447,14 +3391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「だがお前には、人を想う優しさと勇気を持っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは医術士にとって最も必要なチカラだ」"
+                                "\\n<Luerre>\"But you possess kindness and courage to care for others.\nThat is the most essential power for a healer.\""
                             ]
                         },
                         {
@@ -3527,21 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「あの子の怪我を治したのは私だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助けたのはお前だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ちゃんと、分かっているよ。見ているよ」"
+                                "\\n<Luerre>\"I may have healed that child's injury, but it was you who\nsaved them... I understand that well. I'm watching.\""
                             ]
                         },
                         {
@@ -3607,7 +3530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -3631,14 +3554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「心配しなくてもいい。なれるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私よりずっと立派な医術士に」"
+                                "\\n<Luerre>\"Don't worry. You'll become one. A much more splendid healer\nthan I am.\""
                             ]
                         },
                         {
@@ -3711,14 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…でも。そして、だからこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前は誰よりも努力して、正しく学ばなければいけない」"
+                                "\\n<Luerre>\"...However. And that's exactly why. You must work harder\nthan anyone else and learn correctly.\""
                             ]
                         },
                         {
@@ -3791,28 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「覚えておけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　優しさと勇気だけでは人を救えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてそのチカラは時として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前自身を苦しめてしまうかもしれないんだ」"
+                                "\\n<Luerre>\"Remember this. Kindness and courage alone cannot save\npeople. And sometimes, that power might even cause you\npain.\""
                             ]
                         },
                         {
@@ -3843,28 +3731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「焦らず基礎からしっかり学べ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　練習を重ね、慢心せず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　時間をかけて知識や技術を積むんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…私の部屋から本を持ち出したりしないでな」"
+                                "\\n<Luerre>\"Learn the basics without rushing. Practice diligently,\ndon't be complacent, and take time to accumulate knowledge\nand skills... And don't take books from my room without\npermission.\""
                             ]
                         },
                         {
@@ -3937,14 +3804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ごめんなさい…」"
+                                "\\n<Ameria>\"...Yes. I'm sorry...\""
                             ]
                         },
                         {
@@ -4017,7 +3877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「素直でよろしい」"
+                                "\\n<Luerre>\"That's good to hear.\""
                             ]
                         },
                         {
@@ -4258,7 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルエールは本棚から本を抜き取った。"
+                                "Luerre took a book from the bookshelf."
                             ]
                         },
                         {
@@ -4482,14 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「前にお前が持ち出そうとした教本。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　読ませてやる」"
+                                "\\n<Luerre>\"The textbook you tried to take before. I'll let you read\nit.\""
                             ]
                         },
                         {
@@ -4562,7 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「え、いいの…？」"
+                                "\\n<Ameria>\"Really? Is that okay...?\""
                             ]
                         },
                         {
@@ -4593,14 +4446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ああ。失敗は良い勉強だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今のお前なら読んでも問題ないだろう」"
+                                "\\n<Luerre>\"Yes. Failure is a good lesson. You should be able to read\nit now without any problems.\""
                             ]
                         },
                         {
@@ -4673,7 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…それと、これもやる」"
+                                "\\n<Luerre>\"...And also, I'll give you this.\""
                             ]
                         },
                         {
@@ -4802,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルエールはふところから本を出して、机の上に置いた。"
+                                "Luerre took out a book from her pocket and placed it on the\ndesk."
                             ]
                         },
                         {
@@ -4868,7 +4714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「これは？」"
+                                "\\n<Ameria>\"What is this?\""
                             ]
                         },
                         {
@@ -4941,21 +4787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「なに。ただの手記だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この前、本土の本屋で見かけてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいデザインだったからつい買ってしまった」"
+                                "\\n<Luerre>\"What? It's just a journal. I saw it at a bookstore on the\nmainland recently. I bought it because it had a nice\ndesign.\""
                             ]
                         },
                         {
@@ -5090,21 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…これから病人や怪我人が来た時には、お前が診ろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ああ、もちろん、私がそばにいる時にな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その手記はその日の反省とか、勉強のために使え」"
+                                "\\n<Luerre>\"...From now on, when patients or injured people come, you\nwill examine them. Ah, of course, only when I'm by your\nside. Use that journal to reflect on the day or for your\nstudies.\""
                             ]
                         },
                         {
@@ -5177,21 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「正しく学んで、挑戦して、たくさん失敗しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大丈夫。この私がいるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　多少の失敗なんてどうとでもしてやる」"
+                                "\\n<Luerre>\"Learn correctly, challenge yourself, and fail a lot. It's\nokay. I'm here for you. I can handle a few failures.\""
                             ]
                         },
                         {
@@ -5264,28 +5068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「だが、ただ失敗するだけじゃあダメだ。猛省しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてその本に書き残して、祈れ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうして積み重ねてきた経験はいずれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大きな糧となってお前に応えてくれるはずだ」"
+                                "\\n<Luerre>\"But just failing isn't enough. Reflect deeply. And write it\ndown in that book, pray. The experiences you accumulate will\neventually become a great nourishment and respond to you.\""
                             ]
                         },
                         {
@@ -5351,7 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言って、ルエールはアメリアの頭に優しく手を置いた。"
+                                "Saying that, Luerre gently placed her hand on Ameria's head."
                             ]
                         },
                         {
@@ -5375,14 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「私と神様はちゃんと見ているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頑張っているお前をな」"
+                                "\\n<Luerre>\"God and I are both watching over you. We see how hard\nyou're trying.\""
                             ]
                         },
                         {
@@ -5455,7 +5231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様…」"
+                                "\\n<Ameria>\"Priestess...\""
                             ]
                         },
                         {
@@ -5528,21 +5304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…それと、今晩はお前のご飯が食べたいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シチューがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　野菜がゴロゴロ入っているやつ」"
+                                "\\n<Luerre>\"...Also, I want to eat your cooking tonight. Make stew, the\nkind with lots of chunky vegetables.\""
                             ]
                         },
                         {
@@ -5566,7 +5328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -5583,7 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -5649,7 +5411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ひっく…！」"
+                                "\\n<Ameria>\"--Hic...!\""
                             ]
                         },
                         {
@@ -5708,7 +5470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――うぁぁぁああああん！　司祭様ぁ！」"
+                                "\\n<Ameria>\"--Waaahhh! Priestess!\""
                             ]
                         },
                         {
@@ -5739,21 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ぬあッ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おい馬鹿、泣きながら抱きつくな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　服が汚れる！　離れろ！」"
+                                "\\n<Luerre>\"Nuaa!? Hey, you fool, don't hug me while you're crying!\nYou'll dirty my clothes! Get off!\""
                             ]
                         },
                         {
@@ -5784,21 +5532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ワタヂ、ワダヂがんばるぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　立派ないじゅちゅじになるぅ！」"
+                                "\\n<Ameria>\"Priestess! I, I will do my best! I'll become a splendid\nhealer!\""
                             ]
                         },
                         {
@@ -5829,14 +5563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ああもう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　分かったから離れろ馬鹿たれぇ！」"
+                                "\\n<Luerre>\"Ah, enough already! Let go, you fool!\""
                             ]
                         },
                         {

@@ -2421,21 +2421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「まあ…。もしかして、ローゼリッテ様でございますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　主人から話を聞いております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　町をお救いいただきありがとうございました」"
+                                "\\n<Villager>\"Oh my... could it be, Lady Roselitte? I've heard from my\nhusband about you. Thank you for saving our town.\""
                             ]
                         },
                         {
@@ -2452,21 +2438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「主人はここの警備を務めておりまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ様のお力になれなかったと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大変悔やんでおりました」"
+                                "\\n<Villager>\"My husband serves as the guard here. He deeply regrets not\nbeing able to assist you, Lady Roselitte.\""
                             ]
                         },
                         {
@@ -2490,14 +2462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「もし私に何かできることがあればお申し付けください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…もう、あの頃のような争いはごめんですから」"
+                                "\\n<Villager>\"If there's anything I can do for you, please let me\nknow.... I really don't want any more conflict like we had\nbefore.\""
                             ]
                         },
                         {

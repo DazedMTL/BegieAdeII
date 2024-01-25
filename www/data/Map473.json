@@ -1993,7 +1993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「…許さない」"
+                                "\\n<Girl>\"...I won't forgive you.\""
                             ]
                         },
                         {
@@ -2024,14 +2024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「許さない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの騎士…よくも…！」"
+                                "\\n<Girl>\"I won't forgive you. That knight... how dare...!\""
                             ]
                         },
                         {
@@ -2062,14 +2055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「殺す！　殺すッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の手で！　絶対に！」"
+                                "\\n<Girl>\"I'll kill him! I'll kill him with my own hands!\nDefinitely!\""
                             ]
                         },
                         {
@@ -2100,7 +2086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「殺す、殺す、殺す、殺す、殺す…！！」"
+                                "\\n<Girl>\"Kill, kill, kill, kill, kill...!!\""
                             ]
                         },
                         {
@@ -2141,7 +2127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「絶対に殺すッ！！」"
+                                "\\n<Girl>\"I will definitely kill him!!\""
                             ]
                         },
                         {
@@ -2165,7 +2151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「……」"
+                                "\\n<Girl>\"...\""
                             ]
                         },
                         {
@@ -2220,7 +2206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「……」"
+                                "\\n<???>\"...\""
                             ]
                         },
                         {
@@ -2244,7 +2230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…いいね。すごく美味しそうだ」"
+                                "\\n<???>\"...Nice. You look very delicious.\""
                             ]
                         },
                         {
@@ -2291,14 +2277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「だ、だれ？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこにいるの？」"
+                                "\\n<Girl>\"Who, who's there? Where are you?\""
                             ]
                         },
                         {
@@ -2329,14 +2308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「僕はどこにでもいるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　美味しそうな匂いがするところなら」"
+                                "\\n<???>\"I am everywhere. Anywhere there's a delicious smell.\""
                             ]
                         },
                         {
@@ -2367,7 +2339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「美味しそう…私が？」"
+                                "\\n<Girl>\"Delicious... me?\""
                             ]
                         },
                         {
@@ -2398,7 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「んふふ…♪」"
+                                "\\n<???>\"Nfufu...♪\""
                             ]
                         },
                         {
@@ -2429,14 +2401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「君のことをずっと見ていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大変だったね…お母さんが殺されてしまって」"
+                                "\\n<???>\"I've been watching you all this time. You've had it\ntough... with your mother being killed.\""
                             ]
                         },
                         {
@@ -2467,14 +2432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「辛いよね。憎いよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やり返したいよね」"
+                                "\\n<???>\"It's painful, isn't it? You hate them, don't you? You want\nto get back at them, right?\""
                             ]
                         },
                         {
@@ -2505,14 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「君のチカラになりたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし良ければ、僕にそのお手伝いをさせてほしい」"
+                                "\\n<???>\"I want to be your strength. If you'd like, let me help you\nwith that.\""
                             ]
                         },
                         {
@@ -2543,7 +2494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「…本当？」"
+                                "\\n<Girl>\"...Really?\""
                             ]
                         },
                         {
@@ -2574,7 +2525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「ああ。本当だとも」"
+                                "\\n<???>\"Yes, really.\""
                             ]
                         },
                         {
@@ -2605,14 +2556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「僕に身を任せてくれるだけでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしたら、その願いを叶える手助けをしてあげる」"
+                                "\\n<???>\"All you have to do is entrust yourself to me. Then, I'll\nhelp make your wish come true.\""
                             ]
                         },
                         {
@@ -2636,7 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「……」"
+                                "\\n<Girl>\"...\""
                             ]
                         },
                         {
@@ -2660,21 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「君の口から聞かせてほしいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君がいま一番欲しいもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君がいま一番望むもの」"
+                                "\\n<???>\"I want to hear it from your lips. What you want the most\nright now. What you desire the most right now.\""
                             ]
                         },
                         {
@@ -2698,7 +2628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「……」"
+                                "\\n<Girl>\"...\""
                             ]
                         },
                         {
@@ -2722,7 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「私は…」"
+                                "\\n<Girl>\"I am...\""
                             ]
                         },
                         {
@@ -2760,7 +2690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「――さあ、目を閉じて」"
+                                "\\n<???>\"--Now, close your eyes.\""
                             ]
                         },
                         {
@@ -2826,7 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「言ってごらん。君の願いを」"
+                                "\\n<Begieade>\"Say it. Your wish.\""
                             ]
                         },
                         {
@@ -2850,7 +2780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「……」"
+                                "\\n<Girl>\"...\""
                             ]
                         },
                         {
@@ -2874,7 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「…私は……」"
+                                "\\n<Girl>\"...I am...\""
                             ]
                         },
                         {
@@ -2905,7 +2835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「私は、お母さんを殺した騎士を、殺したい…」"
+                                "\\n<Girl>\"I want to kill the knight who killed my mother...\""
                             ]
                         },
                         {
@@ -2936,7 +2866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「――ううん、違う…！」"
+                                "\\n<Girl>\"--No, that's not it...!\""
                             ]
                         },
                         {
@@ -2967,21 +2897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「私は、淫魔だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつが騎士としてお母さんを殺したのなら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は淫魔として、あいつを堕とすんだ！」"
+                                "\\n<Girl>\"I am a succubus! If he killed my mother as a knight, then\nas a succubus, I will corrupt him!\""
                             ]
                         },
                         {
@@ -3012,21 +2928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「そして、堕としたら、謝らせる！　ここで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　快楽に身を堕としたあいつを！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お母さんに捧げるんだ！」"
+                                "\\n<Girl>\"And once he's corrupted, I'll make him apologize! Right\nhere! To my mother, for succumbing to pleasure!\""
                             ]
                         },
                         {
@@ -3057,21 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「あいつを堕としたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　淫堕させたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　身も心も快楽に飲み込ませてやる！」"
+                                "\\n<Girl>\"I want to corrupt him! I want to seduce him into depravity!\nI'll engulf both his body and mind in pleasure!\""
                             ]
                         },
                         {
@@ -3102,14 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「だからお願い！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　チカラを貸して！！」"
+                                "\\n<Girl>\"So please, lend me your power!!\""
                             ]
                         },
                         {
@@ -3133,7 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「……」"
+                                "\\n<Begieade>\"...\""
                             ]
                         },
                         {
@@ -3157,14 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「もちろんだとも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君の願いを叶えるための、チカラを貸そう」"
+                                "\\n<Begieade>\"Of course. I shall lend you the power to fulfill your\nwish.\""
                             ]
                         },
                         {
@@ -3195,7 +3069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「…僕の、ちょっとした頼みを聞いてくれるならね」"
+                                "\\n<Begieade>\"...If you'll listen to a little request of mine.\""
                             ]
                         },
                         {
@@ -3226,7 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「僕の話を聞いてくれるかい？」"
+                                "\\n<Begieade>\"Will you listen to my story?\""
                             ]
                         },
                         {
@@ -3257,7 +3131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<少女>「うん…！」"
+                                "\\n<Girl>\"Yes...!\""
                             ]
                         },
                         {
@@ -3295,7 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「そう、いい子だね」"
+                                "\\n<Begieade>\"That's right, good girl.\""
                             ]
                         },
                         {
@@ -3326,7 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「君はこれから、僕のリリックとなるんだ」"
+                                "\\n<Begieade>\"From now on, you will become my Lyric.\""
                             ]
                         },
                         {

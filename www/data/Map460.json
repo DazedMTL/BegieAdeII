@@ -14642,14 +14642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…どうなってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　地下に下りたのに森が広がってる」"
+                                "\\n<Ameria>\"...What's going on? We went underground but there's a\nforest stretching out.\""
                             ]
                         },
                         {
@@ -14666,21 +14659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――\"地下囚人街\""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大戦時、捕らえた捕虜を収容するために作られた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　特別な収容施設です」"
+                                "\\n<Roselitte>\"--'Underground Prison Town.' It's a special containment\nfacility created to house prisoners of war during the great\nconflict.\""
                             ]
                         },
                         {
@@ -14697,14 +14676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「広く見える外観は魔法による幻覚です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　実際はもっと小さくて、狭い地下のはず」"
+                                "\\n<Roselitte>\"The spacious exterior appearance is an illusion created by\nmagic. In reality, it should be much smaller and a confined\nunderground space.\""
                             ]
                         },
                         {
@@ -14721,14 +14693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…確かに、見た目は外なのに空気がよどんでるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもどうしてこんな魔法を使ってるの？」"
+                                "\\n<Ameria>\"...Indeed, it looks like we're outside but the air is\nstagnant. But why use such magic?\""
                             ]
                         },
                         {
@@ -14787,14 +14752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「掘削作業の簡略化、収容者の精神的な衛生管理、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　脱走や暴動の抑制…理由はさまざまです」"
+                                "\\n<Roselitte>\"To simplify excavation work, manage the mental hygiene of\nthe inmates, suppress escapes and riots... There are various\nreasons.\""
                             ]
                         },
                         {
@@ -14811,28 +14769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「それと、恐らくここには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　囚人監視用に召喚された魔物もいるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私たちのような侵入者も攻撃してきますから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　十分注意して進みましょう」"
+                                "\\n<Roselitte>\"Additionally, there are likely monsters summoned here to\nmonitor the prisoners. They will attack intruders like us as\nwell, so let's proceed with caution.\""
                             ]
                         },
                         {
@@ -14849,7 +14786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「凝ったもの作るなあ、人間って」"
+                                "\\n<Lyric>\"Humans sure create elaborate things, huh?\""
                             ]
                         },
                         {
@@ -15904,7 +15841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "刑務作業場の鍵を手に入れた！"
+                                "Gained the Prison Work Area Key!"
                             ]
                         },
                         {
@@ -15921,7 +15858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…どうしてこんな所に鍵が？」"
+                                "\\n<Roselitte>\"...Why is there a key in a place like this?\""
                             ]
                         },
                         {
@@ -18291,7 +18228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵攻の指輪を手に入れた！"
+                                "Gained the Ring of Invasion!"
                             ]
                         },
                         {
@@ -18553,7 +18490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生彩の指輪を手に入れた！"
+                                "Gained the Ring of Vibrance!"
                             ]
                         },
                         {
@@ -18814,7 +18751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーション×３を手に入れた！"
+                                "Gained 3 High Potions!"
                             ]
                         },
                         {
@@ -18986,7 +18923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロースハーブ×２を手に入れた！"
+                                "Gained 2 Frost Herbs!"
                             ]
                         },
                         {
@@ -19247,7 +19184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロースコロン×２を手に入れた！"
+                                "Gained 2 Frost Colons!"
                             ]
                         },
                         {

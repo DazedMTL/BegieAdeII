@@ -30622,7 +30622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法の裁縫道具を手に入れた！"
+                                "Gained the Magic Sewing Kit!"
                             ]
                         },
                         {
@@ -33197,14 +33197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[魔法の裁縫道具]が潤沢に置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利用させてもらおう。"
+                                "There are plenty of [Magic Sewing Tools] available. Let's\nmake use of them."
                             ]
                         },
                         {
@@ -33221,7 +33214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衣服の修繕を行いますか？"
+                                "Would you like to repair your clothes?"
                             ]
                         },
                         {
@@ -33229,8 +33222,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -33483,7 +33476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブリードアウェイ×２を手に入れた！"
+                                "Gained 2 Breezeways!"
                             ]
                         },
                         {
@@ -34064,7 +34057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供の声>「えぇーんっ……えぇーんっ……！」"
+                                "\\n<Child's voice>\"Wahh... Wahh...!\""
                             ]
                         },
                         {
@@ -34081,7 +34074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くから子供の泣き声が聞こえる…。"
+                                "You can hear the sound of a child crying nearby..."
                             ]
                         },
                         {
@@ -34577,7 +34570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供の声>「えぇーんっ！　うえぇーんっ！」"
+                                "\\n<Child's voice>\"Ehh-nn! Uwehh-nn!\""
                             ]
                         },
                         {
@@ -34594,7 +34587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どうして子供が…」"
+                                "\\n<Roselitte>\"Why is there a child...\""
                             ]
                         },
                         {
@@ -34653,14 +34646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…こんなところで何をしているんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたはアンナベルンの住民ですか？」"
+                                "\\n<Roselitte>\"...What are you doing in such a place? Are you a resident\nof Annabern?\""
                             ]
                         },
                         {
@@ -34677,7 +34663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供の声>「うわーんっ！　うえぇーんっ！」"
+                                "\\n<Child's voice>\"Uwah-nn! Uwehh-nn!\""
                             ]
                         },
                         {
@@ -34694,14 +34680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「一人でここまで？　それとも迷子？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　親や大人の人は一緒にいない？」"
+                                "\\n<Roselitte>\"Did you come all the way here by yourself? Or are you lost?\nAren't your parents or any adults with you?\""
                             ]
                         },
                         {
@@ -34770,7 +34749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供の声>「うええええええぇぇぇぇんっ！！」"
+                                "\\n<Child's voice>\"Uweeeeeeeehhhnnn!!\""
                             ]
                         },
                         {
@@ -34787,7 +34766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ちょっと、そんなに泣いていては…」"
+                                "\\n<Roselitte>\"Hey, you can't just keep crying like that...\""
                             ]
                         },
                         {
@@ -34846,7 +34825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさん。ここは私が」"
+                                "\\n<Ameria>\"...Roselitte-san, let me handle this.\""
                             ]
                         },
                         {
@@ -34905,14 +34884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――よしよし。怖かったね。もう大丈夫だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お姉ちゃんが助けてあげるからね」"
+                                "\\n<Ameria>\"--There, there. It was scary, wasn't it? It's all right\nnow. Onee-san will help you out.\""
                             ]
                         },
                         {
@@ -34964,7 +34936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは泣いている子供に寄り添って話をした。"
+                                "Ameria spoke soothingly to the crying child."
                             ]
                         },
                         {
@@ -35074,14 +35046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供の声>「わあ、すごい！　全然痛くないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとうお姉ちゃん！」"
+                                "\\n<Child's voice>\"Wow, amazing! It doesn't hurt at all! Thank you, Onee-san!\""
                             ]
                         },
                         {
@@ -35098,21 +35063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「良かった良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなところで転んじゃったら怖いよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもよく一人でがんばった！　ハレルヤ―！♪」"
+                                "\\n<Ameria>\"I'm glad, I'm glad. It's scary to fall down in a place like\nthis, isn't it? But you did well to manage on your own!\nHallelujah!♪\""
                             ]
                         },
                         {
@@ -35171,28 +35122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　詳しくは分からないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　襲撃があった時にここまで一人で逃げてきたみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンまで連れて行ってあげよう」"
+                                "\\n<Ameria>\"--Roselitte-san, I don't know the details, but it seems\nlike she escaped here all by herself when the attack\nhappened. Let's take her back to Annabern.\""
                             ]
                         },
                         {
@@ -35251,21 +35181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。引き返して兵に預けましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…こんな場所まで一人で逃げて捻挫で済むなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　子供の生命力は予想以上ですね」"
+                                "\\n<Roselitte>\"Yes. Let's head back and leave her with the soldiers... To\nthink she escaped all the way here by herself and only ended\nup with a sprain. The vitality of children is beyond\nexpectation.\""
                             ]
                         },
                         {
@@ -35317,14 +35233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテたちは一度アンナベルンまで引き返して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迷子の子供を兵士に預けた。"
+                                "Roselitte and the others once returned to Annabern and\nentrusted the lost child to the soldiers."
                             ]
                         },
                         {

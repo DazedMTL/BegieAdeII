@@ -5514,14 +5514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「なんで、なんで！　やだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんで今日に限ってそんなこと言うの！？」"
+                                "\\n<Ameria>\"Why, why! No! Why would you say such a thing today of all\ndays!?\""
                             ]
                         },
                         {
@@ -5552,21 +5545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うっさいな、今日だからだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――ああもう引っ付くな！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　離れろ馬鹿！」"
+                                "\\n<Lyric>\"You're so noisy, it's because it's today.--Ah, stop\nclinging to me! Get off, idiot!\""
                             ]
                         },
                         {
@@ -5597,7 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「や～～だ～～ッッ！！」"
+                                "\\n<Ameria>\"Nooo~~!!\""
                             ]
                         },
                         {
@@ -6017,7 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いったい何事ですか、騒々しい」"
+                                "\\n<Roselitte>\"...What in the world is going on, it's so noisy.\""
                             ]
                         },
                         {
@@ -6186,14 +6165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「聞いて、ローゼリッテさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リリックったらひどいんだよ！」"
+                                "\\n<Ameria>\"Listen, Roselitte-san! Lyric is being awful!\""
                             ]
                         },
                         {
@@ -6224,21 +6196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私を放ったらかしにして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どっか行っちゃうんだって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう私のことどうでもいいんだって！」"
+                                "\\n<Ameria>\"She's going to leave me all alone and go somewhere! She\ndoesn't care about me anymore!\""
                             ]
                         },
                         {
@@ -6311,14 +6269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はい？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…サキュバス、どこに行くつもりですか」"
+                                "\\n<Roselitte>\"Huh?... Succubus, where do you plan to go?\""
                             ]
                         },
                         {
@@ -6349,14 +6300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「どこにも行かないって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一人で寝るって言っただけだよ」"
+                                "\\n<Lyric>\"I'm not going anywhere... I just said I want to sleep\nalone.\""
                             ]
                         },
                         {
@@ -6436,21 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「こいつ、この歳になっても夜一人で寝れないんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　暗いの怖い～とか言ってさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　夜中ずーっと僕に張り付いてんの」"
+                                "\\n<Lyric>\"This girl, even at her age, can't sleep alone at night.\nShe's afraid of the dark~ and clings to me all night long.\""
                             ]
                         },
                         {
@@ -6523,14 +6453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ああ…そういうこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから大量の薪を持ってきたと」"
+                                "\\n<Roselitte>\"Ahh... I see. That's why you brought a large amount of\nfirewood.\""
                             ]
                         },
                         {
@@ -6603,14 +6526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だって…夜はオバケ出るし…」"
+                                "\\n<Ameria>\"Uhh... but... ghosts come out at night...\""
                             ]
                         },
                         {
@@ -6641,21 +6557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「出ないよばーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まったく、目の前に悪魔がいるってのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　怖がるなら僕を怖がれってんだ」"
+                                "\\n<Lyric>\"They don't, you idiot.... Seriously, there's a demon right\nin front of you. If you're going to be scared, be scared of\nme.\""
                             ]
                         },
                         {
@@ -6796,14 +6698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「今夜は騎士さまがいるだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕だってたまには、一人でゆっくり寝たいんだ」"
+                                "\\n<Lyric>\"There's a knight here tonight. Sometimes I want to sleep\npeacefully on my own, too.\""
                             ]
                         },
                         {
@@ -6876,7 +6771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんなぁ…」"
+                                "\\n<Ameria>\"But that's...\""
                             ]
                         },
                         {
@@ -7195,14 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…というわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアのおもりは君に任せたからね」"
+                                "\\n<Lyric>\"...That's the situation. I'm leaving Ameria's care to you.\""
                             ]
                         },
                         {
@@ -7233,7 +7121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなたはどこに？」"
+                                "\\n<Roselitte>\"Where will you be?\""
                             ]
                         },
                         {
@@ -7313,21 +7201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君に寝首をかかれたくないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し離れた場所でのんびりさせてもらうよ」"
+                                "\\n<Lyric>\"Nfufu. I don't want you sneaking up on me while I'm asleep.\nI'll relax in a place a little further away.\""
                             ]
                         },
                         {
@@ -7400,7 +7274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…そう。賢明ですね」"
+                                "\\n<Roselitte>\"...I see. That's wise.\""
                             ]
                         },
                         {
@@ -7882,14 +7756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさん、お願いが…」"
+                                "\\n<Ameria>\"Um... Roselitte-san, I have a favor to ask...\""
                             ]
                         },
                         {
@@ -7993,7 +7860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…一緒に寝るくらい、大丈夫ですよ」"
+                                "\\n<Roselitte>\"...It's okay to sleep together if that's what you want.\""
                             ]
                         },
                         {
@@ -8066,14 +7933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ほんと？　わあ、ありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リリックなんかより、ローゼリッテさんの方が好き！」"
+                                "\\n<Ameria>\"Really? Wow, thank you! I like you more than Lyric!\""
                             ]
                         },
                         {
@@ -8104,7 +7964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ふふ。なんですかそれ」"
+                                "\\n<Roselitte>\"...Hehe. What are you saying?\""
                             ]
                         },
                         {

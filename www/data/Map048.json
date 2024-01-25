@@ -2794,21 +2794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「…何人も死んだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物たちは執拗に人間を襲ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よほどお腹が空いていたんでしょうね。ははは…」"
+                                "\\n<Villager>\"...Many have died. The monsters attacked humans\nrelentlessly. They must have been very hungry. Hahaha...\""
                             ]
                         },
                         {
@@ -2825,7 +2811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「この家、私には広すぎるわ…」"
+                                "\\n<Villager>\"This house is too big for me...\""
                             ]
                         },
                         {

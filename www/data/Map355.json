@@ -20675,21 +20675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国境に近いこの地はかつて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪い、奪われ、多くの血が流れた場所となった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "路頭に迷った者も多く、その爪痕は今だ影を残している。"
+                                "This land near the border was once a place of taking and\nbeing taken, where much blood was spilled. Many were left\nwandering, and its scars still cast shadows to this day."
                             ]
                         },
                         {
@@ -20706,14 +20692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそれはもう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過去の話として薄れ始めようとしていた。"
+                                "But that was beginning to fade into a story of the past."
                             ]
                         },
                         {
@@ -20730,21 +20709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "故郷に戻った人々はもう一度土を耕し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作物を植え、家を建てて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家族や友とともに今の平和を享受した。"
+                                "The people who returned to their homeland once again tilled\nthe soil, planted crops, built homes, and enjoyed the\ncurrent peace with their families and friends."
                             ]
                         },
                         {

@@ -5062,7 +5062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「へへ…まさかまた会えるとは思わなかったぜ」"
+                                "\\n<Thief A>\"Heh heh... I never thought we'd meet again.\""
                             ]
                         },
                         {
@@ -5079,14 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「元気にしてたかアメリアちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おっと動くなよ、言うこと聞かないと痛い目に合うぜ」"
+                                "\\n<Thief B>\"How've you been, Ameria-chan? Whoa there, don't move. If\nyou don't listen, you're gonna get hurt.\""
                             ]
                         },
                         {
@@ -5110,7 +5103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「こ…来ないで！」"
+                                "\\n<Ameria>\"D-Don't come any closer!\""
                             ]
                         },
                         {
@@ -5134,14 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ははは！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんだ、元気そうだなぁ？」"
+                                "\\n<Thief C>\"Hahaha! What's up, you seem pretty lively, huh?\""
                             ]
                         },
                         {
@@ -5207,7 +5193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリアの声>「――きゃああああああ！！」"
+                                "\\n<Ameria's voice>\"--Kyaaaaaaa!!\""
                             ]
                         },
                         {
@@ -6016,7 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「アメリア！」"
+                                "\\n<Lyric>\"Ameria!\""
                             ]
                         },
                         {
@@ -6040,14 +6026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「お、おい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんだよ、他に人がいるじゃねえか！」"
+                                "\\n<Thief A>\"Hey, hey...! What the hell, there are others here?!\""
                             ]
                         },
                         {
@@ -6064,14 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「びびってんじゃねえ、たかが女三人だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつらもまとめて――」"
+                                "\\n<Thief B>\"Don't be scared, it's just three women! We'll take care of\nall of them--\""
                             ]
                         },
                         {
@@ -6088,7 +6060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -6105,14 +6077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「って、あの女！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　逃げた騎士も一緒じゃねえか！」"
+                                "\\n<Thief B>\"Wait, that woman! She's with the knight who escaped!\""
                             ]
                         },
                         {
@@ -6178,14 +6143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「逃げた騎士…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか、デオルクの仲間だった盗賊ですか」"
+                                "\\n<Roselitte>\"The knight who escaped...? Could it be, the thief who was\nan ally of Deorc?\""
                             ]
                         },
                         {
@@ -6209,14 +6167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「好都合だぜ！　おい、そこを動くな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度こそ逃がさねえからな！」"
+                                "\\n<Thief C>\"This is perfect! Hey, don't move a muscle! I won't let you\nescape this time!\""
                             ]
                         },
                         {
@@ -6403,7 +6354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

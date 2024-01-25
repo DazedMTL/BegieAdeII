@@ -2473,7 +2473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでの進行をセーブしますか？"
+                                "Would you like to save your progress up to this point?"
                             ]
                         },
                         {
@@ -2481,8 +2481,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2849,14 +2849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「や…あッ！　んおおッ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やめ…やめろぉぉぉッ…！」"
+                                "\\n<Roselitte>\"No...ah! Oh no...! Stop...stop it...!\""
                             ]
                         },
                         {
@@ -2880,14 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「おいもっとケツ穴の力抜けよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちんぽ全部入り切らねえだろ！(笑)」"
+                                "\\n<Thief A>\"Hey, relax your ass more! My dick can't fit all the way in!\n(laughs)\""
                             ]
                         },
                         {
@@ -2904,14 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「今日だけで何本ケツに咥えたんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　教えてくれよ騎士様ぁ？(笑)」"
+                                "\\n<Thief B>\"How many dicks have you taken in your ass just today? Tell\nme, oh knight? (laughs)\""
                             ]
                         },
                         {
@@ -2935,21 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「くうぅ…も、もうやめてぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう入らない！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それ以上奥…んおおぁぁああ…！」"
+                                "\\n<Roselitte>\"Ugh...no more, please! It won't go in anymore! Any deeper\nand...oh nooo...!\""
                             ]
                         },
                         {
@@ -2994,14 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ひい…い、ひっ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　苦し…もう、無理ぃぃいいいいッッ！」"
+                                "\\n<Roselitte>\"Eek...I, I can't...! It's too much...I can't take it\nanymore!\""
                             ]
                         },
                         {
@@ -3025,21 +2983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「ぶはははは！　おい見ろよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あのローゼリッテ様が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケツにちんこ突っ込まれて泣いてるぜ！」"
+                                "\\n<Thief B>\"Bwahaha! Look at that! Lady Roselitte is crying with a dick\nshoved up her ass!\""
                             ]
                         },
                         {
@@ -3101,7 +3045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「ぎゃははははは！！」"
+                                "\\n<Thieves>\"Gyahahaha!!\""
                             ]
                         },
                         {
@@ -3352,14 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「あー…くそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ようやくまともに歩けるようになったぜ…」"
+                                "\\n<Thief C>\"Ah...damn. Finally able to walk properly again...\""
                             ]
                         },
                         {
@@ -3407,14 +3344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｄ>「お、なんだお前か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　怪我の調子はどうだ？」"
+                                "\\n<Thief D>\"Oh, it's you. How's the injury?\""
                             ]
                         },
                         {
@@ -3431,14 +3361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ちょーいてえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちくしょう、こいつにやられて地獄を見たぜ」"
+                                "\\n<Thief C>\"It hurts like hell. Damn it, that bastard made me see\nhell.\""
                             ]
                         },
                         {
@@ -3572,14 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ずいぶん無様な姿だなぁ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村で見た時とはえらい違いじゃねーか」"
+                                "\\n<Thief C>\"You look pretty pathetic! Quite a difference from when I\nsaw you in the village, huh?\""
                             ]
                         },
                         {
@@ -3608,14 +3524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はケタケタ笑いながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローゼリッテの秘部に股間を当てがった。"
+                                "The man laughed hysterically as he pressed his groin against\nRoselitte's genitals."
                             ]
                         },
                         {
@@ -3679,21 +3588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「あ！　おい、リオラノさんに言われてんだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大事な商品だから前はやるなって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それに――」"
+                                "\\n<Thief B>\"Hey! Didn't Riolaro tell you? She's valuable merchandise,\nso don't do her from the front! Besides--\""
                             ]
                         },
                         {
@@ -3710,21 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「っるせえ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺はこいつにひどい目に合わされたんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつの大事なもん奪わねえと割りに合わ――」"
+                                "\\n<Thief C>\"Shut up! This bitch made me suffer! I won't be satisfied\nuntil I take what's precious from her--\""
                             ]
                         },
                         {
@@ -3839,14 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ぎぃぃぃあああああッ！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺のちんこがああああああッ！！」"
+                                "\\n<Thief C>\"Gyaaaah!! My dick, my dick is aaaaah!!\""
                             ]
                         },
                         {
@@ -3922,21 +3796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「あーあ、言わんこっちゃねえ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヤろうにもヤれねえんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"処女結界\"が張られちまってる」"
+                                "\\n<Thief B>\"Ah-ah, told you so... Can't do her even if we want to.\nShe's got a 'Virgin Barrier' cast on her.\""
                             ]
                         },
                         {
@@ -3953,14 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ぐううぅぅぅぉぉぉ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんだよ、それ…！」"
+                                "\\n<Thief C>\"Guhhh...what the hell is that...!\""
                             ]
                         },
                         {
@@ -3977,7 +3830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「あの子だよ、あの子」"
+                                "\\n<Thief B>\"It's that girl, that girl.\""
                             ]
                         },
                         {
@@ -4188,7 +4041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ふーっ…ふーっ…」"
+                                "\\n<Ameria>\"Huff...huff...\""
                             ]
                         },
                         {
@@ -4212,21 +4065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリアを嬲る盗賊Ａ>「なあ、アメリアちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く結界解いちゃってよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それじゃあえっちできないじゃん」"
+                                "\\n<Bandit A teasing Ameria>\"Hey, Ameria-chan. Hurry up and undo the barrier. We can't\nhave sex like this.\""
                             ]
                         },
                         {
@@ -4250,21 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「い、嫌、だぁ…。　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　結界は…絶対に…ひぃっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　解かないぃ！」"
+                                "\\n<Ameria>\"No, I don't want to... The barrier is... absolutely... Hii!\nI won't undo it!\""
                             ]
                         },
                         {
@@ -4288,21 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリアを嬲る盗賊Ｂ>「しょうがねえなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ、えっちしたくなるようにしてあげなきゃね(笑)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はい足広げてー(笑)」"
+                                "\\n<Bandit B teasing Ameria>\"Can't be helped then... Guess I'll have to make you want to\nhave sex (laughs). Spread your legs—(laughs)\""
                             ]
                         },
                         {
@@ -4326,14 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あッ…やだやだぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう…ああぁ、ああ！　ひいッ！」"
+                                "\\n<Ameria>\"Ah! No, no more! I can't... Ahh, ah! Eek!\""
                             ]
                         },
                         {
@@ -4373,21 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「…聞いての通り。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子が自分とこの女に\"処女結界\"を使ったんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それを解かなきゃ犯せねえ」"
+                                "\\n<Thief B>\"...As you've heard. That girl used a 'Virgin Barrier' on\nher own woman. We can't screw her unless it's undone.\""
                             ]
                         },
                         {
@@ -4435,7 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「くっそぉ…それをもっと早く言えよ！」"
+                                "\\n<Thief C>\"Damn it... You should've said that sooner!\""
                             ]
                         },
                         {
@@ -4452,14 +4242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「やめろって言ったじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まあ、でもよお」"
+                                "\\n<Thief B>\"I told you to stop.... Well, but still\""
                             ]
                         },
                         {
@@ -4803,7 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はローゼリッテの尻を乱暴に掴んだ。"
+                                "The man roughly grabbed Roselitte's butt."
                             ]
                         },
                         {
@@ -4827,21 +4610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ぅあ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　や、やめなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうそんなところ…嫌あッ！」"
+                                "\\n<Roselitte>\"Ah...! Stop it, please! Not there anymore... I hate it!\""
                             ]
                         },
                         {
@@ -4865,14 +4634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「後ろもなかなか悪くねえぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ゆるゆるになる前にヤッていけよ(笑)」"
+                                "\\n<Thief B>\"The back isn't too bad either. Gotta do it before it gets\ntoo loose (laughs).\""
                             ]
                         },
                         {
@@ -4977,14 +4739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「…へっ、しょうがねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くっせえケツマンコで我慢してやるか♡」"
+                                "\\n<Thief C>\"...Heh, can't be helped. Guess I'll have to settle for your\nstinky ass pussy♡\""
                             ]
                         },
                         {
@@ -5104,14 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「や、やめっ…んああああッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おひり、おひりはもういやあああああああッ！！」"
+                                "\\n<Roselitte>\"Stop...noooo! My butt, my butt can't take anymore!\""
                             ]
                         },
                         {
@@ -5135,21 +4883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ぶはははははッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいぞぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケツまんこでちんこに詫びやがれぇ！♡」"
+                                "\\n<Thief C>\"Bwahahaha! That's right! Apologize with your ass pussy for\nmy dick!♡\""
                             ]
                         },
                         {
@@ -5211,7 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「ぎゃははははははは！！」"
+                                "\\n<Thieves>\"Gyahahahahaha!!\""
                             ]
                         },
                         {

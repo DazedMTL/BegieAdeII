@@ -5045,14 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「つ…つえぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時より全然強いじゃねえかよ…」"
+                                "\\n<Thief a>\"Damn... you're way stronger than before...\""
                             ]
                         },
                         {
@@ -5076,14 +5069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…さて、手短に済ませましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この村にいったい何の用です」"
+                                "\\n<Roselitte>\"...Now then, let's make this quick. What business do you\nhave in this village?\""
                             ]
                         },
                         {
@@ -5107,14 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「…へっ。盗賊なんだからやることは一つだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もぬけの殻になった今なら、なんでも盗み放題だぜ」"
+                                "\\n<Thief a>\"...Heh. We're thieves, there's only one thing to do. Now\nthat it's deserted, we can steal anything we want.\""
                             ]
                         },
                         {
@@ -5180,21 +5159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この状況で開き直るとはいい度胸ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まあ、いいでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたたちのような人間なら、心置きなく罰せられる」"
+                                "\\n<Roselitte>\"You have some nerve to be so defiant in this situation...\nWell, it's fine. Humans like you can be punished without any\nreservations.\""
                             ]
                         },
                         {
@@ -5237,21 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ま、待った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうは言っても俺たちはまだ何も盗んじゃいねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうここには来ないから、見逃してくれ！」"
+                                "\\n<Thief a>\"Wait, wait! Even if you say that, we haven't stolen\nanything yet! We won't come here again, so please let us\ngo!\""
                             ]
                         },
                         {
@@ -5268,14 +5219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「これまでだってこの村には何もしなかっただろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから頼む、命だけは…！」"
+                                "\\n<Thief b>\"We haven't done anything to this village before, right!? So\nplease, I beg you, spare our lives...!\""
                             ]
                         },
                         {
@@ -5341,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……？　これまで…？」"
+                                "\\n<Ameria>\"...? Before...?\""
                             ]
                         },
                         {
@@ -5372,21 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私にあれだけのことをしておいて命乞いですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　残念ですが情けをかけるつもりはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　覚悟しなさい」"
+                                "\\n<Roselitte>\"After what you've done to me, you're begging for your\nlives? Unfortunately, I have no intention of showing mercy.\nPrepare yourselves.\""
                             ]
                         },
                         {
@@ -5422,7 +5352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男Ａ>「ひっ…！？」"
+                                "\\n<Man a>\"Eek...!?\""
                             ]
                         },
                         {
@@ -5576,7 +5506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん、待って！」"
+                                "\\n<Ameria>\"Roselitte-san, wait!\""
                             ]
                         },
                         {
@@ -5638,14 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「下がっていなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつらを野放しになどできません」"
+                                "\\n<Roselitte>\"Step back. I cannot let these men go free.\""
                             ]
                         },
                         {
@@ -5718,21 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ううん、そうじゃなくて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この人たち、例の盗賊なんじゃないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら、アナトスの城主と繋がってる…」"
+                                "\\n<Ameria>\"No, that's not it. These guys, aren't they the thieves\nconnected to the lord of Anatos...?\""
                             ]
                         },
                         {
@@ -5887,7 +5796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「どうしてそれを――」"
+                                "\\n<Thief c>\"Why would you--\""
                             ]
                         },
                         {
@@ -5904,7 +5813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ばっ、馬鹿！　言うな！」"
+                                "\\n<Thief a>\"Idiot! Don't say it!\""
                             ]
                         },
                         {
@@ -5928,21 +5837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ああ、そうか。なんで気づかなかったんだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そいういえばコイツらの住処ってこの辺りじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すっかり忘れてたよ」"
+                                "\\n<Lyric>\"--Ah, I see. How did I not realize it sooner. Their hideout\nis around here, right. I completely forgot about that.\""
                             ]
                         },
                         {
@@ -6015,21 +5910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…答えなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナトスから金銭をもらっているという盗賊は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたたちですか」"
+                                "\\n<Roselitte>\"...Answer me. Are you the thieves receiving money from\nAnatos?\""
                             ]
                         },
                         {
@@ -6053,7 +5934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「し、知らねえな！　いったい何の話だ！」"
+                                "\\n<Thief a>\"I don't know what you're talking about!\""
                             ]
                         },
                         {
@@ -6119,7 +6000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…取引場所を教えなさい」"
+                                "\\n<Roselitte>\"...Tell me the location of your transactions.\""
                             ]
                         },
                         {
@@ -6143,7 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「知らねえって言ってんだろ！」"
+                                "\\n<Thief b>\"I told you I don't know!\""
                             ]
                         },
                         {
@@ -6209,7 +6090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…まったく、世話のかかる……」"
+                                "\\n<Roselitte>\"...Really, such a hassle...\""
                             ]
                         },
                         {
@@ -6252,7 +6133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは剣を持ち直した。"
+                                "Roselitte readied her sword again."
                             ]
                         },
                         {
@@ -6349,7 +6230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん、あまり乱暴なことは…」"
+                                "\\n<Ameria>\"Roselitte-san, please don't be too rough...\""
                             ]
                         },
                         {
@@ -6453,7 +6334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「仕方がないことです。下がっていなさい」"
+                                "\\n<Roselitte>\"It can't be helped. Step back.\""
                             ]
                         },
                         {
@@ -6614,7 +6495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お困りですかな、ローゼリッテさん？」"
+                                "\\n<Lyric>\"Are you having trouble, Roselitte-san?\""
                             ]
                         },
                         {
@@ -6760,7 +6641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「は…？」"
+                                "\\n<Roselitte>\"What...?\""
                             ]
                         },
                         {
@@ -6791,21 +6672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「\"お願いしますリリック様\""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その一言だけですべて解決しますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いかがなさいます？」"
+                                "\\n<Lyric>\"'Please help me, Lyric-sama.' Just say the word and\neverything will be resolved. What do you say?\""
                             ]
                         },
                         {
@@ -6871,7 +6738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7001,7 +6868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテはリリックの頭を鷲掴みにした。"
+                                "Roselitte grabbed Lyric by the head."
                             ]
                         },
                         {
@@ -7025,14 +6892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ぬあっ！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　痛った！　痛たたたたた！！」"
+                                "\\n<Lyric>\"Nuaah!? It hurts! It hurts hurts hurts hurts!!\""
                             ]
                         },
                         {
@@ -7277,7 +7137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふざけてないで、やるならさっさとしなさい」"
+                                "\\n<Roselitte>\"Stop fooling around and get on with it if you're going to\ndo something.\""
                             ]
                         },
                         {
@@ -7350,14 +7210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うぐぅぅぉぉぉ……！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　痛いんだよ馬鹿騎士！　怪力女！」"
+                                "\\n<Lyric>\"Uguuuh...! It hurts, you stupid knight! You brute!\""
                             ]
                         },
                         {
@@ -7449,7 +7302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あぁ？」"
+                                "\\n<Roselitte>\"Huh?\""
                             ]
                         },
                         {
@@ -7522,7 +7375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ…な、なんでもないッス……」"
+                                "\\n<Lyric>\"Ah... no, it's nothing...\""
                             ]
                         },
                         {
@@ -7925,21 +7778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君たち見たでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつ怒らせたらマジで怖いって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　痛い思いする前にしゃべっちゃえば？」"
+                                "\\n<Lyric>\"You guys saw that, right? She's really scary when she gets\nangry. Wouldn't you rather talk before you get hurt?\""
                             ]
                         },
                         {
@@ -7963,14 +7802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「っるせえ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺たちは仲間を売るようなことはしねえんだよ！」"
+                                "\\n<Thief a>\"Shut up! We're not the kind of people who would betray our\ncomrades!\""
                             ]
                         },
                         {
@@ -8081,21 +7913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「仲間を売る？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ふうん、やっぱりなんか言えない事情があるんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それじゃあそれも含めて、全部教えてもらおうかな♪」"
+                                "\\n<Lyric>\"Betray your comrades? Hmm, so there's something you can't\ntalk about. Well then, how about you tell us everything\nincluding that?♪\""
                             ]
                         },
                         {
@@ -8175,14 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「さて、と…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いい機会だし、久しぶりに本気出しちゃお…♪」"
+                                "\\n<Lyric>\"Well then... since it's a good opportunity, let's get\nserious for once...♪\""
                             ]
                         },
                         {
@@ -8206,7 +8017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「お、俺はしゃべらないぞ！」"
+                                "\\n<Thief a>\"I-I won't talk!\""
                             ]
                         },
                         {
@@ -8230,14 +8041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はいはい、わかったわかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――そりゃあ！♪」"
+                                "\\n<Lyric>\"Okay okay, I got it, I got it.--Here we go!♪\""
                             ]
                         },
                         {
@@ -8509,7 +8313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックは男のズボンを一気に引きずり下ろした。"
+                                "Lyric swiftly pulled down the man's pants."
                             ]
                         },
                         {
@@ -8526,7 +8330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ふおぁっ！？」"
+                                "\\n<Thief a>\"Fwoah!? What the--\""
                             ]
                         },
                         {
@@ -8550,7 +8354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「きゃあっ！？」"
+                                "\\n<Ameria>\"Kyaa!? What are you doing!?\""
                             ]
                         },
                         {
@@ -8581,7 +8385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ぅ……」"
+                                "\\n<Roselitte>\"Ugh...\""
                             ]
                         },
                         {
@@ -8612,21 +8416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うわーまだふにゃふにゃじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕を前にして勃ってないとかさー、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケンカ売ってるよねー♪」"
+                                "\\n<Lyric>\"Wow, it's still all floppy. You're not even hard in front\nof me - that's like a slap in the face, isn't it?♪\""
                             ]
                         },
                         {
@@ -8650,14 +8440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「いったい何を――うあん！♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やめ、触るなあっ！♡」"
+                                "\\n<Thief a>\"What are you--uwah!♡ Stop, don't touch me there!♡\""
                             ]
                         },
                         {
@@ -8681,21 +8464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕の質問に答えたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気持ちよーくさせてあげるからね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さてさて、さっそく始めるよ～？♪」"
+                                "\\n<Lyric>\"If you answer my questions, I'll make you feel really good♪\nSo, let's get started, shall we?♪\""
                             ]
                         },
                         {
@@ -8719,14 +8488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「く、くそぉ…！♡　卑怯だぞぉ…！♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お、俺はこんなことに屈しないぞぉ…！♡」"
+                                "\\n<Thief a>\"Damn it...!♡ That's dirty...!♡ I-I won't give in to\nsomething like this...!♡\""
                             ]
                         },
                         {
@@ -8780,7 +8542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ…。付き合いきれません」"
+                                "\\n<Roselitte>\"Sigh... I can't deal with this.\""
                             ]
                         },
                         {
@@ -8873,21 +8635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅ…ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　耳、塞いでてもらってもいい…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は目をふさぐから…」"
+                                "\\n<Ameria>\"Ugh... Roselitte-san, can I cover my ears? I'll cover my\neyes...\""
                             ]
                         },
                         {
@@ -8960,7 +8708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。…はい、どうぞ」"
+                                "\\n<Roselitte>\"Yes... go ahead.\""
                             ]
                         },
                         {
@@ -8991,7 +8739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ありがと…」"
+                                "\\n<Ameria>\"Thank you...\""
                             ]
                         },
                         {
@@ -9220,7 +8968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「――も、もう限界だあ！　射精させてくれぇ！♡」"
+                                "\\n<Thief a>\"--I can't take it anymore! Let me cum!♡\""
                             ]
                         },
                         {
@@ -9244,21 +8992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「射精したいんだぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあやることは分かってるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら、ほらぁ♪」"
+                                "\\n<Lyric>\"You want to cum? Then you know what to do, right? Come on,\nspill it♪\""
                             ]
                         },
                         {
@@ -9282,7 +9016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「分かった！　言う！　言うからぁ！♡」"
+                                "\\n<Thief a>\"I got it! I'll talk! Just let me do it!♡\""
                             ]
                         },
                         {
@@ -9299,21 +9033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「俺たち、大人しくする代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナトスから金もらってんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よそから盗んだものも売ったりしてさあ！」"
+                                "\\n<Thief a>\"We've been getting paid by Anatos to behave! We sell stuff\nwe steal from other places too!\""
                             ]
                         },
                         {
@@ -9337,14 +9057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んなことはどうでもいいんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　金をどこでもらってるのかって訊いてんの！」"
+                                "\\n<Lyric>\"I don't care about that! I'm asking where you're getting\nthe money from!\""
                             ]
                         },
                         {
@@ -9368,7 +9081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「そ…それは…」"
+                                "\\n<Thief a>\"That... that is...\""
                             ]
                         },
                         {
@@ -9392,14 +9105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――おら！♪　情けない声上げて早く吐け♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら吐くんだよ♪　楽にしてあげるから♪」"
+                                "\\n<Lyric>\"--Hey!♪ Let out that pathetic voice and spit it out♪ Come\non, let it out♪ I'll make it easy for you♪\""
                             ]
                         },
                         {
@@ -9423,7 +9129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「アアンっ！♡　や、やめ…やめてくれぇ！♡」"
+                                "\\n<Thief a>\"Aahn!♡ Stop... please stop!♡\""
                             ]
                         },
                         {
@@ -9447,7 +9153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「なら早く吐け粗チン野郎！♪」"
+                                "\\n<Lyric>\"Then hurry up and spill it, you tiny-dicked fool!♪\""
                             ]
                         },
                         {
@@ -9471,14 +9177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「あひいいいいぃぃぃぃッ！♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　分かった！　全部、全部話すよぉ！♡」"
+                                "\\n<Thief a>\"Ahiieeiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\niiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!♡ Okay! I'll\ntell everything, everything!♡\""
                             ]
                         },
                         {
@@ -9502,14 +9201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「おっ。そうかいそうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…おいで♪」"
+                                "\\n<Lyric>\"Oh? Is that so... come here♪\""
                             ]
                         },
                         {
@@ -9533,14 +9225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「いたたたたたたッ！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちんこ引っ張らないでくれぇ！」"
+                                "\\n<Thief a>\"Ow ow ow ow ow!!? Don't pull on my cock!\""
                             ]
                         },
                         {
@@ -9881,7 +9566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…それ以上寄らないで。汚い」"
+                                "\\n<Roselitte>\"...Don't come any closer. You're filthy.\""
                             ]
                         },
                         {
@@ -9912,7 +9597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ひどいなあ、有益な情報手に入れたのに」"
+                                "\\n<Lyric>\"That's harsh, we just got some useful information.\""
                             ]
                         },
                         {
@@ -9985,14 +9670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…アメリア？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――おい、アメリア！」"
+                                "\\n<Lyric>\"...Ameria?--Hey, Ameria!\""
                             ]
                         },
                         {
@@ -10103,7 +9781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えっ…？　――きゃあ！？」"
+                                "\\n<Ameria>\"Eh...?--Kyaa!? What the--\""
                             ]
                         },
                         {
@@ -10127,14 +9805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の股間を握りしめているリリックを目にして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アメリアは再び顔を覆った。"
+                                "Upon seeing Lyric gripping the man's crotch, Ameria covered\nher face again."
                             ]
                         },
                         {
@@ -10207,7 +9878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「もうなんなの！　サイテー！」"
+                                "\\n<Ameria>\"Enough already! This is the worst!\""
                             ]
                         },
                         {
@@ -10311,14 +9982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「取引場所を教えてくれるってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら、吐け！」"
+                                "\\n<Lyric>\"He says he'll tell us where they make the trades. Come on,\nout with it!\""
                             ]
                         },
                         {
@@ -10517,21 +10181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「くそっ――あひんっ！♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あ、アジトだ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　取引は俺たちのアジトでやってたんだ！」"
+                                "\\n<Thief a>\"Damn it--ahin!♡ It's our hideout! The deals are done at our\nhideout!\""
                             ]
                         },
                         {
@@ -10548,21 +10198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「あの洞窟、元はアナトスの隠し通路なんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんか昔は軍に使われてたとかなんとかで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクさんが話を付けて住処にしたんだ！」"
+                                "\\n<Thief a>\"That cave was originally Anatos's secret passage! Something\nabout it being used by the military a long time ago, and\nDeoruk-san negotiated for us to live there!\""
                             ]
                         },
                         {
@@ -10586,14 +10222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あの洞窟がアナトスに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君、嘘ついてるわけじゃないよね？」"
+                                "\\n<Lyric>\"That cave belongs to Anatos? You're not lying, are you?\""
                             ]
                         },
                         {
@@ -10617,7 +10246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「誓って本当だ、信じてくれ！」"
+                                "\\n<Thief a>\"I swear it's true, believe me!\""
                             ]
                         },
                         {
@@ -10641,21 +10270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「よしよし♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――なんでさっさと言わないんだよ馬鹿たれ！♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手が疲れただろうが！♪」"
+                                "\\n<Lyric>\"There there♪--Why didn't you just say so sooner, you\nidiot?! My hand is getting tired!♪\""
                             ]
                         },
                         {
@@ -10738,14 +10353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊>「ふぁぁぁぁああああッ！！？♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イク！　イクぅぅぅううううッ！！♡」"
+                                "\\n<Thief a>\"Faaaaaaaah!!?♡ I'm cumming! I'm cumminggggggggggg!!♡\""
                             ]
                         },
                         {
@@ -11057,7 +10665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

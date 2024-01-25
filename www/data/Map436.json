@@ -5083,7 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは荷物を見ながら顔をしかめた。"
+                                "Roselitte frowned while looking through her belongings."
                             ]
                         },
                         {
@@ -5100,7 +5100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「指輪が無い…」"
+                                "\\n<Roselitte>\"My ring is missing...\""
                             ]
                         },
                         {
@@ -5159,14 +5159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「指輪？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさんの大切なもの…だよね？」"
+                                "\\n<Ameria>\"A ring? Roselitte-san's important item... right?\""
                             ]
                         },
                         {
@@ -5183,21 +5176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様にいただいた指輪です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　荷物の中にしまっておいたのですが…」"
+                                "\\n<Roselitte>\"Yes... It's a ring given to me by Lord Yuri. I had it\nstored in my luggage, but...\""
                             ]
                         },
                         {
@@ -5214,21 +5193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うーん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　高価なものなら盗まれちゃったかも…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうする？　探してみる？」"
+                                "\\n<Ameria>\"Hmm... If it's valuable, maybe it got stolen... What should\nwe do? Should we look for it?\""
                             ]
                         },
                         {
@@ -5245,7 +5210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -5304,14 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ、まずはここから脱出するのが先決です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様もきっと分かってくれると思いますし」"
+                                "\\n<Roselitte>\"No, our first priority should be to escape from here. I'm\nsure Lord Yuri would understand.\""
                             ]
                         },
                         {
@@ -5370,14 +5328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ、一緒にがんばろう！」"
+                                "\\n<Ameria>\"Understood. Then, let's work together and do our best!\""
                             ]
                         },
                         {
@@ -5394,21 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…でも、急いでここを出るのはもちろんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　準備は怠らないようにね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"手記に記録を残す\"ことも忘れちゃダメだよ」"
+                                "\\n<Ameria>\"...But, while we need to hurry and get out of here, we\nshouldn't neglect our preparations. Don't forget to 'record\nin the journal' either.\""
                             ]
                         },
                         {
@@ -5425,14 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「もちろんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ではさっそく記録を――」"
+                                "\\n<Roselitte>\"Of course. Then, let's make a record right away--\""
                             ]
                         },
                         {
@@ -5491,14 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは荷物に手を伸ばすも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再び顔をしかめて固まってしまった。"
+                                "Roselitte reached for her luggage again but froze with a\nfrown on her face."
                             ]
                         },
                         {
@@ -5515,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「手記も無くなってる…。どうして…」"
+                                "\\n<Roselitte>\"The journal is gone too... Why...?\""
                             ]
                         },
                         {
@@ -5574,14 +5497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ええ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それも盗まれちゃったのかなぁ…」"
+                                "\\n<Ameria>\"What?! Maybe that was stolen too...?\""
                             ]
                         },
                         {
@@ -5640,21 +5556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「んー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ、はい、ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良かったら私の手記を使って」"
+                                "\\n<Ameria>\"Hmm... then here, Roselitte-san. Feel free to use my\njournal.\""
                             ]
                         },
                         {
@@ -5690,7 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアはローゼリッテに手記を手渡した。"
+                                "Ameria handed her journal to Roselitte."
                             ]
                         },
                         {
@@ -5719,14 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブが行えるようになりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※Ｓキー(デフォルト)でショートカット呼び出し可能です。"
+                                "You can now save the game. ※Press the S key (default) for a\nshortcut call."
                             ]
                         },
                         {
@@ -5801,14 +5696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…あなたの宝物、でしたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が使ってしまってもいいんですか？」"
+                                "\\n<Roselitte>\"...It was your treasure, wasn't it? Are you sure I can use\nit?\""
                             ]
                         },
                         {
@@ -5825,21 +5713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「気にしないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな状況だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分の物と思ってもらっても大丈夫だから」"
+                                "\\n<Ameria>\"Don't worry about it! Given the situation, it's fine to\nthink of it as your own.\""
                             ]
                         },
                         {
@@ -5856,14 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…助かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ではさっそく、失礼して…」"
+                                "\\n<Roselitte>\"...Thank you. Then, if you'll excuse me...\""
                             ]
                         },
                         {
@@ -5939,7 +5806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -5956,7 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「どうしたの？」"
+                                "\\n<Ameria>\"What's wrong?\""
                             ]
                         },
                         {
@@ -6015,21 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　前に言っていた通り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手記を書いても元気は出ないなと思いまして」"
+                                "\\n<Roselitte>\"...No. As I said before, writing in the journal doesn't\nseem to lift my spirits.\""
                             ]
                         },
                         {
@@ -6046,21 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あはは。でも、大丈夫だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私がローゼリッテさんの怪我を診て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元気にしてあげるから」"
+                                "\\n<Ameria>\"Ahaha. But don't worry. I'll take a look at Roselitte-san's\ninjuries and cheer you up.\""
                             ]
                         },
                         {
@@ -6119,7 +5958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6136,7 +5975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…でも、なんだか――」"
+                                "\\n<Ameria>\"...But somehow--\""
                             ]
                         },
                         {
@@ -6195,7 +6034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは満面の笑みを浮かべて、言った。"
+                                "Ameria said with a beaming smile."
                             ]
                         },
                         {
@@ -6212,14 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさんの役に立ってると思うと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嬉しくて、私が元気になったような気がする！」"
+                                "\\n<Ameria>\"Thinking that I'm useful to Roselitte-san makes me happy,\nand I feel like it gives me energy!\""
                             ]
                         },
                         {
@@ -6278,7 +6110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…なんですか、それ」"
+                                "\\n<Roselitte>\"...What are you talking about?\""
                             ]
                         },
                         {
@@ -6453,14 +6285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ともかく、\"こまめな記録を忘れないように\"ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この先きっと役に立つはずだから」"
+                                "\\n<Ameria>\"Anyway, don't forget to 'record frequently.' It's bound to\nbe useful later on.\""
                             ]
                         },
                         {
@@ -6519,14 +6344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あ、そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう一つ大事なことを忘れるところだった」"
+                                "\\n<Ameria>\"...Oh, right. I almost forgot another important thing.\""
                             ]
                         },
                         {
@@ -6543,28 +6361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「その頭の怪我…。もう充分わかってると思うけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大きなチカラを使おうとすれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それだけ自分も傷つけることになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからできる限り、無理はしないでね」"
+                                "\\n<Ameria>\"That head injury... I'm sure you're well aware, but using\ngreat power means you also risk hurting yourself. So please,\ntry not to overdo it.\""
                             ]
                         },
                         {
@@ -6581,28 +6378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でもこの先の戦いで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてもチカラを使わないといけない時があると思うの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからその時のために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　定期的に私の治療を受けるようにしてね」"
+                                "\\n<Ameria>\"But I think there will be times in the battles ahead when\nyou absolutely must use your power. So for those times, make\nsure to receive my treatment regularly.\""
                             ]
                         },
                         {
@@ -6661,7 +6437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「何もそこまでして……」"
+                                "\\n<Roselitte>\"You don't have to go to such lengths...\""
                             ]
                         },
                         {
@@ -6720,7 +6496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさん？」"
+                                "\\n<Ameria>\"...Roselitte-san?\""
                             ]
                         },
                         {
@@ -6737,7 +6513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは睨むようにローゼリッテの顔を覗き込んだ。"
+                                "Ameria peered into Roselitte's face as if scrutinizing her."
                             ]
                         },
                         {
@@ -6796,7 +6572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…分かりました。アメリア先生」"
+                                "\\n<Roselitte>\"...Understood. Dr. Ameria.\""
                             ]
                         },
                         {
@@ -6855,14 +6631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　分かればよろしい♪」"
+                                "\\n<Ameria>\"Yes. As long as you understand♪\""
                             ]
                         },
                         {
@@ -7362,7 +7131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーション×３を手に入れた！"
+                                "Gained 3 Potions!"
                             ]
                         },
                         {
@@ -7609,7 +7378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーター×２を手に入れた！"
+                                "Gained Magic Water x2!"
                             ]
                         },
                         {

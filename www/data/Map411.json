@@ -5892,14 +5892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「着いた。ここだよ、ここ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君たちが捕まってたとこ」"
+                                "\\n<Lyric>\"We've arrived. This is the place, right here. Where you all\nwere captured.\""
                             ]
                         },
                         {
@@ -5958,21 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「随分深い場所にあったのですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かにこれは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時川に飛び込んで正解だったかもしれません」"
+                                "\\n<Roselitte>\"It's quite a deep location... Indeed, jumping into the\nriver at that time might have been the right decision.\""
                             ]
                         },
                         {
@@ -6092,7 +6071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でしょー？　褒めて褒めて」"
+                                "\\n<Lyric>\"Right? Praise me, praise me.\""
                             ]
                         },
                         {
@@ -6182,14 +6161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はいはい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくやってくれました」"
+                                "\\n<Roselitte>\"Yes, yes. You did well.\""
                             ]
                         },
                         {
@@ -6248,7 +6220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言って、ローゼリッテはリリックの頭に手を置いた。"
+                                "Saying that, Roselitte placed her hand on Lyric's head."
                             ]
                         },
                         {
@@ -6265,7 +6237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んふふー♪」"
+                                "\\n<Lyric>\"Nfufu-♪\""
                             ]
                         },
                         {
@@ -6397,14 +6369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「むう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさんとリリック、仲が良い…」"
+                                "\\n<Ameria>\"Muu... Roselitte-san and Lyric are so close...\""
                             ]
                         },
                         {
@@ -6463,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「なに、嫉妬してんの？」"
+                                "\\n<Lyric>\"What, are you jealous?\""
                             ]
                         },
                         {
@@ -6522,7 +6487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私も頭撫でていい？」"
+                                "\\n<Ameria>\"Can I also pat your head?\""
                             ]
                         },
                         {
@@ -6581,7 +6546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はあ？　さわんな」"
+                                "\\n<Lyric>\"Hah? Don't touch me.\""
                             ]
                         },
                         {
@@ -6640,14 +6605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ほらー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでローゼリッテさんだけ！」"
+                                "\\n<Ameria>\"Look! Why only Roselitte-san!\""
                             ]
                         },
                         {
@@ -6737,7 +6695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…二人とも。騒がない」"
+                                "\\n<Roselitte>\"...Both of you, don't be noisy.\""
                             ]
                         },
                         {

@@ -10687,7 +10687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふあ……ぁ……ねむ……」"
+                                "\\n<Lyric>\"Haa... ah... sleepy...\""
                             ]
                         },
                         {
@@ -11294,7 +11294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック～」"
+                                "\\n<Ameria>\"Lyric~\""
                             ]
                         },
                         {
@@ -11374,7 +11374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あれ？」"
+                                "\\n<Ameria>\"...Huh?\""
                             ]
                         },
                         {
@@ -11536,7 +11536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…寝てるの？」"
+                                "\\n<Ameria>\"...Are you sleeping?\""
                             ]
                         },
                         {
@@ -11616,7 +11616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――んあ…？」"
+                                "\\n<Lyric>\"--Hmm...?\""
                             ]
                         },
                         {
@@ -11689,7 +11689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…よだれ。ついてるよ」"
+                                "\\n<Ameria>\"...You've got drool on you.\""
                             ]
                         },
                         {
@@ -11769,7 +11769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あぁ……寝てた」"
+                                "\\n<Lyric>\"Ah... I was sleeping.\""
                             ]
                         },
                         {
@@ -11800,14 +11800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「知ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう…私ひとりで話をつけてきたのに、呑気だね」"
+                                "\\n<Ameria>\"I know. Geez... I went and sorted out the talk all by\nmyself, and here you are, taking it easy.\""
                             ]
                         },
                         {
@@ -11887,21 +11880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕悪くないし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ってかさー、城に入るだけでいつまで待たせんのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　意味わかんない」"
+                                "\\n<Lyric>\"It's not my fault. Besides, how long do they expect us to\nwait just to enter the castle? It doesn't make sense.\""
                             ]
                         },
                         {
@@ -11932,21 +11911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「しょうがないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人をやたらに出入りさせるわけにはいかないもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"中央都市\"のお城は特に警備が厳しいんだから」"
+                                "\\n<Ameria>\"Can't be helped. They can't just let people come and go as\nthey please. The castle in the 'Central City' is especially\nstrict with security.\""
                             ]
                         },
                         {
@@ -12026,7 +11991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕、魔物なんだけど」"
+                                "\\n<Lyric>\"But I'm a demon, you know.\""
                             ]
                         },
                         {
@@ -12099,7 +12064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だからこんな時間かかったんだけど…」"
+                                "\\n<Ameria>\"That's why it took so long...\""
                             ]
                         },
                         {
@@ -12172,14 +12137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…さあ、話が通ったみたいだから、早く行こ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　予定の時間過ぎちゃった」"
+                                "\\n<Ameria>\"...Alright, it seems like they've given us the go-ahead, so\nlet's hurry. We're past the scheduled time.\""
                             ]
                         },
                         {
@@ -12259,7 +12217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はいはい」"
+                                "\\n<Lyric>\"Okay, okay.\""
                             ]
                         },
                         {
@@ -12467,7 +12425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…何してるの？」"
+                                "\\n<Ameria>\"...What are you doing?\""
                             ]
                         },
                         {
@@ -12578,14 +12536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あー…いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良い天気だなぁと思って」"
+                                "\\n<Lyric>\"Ah-... No, just thinking what nice weather it is.\""
                             ]
                         },
                         {
@@ -12658,7 +12609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えっ。どうしたの、熱でもある？」"
+                                "\\n<Ameria>\"Huh? What's wrong, do you have a fever?\""
                             ]
                         },
                         {
@@ -12738,7 +12689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ケンカ売ってんの？」"
+                                "\\n<Lyric>\"Are you picking a fight?\""
                             ]
                         },
                         {
@@ -12929,7 +12880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも…本当、良い天気」"
+                                "\\n<Ameria>\"But... it really is nice weather.\""
                             ]
                         },
                         {
@@ -12960,21 +12911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ずっと気を張り詰めてたから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんか、こうやってゆっくりお話するの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　久しぶりな感じがするね」"
+                                "\\n<Ameria>\"We've been on edge for so long, it feels like it's been a\nwhile since we've had a chance to talk like this.\""
                             ]
                         },
                         {
@@ -13054,21 +12991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そだね。でも君は気をつけないとダメだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　世の中には君を買いたいって言うような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　物好きもいるんだからさ」"
+                                "\\n<Lyric>\"That's true. But you need to be careful. There are some\noddballs out there who would say they want to buy you.\""
                             ]
                         },
                         {
@@ -13141,7 +13064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「物好きって失礼な…」"
+                                "\\n<Ameria>\"Oddballs? That's rude...\""
                             ]
                         },
                         {
@@ -13214,21 +13137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でもあれは驚いたなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい誰なんだろう？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私を買おうとする人なんて」"
+                                "\\n<Ameria>\"But that was surprising... I wonder who it could be?\nSomeone who wants to buy me.\""
                             ]
                         },
                         {
@@ -13308,21 +13217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…まあ、魔本がどうにか手を回したんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなちんちくりんに手を出すような物好きなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうそういないって」"
+                                "\\n<Lyric>\"...Well, probably the magic book did something about it.\nIt's not often you find someone interested in such a tiny\nthing like you.\""
                             ]
                         },
                         {
@@ -13426,7 +13321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「さっきから馬鹿にして～…」"
+                                "\\n<Ameria>\"You've been making fun of me this whole time...\""
                             ]
                         },
                         {
@@ -13499,28 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、でもね。誘拐しにきた奴隷商人は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国がちゃんと探してくれるみたいだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　顔も名前も分かってるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし見つかったらベギーアデのことも何か分かるかもね」"
+                                "\\n<Ameria>\"Oh, but you know. It seems like the empire is going to\nproperly search for the slave trader who came to kidnap us.\nThey know his face and name, so if they find him, we might\nlearn something about Begi-Ade too.\""
                             ]
                         },
                         {
@@ -13600,21 +13474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふぅん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、あんま期待しないほうがいいって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そいつもしばらくは大人しくしているだろうさ」"
+                                "\\n<Lyric>\"Hmm... But don't get your hopes up too much. That guy will\nprobably keep a low profile for a while.\""
                             ]
                         },
                         {
@@ -13687,28 +13547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そうかぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…でもほら、これだけのことがあったんだもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国がきっと手がかりを見つけてくれるはずだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リオラノって名前も珍しいし」"
+                                "\\n<Ameria>\"I see... But still, with all that's happened, the empire is\nsure to find some clues. The name 'Riolano' is pretty\nunusual too.\""
                             ]
                         },
                         {
@@ -13788,14 +13627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「リオラノ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奴隷商人の名前？」"
+                                "\\n<Lyric>\"Riolano... The slave trader's name?\""
                             ]
                         },
                         {
@@ -13868,7 +13700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、そうだよ。若い男の人」"
+                                "\\n<Ameria>\"Yes, that's right. A young man.\""
                             ]
                         },
                         {
@@ -13948,14 +13780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リオラノ……リオラノねぇ……」"
+                                "\\n<Lyric>\"Hmm... Riolano... Riolano, huh...\""
                             ]
                         },
                         {
@@ -14101,7 +13926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ッ――！」"
+                                "\\n<Lyric>\"Gah--!\""
                             ]
                         },
                         {
@@ -14181,14 +14006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…？　どうしたの？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か知ってる？」"
+                                "\\n<Ameria>\"...? What's wrong? Do you know something?\""
                             ]
                         },
                         {
@@ -14261,7 +14079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -14334,14 +14152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…まさか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなの、知るわけないじゃん」"
+                                "\\n<Lyric>\"...No way. I couldn't possibly know anything about that.\""
                             ]
                         },
                         {
@@ -14414,7 +14225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そうだよね。早く捕まるといいなぁ…」"
+                                "\\n<Ameria>\"Right. I hope they catch him soon...\""
                             ]
                         },
                         {
@@ -14487,14 +14298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――って、こんなことしてる場合じゃなかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く行くよ、急いで」"
+                                "\\n<Ameria>\"--Wait, this isn't the time for this! We need to go now,\nhurry up!\""
                             ]
                         },
                         {
@@ -14574,7 +14378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「へーい」"
+                                "\\n<Lyric>\"Yes ma'am.\""
                             ]
                         },
                         {

@@ -20976,14 +20976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<厳かな服の男>「突き進めッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　抵抗する盗賊どもに容赦はするなッ！！」"
+                                "\\n<Man in solemn clothes>\"Charge! Show no mercy to the resisting thieves!!\""
                             ]
                         },
                         {
@@ -21010,7 +21003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「「「おおおおーーーーッッ！！」」」"
+                                "\\n<Valam soldier>\"Ooooohhhhh----!!\""
                             ]
                         },
                         {
@@ -21027,14 +21020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ちくしょう、どうなってんだ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでもう帝国軍がいるんだよ！」"
+                                "\\n<Thief a>\"Damn it, what's going on!? Why is the Imperial Army already\nhere?!\""
                             ]
                         },
                         {
@@ -21051,7 +21037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「奇襲なんて卑怯な真似しやがって！」"
+                                "\\n<Thief b>\"A surprise attack, how cowardly!\""
                             ]
                         },
                         {
@@ -21189,7 +21175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「く、くそぉぉぉおおお！」"
+                                "\\n<Thief c>\"D-damn it all!\""
                             ]
                         },
                         {
@@ -21297,7 +21283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<厳かな服の男>「甘い！」"
+                                "\\n<Man in solemn clothes>\"Naive!\""
                             ]
                         },
                         {
@@ -21394,7 +21380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ぐああああっ！」"
+                                "\\n<Thief c>\"Guaaaaah!\""
                             ]
                         },
                         {
@@ -21755,21 +21741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<厳かな服の男>「聞け、ヴァラムに巣くう悪党ども！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴様らが善良なる市民を攻撃したこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは皇帝陛下に刃を向けたことと同義である！」"
+                                "\\n<Man in solemn clothes>\"Listen up, scoundrels nesting in Valam! Attacking the\ninnocent citizens is akin to turning your blades against His\nMajesty the Emperor!\""
                             ]
                         },
                         {
@@ -21786,28 +21758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「我が名はユーリ・ハウゼン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　皇帝陛下直々の命により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴様らを断罪するべく駆け付けた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その身を持って帝国の裁きを受けるがいい！」"
+                                "\\n<Yuri>\"My name is Yuri Hausen! By the direct command of His\nMajesty the Emperor, I have come to pass judgment upon you!\nAccept the Empire's justice with your very bodies!\""
                             ]
                         },
                         {
@@ -21824,14 +21775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ゆ、ユーリ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ・ハウゼンだって！？」"
+                                "\\n<Thief a>\"Yu-Yuri...? You mean Yuri Hausen?!\""
                             ]
                         },
                         {
@@ -21848,14 +21792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「おいおいまさか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヴァラムの\"ユーリ皇太子\"だと！？」"
+                                "\\n<Thief b>\"Hey, hey, don't tell me it's Valam's 'Crown Prince Yuri'!?\""
                             ]
                         },
                         {
@@ -21872,14 +21809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｄ>「ありえねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでこんなところに皇太子が！？」"
+                                "\\n<Thief d>\"No way! What's the Crown Prince doing in a place like\nthis?!\""
                             ]
                         },
                         {
@@ -21961,14 +21891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「殿下！　これ以上前に出られては危険です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここはお下がりください！」"
+                                "\\n<Valam soldier>\"Your Highness! It's too dangerous to go any further!\nPlease, fall back!\""
                             ]
                         },
                         {
@@ -22016,14 +21939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ならん！　盗賊ふぜいに民が傷つけられたのだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後ろでただ見ているだけなど我慢できるかっ！」"
+                                "\\n<Yuri>\"I cannot! The people have been harmed by these thieving\nscum! I cannot simply stand back and watch!\""
                             ]
                         },
                         {
@@ -22040,7 +21956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「ですが――！」"
+                                "\\n<Valam soldier>\"But--!\""
                             ]
                         },
                         {
@@ -22246,14 +22162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｇ>「――聞いてた通りだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか本当に来るなんてなぁ！？」"
+                                "\\n<Thief g>\"--Just as we heard! Who would've thought he'd actually\ncome, huh?!\""
                             ]
                         },
                         {
@@ -22301,7 +22210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ッ！？」"
+                                "\\n<Yuri>\"What!? \""
                             ]
                         },
                         {
@@ -22349,7 +22258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「殿下！！」"
+                                "\\n<Valam soldier>\"Your Highness!!\""
                             ]
                         },
                         {
@@ -22366,7 +22275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｇ>「もらったぁぁぁあああッ！！」"
+                                "\\n<Thief g>\"I've got you nowwwww!!\""
                             ]
                         },
                         {
@@ -22771,7 +22680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「……」"
+                                "\\n<??>\"...\""
                             ]
                         },
                         {
@@ -22788,7 +22697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「なっ――」"
+                                "\\n<Yuri>\"What--\""
                             ]
                         },
                         {
@@ -22812,14 +22721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…兵の言う通りです、殿下。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しは控えていただかないと」"
+                                "\\n<??>\"...The soldier speaks the truth, Your Highness. You must\nhold back a little.\""
                             ]
                         },
                         {
@@ -22843,14 +22745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｇ>「くそ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女！　そこをどけッ！」"
+                                "\\n<Thief g>\"Damn...! Woman! Get out of the way!\""
                             ]
                         },
                         {
@@ -22874,7 +22769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「身の程をわきまえなさい」"
+                                "\\n<??>\"Know your place.\""
                             ]
                         },
                         {
@@ -22978,7 +22873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｇ>「ぐああああっ！」"
+                                "\\n<Thief g>\"Guaaaaah!\""
                             ]
                         },
                         {
@@ -22995,14 +22890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…ローゼリッテ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてお前がここに？」"
+                                "\\n<Yuri>\"...Roselitte. Why are you here?\""
                             ]
                         },
                         {
@@ -23099,14 +22987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いついかなる時も殿下にお仕えする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それが私の主命でございますので」"
+                                "\\n<Roselitte>\"I am to serve Your Highness at all times. That is my\nprimary duty.\""
                             ]
                         },
                         {
@@ -23130,14 +23011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…だが、命令違反とは褒められたことではないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺は休んでいろと言ったはずだ」"
+                                "\\n<Yuri>\"...But disobeying orders is not something to be praised\nfor. I told you to rest.\""
                             ]
                         },
                         {
@@ -23203,21 +23077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はい。お暇をいただきましたので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は個人的に殿下のお傍にいるだけです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…何か、不都合なことが？」"
+                                "\\n<Roselitte>\"Yes, I was given leave, so currently I am by Your\nHighness's side on a personal basis... Is there any\ninconvenience?\""
                             ]
                         },
                         {
@@ -23241,7 +23101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「お前なぁ…」"
+                                "\\n<Yuri>\"You...\""
                             ]
                         },
                         {
@@ -23274,14 +23134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ちくしょう！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくも俺たちの仲間を！」"
+                                "\\n<Thief a>\"Damn you! How dare you do this to our comrades!\""
                             ]
                         },
                         {
@@ -23298,14 +23151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「どうせ逃げられねえ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それならここでやってやる！」"
+                                "\\n<Thief b>\"We can't escape anyway...! If that's the case, we'll fight\nright here!\""
                             ]
                         },
                         {
@@ -23607,7 +23453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「体は大丈夫なのか」"
+                                "\\n<Yuri>\"Are you alright?\""
                             ]
                         },
                         {
@@ -23631,14 +23477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どうぞご心配なさらずに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なまった体を叩き起こすにはちょうどいい相手です」"
+                                "\\n<Roselitte>\"Please do not worry. They are just the right opponents to\nknock some rust off my body.\""
                             ]
                         },
                         {
@@ -23662,21 +23501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが無理はするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　危ないと分かったらすぐに下げさせる」"
+                                "\\n<Yuri>\"...Understood. But don't push yourself. If it gets\ndangerous, retreat immediately.\""
                             ]
                         },
                         {
@@ -23700,7 +23525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はい。お心遣い感謝致します」"
+                                "\\n<Roselitte>\"Yes, I appreciate your concern.\""
                             ]
                         },
                         {
@@ -23724,14 +23549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「――いくぞお前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヴァラムの連中に目にものを見せてやるぞ！！」"
+                                "\\n<Thief a>\"--Let's go, everyone! Show those Valam dogs what we're made\nof!!\""
                             ]
                         },
                         {
@@ -23758,7 +23576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「「「オオオオッッ！！」」」"
+                                "\\n<Thieves>\"Ooooohhh!!\""
                             ]
                         },
                         {
@@ -23824,14 +23642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…耳障りな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　威勢だけで帝国に勝てると思っているのですか」"
+                                "\\n<Roselitte>\"...Annoying. Do you really think you can win against the\nEmpire with just bravado?\""
                             ]
                         },
                         {
@@ -24011,14 +23822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「来なさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国に刃を向けたその蛮行…死をもって償え」"
+                                "\\n<Roselitte>\"Come forth. For your barbaric act of turning your blades\nagainst the Empire... pay with your death.\""
                             ]
                         },
                         {
@@ -24856,7 +24660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はぁ……はあ……」"
+                                "\\n<Roselitte>\"Haa... hah...\""
                             ]
                         },
                         {
@@ -24931,14 +24735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ユーリ>「…大丈夫か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　やはりまだ無理だ。後ろで休んでいろ」"
+                                "\\n<Yuri>\"...Are you alright? As I thought, it's still too much for\nyou. Rest in the back.\""
                             ]
                         },
                         {
@@ -25035,7 +24832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いえ。ご心配には及びません」"
+                                "\\n<Roselitte>\"...No. There is no need for concern.\""
                             ]
                         },
                         {
@@ -25108,28 +24905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「それより殿下。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　抵抗を続ける賊が思いのほか多いようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　不要な消耗を避けるため急ぎ中央を突破し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　敵を各個撃破する作戦を進言します」"
+                                "\\n<Roselitte>\"More importantly, Your Highness. It seems there are more\nthieves resisting than expected. To avoid unnecessary\nexhaustion, I suggest we quickly break through the center\nand defeat the enemy one by one.\""
                             ]
                         },
                         {
@@ -25160,14 +24936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私が単独で斬り込みます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　よろしいですか」"
+                                "\\n<Roselitte>\"I will charge in alone. Is that acceptable?\""
                             ]
                         },
                         {
@@ -25191,7 +24960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ユーリ>「…お前、この俺に有無も言わせない気だな？」"
+                                "\\n<Yuri>\"...You, you're not even giving me a chance to say no, are\nyou?\""
                             ]
                         },
                         {
@@ -25239,7 +25008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ユーリ>「――ヴァラム兵！　お前たちだ、来い！」"
+                                "\\n<Yuri>\"--Valam soldiers! You there, come!\""
                             ]
                         },
                         {
@@ -25426,7 +25195,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵>「ハッ！」"
+                                "\\n<Valam soldier>\"Yes, sir!\""
                             ]
                         },
                         {
@@ -25443,14 +25212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ユーリ>「ローゼリッテの指示に従って中央を突破しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　彼女を援護しつつ、村に巣くう賊を散らせ」"
+                                "\\n<Yuri>\"Follow Roselitte's instructions and break through the\ncenter. Support her and disperse the thieves nesting in the\nvillage.\""
                             ]
                         },
                         {
@@ -25800,7 +25562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヴァラム兵たちは敬礼して応えた。"
+                                "The Valam soldiers saluted in response."
                             ]
                         },
                         {
@@ -26234,7 +25996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…殿下。私一人で十分です」"
+                                "\\n<Roselitte>\"...Your Highness. I alone am sufficient.\""
                             ]
                         },
                         {
@@ -26258,14 +26020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ユーリ>「ダメだ。兵を連れていけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　これは命令だ」"
+                                "\\n<Yuri>\"No. Take the soldiers with you. This is an order.\""
                             ]
                         },
                         {
@@ -26324,7 +26079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -26341,21 +26096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵>「――ローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　\"近衛十二騎士団の一柱(ひとはしら)\"である貴方様と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　共に戦うことができるなんて…光栄であります！」"
+                                "\\n<Valam soldier>\"--Lady Roselitte. To be able to fight alongside you, one of\nthe 'Twelve Knights of the Guard', is an honor!\""
                             ]
                         },
                         {
@@ -26445,7 +26186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -26469,21 +26210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「たとえ殿下自身が前に出られていたとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　私がいなければもしものことがあったのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…これがどういうことか。自覚はありますか」"
+                                "\\n<Roselitte>\"Even if Your Highness himself were at the forefront, if I\nwere not there, something might have happened... Do you\nrealize what this means? Are you aware of it?\""
                             ]
                         },
                         {
@@ -26507,7 +26234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵>「う……その……」"
+                                "\\n<Valam soldier>\"Uh... that...\""
                             ]
                         },
                         {
@@ -26531,21 +26258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「責務を果たせない兵はヴァラムに必要ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ましてやそんな兵に光栄だと言われるほど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　私の剣は甘くない」"
+                                "\\n<Roselitte>\"A soldier who cannot fulfill their duty is not needed by\nValam. Moreover, my sword is not so lenient as to be honored\nby such a soldier.\""
                             ]
                         },
                         {
@@ -26569,14 +26282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵>「は…ハッ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　申し訳ございません！　ローゼリッテ様！！」"
+                                "\\n<Valam soldier>\"Yes... Yes, sir! My apologies, Lady Roselitte!!\""
                             ]
                         },
                         {
@@ -26635,7 +26341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -26659,14 +26365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…本当に申し訳ないと思うのなら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　そして、本当に私と共に戦うことを誇りに思うのなら――」"
+                                "\\n<Roselitte>\"...If you truly feel sorry and take pride in fighting\nalongside me--\""
                             ]
                         },
                         {
@@ -26733,7 +26432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ローゼリッテは進む先に剣を向けた。"
+                                "Roselitte pointed her sword towards where they were heading."
                             ]
                         },
                         {
@@ -26799,14 +26498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「応えよ、勇敢なヴァラムの兵士たち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　我らの魂と剣を捧げる、偉大なる主の名を！」"
+                                "\\n<Roselitte>\"Answer me, brave soldiers of Valam! In the name of our\ngreat lord to whom we offer our souls and swords!\""
                             ]
                         },
                         {
@@ -27163,7 +26855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵たち>\\.\\.「「「ロドリク皇帝陛下、万歳！！」」」"
+                                "\\n<Valam soldiers>\"Long live Emperor Rodrik!!\""
                             ]
                         },
                         {
@@ -27187,14 +26879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「我々は帝国の盾であり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　崇高なる皇帝陛下の剣である！」"
+                                "\\n<Roselitte>\"We are the shield of the Empire and the sword of the\nsublime Emperor!\""
                             ]
                         },
                         {
@@ -27225,21 +26910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ヴァラムの民として！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　そして気高き帝国の兵士として！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　その刃を、我らが正義のために振るえ！！」"
+                                "\\n<Roselitte>\"As citizens of Valam! And as noble soldiers of the Empire!\nWield your blades for our justice!!\""
                             ]
                         },
                         {
@@ -27273,7 +26944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵たち>「「「オオオッ！！」」」"
+                                "\\n<Valam soldiers>\"Oooohhh!!\""
                             ]
                         },
                         {
@@ -27297,7 +26968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「盗賊どもを根絶やしにしろッ！」"
+                                "\\n<Roselitte>\"Eradicate the thieves!\""
                             ]
                         },
                         {
@@ -27331,7 +27002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵たち>「「「オオオオオッッ！！！」」」"
+                                "\\n<Valam soldiers>\"Oooohhhhh!!!\""
                             ]
                         },
                         {
@@ -27355,7 +27026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私以上に、殺せッッ！！」"
+                                "\\n<Roselitte>\"Kill them more than I do!!\""
                             ]
                         },
                         {
@@ -27389,7 +27060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヴァラム兵たち>「「「オオオオオーーーーッッ！！！！」」」"
+                                "\\n<Valam soldiers>\"Oooohhh----!!!\""
                             ]
                         },
                         {

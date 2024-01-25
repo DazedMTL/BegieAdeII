@@ -23619,14 +23619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「\"ナヌーマ森林\"。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エイベルとアンナベルンに繋がる森だよ」"
+                                "\\n<Ameria>\"Nanu-Ma Forest. It's the forest that connects Eibel and\nAnnabern.\""
                             ]
                         },
                         {
@@ -23643,21 +23636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「普段から使われてる道だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　所々に魔物の巣があって危ないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道から外れないように注意してね」"
+                                "\\n<Ameria>\"It's a path that's used regularly, but there are monster\nnests here and there which can be dangerous. Make sure not\nto stray from the path.\""
                             ]
                         },
                         {
@@ -23716,21 +23695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ですが、そう心配することはないでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こちらにはリリックがいるのですから」"
+                                "\\n<Roselitte>\"Understood... But there's no need to worry so much. After\nall, we have Lyric with us.\""
                             ]
                         },
                         {
@@ -23789,14 +23754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「お？　なになに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕ってそんなに頼りにされてるの？」"
+                                "\\n<Lyric>\"Oh? What's this? Am I really that reliable?\""
                             ]
                         },
                         {
@@ -23813,14 +23771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「気配を探るのは得意でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近くに魔物の巣があれば教えてください」"
+                                "\\n<Roselitte>\"You're good at sensing presences, right? Please let us know\nif there's a monster nest nearby.\""
                             ]
                         },
                         {
@@ -23879,21 +23830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ええ…。簡単に言うなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そりゃあ魔物が近くにいたらある程度分かるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　巣の場所までは分からないよ」"
+                                "\\n<Lyric>\"Yeah... Don't make it sound so simple. I mean, I can tell\nto some extent if monsters are nearby, but I can't pinpoint\nthe location of their nests.\""
                             ]
                         },
                         {
@@ -23952,21 +23889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…そういうものなのですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気配もそうですが、魔物の巣なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　においとかでも分かりそうなものですけど」"
+                                "\\n<Roselitte>\"...Is that so? Not just presences, but I thought you might\nbe able to tell by the smell or something if it's a monster\nnest.\""
                             ]
                         },
                         {
@@ -24025,21 +23948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「におい…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…何を勘違いしてるのか知らないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕、においで魔物を探ったりなんかできないからね」"
+                                "\\n<Lyric>\"Smell...? ...I don't know what you're misunderstanding, but\nI can't track monsters by smell, you know.\""
                             ]
                         },
                         {
@@ -24056,7 +23965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…え？」"
+                                "\\n<Roselitte>\"...Eh?\""
                             ]
                         },
                         {
@@ -24115,14 +24024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そうなんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　においで分からないんだ…」"
+                                "\\n<Ameria>\"So that's how it is... You can't tell by smell...\""
                             ]
                         },
                         {
@@ -24139,21 +24041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「え。マジ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　マジでにおいで分かると思ってたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どう勘違いしたらそうなるんだよ！」"
+                                "\\n<Lyric>\"Huh. Seriously? You seriously thought I could tell by\nsmell? How did you even come to that misunderstanding?\""
                             ]
                         },
                         {
@@ -24170,14 +24058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「魔物ですから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てっきり獣と似たようなことができるかと」"
+                                "\\n<Roselitte>\"Since they're monsters, I just assumed they could do\nsomething similar to beasts.\""
                             ]
                         },
                         {
@@ -24194,14 +24075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「失礼だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずっと僕を犬か何かだと思ってたわけ？」"
+                                "\\n<Lyric>\"That's rude. Have you been thinking of me as some kind of\ndog all this time?\""
                             ]
                         },
                         {
@@ -24260,7 +24134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――リリック、お手！」"
+                                "\\n<Ameria>\"--Lyric, shake!\""
                             ]
                         },
                         {
@@ -24319,7 +24193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「わん♪　ってやめろぉ！」"
+                                "\\n<Lyric>\"Woof♪ Stop it already!\""
                             ]
                         },
                         {
@@ -26467,7 +26341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムコロン×２を手に入れた！"
+                                "Gained 2 Folium Colon!"
                             ]
                         },
                         {
@@ -26639,7 +26513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムハーブ×２を手に入れた！"
+                                "Gained Folium Herb x2!"
                             ]
                         },
                         {
@@ -26900,7 +26774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒートアウェイを手に入れた！"
+                                "Gained a Hideaway!"
                             ]
                         },
                         {

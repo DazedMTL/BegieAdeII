@@ -7137,14 +7137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「おおー！　外だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うまく峠を越えられそうだね！」"
+                                "\\n<Lyric>\"Wow! We're outside! Looks like we can get over the pass!\""
                             ]
                         },
                         {
@@ -7217,14 +7210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ですがさすがに、疲れました…」"
+                                "\\n<Roselitte>\"Haah... But I'm truly exhausted...\""
                             ]
                         },
                         {
@@ -7297,14 +7283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ん？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアはどこに？」"
+                                "\\n<Roselitte>\"...Hm? Where's Ameria?\""
                             ]
                         },
                         {
@@ -7415,14 +7394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おーい！　アメリアー！」"
+                                "\\n<Lyric>\"Huh? Hey! Ameria-!\""
                             ]
                         },
                         {
@@ -7912,21 +7884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「主よ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてあなたは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この世に登り坂をお作りになられたのでしょうか……」"
+                                "\\n<Ameria>\"Oh Lord... why have you created uphill paths in this\nworld...\""
                             ]
                         },
                         {
@@ -8080,7 +8038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…だめみたいだね。グロッキーだ」"
+                                "\\n<Lyric>\"...Looks like it's no good. She's groggy.\""
                             ]
                         },
                         {
@@ -8233,14 +8191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「アンナベルンはもう目の前みたいだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここで少し休んでこっか。僕も足痛いし」"
+                                "\\n<Lyric>\"Annabern seems to be just ahead, but let's rest here for a\nbit. My feet hurt too.\""
                             ]
                         },
                         {
@@ -8271,7 +8222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「仕方がありませんね」"
+                                "\\n<Roselitte>\"We have no choice, do we?\""
                             ]
                         },
                         {
@@ -8737,14 +8688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「大丈夫ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しだけ休みましょう」"
+                                "\\n<Roselitte>\"Are you okay? Let's rest for a little while.\""
                             ]
                         },
                         {
@@ -8817,7 +8761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅ…ごめんなさい…」"
+                                "\\n<Ameria>\"Ugh... I'm sorry...\""
                             ]
                         },
                         {
@@ -9374,7 +9318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -9398,14 +9342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何をしてるんですか」"
+                                "\\n<Roselitte>\"Lyric. What are you doing?\""
                             ]
                         },
                         {
@@ -9436,14 +9373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…二人とも、こっちに来てごらん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　興味深いものが見られるよ」"
+                                "\\n<Lyric>\"...Both of you, come over here. There's something\ninteresting to see.\""
                             ]
                         },
                         {
@@ -9819,7 +9749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「なっ…これは――！」"
+                                "\\n<Roselitte>\"What... this is--!\""
                             ]
                         },
                         {

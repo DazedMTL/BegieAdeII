@@ -5801,7 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あぅ…やっと明るいとこに出たぁ…」"
+                                "\\n<Ameria>\"Ah... we've finally made it out into the light...\""
                             ]
                         },
                         {
@@ -5832,14 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ですがもう日が落ちそうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早めに野営の支度をしましょう」"
+                                "\\n<Roselitte>\"However, it looks like the sun is about to set. We should\nprepare to camp soon.\""
                             ]
                         },
                         {
@@ -5912,7 +5905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…夜はいつ明けるの……？」"
+                                "\\n<Ameria>\"...When will the night end...?\""
                             ]
                         },
                         {
@@ -5985,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そんな詩的に落ち込まなくても」"
+                                "\\n<Roselitte>\"No need to get so poetic and downhearted.\""
                             ]
                         },
                         {
@@ -6221,14 +6214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ねえ、アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここからアナトスまであとどれくらい？」"
+                                "\\n<Lyric>\"Hey, Ameria. How much further is it to Anatos from here?\""
                             ]
                         },
                         {
@@ -6259,21 +6245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「んー…そう遠くはないと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　方角的にはこの川上だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　沿って歩けばすぐ着くんじゃないかなぁ」"
+                                "\\n<Ameria>\"Hmm... I don't think it's too far. Direction-wise, it's\nupstream from this river, so if we follow along, we should\nget there soon.\""
                             ]
                         },
                         {
@@ -6304,14 +6276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「盗賊も川沿いに進めばいいって言ってたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この川、アナトスに通じてるのかな」"
+                                "\\n<Lyric>\"The thief also said we should follow along the river,\nright? Does this river lead to Anatos?\""
                             ]
                         },
                         {
@@ -6342,21 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん。アナトスの真横に川が流れてるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たぶんその川だと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから、もしかしたら――」"
+                                "\\n<Ameria>\"Yes. There's a river that flows right beside Anatos, so I\nthink this is probably that river. So, maybe--\""
                             ]
                         },
                         {
@@ -6608,7 +6559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ローゼ、何してんの？」"
+                                "\\n<Lyric>\"Roselitte, what are you doing?\""
                             ]
                         },
                         {
@@ -6639,14 +6590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「洞窟で服が汚れてしまって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　口の中にも砂が…」"
+                                "\\n<Roselitte>\"My clothes got dirty in the cave... and there's sand in my\nmouth...\""
                             ]
                         },
                         {
@@ -6780,7 +6724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――あっ」"
+                                "\\n<Ameria>\"--Ah!\""
                             ]
                         },
                         {
@@ -6853,7 +6797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ぷはっ…」"
+                                "\\n<Roselitte>\"*cough*...\""
                             ]
                         },
                         {
@@ -6957,14 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…それで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何を話していたんです？」"
+                                "\\n<Roselitte>\"...So, what were you talking about?\""
                             ]
                         },
                         {
@@ -7086,14 +7023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、ええっと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナトスの場所について話してたの」"
+                                "\\n<Ameria>\"Oh, um... we were discussing the location of Anatos.\""
                             ]
                         },
                         {
@@ -7173,21 +7103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「アナトスに通じてる川、か……あっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあもしかしたらこの川、アレに繋がってるのかもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしたら秘密の抜け道ってのもそこかも」"
+                                "\\n<Lyric>\"A river leading to Anatos, huh... Oh! Then maybe this river\nis connected to that thing. Maybe that's where the secret\nescape route is.\""
                             ]
                         },
                         {
@@ -7218,7 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アレ、とは？」"
+                                "\\n<Roselitte>\"That thing, you mean?\""
                             ]
                         },
                         {
@@ -7322,14 +7238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あ！　リリック！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょっと待っ――」"
+                                "\\n<Ameria>\"...Ah! Lyric! Wait a sec--\""
                             ]
                         },
                         {
@@ -7409,21 +7318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「下水道だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この川がアナトスに通じてるなら繋がってるはずでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　秘密の抜け道に下水道は定番だし」"
+                                "\\n<Lyric>\"The sewers. If this river leads to Anatos, then it must be\nconnected, right? Sewers are a classic for secret escape\nroutes.\""
                             ]
                         },
                         {
@@ -7496,14 +7391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふむ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それはありえますね…」"
+                                "\\n<Roselitte>\"Hmm... That's possible...\""
                             ]
                         },
                         {
@@ -7527,7 +7415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7635,7 +7523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…下水道？」"
+                                "\\n<Roselitte>\"...Sewers?\""
                             ]
                         },
                         {
@@ -7666,7 +7554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そう、下水道」"
+                                "\\n<Lyric>\"Yes, sewers.\""
                             ]
                         },
                         {
@@ -7690,7 +7578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7749,7 +7637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7794,7 +7682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「～～～～～～ッッ！！！」"
+                                "\\n<Roselitte>\"～～～～～～！！！\""
                             ]
                         },
                         {
@@ -7825,7 +7713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああーーーーッッ！！？」"
+                                "\\n<Lyric>\"Aaah----!!?\""
                             ]
                         },
                         {
@@ -7856,7 +7744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！？　リリックー！」"
+                                "\\n<Ameria>\"Roselitte-san!? Lyric-!\""
                             ]
                         },
                         {
@@ -8074,7 +7962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だ…大丈夫…？」"
+                                "\\n<Ameria>\"Are... are you okay...?\""
                             ]
                         },
                         {
@@ -8105,7 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「う……ぅ……気持ち悪いぃ……」"
+                                "\\n<Roselitte>\"Ugh... I feel sick...\""
                             ]
                         },
                         {
@@ -8185,14 +8073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「もーサイアク！　服が汚れたじゃんか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騎士は僕にゲロかけるお約束でもあるわけ！？」"
+                                "\\n<Lyric>\"Ugh, this is the worst! My clothes are dirty now! Is there\nsome kind of rule that knights have to puke on me!?\""
                             ]
                         },
                         {
@@ -8265,14 +8146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いったいなんの話ですか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うええっ……」"
+                                "\\n<Roselitte>\"What on earth are you talking about... ugh...\""
                             ]
                         },
                         {

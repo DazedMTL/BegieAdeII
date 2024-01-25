@@ -14376,14 +14376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「もうどんだけ歩かせるんだよ～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　城って無駄に広いから嫌い」"
+                                "\\n<Lyric>\"How much longer do we have to walk... I hate castles,\nthey're unnecessarily huge.\""
                             ]
                         },
                         {
@@ -14414,14 +14407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「文句言わないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ほら、この部屋だよ」"
+                                "\\n<Ameria>\"No complaining.... Look, this is the room.\""
                             ]
                         },
                         {
@@ -14603,7 +14589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「――どうぞ」"
+                                "\\n<??>\"--Please, come in.\""
                             ]
                         },
                         {

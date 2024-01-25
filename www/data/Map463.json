@@ -5032,14 +5032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「クソが…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかこんなことになるなんて…！」"
+                                "\\n<Deorc>\"Damn it...! I can't believe this is happening...!\""
                             ]
                         },
                         {
@@ -5107,7 +5100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「おい、どこに行くつもりだ？」"
+                                "\\n<Riolauno>\"Hey, where do you think you're going?\""
                             ]
                         },
                         {
@@ -5162,7 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「逃げるに決まってんだろ！」"
+                                "\\n<Deorc>\"I'm obviously going to escape!\""
                             ]
                         },
                         {
@@ -5179,14 +5172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「…それならあの女も連れていけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの女だけでも金は出すぞ」"
+                                "\\n<Riolauno>\"...If that's the case, take that woman with you. Someone\nwill pay for her at least.\""
                             ]
                         },
                         {
@@ -5203,14 +5189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「っるせえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　金のために死んでられっか！」"
+                                "\\n<Deorc>\"Shut up! I'm not dying for money!\""
                             ]
                         },
                         {
@@ -5258,7 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「てめーらも来い！　そんな女放っておけ！」"
+                                "\\n<Deorc>\"You bastards come too! Don't just leave a woman like that\nbehind!\""
                             ]
                         },
                         {
@@ -6341,7 +6320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「…仕方がない。俺が運ぼうか」"
+                                "\\n<Riolauno>\"...Can't be helped. Should I carry her?\""
                             ]
                         },
                         {
@@ -6465,7 +6444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「こ…来ないで！」"
+                                "\\n<Ameria>\"No... don't come!\""
                             ]
                         },
                         {
@@ -6489,7 +6468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「大人しくしていろ」"
+                                "\\n<Riolauno>\"Stay quiet.\""
                             ]
                         },
                         {
@@ -6622,7 +6601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「……」"
+                                "\\n<??>\"...\""
                             ]
                         },
                         {
@@ -6646,7 +6625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「――アメリア」"
+                                "\\n<??>\"--Ameria\""
                             ]
                         },
                         {
@@ -6719,7 +6698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えっ――？」"
+                                "\\n<Ameria>\"Eh--?\""
                             ]
                         },
                         {
@@ -6750,14 +6729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「大丈夫、安心して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕は君の味方だよ」"
+                                "\\n<??>\"It's okay, relax. I'm on your side.\""
                             ]
                         },
                         {
@@ -6788,14 +6760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「君のことをよく知っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これまでとても…とても、がんばってきたんだね」"
+                                "\\n<??>\"I know a lot about you. You've been working so hard...\nreally hard, haven't you?\""
                             ]
                         },
                         {
@@ -6826,14 +6791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だ、誰…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして…神様…？」"
+                                "\\n<Ameria>\"Who...? Could it be... God...?\""
                             ]
                         },
                         {
@@ -6864,7 +6822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「んふふ…♪」"
+                                "\\n<??>\"Nfufu...♪\""
                             ]
                         },
                         {
@@ -6888,7 +6846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「…おい。何をぶつぶつ言っている？」"
+                                "\\n<Riolauno>\"...Hey. What are you muttering about?\""
                             ]
                         },
                         {
@@ -6912,21 +6870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「僕は、がんばっている君を支えたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君のチカラになりたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君の願いを、僕に叶えさせてほしい」"
+                                "\\n<??>\"I want to support you in your efforts. I want to be your\nstrength. I want to grant your wishes.\""
                             ]
                         },
                         {
@@ -6957,7 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私の……願い……」"
+                                "\\n<Ameria>\"My... wishes...\""
                             ]
                         },
                         {
@@ -6988,14 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてそのための、チカラを授けよう」"
+                                "\\n<??>\"Yes. And for that purpose, I will bestow upon you power.\""
                             ]
                         },
                         {
@@ -7091,7 +7028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「これは――！？」"
+                                "\\n<Ameria>\"This is--!?\""
                             ]
                         },
                         {
@@ -7115,7 +7052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「お前、いったい何をしている！」"
+                                "\\n<Riolauno>\"What the hell are you doing!\""
                             ]
                         },
                         {
@@ -7181,7 +7118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「来ないでッ――！」"
+                                "\\n<Ameria>\"Don't come any closer--!\""
                             ]
                         },
                         {
@@ -7382,7 +7319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「ぐあああああッ！！」"
+                                "\\n<Riolauno>\"Guaaaaaah!!\""
                             ]
                         },
                         {
@@ -7448,14 +7385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　い、いまの私がやったの……？」"
+                                "\\n<Ameria>\"Haah... haah... Did I do that just now...?\""
                             ]
                         },
                         {
@@ -7486,21 +7416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは君が願い、祈り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして歩んできた道程のチカラだ」"
+                                "\\n<??>\"Yes. That is the power of the path you have wished for,\nprayed for, and walked.\""
                             ]
                         },
                         {
@@ -7648,21 +7564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<欲喰いの魔本>「君の想いに応えよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてそれをチカラに代えて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これから歩む道筋を照らしてみせよう」"
+                                "\\n<The gluttonous grimoire>\"Let's respond to your feelings. And let's turn them into\npower to illuminate the path you will walk from now on.\""
                             ]
                         },
                         {
@@ -7693,21 +7595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<欲喰いの魔本>「そのチカラは自分の為に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君を必要としている人の為に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思うように、使うといい。…がんばれ」"
+                                "\\n<The gluttonous grimoire>\"Use that power for yourself. For those who need you. Use it\nas you wish... good luck.\""
                             ]
                         },
                         {
@@ -7731,7 +7619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -7755,7 +7643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<欲喰いの魔本>「…さあ。僕を手に取って」"
+                                "\\n<The gluttonous grimoire>\"...Now. Take me in your hands.\""
                             ]
                         },
                         {
@@ -7886,14 +7774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本があればたくさんの人を救えると思っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立派な医術士になれると信じていた。"
+                                "Ameria: \"I thought having books would save many people. I\nbelieved I could become a great healer.\""
                             ]
                         },
                         {
@@ -7924,14 +7805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもそんなことはなくて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局私は、たくさんの人を傷つけてしまった。"
+                                "Ameria: \"But that wasn't the case. In the end, I ended up\nhurting many people.\""
                             ]
                         },
                         {
@@ -8055,7 +7929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…司祭様の言った通りだ。"
+                                "Ameria: \"...Just as the priest said.\""
                             ]
                         },
                         {
@@ -8086,14 +7960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは正しく学ぼうとしなかったことの罪なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは神様が私に与えた罰なんだ。"
+                                "Ameria: \"This is the sin of not trying to learn properly.\nThis is the punishment God has given me.\""
                             ]
                         },
                         {
@@ -8124,14 +7991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…でも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと見守ってくれていたんだよね？"
+                                "Ameria: \"...But. You've been watching over me all this time,\nhaven't you?\""
                             ]
                         },
                         {
@@ -8169,7 +8029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――だって！"
+                                "Ameria: \"--Because!\""
                             ]
                         },
                         {
@@ -8979,7 +8839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――アメリア！　その本から離れなさいッ！！」"
+                                "\\n<Roselitte>\"--Ameria! Get away from that book!!\""
                             ]
                         },
                         {
@@ -9010,7 +8870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕たちに手を伸ばせ、アメリア――ッ！！」"
+                                "\\n<Lyric>\"Reach out to us, Ameria--!!\""
                             ]
                         },
                         {
@@ -9105,21 +8965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "偽りのものではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のチカラで救った騎士と悪魔を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで導いてくれたのだから。"
+                                "Ameria: \"It was not a falsehood, but my own power that saved\nthe knight and demon. You have led me this far.\""
                             ]
                         },
                         {
@@ -9150,14 +8996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう、神様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "――ハレルヤ。"
+                                "Ameria: \"Thank you, God.--Hallelujah.\""
                             ]
                         },
                         {

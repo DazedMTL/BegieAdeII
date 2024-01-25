@@ -16741,7 +16741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーション×２を手に入れた！"
+                                "Gained 2 Potions!"
                             ]
                         },
                         {
@@ -17009,7 +17009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーター×３を手に入れた！"
+                                "Gained Magic Water ×3!"
                             ]
                         },
                         {
@@ -17277,7 +17277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セィメンコロン×３を手に入れた！"
+                                "Gained Semen Cologne x3!"
                             ]
                         },
                         {
@@ -17426,14 +17426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[魔法の裁縫道具]が潤沢に置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐らく盗品の類だが、今は利用させてもらおう。"
+                                "There's an abundance of [Magical Sewing Tools] here. They're\nprobably stolen goods, but let's make use of them for now."
                             ]
                         },
                         {
@@ -17450,7 +17443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衣服の修繕を行いますか？"
+                                "Would you like to repair your clothes?"
                             ]
                         },
                         {
@@ -17458,8 +17451,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17593,14 +17586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洞窟内の水が溜まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら体の汚れを落とせるだろう。"
+                                "The water has pooled inside the cave. This seems like a good\nplace to wash off the dirt from our bodies."
                             ]
                         },
                         {
@@ -17617,7 +17603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の汚れを洗い流しますか？"
+                                "Shall we wash off the dirt from our bodies?"
                             ]
                         },
                         {
@@ -17625,8 +17611,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17790,7 +17776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セィメンハーブを手に入れた！"
+                                "Gained Semen Herb!"
                             ]
                         },
                         {
@@ -17962,7 +17948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セィメンハーブを手に入れた！"
+                                "Gained Semen Herb!"
                             ]
                         },
                         {

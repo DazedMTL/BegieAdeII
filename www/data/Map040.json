@@ -16337,7 +16337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロースハーブ×２を手に入れた！"
+                                "Gained 2 Frost Herbs!"
                             ]
                         },
                         {
@@ -16700,7 +16700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水×２を手に入れた！"
+                                "Gained 2 Beautiful Waters!"
                             ]
                         },
                         {
@@ -16842,14 +16842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水が溜まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら体の汚れを落とせるだろう。"
+                                "There's a pool of clean water here. This looks like a good\nplace to wash off the dirt on my body."
                             ]
                         },
                         {
@@ -16866,7 +16859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の汚れを洗い流しますか？"
+                                "Shall I wash the dirt off my body?"
                             ]
                         },
                         {
@@ -16874,8 +16867,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

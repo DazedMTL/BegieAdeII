@@ -16302,7 +16302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生命の指輪を手に入れた！"
+                                "Gained the Ring of Life!"
                             ]
                         },
                         {
@@ -16563,7 +16563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポイズンアウェイを手に入れた！"
+                                "Gained Poison Away!"
                             ]
                         },
                         {

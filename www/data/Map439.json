@@ -2073,14 +2073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「…まったく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつもまた、厄介なことを押し付けてきたもんだ」"
+                                "\\n<Priest>\"...Seriously. That guy has dumped another troublesome\nmatter on us.\""
                             ]
                         },
                         {
@@ -2142,14 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「『遺体を預かってくれ』だなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お姉ちゃん、どうしてこの子を置いていったのかな」"
+                                "\\n<Ameria>\"Asking us to 'take care of the body'... Big sis, why did\nyou leave this child behind?\""
                             ]
                         },
                         {
@@ -2211,21 +2197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「さあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　時間がないからさっさと出て行ったからなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戻ったら問いただしてやる」"
+                                "\\n<Priest>\"Who knows. She left in a hurry because she was short on\ntime. I'll question her when she gets back.\""
                             ]
                         },
                         {
@@ -2298,21 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お姉ちゃん、どこに行ったか知ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またすぐに戻ってくる？」"
+                                "\\n<Ameria>\"...Huh? Big sis, do you know where she went? Is she coming\nback soon?\""
                             ]
                         },
                         {
@@ -2385,21 +2343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「ん、あー…、どうだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここに遺体を置いたのだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに戻ってくると思うが」"
+                                "\\n<Priest>\"Hmm, well... I'm not sure. Since she left the body here, I\nassume she'll be back soon.\""
                             ]
                         },
                         {
@@ -2514,28 +2458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「…ともかく、今あれこれ考えてもしょうがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とりあえずはあいつの言う通りにしてやるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遺体を一人ここに置いておくだけなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たいして困らないし」"
+                                "\\n<Priest>\"...Anyway, there's no use thinking about it now. For the\ntime being, we'll do as she said. It's not too much trouble\nto leave the body here alone.\""
                             ]
                         },
                         {
@@ -2608,14 +2531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あの、司祭様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここに置くって、これ私のベッドなんだけど」"
+                                "\\n<Ameria>\"...Um, Father. About leaving it here, this is my bed, you\nknow.\""
                             ]
                         },
                         {
@@ -2688,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「それがどうした？」"
+                                "\\n<Priest>\"What of it?\""
                             ]
                         },
                         {
@@ -2719,14 +2635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「どうしたじゃないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死体と一緒に寝ろってこと！？」"
+                                "\\n<Ameria>\"What do you mean 'what of it'? You're telling me to sleep\nwith a corpse!?\""
                             ]
                         },
                         {
@@ -2799,21 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「死者を無下に扱うわけにはいかないだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　床が嫌なら、蔵のベッドを引っ張り出して、それを使え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運ぶのは手伝ってやるから」"
+                                "\\n<Priest>\"We can't treat the deceased with disrespect. If you don't\nlike the floor, then pull out a bed from the storage and use\nthat. I'll help you move it.\""
                             ]
                         },
                         {
@@ -2844,14 +2739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「いやいや、ベッドがどうとかじゃなくて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　同じ部屋で寝るっていうのが嫌なの！」"
+                                "\\n<Ameria>\"No, no, it's not about which bed... It's sleeping in the\nsame room that I don't like!\""
                             ]
                         },
                         {
@@ -2924,21 +2812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「ならお前が外で寝ればいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　蔵でも礼拝堂でも、好きに使え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死者を粗末な場所で寝かせられるか」"
+                                "\\n<Priest>\"Then you can sleep outside. Use the storage or the chapel,\nwhatever you like. We can't let the deceased sleep in a\nshabby place.\""
                             ]
                         },
                         {
@@ -3011,7 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…じゃあ、司祭様と一緒に寝てもいい？」"
+                                "\\n<Ameria>\"...Then, can I sleep with you, Father?\""
                             ]
                         },
                         {
@@ -3084,7 +2958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「寝にくいからダメ」"
+                                "\\n<Priest>\"It would be uncomfortable, so no.\""
                             ]
                         },
                         {
@@ -3157,7 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんなぁ…」"
+                                "\\n<Ameria>\"Oh come on...\""
                             ]
                         },
                         {
@@ -3230,21 +3104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「文句ならステラに言うんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつが持ち込んだ面倒なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　妹のお前が世話するのが筋ってもんだろ」"
+                                "\\n<Priest>\"If you have complaints, talk to Stella. She's the one who\nbrought this trouble upon us. It's only right for you, her\nsister, to take care of it.\""
                             ]
                         },
                         {
@@ -3317,7 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「…それに――」"
+                                "\\n<Priest>\"...Besides--\""
                             ]
                         },
                         {
@@ -3341,14 +3201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安らかに眠る遺体を一瞥して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "司祭は小さくため息をついた。"
+                                "Glancing at the peacefully resting body, the priest sighed\nsoftly."
                             ]
                         },
                         {
@@ -3445,21 +3298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「事は思っている以上に、大きいかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この死体はお前が責任を持って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大切に世話をしろ」"
+                                "\\n<Priest>\"This matter may be bigger than we think. You must take\nresponsibility and care for this body properly.\""
                             ]
                         },
                         {
@@ -3532,7 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…うん」"
+                                "\\n<Ameria>\"...Okay.\""
                             ]
                         },
                         {
@@ -3605,21 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「防腐魔法が施されているから腐ることはないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　定期的に全身の洗浄と消毒を行う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あと、ほこりがかぶらないように毎日拭いてやれ」"
+                                "\\n<Priest>\"The body won't decay because it's been treated with\npreservative magic, but make sure to wash and disinfect it\nregularly. Also, wipe it down daily so it doesn't get\ndusty.\""
                             ]
                         },
                         {
@@ -3692,7 +3517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、うん」"
+                                "\\n<Ameria>\"Okay, okay.\""
                             ]
                         },
                         {
@@ -3765,7 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「…それと、ステラが言ったことを必ず守るんだ」"
+                                "\\n<Priest>\"...And remember to follow what Stella told you.\""
                             ]
                         },
                         {
@@ -3838,21 +3663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「こいつを狙っている奴がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に教会から出してはいけないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰にも話してはいけない」"
+                                "\\n<Priest>\"Someone is after this body. Never let it out of the church\nand don't talk about it to anyone.\""
                             ]
                         },
                         {
@@ -3883,7 +3694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、分かった」"
+                                "\\n<Ameria>\"Okay, I understand.\""
                             ]
                         },
                         {
@@ -3956,21 +3767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「…よし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあさっそくこいつを丸洗いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　準備をするから、お前も手伝え」"
+                                "\\n<Priest>\"...Alright. Let's get started with washing the body. I'll\nprepare everything, so you help out too.\""
                             ]
                         },
                         {
@@ -4357,7 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…これからよろしくね。リリック」"
+                                "\\n<Ameria>\"...I'm looking forward to working with you, Lyric.\""
                             ]
                         },
                         {

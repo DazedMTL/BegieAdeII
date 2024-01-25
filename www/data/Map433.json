@@ -2024,7 +2024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どちらに向かいますか？"
+                                "Which way will you go?"
                             ]
                         },
                         {
@@ -2032,9 +2032,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ワールドマップ",
-                                    "地下囚人街",
-                                    "進まない"
+                                    "World Map",
+                                    "To the Underground Prison District",
+                                    "Do not proceed"
                                 ],
                                 2,
                                 0,

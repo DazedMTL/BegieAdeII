@@ -5612,14 +5612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はあ…！　はあ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでこの僕が、こんな…！」"
+                                "\\n<Lyric>\"Haa...! Haa...! Why do I, of all people, have to deal with\nthis...!\""
                             ]
                         },
                         {
@@ -5841,7 +5834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――雑魚の分際でッ！」"
+                                "\\n<Lyric>\"--How dare you, you lowly creature!\""
                             ]
                         },
                         {
@@ -6072,7 +6065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「利いてない…。くそ！　くそッ！」"
+                                "\\n<Lyric>\"It's not working... damn it! Damn it!\""
                             ]
                         },
                         {
@@ -6385,7 +6378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――そうだ、魔物使役術！」"
+                                "\\n<Lyric>\"--That's right, monster taming magic!\""
                             ]
                         },
                         {
@@ -6481,7 +6474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「使えない……なんで……！？」"
+                                "\\n<Lyric>\"It's not working... why...!?\""
                             ]
                         },
                         {
@@ -6517,7 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物たち>「ォォォオオオオッッ！！」"
+                                "\\n<Monsters>\"Grrraaaarghhhh!!\""
                             ]
                         },
                         {
@@ -6583,7 +6576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「くっ…！」"
+                                "\\n<Lyric>\"Gah...!\""
                             ]
                         },
                         {

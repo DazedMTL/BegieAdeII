@@ -12235,14 +12235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――はい、これで大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもしばらくは安静にしててね」"
+                                "\\n<Ameria>\"Yes, that should do it! But please rest for a while.\""
                             ]
                         },
                         {
@@ -12266,14 +12259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ａ>「あぁ…すごい楽になった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとう、アメリアちゃん」"
+                                "\\n<Abel's refugee a>\"Ah... I feel so much better! Thank you, Ameria-chan.\""
                             ]
                         },
                         {
@@ -12339,7 +12325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えへへ…♪　どういたしまして♪」"
+                                "\\n<Ameria>\"Ehehe...♪ You're welcome♪\""
                             ]
                         },
                         {
@@ -12735,21 +12721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「次の方どうぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――うん…うん…。大丈夫、すぐ良くなるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ治療を始めるから、少しじっとしててね」"
+                                "\\n<Ameria>\"Next, please! --Mhm... Mhm... It's okay, you'll feel better\nsoon! I'm going to start the treatment now, so please stay\nstill for a bit.\""
                             ]
                         },
                         {
@@ -12863,7 +12835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ｂ>「具合はどうだ？」"
+                                "\\n<Abel's refugee b>\"How are you feeling?\""
                             ]
                         },
                         {
@@ -12880,7 +12852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ａ>「ああ、やっぱ薬と違って全然良いよ！」"
+                                "\\n<Abel's refugee a>\"Yeah, it's definitely better than medicine!\""
                             ]
                         },
                         {
@@ -12897,28 +12869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ａ>「いやあ、アメリアちゃんがいてくれて良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ルエールさんがしばらく戻って来ないって聞いた時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうなるかと思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアちゃんがいてくれるなら安心だ」"
+                                "\\n<Abel's refugee a>\"Really, I'm glad Ameria-chan is here. When I heard Luerre-\nsan wouldn't be back for a while, I wondered what we'd do,\nbut with Ameria-chan here, I feel relieved.\""
                             ]
                         },
                         {
@@ -12935,21 +12886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ｃ>「ああ。でも、警備兵はいつ戻ってくるのかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急に村から引き上げてそれっきりじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これじゃあ村に戻っても危ないままだし…」"
+                                "\\n<Abel's refugee c>\"Yeah. But when will the guards come back? They just up and\nleft the village suddenly. If it stays like this, it'll\nstill be dangerous to return to the village...\""
                             ]
                         },
                         {
@@ -12966,14 +12903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ｂ>「うーん…このままアンナベルンへ移住するのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　考えなきゃならないかなぁ」"
+                                "\\n<Abel's refugee b>\"Hmm... Maybe we'll have to consider moving to Annabern\npermanently.\""
                             ]
                         },
                         {
@@ -13120,7 +13050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -13274,7 +13204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――はい、もう大丈夫！」"
+                                "\\n<Ameria>\"--Yes, you're all set now!\""
                             ]
                         },
                         {
@@ -13298,14 +13228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ｃ>「ええ、ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おかげで助かったわ！」"
+                                "\\n<Abel's refugee c>\"Yes, thank you. You've been a lifesaver!\""
                             ]
                         },
                         {
@@ -13443,7 +13366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「じゃあ次の――」"
+                                "\\n<Ameria>\"Then, next--\""
                             ]
                         },
                         {
@@ -13708,21 +13631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<他の村の難民Ａ>「な、なあ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　順番を変わってくれないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物に足をやられて歩けないんだ、頼むよ…！」"
+                                "\\n<Refugee a from another village>\"Hey, hey! Can we switch turns? A monster injured my leg and\nI can't walk, please...!\""
                             ]
                         },
                         {
@@ -13945,14 +13854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<他の村の難民Ｃ>「待って、それならこっちが先よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私たちのほうが先に避難してきたんだから！」"
+                                "\\n<Refugee c from another village>\"Wait, then we should be first! We evacuated here before\nthey did!\""
                             ]
                         },
                         {
@@ -14080,14 +13982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「落ち着いて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんとみんな診るから、順番！　順番！」"
+                                "\\n<Ameria>\"Calm down! I'll make sure to see everyone, in order! In\norder!\""
                             ]
                         },
                         {
@@ -14506,7 +14401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「すごい数…」"
+                                "\\n<Roselitte>\"Such a large number...\""
                             ]
                         },
                         {
@@ -14775,7 +14670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ローゼ。こっちこっち」"
+                                "\\n<Lyric>\"Roselitte, over here.\""
                             ]
                         },
                         {
@@ -14995,7 +14890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「様子はどうですか」"
+                                "\\n<Roselitte>\"How does it look?\""
                             ]
                         },
                         {
@@ -15026,28 +14921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「見ての通り大盛況だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　重症の人間は少ないみたいだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全員診てたらけっこう時間かかりそうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっちはどうだった？」"
+                                "\\n<Lyric>\"As you can see, it's very busy. There don't seem to be many\nwith serious injuries, but it might take quite some time to\nsee everyone. How about you?\""
                             ]
                         },
                         {
@@ -15169,14 +15043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アナトス周辺に盗賊集団がいることは確かなようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…取引の相手が彼らなのかは不確かですが」"
+                                "\\n<Roselitte>\"It seems certain that there is a band of thieves around\nAnatose.... Whether they are our trading partners is unclear\nthough.\""
                             ]
                         },
                         {
@@ -15249,28 +15116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「盗賊はエイベルを抜けた先の森を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　住処にしているようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か情報が掴めるかもしれませんから、遠回りですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エイベルを経由してアナトスに向かいましょう。"
+                                "\\n<Roselitte>\"The thieves seem to have made their home in the forest\nbeyond Abel. We might be able to get some information, so\nalthough it's a detour, let's go through Abel on our way to\nAnatose.\""
                             ]
                         },
                         {
@@ -15350,28 +15196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「りょーかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エイベルに向かって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か手がかりがあれば盗賊の住処へ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何もなければそのままアナトスへ、だね」"
+                                "\\n<Lyric>\"Understood. Head towards Abel and if we find any clues,\nwe'll go to the thieves' hideout. If not, we'll continue\nstraight to Anatose.\""
                             ]
                         },
                         {
@@ -15395,7 +15220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは首肯した。"
+                                "Roselitte nodded."
                             ]
                         },
                         {
@@ -15468,14 +15293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…それで、もう出発する？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアの方はまだ時間かかりそうだけど」"
+                                "\\n<Lyric>\"...So, are we departing now? It seems Ameria will still\nneed some time.\""
                             ]
                         },
                         {
@@ -15548,28 +15366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そうですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　想像以上に怪我人の数が多いようですし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少しだけ待つとしましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…それに――」"
+                                "\\n<Roselitte>\"Indeed... There seem to be more injured people than I\nimagined, so let's wait a little longer.... Besides--\""
                             ]
                         },
                         {
@@ -15850,14 +15647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう大丈夫だよ、おばあさん！♪」"
+                                "\\n<Ameria>\"Yes. You're all good now, granny!♪\""
                             ]
                         },
                         {
@@ -15881,14 +15671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ｃ>「ありがとうねえ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアちゃんのおかげで、みんな助かってるよ」"
+                                "\\n<Abel's refugee c>\"Thank you... Thanks to Ameria-chan, everyone is being\nsaved.\""
                             ]
                         },
                         {
@@ -15905,21 +15688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<エイベルの難民Ｃ>「ほんと、私たちにとって天使みたいな子だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これも何か、神様の思し召しかもしれないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ハレルヤ」"
+                                "\\n<Abel's refugee c>\"Truly, she's like an angel to us. This might also be some\nkind of divine providence.... Hallelujah.\""
                             ]
                         },
                         {
@@ -15978,7 +15747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -16044,14 +15813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――うん！♪　ありがとう！♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ハレルヤ～！♪」"
+                                "\\n<Ameria>\"--Yeah!♪ Thank you!♪ Hallelujah~!♪\""
                             ]
                         },
                         {
@@ -16216,14 +15978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…あれだけ生き生きとしているのですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少し医術士の仕事をさせてあげましょう」"
+                                "\\n<Roselitte>\"...Seeing her so lively like that. Let's allow her to\ncontinue her work as a healer for a bit longer.\""
                             ]
                         },
                         {
@@ -16247,7 +16002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {

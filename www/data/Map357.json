@@ -20849,7 +20849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村長>「…い、いったいこの村になんの用だ」"
+                                "\\n<Village chief>\"...What business do you have with this village?\""
                             ]
                         },
                         {
@@ -20917,21 +20917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「へっ。村長さんよぉ、ずいぶん余裕じゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヴァラムの警備兵も置かずに呑気に畑仕事か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺たちもナメられたもんだぜ」"
+                                "\\n<??>\"Heh. Village chief, you seem pretty relaxed. Working in the\nfields without any guards from Valam around. You're taking\nus too lightly.\""
                             ]
                         },
                         {
@@ -20948,7 +20934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村長>「お前たち、やはり賊か…」"
+                                "\\n<Village chief>\"You lot, you're bandits after all...\""
                             ]
                         },
                         {
@@ -20965,21 +20951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村長>「この村に戦える者はいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　金も食料もくれてやるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま大人しく引き返してはもらえないか」"
+                                "\\n<Village chief>\"There's no one in this village who can fight. We'll give\nyou money and food, so can't you just leave us in peace?\""
                             ]
                         },
                         {
@@ -20996,14 +20968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「ずいぶん物分かりがいいじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ま、もらえるもんはありがたーくもらっておくぜ」"
+                                "\\n<??>\"You're quite understanding, aren't you? Well, we'll gladly\ntake what we can get.\""
                             ]
                         },
                         {
@@ -21020,21 +20985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「だけどよ、目的はそれだけじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…村長、教会まで案内しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこにいる女を渡してもらおうか」"
+                                "\\n<??>\"But you see, that's not our only goal... Village chief,\nlead us to the church. We'll be taking the woman there.\""
                             ]
                         },
                         {
@@ -21051,14 +21002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村長>「女…ルエールさんのことか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし彼女はいま――」"
+                                "\\n<Village chief>\"The woman... Are you talking about Luerre-san? But she's\ncurrently--\""
                             ]
                         },
                         {
@@ -21075,14 +21019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「うだうだうるせーな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女が二人いるだろ。シスターも！」"
+                                "\\n<??>\"Quit your yapping! There are two women there, right? The\nsister too!\""
                             ]
                         },
                         {
@@ -21099,7 +21036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村長>「……」"
+                                "\\n<Village chief>\"...\""
                             ]
                         },
                         {
@@ -21116,21 +21053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村長>「…教会におるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　案内するから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これ以上この村に危害を与えないでくれ」"
+                                "\\n<Village chief>\"...She should be at the church. I'll guide you there, so\nplease don't harm the village any further.\""
                             ]
                         },
                         {
@@ -21147,14 +21070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「へへっ。よーし、物わかりのいいジジイだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　仕事が楽で助かるぜ」"
+                                "\\n<??>\"Heh heh. Good, an old man who understands. Makes our job\neasier.\""
                             ]
                         },
                         {
@@ -21171,7 +21087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「んじゃま、早速――」"
+                                "\\n<??>\"Well then, let's get going--\""
                             ]
                         },
                         {
@@ -21459,14 +21375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「デオルクさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シスターを見つけました！　もう一人の女もいる！」"
+                                "\\n<Thief A>\"Deorc-san! We found the sister! And there's another woman\ntoo!\""
                             ]
                         },
                         {
@@ -21506,14 +21415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「でかした！　お前ら、女を捕まえろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぜってー逃がすんじゃねえぜ！」"
+                                "\\n<Deorc>\"Well done! You guys, catch the women! Don't let them escape\nat all costs!\""
                             ]
                         },
                         {
@@ -21540,7 +21442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「オオオオオッ！！」"
+                                "\\n<Thieves>\"OOOOOOHHH!!\""
                             ]
                         },
                         {

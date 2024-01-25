@@ -8435,14 +8435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この先がアンナベルンですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　様子が心配ですが、いまはデオルクの元に向かいましょう」"
+                                "\\n<Roselitte>\"This must be Annabern ahead. I'm worried about the\nsituation, but for now, let's head to Deorc's place.\""
                             ]
                         },
                         {
@@ -11183,14 +11176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この先がアンナベルンですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　様子が心配ですが、いまはデオルクの元に向かいましょう」"
+                                "\\n<Roselitte>\"This must be Annabern ahead. I'm worried about the\nsituation, but for now, let's head to Deorc's place.\""
                             ]
                         },
                         {
@@ -11312,14 +11298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「この先がアンナベルンですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　様子が心配ですが、いまはデオルクの元に向かいましょう」"
+                                "\\n<Roselitte>\"This ahead is Annabern. I'm worried about the situation,\nbut for now, let's head to Deorc's place.\""
                             ]
                         },
                         {
@@ -11508,14 +11487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[魔法の裁縫道具]が潤沢に置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利用させてもらおう。"
+                                "There's an abundance of [Magic Sewing Tools] here. Let's\nmake use of them."
                             ]
                         },
                         {
@@ -11532,7 +11504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衣服の修繕を行いますか？"
+                                "Would you like to repair your clothes?"
                             ]
                         },
                         {
@@ -11540,8 +11512,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11675,14 +11647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水が溜まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら体の汚れを落とせるだろう。"
+                                "There's a pool of beautiful water here. This looks like a\ngood place to wash off the dirt from my body."
                             ]
                         },
                         {
@@ -11699,7 +11664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の汚れを洗い流しますか？"
+                                "Shall I wash the dirt off my body?"
                             ]
                         },
                         {
@@ -11707,8 +11672,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

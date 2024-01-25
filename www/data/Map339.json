@@ -5091,14 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ユーリ様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁ、良かった、ご無事で…！」"
+                                "\\n<Roselitte>\"Lord Yuri! Ah, thank goodness, you're safe...!\""
                             ]
                         },
                         {
@@ -5122,21 +5115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ローゼリッテ！　それにお前たちは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…どうやってここに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかデオルクを止めたのか？」"
+                                "\\n<Yuri>\"Roselitte! And you guys... How did you get here? Don't tell\nme you've stopped Deorc?\""
                             ]
                         },
                         {
@@ -5202,21 +5181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ。地下を通ってここまで潜入しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ですが詳しい話はここを出てからにしましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに外へお連れ致します」"
+                                "\\n<Roselitte>\"No. We infiltrated through the underground to get here. But\nlet's save the details for after we get out. I'll take you\noutside immediately.\""
                             ]
                         },
                         {
@@ -5259,21 +5224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「待て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その錠は本土の牢でも使われている特別頑丈なものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いくらお前でも鍵がなければ開けられない」"
+                                "\\n<Yuri>\"Wait. That lock is specially sturdy, used even in the\nmainland's prisons. No matter how skilled you are, you can't\nopen it without the key.\""
                             ]
                         },
                         {
@@ -5339,14 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…なら、鍵を探してまいります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少しだけお待ちください」"
+                                "\\n<Roselitte>\"...Then, I shall go look for the key. Please wait just a\nlittle longer.\""
                             ]
                         },
                         {
@@ -5370,21 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「いや、俺のことは後回しでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はデオルクを止めるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままでは取り返しのつかない事態になる！」"
+                                "\\n<Yuri>\"No, leave me for now. We have to stop Deorc! If we don't,\nit'll be too late to fix anything!\""
                             ]
                         },
                         {
@@ -5408,14 +5338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様を放っておくなんて、私には――」"
+                                "\\n<Roselitte>\"...But to leave you here, Lord Yuri, I can't--\""
                             ]
                         },
                         {
@@ -5734,7 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「い、今のは…？」"
+                                "\\n<Roselitte>\"What was that just now...?\""
                             ]
                         },
                         {
@@ -5876,14 +5799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ローゼ、魔物使役術だ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ついに号令をかけたみたいだ！」"
+                                "\\n<Lyric>\"--Roselitte, it's the monster taming technique! It looks\nlike they've finally given the command!\""
                             ]
                         },
                         {
@@ -5998,14 +5914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「始まってしまったか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままではレーベが危ない…」"
+                                "\\n<Roselitte>\"It has begun... At this rate, Leve is in danger...\""
                             ]
                         },
                         {
@@ -6029,14 +5938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「レーベだと？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどういうことだ！」"
+                                "\\n<Yuri>\"Leve? What do you mean by that!\""
                             ]
                         },
                         {
@@ -6140,14 +6042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「レーベはいま魔物たちに包囲されているのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま陥落させるつもりかと」"
+                                "\\n<Roselitte>\"Leve is currently surrounded by monsters. It seems they\nintend to let it fall.\""
                             ]
                         },
                         {
@@ -6171,21 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…違う。奴の目的はレーベではない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　恐らくその魔物は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国軍を足止めするためのものだ！」"
+                                "\\n<Yuri>\"...No, that's not his goal! Those monsters are probably\nmeant to hold back the imperial army!\""
                             ]
                         },
                         {
@@ -6209,14 +6090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「西だ！　デオルクは西に向かったはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いで奴を止めろ、ローゼリッテ！」"
+                                "\\n<Yuri>\"West! Deorc must have headed west! Hurry and stop him,\nRoselitte!\""
                             ]
                         },
                         {
@@ -6289,14 +6163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「西へ向かった…？　では奴は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またアンナベルンへ向かったというのですか！」"
+                                "\\n<Roselitte>\"Headed west...? Then is he heading towards Annabern again?\""
                             ]
                         },
                         {
@@ -6320,14 +6187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「いいや、違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行き先はそこから更に西…！」"
+                                "\\n<Yuri>\"No, that's not it. His destination is even further\nwest...!\""
                             ]
                         },
                         {
@@ -6344,7 +6204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「奴は、国境を越えるつもりだ！」"
+                                "\\n<Yuri>\"He intends to cross the border!\""
                             ]
                         },
                         {
@@ -6410,14 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「なっ…国境を越える！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな、では本当の目的は……まさか！」"
+                                "\\n<Roselitte>\"What... Cross the border!? Then, his true objective is...\ncould it be!\""
                             ]
                         },
                         {
@@ -6490,14 +6343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――キスカ王国！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　国境から先は、キスカのイドゥム地方に繋がってる！」"
+                                "\\n<Ameria>\"--The Kingdom of Kiska!! Beyond the border lies Kiska's\nIdum region!\""
                             ]
                         },
                         {
@@ -6643,21 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あぁ…そういうことか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな単純なことに、なぜ気がつかなかった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンはあくまで通過点だったのか…！」"
+                                "\\n<Roselitte>\"Ah... So that's it... How did I not realize something so\nsimple...! Annabern was just a waypoint...!\""
                             ]
                         },
                         {
@@ -6754,7 +6586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ローゼリッテ、分かっているな！？」"
+                                "\\n<Yuri>\"You understand, don't you, Roselitte!?\""
                             ]
                         },
                         {
@@ -6771,21 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「奴が魔物を率いて国境をまたいでみろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなことになれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　キスカが黙っているはずがない！」"
+                                "\\n<Yuri>\"If he leads the monsters across the border, Kiska won't\nstay silent!\""
                             ]
                         },
                         {
@@ -6802,21 +6620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「いま事を荒立てるのは、避けなくては！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何としてでも奴を止めろ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　止めろ、ローゼリッテ…！！」"
+                                "\\n<Yuri>\"We must avoid escalating this situation at all costs! Stop\nhim by any means necessary! Stop him, Roselitte...!!\""
                             ]
                         },
                         {
@@ -6875,7 +6679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -6941,21 +6745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「承知致しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このローゼリッテ…全てをかけて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国のために尽くしてまいります」"
+                                "\\n<Roselitte>\"Understood. I, Roselitte... will devote everything for the\nsake of the empire.\""
                             ]
                         },
                         {
@@ -7059,7 +6849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…アメリア。リリック」　"
+                                "\\n<Roselitte>\"...Ameria. Lyric\""
                             ]
                         },
                         {
@@ -7132,14 +6922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「急ごう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクを止めないと、大変なことになっちゃう！」　"
+                                "\\n<Ameria>\"Let's hurry! If we don't stop Deorc, things will get really\nbad!\""
                             ]
                         },
                         {
@@ -7219,14 +7002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「これ以上厄介ごとが増えるのは面倒そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く行こう」　"
+                                "\\n<Lyric>\"It would be troublesome if more complications arise. Let's\nmove quickly.\""
                             ]
                         },
                         {
@@ -7299,7 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ありがとう」　"
+                                "\\n<Roselitte>\"...Thank you.\""
                             ]
                         },
                         {
@@ -7943,14 +7719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「急いでデオルクを止めなければ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ですが、準備は怠らずに」"
+                                "\\n<Roselitte>\"We must hurry to stop Deorc... but let's not neglect our\npreparations.\""
                             ]
                         },
                         {
@@ -7967,21 +7736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これから先は後戻りできません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "進む前に必ず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本編とは別のセーブデータを保存してください。"
+                                "You won't be able to go back from here. Be sure to save your\ndata separately from the main story before proceeding."
                             ]
                         },
                         {
@@ -7998,7 +7753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このまま先に進みますか？"
+                                "Will you proceed as is?"
                             ]
                         },
                         {
@@ -8006,8 +7761,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8836,7 +8591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ローゼリッテのレベルが５上昇した！"
+                                "Roselitte's level has increased by 5!"
                             ]
                         },
                         {

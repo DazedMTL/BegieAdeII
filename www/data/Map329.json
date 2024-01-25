@@ -13403,14 +13403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<配給手伝い>「ああ…、忙しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　次の配給までに料理を間に合わせないと…！」"
+                                "\\n<Distribution Assistant>\"Ah... so busy! I have to get the cooking done before the\nnext distribution...!\""
                             ]
                         },
                         {
@@ -13501,14 +13494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「嫌な予感がするんだ。とてもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時に似ているんだよ」"
+                                "\\n<Refugee>\"I have a bad feeling. A very bad one. It's similar to that\ntime.\""
                             ]
                         },
                         {
@@ -13525,21 +13511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「あの時も同じだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきなり魔物達がこの町を襲ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…それからさ。何もかも狂ってしまったのは」"
+                                "\\n<Refugee>\"It was the same back then. Suddenly, monsters attacked the\ntown.... And after that, everything went mad.\""
                             ]
                         },
                         {
@@ -13563,14 +13535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「ああ…あれからもう１０年になるんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　時間の流れは本当に早い」"
+                                "\\n<Refugee>\"Ah... It's already been 10 years since then. Time really\nflies.\""
                             ]
                         },
                         {
@@ -13668,14 +13633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「…全てを失ったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　子供も。妻も。私より先に旅立ってしまった…」"
+                                "\\n<Refugee>\"...I've lost everything. My children. My wife. They all\nleft on a journey before me...\""
                             ]
                         },
                         {
@@ -13692,21 +13650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「最近は盗賊や魔物の話を聞くことも少なかったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　平和だと思っていたのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それなのに…いったいどうして…」"
+                                "\\n<Refugee>\"Lately, there were few tales of bandits or monsters. I\nthought it was peaceful... but even so... why did this\nhappen...\""
                             ]
                         },
                         {
@@ -13797,14 +13741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「…大丈夫。俺がついてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　にーちゃんが守ってやるからな」"
+                                "\\n<Refugee>\"...It's okay. I'm with you. Big bro will protect you, so\ndon't worry.\""
                             ]
                         },
                         {
@@ -13895,14 +13832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「にーちゃん…ひくっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お母さんが…お母さんがぁ…ひくっ…えぐっ…！」"
+                                "\\n<Refugee>\"Big brother... *sob*...! Mommy... Mommy is... *sob*...\n*gag*...!\""
                             ]
                         },
                         {
@@ -13993,21 +13923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「レーベについての噂だって？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さあ…？　特にこれといって知らないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か気になる事でもあるのかい？」"
+                                "\\n<Refugee>\"Rumors about Leve? Hmm...? I don't particularly know\nanything specific. Is there something you're curious about?\""
                             ]
                         },
                         {
@@ -14024,14 +13940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「…しかしあんた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レーベについて深入りするのはやめておいた方がいいぜ」"
+                                "\\n<Refugee>\"...But you know, you should probably stay away from getting\ntoo involved with Leve.\""
                             ]
                         },
                         {
@@ -14048,21 +13957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「なんて言ったって、あそこはタルーザ地方の中央都市。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国本土の目がどこにあるか分かったもんじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目ぇ付けられたらどうなっちまうか」"
+                                "\\n<Refugee>\"After all, that place is the central city of the Taruza\nregion. It's impossible to know where the eyes of the\nEmpire's mainland are. If you get noticed, who knows what\ncould happen.\""
                             ]
                         },
                         {
@@ -14079,14 +13974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「『ヴァラムは戦うことしか能がない』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…な。悪いことは言わねえ、大人しくしてろって」"
+                                "\\n<Refugee>\"\"Valam only knows how to fight\"... that's what they say.\nI'm not saying it to be mean, just keep your head down,\nalright?\""
                             ]
                         },
                         {
@@ -14177,21 +14065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「少し前、帝国軍がこの地方に兵士を集めてたらしいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったい何をしてるんだろうねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遊んでる暇があったらもっとやることあるだろ」"
+                                "\\n<Refugee>\"A little while ago, it seems the imperial army was\ngathering soldiers in this region. What on earth could they\nbe doing? If they have time to play around, there must be\nmore important things to do.\""
                             ]
                         },
                         {
@@ -14208,21 +14082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「…ん、他に何を知ってるかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいや？　それだけだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺も仲間内で聞いただけだからさ」"
+                                "\\n<Refugee>\"...Huh, what else do I know? Nah, that's all. I only heard\nit from within my circle of friends.\""
                             ]
                         },
                         {
@@ -14246,14 +14106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「しかし…まったく。物騒だねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また戦争が起こらなきゃいいんだけど」"
+                                "\\n<Refugee>\"But... really. It's dangerous times we live in. I just hope\nanother war doesn't break out.\""
                             ]
                         },
                         {
@@ -14351,14 +14204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中では難民が寄り添って休んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっとしておこう。"
+                                "Inside, refugees are huddled together resting. Let's leave\nthem be quietly."
                             ]
                         },
                         {
@@ -14449,14 +14295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中では難民が寄り添って休んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっとしておこう。"
+                                "Inside, refugees are huddled together, resting. Let's leave\nthem be."
                             ]
                         },
                         {
@@ -14547,14 +14386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「ここで怪我を診てくれたくれた医術士の子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私より年下みたいなのに、尊敬しちゃうわ」"
+                                "\\n<Refugee>\"The young medic who treated my injuries here. She seems\nyounger than me, but I can't help but admire her.\""
                             ]
                         },
                         {
@@ -14645,7 +14477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「魔物の爪が落ちてた！」"
+                                "\\n<Child>\"I found a monster's claw on the ground!\""
                             ]
                         },
                         {
@@ -14736,7 +14568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<子供>「お母さん、見てー！　魔物の角！」"
+                                "\\n<Child>\"Mom, look! A monster's horn!\""
                             ]
                         },
                         {
@@ -14827,7 +14659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「こら！　そんなもの捨ててしまいなさい！」"
+                                "\\n<Refugee>\"Hey! Throw that thing away right now!\""
                             ]
                         },
                         {
@@ -14918,21 +14750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「見た目が怖いからって、ここの警備を任されたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みんな勝手だよな？　兵士は何してるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まあ、がんばるけどさ」"
+                                "\\n<Refugee>\"Just because I look scary, I've been put in charge of\nsecurity here. Everyone does whatever they want, huh? What\nare the soldiers even doing... Well, I'll do my best\nanyway.\""
                             ]
                         },
                         {
@@ -15026,21 +14844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「…アメリアちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　可愛いし、優しいし、医術式が上手だし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺ちょっと声かけちゃおうかな」"
+                                "\\n<Refugee>\"Ameria-chan is cute, kind, and skilled at healing magic...\nMaybe I should try talking to her.\""
                             ]
                         },
                         {
@@ -15131,14 +14935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「いやー、やっぱりルエールさんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大人の魅力が最高じゃないか」"
+                                "\\n<Refugee>\"No, it's got to be Luerre-san. Her adult charm is the best,\nisn't it?\""
                             ]
                         },
                         {
@@ -15229,14 +15026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「うちの村に天使が二人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　眼福だなあこりゃ。神様バンザイ！」"
+                                "\\n<Refugee>\"Two angels have come to our village. What a sight for sore\neyes. Praise the Lord!\""
                             ]
                         },
                         {
@@ -15327,14 +15117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<難民>「アメリアちゃんのおかげで助かってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほんと、感謝しないとねぇ」"
+                                "\\n<Refugee>\"We're really being saved thanks to Ameria-chan. Seriously,\nwe've got to be grateful.\""
                             ]
                         },
                         {

@@ -4813,7 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「やだ、私も行きたい！　一緒に連れて行って！」"
+                                "\\n<Ameria>\"No way, I want to go too! Take me with you!\""
                             ]
                         },
                         {
@@ -4844,21 +4844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「何度言ったら分かるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ダメなものはダメだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これは遊びじゃあないんだぞ」"
+                                "\\n<Luerre>\"How many times do I have to say it? No means no. This isn't\na game.\""
                             ]
                         },
                         {
@@ -4889,7 +4875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「分かってるよ、だから一緒に行きたいの！」"
+                                "\\n<Ameria>\"I know that, that's why I want to go with you!\""
                             ]
                         },
                         {
@@ -4962,21 +4948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「現場指導ってことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここじゃあ見られない医療について教えるんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私もそれ聞きたい！　見たい！」"
+                                "\\n<Ameria>\"On-site training means you'll be teaching about medical\npractices not seen here, right? I want to hear and see that\ntoo!\""
                             ]
                         },
                         {
@@ -5007,7 +4979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「しかしだなぁ…」"
+                                "\\n<Luerre>\"But you see...\""
                             ]
                         },
                         {
@@ -5038,14 +5010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「お願い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　邪魔にならないようにするから！」"
+                                "\\n<Ameria>\"Please! I'll make sure not to get in the way!\""
                             ]
                         },
                         {
@@ -5111,7 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -5807,7 +5772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「準備はいいか」"
+                                "\\n<Knight>\"Are you ready?\""
                             ]
                         },
                         {
@@ -5873,14 +5838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「すぐに行く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　外で待っててくれ」"
+                                "\\n<Luerre>\"I'll be right there. Wait for me outside.\""
                             ]
                         },
                         {
@@ -6470,14 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「あの遺体はどうする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま放っておくつもりか」"
+                                "\\n<Luerre>\"What about that corpse? Are you planning to just leave it\nhere?\""
                             ]
                         },
                         {
@@ -6550,21 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…数日で帰ってこられるんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　司祭様が教会に障壁を張れば誰も入れないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むしろ私一人残ってるより安全かも」"
+                                "\\n<Ameria>\"...We'll be back in a few days, right? If the priest casts\na barrier in the church, no one will be able to enter. It\nmight even be safer than leaving me here alone.\""
                             ]
                         },
                         {
@@ -6637,7 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「お前なぁ…」"
+                                "\\n<Luerre>\"You...\""
                             ]
                         },
                         {
@@ -6710,21 +6647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様の言うことちゃんと聞くから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからお願い、連れて行って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この通りっ！」"
+                                "\\n<Ameria>\"I'll listen to everything the priest says! So please, take\nme with you! I'm begging you!\""
                             ]
                         },
                         {
@@ -6748,7 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは手を合わせて頭を下げた。"
+                                "Ameria clasped her hands together and bowed her head."
                             ]
                         },
                         {
@@ -6807,7 +6730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「……」"
+                                "\\n<Luerre>\"...\""
                             ]
                         },
                         {
@@ -6873,21 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…はあ、分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけど、絶対にうろちょろするなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の指示を聞いて、そばにいること。…いいな？」"
+                                "\\n<Luerre>\"...sigh, alright. But don't wander around. Listen to my\ninstructions and stay close... got it?\""
                             ]
                         },
                         {
@@ -6960,14 +6869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「わあ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うん！　うん！」"
+                                "\\n<Ameria>\"Wow...! Yes! Yes!\""
                             ]
                         },
                         {

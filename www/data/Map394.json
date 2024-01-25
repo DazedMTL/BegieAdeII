@@ -19177,7 +19177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーションを手に入れた！"
+                                "Gained a High Potion!"
                             ]
                         },
                         {
@@ -20075,14 +20075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「\"レアンダ密林\"…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村の人もほとんど近づかない深い森だよ…」"
+                                "\\n<Ameria>\"The Leanda Jungle... It's a deep forest that even the\nvillagers hardly ever approach...\""
                             ]
                         },
                         {
@@ -20192,14 +20185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ずいぶんと薄暗い森ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　足元に気をつけないと」"
+                                "\\n<Roselitte>\"It's quite a dim forest, isn't it? We must watch our step.\""
                             ]
                         },
                         {
@@ -20258,14 +20244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「背中もね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こわ～いオバケが襲ってくるかも」"
+                                "\\n<Lyric>\"And our backs too. A scary ghost might attack us.\""
                             ]
                         },
                         {
@@ -20282,7 +20261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…いじわる」"
+                                "\\n<Ameria>\"...That's mean.\""
                             ]
                         },
                         {
@@ -20299,7 +20278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックはケタケタ笑った。"
+                                "Lyric laughed heartily."
                             ]
                         },
                         {
@@ -20358,7 +20337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…さあ、集中して。進みますよ」"
+                                "\\n<Roselitte>\"...Now, let's focus. We're moving on.\""
                             ]
                         },
                         {
@@ -21150,7 +21129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムハーブを手に入れた！"
+                                "Gained Folium Herb!"
                             ]
                         },
                         {
@@ -24137,7 +24116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裁ちばさみを手に入れた！"
+                                "Gained Scissors!"
                             ]
                         },
                         {

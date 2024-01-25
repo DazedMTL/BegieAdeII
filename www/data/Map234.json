@@ -5282,14 +5282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…小さな村なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずいぶんと立派な教会ですね」"
+                                "\\n<Roselitte>\"Even though it's a small village, the church is quite\nimpressive, isn't it?\""
                             ]
                         },
                         {
@@ -5313,14 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ああ。恐らく、\"本土の派遣医師\"のものだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかこんな村に――」"
+                                "\\n<Yuri>\"Yes. It's probably something from the 'mainland dispatched\nphysician'. To think such a village would have--\""
                             ]
                         },
                         {
@@ -5449,7 +5435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「い、今のは…！？」"
+                                "\\n<Roselitte>\"What was that just now...!?\""
                             ]
                         },
                         {

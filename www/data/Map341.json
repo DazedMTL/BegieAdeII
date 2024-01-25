@@ -13248,7 +13248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「な……なにこれ……」"
+                                "\\n<Ameria>\"What... what is this...\""
                             ]
                         },
                         {
@@ -13279,7 +13279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「これが全部……魔物……」"
+                                "\\n<Roselitte>\"This is all... monsters...\""
                             ]
                         },
                         {
@@ -13310,7 +13310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「――よぉし！　これで最後だな！！」"
+                                "\\n<Deorc>\"--Alright! This is the last one!!\""
                             ]
                         },
                         {
@@ -13484,14 +13484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「魔物ども、よーく聞け！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度こそアンナベルンをぶっ潰すぞ！」"
+                                "\\n<Deorc>\"Monsters, listen well! This time for sure, we'll crush\nAnnabern!\""
                             ]
                         },
                         {
@@ -13508,14 +13501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「今度はしくじるんじゃねえ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――分かったな！？」"
+                                "\\n<Deorc>\"Don't screw up this time!! --Got it!?\""
                             ]
                         },
                         {
@@ -13554,7 +13540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物たち>「ォォォォォオオオオオオオオッッッ！！！！」"
+                                "\\n<Monsters>\"Grrraaaarrrghhhhhhh!!!!!\""
                             ]
                         },
                         {
@@ -14209,14 +14195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「よおし…キスカめ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　待ってろよぉ…！」"
+                                "\\n<Deorc>\"Alright... Kiska, just you wait...!\""
                             ]
                         },
                         {
@@ -14524,7 +14503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――デオルクッ！！」"
+                                "\\n<Roselitte>\"--Deorc!!\""
                             ]
                         },
                         {
@@ -15338,7 +15317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「なっ――お前、どうしてここに！」"
+                                "\\n<Deorc>\"What-- you, why are you here!\""
                             ]
                         },
                         {
@@ -15781,7 +15760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「今すぐ魔物を止めなさいッ！」"
+                                "\\n<Roselitte>\"Stop the monsters right now!\""
                             ]
                         },
                         {
@@ -15805,14 +15784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くそ、まさかあいつ、俺を騙したのか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテはここにいないって…くそッ！！」"
+                                "\\n<Deorc>\"Damn it, could it be that guy tricked me!? Saying Roselitte\nisn't here... Damn it!!\""
                             ]
                         },
                         {
@@ -15841,7 +15813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デオルクは懐から\"本\"を取り出した。"
+                                "Deorc took out a \"book\" from his bosom."
                             ]
                         },
                         {
@@ -16897,14 +16869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「戻ってこい魔物ども！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずはこのクソ共をヤッちまえッ！」"
+                                "\\n<Deorc>\"Return, my monsters! First, let's take down these\nbastards!\""
                             ]
                         },
                         {
@@ -16957,21 +16922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリア！　リリック！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先ほどの魔物たちが戻ってきてしまえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私たちに勝ち目はありません！」"
+                                "\\n<Roselitte>\"Ameria! Lyric! If those monsters from before return, we\nstand no chance of winning!\""
                             ]
                         },
                         {
@@ -17044,14 +16995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――全てのチカラを奴にぶつけろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここで一気に片を着ける！！」"
+                                "\\n<Roselitte>\"--Throw all your power at him! Let's settle this once and\nfor all!!\""
                             ]
                         },
                         {
@@ -17147,14 +17091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　援護は任せて、ローゼリッテさん！」"
+                                "\\n<Ameria>\"Yeah! Leave the support to me, Roselitte-san!\""
                             ]
                         },
                         {
@@ -17250,14 +17187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「突っ込め、ローゼ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　邪魔な敵は僕らが蹴散らす！」"
+                                "\\n<Lyric>\"Charge, Roselitte! We'll scatter any enemies in your way!\""
                             ]
                         },
                         {
@@ -17314,7 +17244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「覚悟しろ、デオルク…！」"
+                                "\\n<Roselitte>\"Prepare yourself, Deorc...!\""
                             ]
                         },
                         {
@@ -18052,7 +17982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ローゼリッテのレベルが５上昇した！"
+                                "Roselitte's level has risen by 5!"
                             ]
                         },
                         {

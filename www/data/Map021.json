@@ -4603,7 +4603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マキシポーションを手に入れた！"
+                                "Gained a Maxi-Potion!"
                             ]
                         },
                         {
@@ -4745,14 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[魔法の裁縫道具]が潤沢に置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利用させてもらおう。"
+                                "There are plenty of [Magic Sewing Tools] available. Let's\nmake use of them."
                             ]
                         },
                         {
@@ -4769,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衣服の修繕を行いますか？"
+                                "Would you like to repair your clothes?"
                             ]
                         },
                         {
@@ -4777,8 +4770,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5031,7 +5024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リフレッシュポーション×２を手に入れた！"
+                                "Gained 2 Refresh Potions!"
                             ]
                         },
                         {

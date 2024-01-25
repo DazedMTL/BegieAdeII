@@ -11528,7 +11528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はぁ……はぁ……」"
+                                "\\n<Roselitte>\"Haa... haa...\""
                             ]
                         },
                         {
@@ -11552,7 +11552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -11711,14 +11711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…ねえ。少し休まない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕お腹空いちゃった」"
+                                "\\n<Lyric>\"Hey, should we take a break? I'm getting hungry.\""
                             ]
                         },
                         {
@@ -11791,21 +11784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「もう、リリックったら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもそうだね。少し早いけどお昼にしようか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ローゼリッテさんもそれでいい？」"
+                                "\\n<Ameria>\"Oh Lyric, you always say that... But you're right. It's a\nbit early, but let's have lunch... Is that okay with you,\nRoselitte-san?\""
                             ]
                         },
                         {
@@ -11878,14 +11857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…怪我も診てもらわないといけませんからね」"
+                                "\\n<Roselitte>\"Yes... I need to have my injuries looked at anyway.\""
                             ]
                         },
                         {
@@ -11958,7 +11930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あっ…うん、そうだね…」"
+                                "\\n<Ameria>\"Ah... yeah, that's true...\""
                             ]
                         },
                         {
@@ -12073,7 +12045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君もずいぶんと大人になったじゃないか」"
+                                "\\n<Lyric>\"You've really grown up, haven't you?\""
                             ]
                         },
                         {
@@ -12146,14 +12118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「お腹空いたなんて言っているあなたに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言われたくありません」"
+                                "\\n<Roselitte>\"I don't want to hear that from someone who's complaining\nabout being hungry.\""
                             ]
                         },
                         {
@@ -12226,7 +12191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「とか言いながら？」"
+                                "\\n<Lyric>\"Even though you say that?\""
                             ]
                         },
                         {
@@ -12299,7 +12264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…早くお昼にしましょう。腹ぺこなんです」"
+                                "\\n<Roselitte>\"...Let's have lunch quickly. I'm starving.\""
                             ]
                         },
                         {
@@ -12750,14 +12715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「美味い！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このスープ美味いよ、アメリア！」"
+                                "\\n<Lyric>\"Delicious! This soup is amazing, Ameria!\""
                             ]
                         },
                         {
@@ -12788,21 +12746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「本当…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　簡素な野菜スープなのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここまで上品な味に仕上がるとは…」"
+                                "\\n<Roselitte>\"Truly... It's just a simple vegetable soup, but it tastes\nso refined...\""
                             ]
                         },
                         {
@@ -12833,21 +12777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えへへ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう言ってもらえると嬉しいなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度はちゃんとした料理をご馳走してあげるね」"
+                                "\\n<Ameria>\"Ehehe♪ I'm glad to hear that. Next time, I'll treat you to\na proper meal.\""
                             ]
                         },
                         {
@@ -12920,14 +12850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「でしたら、あのパンをお願いできますか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　焼きたてで」"
+                                "\\n<Roselitte>\"Then, may I request that bread? Freshly baked, please.\""
                             ]
                         },
                         {
@@ -12958,21 +12881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、そうだね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあそれに合う料理がいいよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何にしようかなぁ…」"
+                                "\\n<Ameria>\"Ah, right! Then we should choose a dish that goes well with\nit. What should I make...\""
                             ]
                         },
                         {
@@ -13052,7 +12961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ローゼも食べたことあるんだ。アメリアのパン」"
+                                "\\n<Lyric>\"Roselitte has had it too. Ameria's bread.\""
                             ]
                         },
                         {
@@ -13125,21 +13034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。エイベルで会った日の夜に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　焼きたてではなかったのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　非常に香り高いパンでした」"
+                                "\\n<Roselitte>\"Yes. On the night we met in Abel. It wasn't freshly baked\nthen, but it was a very fragrant bread.\""
                             ]
                         },
                         {
@@ -13219,7 +13114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふふん。僕は何度も食べたよ。焼きたてで」"
+                                "\\n<Lyric>\"Heh, I've had it many times. Freshly baked.\""
                             ]
                         },
                         {
@@ -13292,7 +13187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「なんて贅沢な…」"
+                                "\\n<Roselitte>\"What a luxury...\""
                             ]
                         },
                         {
@@ -13365,7 +13260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「二人とも、パン一つで言い過ぎだよ」"
+                                "\\n<Ameria>\"You two are exaggerating over just a loaf of bread.\""
                             ]
                         },
                         {
@@ -13438,21 +13333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そんなことはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこらのパン職人のものはもちろん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の専属料理人が作るものにも、全く引けを取りません」"
+                                "\\n<Roselitte>\"Not at all. It's on par with the bread from any local\nbaker, not to mention what my personal chef makes.\""
                             ]
                         },
                         {
@@ -13525,7 +13406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「せ…専属料理人…？」"
+                                "\\n<Ameria>\"Pe... Personal chef...?\""
                             ]
                         },
                         {
@@ -13605,7 +13486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うわー、さらっと偉い人自慢しやがって」"
+                                "\\n<Lyric>\"Wow, casually bragging about being someone important.\""
                             ]
                         },
                         {
@@ -13678,7 +13559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…まあ、偉いので」"
+                                "\\n<Roselitte>\"...Well, because I am important.\""
                             ]
                         },
                         {
@@ -13758,7 +13639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「むきぃぃぃいいいい！」"
+                                "\\n<Lyric>\"Grrrrrrrrr!\""
                             ]
                         },
                         {
@@ -13887,14 +13768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そんな態度じゃあモテないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアみたいに謙虚で、料理できる女にならなきゃ」"
+                                "\\n<Lyric>\"With that attitude, you won't be popular! You need to be\nhumble and able to cook like Ameria.\""
                             ]
                         },
                         {
@@ -13967,14 +13841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私がいつ、料理はできないと言いました？」"
+                                "\\n<Roselitte>\"Hmph. When did I ever say I couldn't cook?\""
                             ]
                         },
                         {
@@ -14054,7 +13921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「な、なんだってぇ…？　いい女かよ…」"
+                                "\\n<Lyric>\"Wha-what?! You're an ideal woman...\""
                             ]
                         },
                         {
@@ -14127,14 +13994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさんも料理するの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、食べてみたい！」"
+                                "\\n<Ameria>\"Roselitte-san cooks too? I want to try it!\""
                             ]
                         },
                         {
@@ -14207,14 +14067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ、今度作りましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに作れて部下にも人気のものがあるんです」"
+                                "\\n<Roselitte>\"Yes, let's make it next time. There's something quick and\npopular among my subordinates.\""
                             ]
                         },
                         {
@@ -14287,7 +14140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「わー！　楽しみ！」"
+                                "\\n<Ameria>\"Wow! I can't wait!\""
                             ]
                         },
                         {
@@ -14367,7 +14220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…僕も料理勉強してみようかなぁ……」"
+                                "\\n<Lyric>\"...Maybe I should try learning to cook too...\""
                             ]
                         },
                         {
@@ -14676,7 +14529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あの、ローゼリッテさん」"
+                                "\\n<Ameria>\"...Um, Roselitte-san?\""
                             ]
                         },
                         {
@@ -14693,7 +14546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どうしました？」"
+                                "\\n<Roselitte>\"What's the matter?\""
                             ]
                         },
                         {
@@ -14710,14 +14563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私の治療なんだけど…様子はどうかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんか、変なこととかない？」"
+                                "\\n<Ameria>\"It's about my treatment... How is it going? Is there\nanything strange happening?\""
                             ]
                         },
                         {
@@ -14734,7 +14580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -14751,21 +14597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いえ。治療している時は少しボーっとしますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　変なことはありませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むしろ調子は良くなっていると思います」"
+                                "\\n<Roselitte>\"...No. I do feel a bit spaced out during the treatment, but\nthere's nothing strange. On the contrary, I think my\ncondition is improving.\""
                             ]
                         },
                         {
@@ -14782,14 +14614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そう…ならいいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　変なこと聞いてごめんね」"
+                                "\\n<Ameria>\"I see... that's good then. Sorry for asking something\nweird.\""
                             ]
                         },
                         {
@@ -14943,14 +14768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「また必要になったら声をかけるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それまで無理しちゃダメだよ？」"
+                                "\\n<Ameria>\"If you need me again, just call out. Don't push yourself\nuntil then, okay?\""
                             ]
                         },
                         {
@@ -15000,7 +14818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「…治療する？　ローゼリッテさん」"
+                                "\\n<Ameria>\"...Shall I treat you? Roselitte-san.\""
                             ]
                         },
                         {
@@ -15008,8 +14826,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15048,7 +14866,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。お願いします」"
+                                "\\n<Roselitte>\"Yes, please do.\""
                             ]
                         },
                         {
@@ -15065,14 +14883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<アメリア>「…分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　じゃあ、少しの間じっとしててね」"
+                                "\\n<Ameria>\"...Understood. Then, please stay still for a little while.\""
                             ]
                         },
                         {
@@ -15119,7 +14930,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -15136,7 +14947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -15153,7 +14964,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ッ――！」"
+                                "\\n<Roselitte>\"Ah--!\""
                             ]
                         },
                         {
@@ -15254,7 +15065,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ、また後でお願いします」"
+                                "\\n<Roselitte>\"No, I'll ask for your help again later.\""
                             ]
                         },
                         {
@@ -15271,14 +15082,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<アメリア>「分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　無理はしないようにね」"
+                                "\\n<Ameria>\"Understood. Make sure not to overdo it.\""
                             ]
                         },
                         {
@@ -16054,7 +15858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -16078,7 +15882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん…？」"
+                                "\\n<Ameria>\"Roselitte-san...?\""
                             ]
                         },
                         {
@@ -16151,14 +15955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「え…？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ああ…、終わりましたか」"
+                                "\\n<Roselitte>\"Huh...? Oh... is it over?\""
                             ]
                         },
                         {
@@ -16189,14 +15986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…大丈夫？　本当に何もない？」"
+                                "\\n<Ameria>\"Yes.... Are you okay? Are you sure there's nothing wrong?\""
                             ]
                         },
                         {
@@ -16269,14 +16059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ええ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとう、アメリア」"
+                                "\\n<Roselitte>\"...Yes. Thank you, Ameria.\""
                             ]
                         },
                         {
@@ -16349,7 +16132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…そう。ハレルヤ」"
+                                "\\n<Ameria>\"...I see. Hallelujah.\""
                             ]
                         },
                         {
@@ -16399,7 +16182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "治療のおかげで、スキルのＨＰコスト量が減少した！"
+                                "Thanks to the treatment, the HP cost for skills has been\nreduced!"
                             ]
                         },
                         {
@@ -16601,7 +16384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリアに怪我を診てもらってから進みましょう」"
+                                "\\n<Roselitte>\"Let's have Ameria look at our injuries before we move on.\""
                             ]
                         },
                         {
@@ -17012,21 +16795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…あの、ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の治療なんだけど…どう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんか、変な事とかない？」"
+                                "\\n<Ameria>\"Um, Roselitte-san. About my treatment... How is it? Is\nthere anything strange happening?\""
                             ]
                         },
                         {
@@ -17085,7 +16854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -17144,21 +16913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いえ。少しボーっとしますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　変なことはありませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むしろ調子は良くなっていると思います」"
+                                "\\n<Roselitte>\"...No. I feel a bit spaced out, but nothing strange. On the\ncontrary, I think I'm feeling better.\""
                             ]
                         },
                         {
@@ -17217,14 +16972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そう…なら、いいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　変なこと聞いてごめんね」"
+                                "\\n<Ameria>\"I see... that's good then. Sorry for asking something\nweird.\""
                             ]
                         },
                         {
@@ -17562,14 +17310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「体、なんともない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何か変なことがあったら言ってね」"
+                                "\\n<Ameria>\"Are you feeling alright? Let me know if anything feels\noff.\""
                             ]
                         },
                         {
@@ -17635,7 +17376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「…治療する？　ローゼリッテさん」"
+                                "\\n<Ameria>\"...Shall I heal you, Roselitte-san?\""
                             ]
                         },
                         {
@@ -17643,8 +17384,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17683,7 +17424,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。お願いします」"
+                                "\\n<Roselitte>\"Yes, please do.\""
                             ]
                         },
                         {
@@ -17700,14 +17441,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<アメリア>「…分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　じゃあ、少しの間じっとしててね」"
+                                "\\n<Ameria>\"...Understood. Then please stay still for a little while.\""
                             ]
                         },
                         {
@@ -17845,7 +17579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -17862,7 +17596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -17921,7 +17655,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ッ――！」"
+                                "\\n<Roselitte>\"Ah--!\""
                             ]
                         },
                         {
@@ -18029,7 +17763,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ、また後でお願いします」"
+                                "\\n<Roselitte>\"No, I'll ask for your help again later.\""
                             ]
                         },
                         {
@@ -18046,14 +17780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<アメリア>「分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　無理はしないようにね」"
+                                "\\n<Ameria>\"Understood. Don't push yourself too hard.\""
                             ]
                         },
                         {
@@ -18672,7 +18399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「調子はどう？　怪我人さん」"
+                                "\\n<Lyric>\"How are you feeling, injured one?\""
                             ]
                         },
                         {
@@ -18731,21 +18458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアに診てもらっているおかげで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だいぶ調子が良くなってきました」"
+                                "\\n<Roselitte>\"Yes, thanks to Ameria's care, I've been feeling much\nbetter.\""
                             ]
                         },
                         {
@@ -18762,14 +18475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「本土の医者に診てもらっても芳しくなかったのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当に助かります」"
+                                "\\n<Roselitte>\"The doctors on the mainland weren't very helpful... I'm\ntruly grateful.\""
                             ]
                         },
                         {
@@ -18828,7 +18534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -18894,7 +18600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「へえ。そんなに良いんだ、アメリアの医術式」"
+                                "\\n<Lyric>\"Wow, so Ameria's medical techniques are that good?\""
                             ]
                         },
                         {
@@ -18911,14 +18617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「他の医術士では検査をするばかりで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまり治療をしてもらえませんでしたから」"
+                                "\\n<Roselitte>\"The other healers just ran tests and didn't do much in\nterms of treatment.\""
                             ]
                         },
                         {
@@ -18935,14 +18634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「事が済んだら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本土の医術士として仕事をしませんか、アメリア」"
+                                "\\n<Roselitte>\"Once this is all over, would you consider working as a\nhealer on the mainland, Ameria?\""
                             ]
                         },
                         {
@@ -19001,14 +18693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさんの怪我が良くなってくれるなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私はそれで十分だよ♪」"
+                                "\\n<Ameria>\"...If it means Roselitte-san's injuries get better, that's\nmore than enough for me.♪\""
                             ]
                         },
                         {
@@ -19471,7 +19156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリアに怪我を診てもらってから進みましょう」"
+                                "\\n<Roselitte>\"Let's have Ameria look at our injuries before we move on.\""
                             ]
                         },
                         {
@@ -19675,7 +19360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリアに怪我を診てもらってから進みましょう」"
+                                "\\n<Roselitte>\"Let's have Ameria look at our injuries before we move on.\""
                             ]
                         },
                         {

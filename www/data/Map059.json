@@ -2643,21 +2643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「目の前で避難してきた人たちが集まってると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここに居づらいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　泊めてあげるべきなんだろうか…」"
+                                "\\n<Villager>\"It's awkward to be here with all these people who have fled\ngathering in front of me. Should I offer them a place to\nstay...?\""
                             ]
                         },
                         {

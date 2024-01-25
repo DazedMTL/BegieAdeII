@@ -21120,7 +21120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊>「ぐああああッ！」"
+                                "\\n<Thief>\"Guaaaaah!\""
                             ]
                         },
                         {
@@ -21186,7 +21186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はぁ……はぁ……」"
+                                "\\n<Roselitte>\"Haa... Haa...\""
                             ]
                         },
                         {
@@ -21210,14 +21210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「…ローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お体は大丈夫でしょうか」"
+                                "\\n<Valam Soldier>\"...Lady Roselitte, are you alright?\""
                             ]
                         },
                         {
@@ -21314,14 +21307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…余計な心配はいりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたは黙って――」"
+                                "\\n<Roselitte>\"...Your concern is unnecessary. Just be quiet and--\""
                             ]
                         },
                         {
@@ -21995,7 +21981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「――くそッ！」"
+                                "\\n<Deorc>\"--Damn it!\""
                             ]
                         },
                         {
@@ -22585,7 +22571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「い、今のは！」"
+                                "\\n<Valam Soldier>\"T-that was!\""
                             ]
                         },
                         {
@@ -22651,7 +22637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「賊の首領、デオルク…！」"
+                                "\\n<Roselitte>\"The bandit leader, Deorc...!\""
                             ]
                         },
                         {
@@ -22682,7 +22668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「奴を追いなさい！　急いで！」"
+                                "\\n<Roselitte>\"Chase after him! Hurry!\""
                             ]
                         },
                         {
@@ -24135,7 +24121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24231,7 +24217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24327,7 +24313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

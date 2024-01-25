@@ -6753,14 +6753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "施錠されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持っている鍵では開かない。"
+                                "It's locked. The key I have won't open it."
                             ]
                         },
                         {
@@ -6870,14 +6863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "施錠されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持っている鍵では開かない。"
+                                "It's locked. The key I have won't open it."
                             ]
                         },
                         {

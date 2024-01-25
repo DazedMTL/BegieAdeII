@@ -14620,7 +14620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -14644,7 +14644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…君の願いが、叶うといいね……」"
+                                "\\n<Lyric>\"...I hope your wish comes true...\""
                             ]
                         },
                         {

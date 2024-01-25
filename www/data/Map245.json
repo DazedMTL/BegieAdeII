@@ -3207,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「風が通っている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出口が近いかもしれません」"
+                                "\\n<Roselitte>\"There's a breeze... The exit might be close.\""
                             ]
                         },
                         {
@@ -3245,14 +3238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ほんと？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やった、私たち助かったんだ！」"
+                                "\\n<Ameria>\"Really? Yay, we're saved!\""
                             ]
                         },
                         {
@@ -3314,7 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。ですがまだ油断は――」"
+                                "\\n<Roselitte>\"Yes, but we mustn't let our guard down--\""
                             ]
                         },
                         {
@@ -3345,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「――見つけたぞ！」"
+                                "\\n<Man's voice>??? \"I've found them!\""
                             ]
                         },
                         {
@@ -4090,14 +4076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「もうこんな所まで来やがって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぜってー逃がさねえからな！」"
+                                "\\n<Thief A>\"They've come this far... But they won't escape from us!\""
                             ]
                         },
                         {
@@ -4114,14 +4093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「おおい！　みんな、こっちだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女は出口んとこだ！！」"
+                                "\\n<Thief B>\"Hey! Everyone, over here! The women are by the exit!!\""
                             ]
                         },
                         {
@@ -4154,14 +4126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――走って！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま脱出します！」"
+                                "\\n<Roselitte>\"--Run! We're making our escape now!\""
                             ]
                         },
                         {
@@ -4390,7 +4355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「また逃げたぞ！　追えーッ！」"
+                                "\\n<Thief B>\"They're running again! Chase them!\""
                             ]
                         },
                         {
@@ -6661,14 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「風が通っている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出口が近いかもしれません」"
+                                "\\n<Roselitte>\"There's a breeze... The exit might be close.\""
                             ]
                         },
                         {
@@ -6699,14 +6657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ほんと？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やった、私たち助かったんだ！」"
+                                "\\n<Ameria>\"Really? Yay, we're saved!\""
                             ]
                         },
                         {
@@ -6768,7 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。ですがまだ油断は――」"
+                                "\\n<Roselitte>\"Yes, but we mustn't let our guard down--\""
                             ]
                         },
                         {
@@ -6799,7 +6750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「――見つけたぞ！」"
+                                "\\n<Man's voice>??? \"I've found them!\""
                             ]
                         },
                         {
@@ -7544,14 +7495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「もうこんな所まで来やがって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぜってー逃がさねえからな！」"
+                                "\\n<Thief A>\"They've come this far already... But they won't escape us!\""
                             ]
                         },
                         {
@@ -7568,14 +7512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「おおい！　みんな、こっちだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女は出口んとこだ！！」"
+                                "\\n<Thief B>\"Hey! Everyone, over here! The women are by the exit!!\""
                             ]
                         },
                         {
@@ -7608,14 +7545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――走って！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま脱出します！」"
+                                "\\n<Roselitte>\"--Run! We're making our escape now!\""
                             ]
                         },
                         {
@@ -7844,7 +7774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「また逃げたぞ！　追えーッ！」"
+                                "\\n<Thief B>\"They're running again! After them--!\""
                             ]
                         },
                         {
@@ -9137,14 +9067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「風が通っている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出口が近いかもしれません」"
+                                "\\n<Roselitte>\"There's a breeze... The exit might be close.\""
                             ]
                         },
                         {
@@ -9175,14 +9098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ほんと？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やった、私たち助かったんだ！」"
+                                "\\n<Ameria>\"Really? Yay, we're saved!\""
                             ]
                         },
                         {
@@ -9244,7 +9160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。ですがまだ油断は――」"
+                                "\\n<Roselitte>\"Yes. But we mustn't let our guard down--\""
                             ]
                         },
                         {
@@ -9275,7 +9191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「――見つけたぞ！」"
+                                "\\n<???>\"--Found you!\""
                             ]
                         },
                         {
@@ -10020,14 +9936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「もうこんな所まで来やがって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぜってー逃がさねえからな！」"
+                                "\\n<Thief A>\"You've come this far... but there's no way we're letting\nyou escape!\""
                             ]
                         },
                         {
@@ -10044,14 +9953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「おおい！　みんな、こっちだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女は出口んとこだ！！」"
+                                "\\n<Thief B>\"Hey! Everyone, over here! The women are by the exit!!\""
                             ]
                         },
                         {
@@ -10084,14 +9986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――走って！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま脱出します！」"
+                                "\\n<Roselitte>\"--Run! We're making our escape now!\""
                             ]
                         },
                         {
@@ -10320,7 +10215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「また逃げたぞ！　追えーッ！」"
+                                "\\n<Thief B>\"They're running again! Chase them--!\""
                             ]
                         },
                         {

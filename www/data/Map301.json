@@ -6155,7 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…日が落ちてきましたね」"
+                                "\\n<Roselitte>\"...The sun is setting.\""
                             ]
                         },
                         {
@@ -6217,21 +6217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「夜に進むのは危険ですから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今夜はここで野営を行いましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　暗くならないうちに支度をしないと」"
+                                "\\n<Roselitte>\"It's dangerous to travel at night, so let's camp here\ntonight. We need to get ready before it gets dark.\""
                             ]
                         },
                         {
@@ -6304,7 +6290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「野営……うぅ……」"
+                                "\\n<Ameria>\"Camping... ugh...\""
                             ]
                         },
                         {
@@ -6377,7 +6363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…？　どうしました？」"
+                                "\\n<Roselitte>\"...? What's wrong?\""
                             ]
                         },
                         {
@@ -6450,14 +6436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ううん、なんでもない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、薪拾ってくるね、たくさん！」"
+                                "\\n<Ameria>\"...No, it's nothing! I'll go gather some firewood, lots of\nit!\""
                             ]
                         },
                         {
@@ -6592,14 +6571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリックも手伝って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一人じゃあたくさん運べないから」"
+                                "\\n<Ameria>\"Lyric, help me out. I can't carry a lot by myself.\""
                             ]
                         },
                         {
@@ -7010,14 +6982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…どうしたんでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこか様子がおかしいですが」"
+                                "\\n<Roselitte>\"...What's the matter? You seem a bit off.\""
                             ]
                         },
                         {
@@ -7097,21 +7062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「さあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　焚火が好きなんじゃないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たくさん薪燃やしたいとか」"
+                                "\\n<Lyric>\"Who knows? Maybe she just likes campfires. Wants to burn a\nlot of wood or something.\""
                             ]
                         },
                         {
@@ -7184,7 +7135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「なんですかそれ」"
+                                "\\n<Roselitte>\"What's that supposed to mean?\""
                             ]
                         },
                         {
@@ -7297,14 +7248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリアの声>「リリック、早くー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　暗くなっちゃうー！」"
+                                "\\n<Ameria's voice>\"Lyric, hurry up! It's getting dark!\""
                             ]
                         },
                         {
@@ -7416,7 +7360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ…ああー、そうか。そういうことね」"
+                                "\\n<Lyric>\"Ah... oh- I see. That's what it is.\""
                             ]
                         },
                         {
@@ -7447,7 +7391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「何か分かったのですか」"
+                                "\\n<Roselitte>\"Did you figure something out?\""
                             ]
                         },
                         {
@@ -7572,28 +7516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ん～まあ、すぐに分かるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気にすることはないから、君はご飯の準備でもしてて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さくっと鹿とかウサギでも狩ってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕お腹すいちゃった」"
+                                "\\n<Lyric>\"Mmm, well, you'll find out soon enough. Don't worry about\nit, just prepare the meal. I'll quickly hunt something like\na deer or a rabbit. I'm getting hungry.\""
                             ]
                         },
                         {
@@ -7666,21 +7589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「さくっとって、そう簡単ではありませんが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まあ、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあればすぐ知らせるように」"
+                                "\\n<Roselitte>\"'Quickly' isn't as easy as you make it sound.... But\nalright, I understand. Let me know immediately if anything\nhappens.\""
                             ]
                         },
                         {
@@ -7760,7 +7669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「それはこっちのセリフだよ、怪我人さん」"
+                                "\\n<Lyric>\"That's my line, Miss Injured.\""
                             ]
                         },
                         {
@@ -7833,7 +7742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ふん」"
+                                "\\n<Roselitte>\"...Hmph.\""
                             ]
                         },
                         {
@@ -7873,7 +7782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリアの声>「リリックーーッ！！」"
+                                "\\n<Ameria's voice>\"Lyric--!!\""
                             ]
                         },
                         {
@@ -7993,7 +7902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あーもう、うるさい！　今行くってば！」"
+                                "\\n<Lyric>\"Ah- enough, you're loud! I said I'm coming!\""
                             ]
                         },
                         {

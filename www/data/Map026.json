@@ -9460,7 +9460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「そこで止まれッ！」"
+                                "\\n<Bandit Leader>\"Stop right there!\""
                             ]
                         },
                         {
@@ -9697,21 +9697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「いきなり戻ってきたかと思えば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　好き勝手に暴れやがって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえらいったい何が目的だ！」"
+                                "\\n<Bandit Leader>\"Just when I thought you had come back, you start rampaging\naround... What the hell are you after?!\""
                             ]
                         },
                         {
@@ -9728,14 +9714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなたたちに用はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこを通しなさい」"
+                                "\\n<Roselitte>\"We have no business with you. Let us through.\""
                             ]
                         },
                         {
@@ -9752,14 +9731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「クソアマ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう一度牢にぶちこんでやる！」"
+                                "\\n<Bandit Leader>\"You bitch...! I'll throw you back in the cell again!\""
                             ]
                         },
                         {
@@ -10682,7 +10654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オールアウェイ×２を手に入れた！"
+                                "Gained 2 All Aways!"
                             ]
                         },
                         {

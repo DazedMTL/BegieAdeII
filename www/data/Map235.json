@@ -20752,21 +20752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「縄の味はどうだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぞかしいい気分だろうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くくくっ」"
+                                "\\n<Deorc>\"How do you like the taste of rope? Must be feeling pretty\ngood, huh. Heh heh heh.\""
                             ]
                         },
                         {
@@ -20790,7 +20776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…私たちをどうするつもりです」"
+                                "\\n<Roselitte>\"...What do you plan to do with us?\""
                             ]
                         },
                         {
@@ -20814,7 +20800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「へっ。そう焦んなって」"
+                                "\\n<Deorc>\"Heh, don't be in such a hurry.\""
                             ]
                         },
                         {
@@ -20903,21 +20889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「軽率だよなぁ、皇太子様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんたにもしものことがあれば大問題だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか自分は大丈夫、とでも思ってたのか？」"
+                                "\\n<Deorc>\"You're being reckless, Your Highness the Crown Prince. It\nwould be a huge problem if something happened to you. Did\nyou really think you'd be safe?\""
                             ]
                         },
                         {
@@ -20934,7 +20906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「くっ…」"
+                                "\\n<Yuri>\"Gh...\""
                             ]
                         },
                         {
@@ -20951,21 +20923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「てめえは人質として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがたーく使わせてもらうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ま、今の俺には必要ねえかもしれねえけどな」"
+                                "\\n<Deorc>\"You'll be used as a valuable hostage. Well, I might not\nneed you anymore, but still.\""
                             ]
                         },
                         {
@@ -20982,14 +20940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おい、魔物ども。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつを逃がすんじゃねえぜ」"
+                                "\\n<Deorc>\"Hey, monsters. Don't let this one escape.\""
                             ]
                         },
                         {
@@ -21432,7 +21383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…待ちなさい、デオルク」"
+                                "\\n<Roselitte>\"...Wait, Deorc.\""
                             ]
                         },
                         {
@@ -21487,7 +21438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ああ？」"
+                                "\\n<Deorc>\"Huh?\""
                             ]
                         },
                         {
@@ -21511,14 +21462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ユーリ様には手を出さないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　代わりに私を連れて行きなさい」"
+                                "\\n<Roselitte>\"Don't lay a hand on Yuri-sama. Take me instead.\""
                             ]
                         },
                         {
@@ -21621,21 +21565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前馬鹿か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わざわざ皇太子を手放すわけがねえだろ」"
+                                "\\n<Deorc>\"Haha! Are you stupid? There's no way I'd let go of the\nCrown Prince just like that.\""
                             ]
                         },
                         {
@@ -21701,14 +21631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…貴様の考えていることは予想がつきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国本土へ攻撃する気なのでしょう？」"
+                                "\\n<Roselitte>\"...I can guess what you're planning. You intend to attack\nthe imperial mainland, don't you?\""
                             ]
                         },
                         {
@@ -21739,28 +21662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ヴァラムの軍事的内情は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近衛十二騎士団の一柱を務める私の方が詳しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様を解放するということであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が有益な情報を渡しましょう」"
+                                "\\n<Roselitte>\"I am more familiar with Valram's military affairs as a\npillar of the Twelve Knights of the Guard. If you release\nYuri-sama, I will provide you with valuable information.\""
                             ]
                         },
                         {
@@ -21784,7 +21686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おいおい、お前なぁ」"
+                                "\\n<Deorc>\"Hey, hey, you know...\""
                             ]
                         },
                         {
@@ -21850,14 +21752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ユーリ様より私を連れていった方がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなことも分かりませんか」"
+                                "\\n<Roselitte>\"It would be better for you to take me than Yuri-sama. Don't\nyou understand that?\""
                             ]
                         },
                         {
@@ -21881,7 +21776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「……」"
+                                "\\n<Deorc>\"...\""
                             ]
                         },
                         {
@@ -21947,28 +21842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずは地方の巡回警備状況についてお話しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"レーベ\"から派兵される兵たちの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大まかな予定を知っていますよ」"
+                                "\\n<Roselitte>\"Let's start with the patrol situation in the regions. I\nknow the rough schedule of the troops dispatched from\n'Leve'.\""
                             ]
                         },
                         {
@@ -21999,21 +21873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「日時、兵数、物資運搬経路などなど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それらの予想が立てられれば、今後楽になるのでは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私がいれば可能ですよ」"
+                                "\\n<Roselitte>\"Dates, troop numbers, supply transport routes, and so on.\nIf you can predict those, wouldn't it make things easier for\nyou in the future? With me, it's possible.\""
                             ]
                         },
                         {
@@ -22037,7 +21897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「……」"
+                                "\\n<Deorc>\"...\""
                             ]
                         },
                         {
@@ -22103,21 +21963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「本土へ向かう比較的安全な道も案内できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の持つ情報はユーリ様を人質にするより価値がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　分かりますよね？」"
+                                "\\n<Roselitte>\"I can also guide you through relatively safe paths to the\nmainland. The information I hold is more valuable than\nkeeping Yuri-sama as a hostage. You understand, right?\""
                             ]
                         },
                         {
@@ -22190,28 +22036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「他に知りたいことがあればなんなりと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様を解放すれば全てお話しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私ほどヴァラムの内情を知っている人間は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうそういませんよ」"
+                                "\\n<Roselitte>\"If there's anything else you want to know, just ask. If you\nrelease Yuri-sama, I will tell you everything. There aren't\nmany who know Valram's internal affairs as well as I do.\""
                             ]
                         },
                         {
@@ -22235,7 +22060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「……」"
+                                "\\n<Deorc>\"...\""
                             ]
                         },
                         {
@@ -22294,7 +22119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -22360,7 +22185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ですから、ユーリ様でなく私を――」"
+                                "\\n<Roselitte>\"...So please, take me instead of Yuri-sama--\""
                             ]
                         },
                         {
@@ -22384,7 +22209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「――お前、なんか勘違いしてねえか」"
+                                "\\n<Deorc>\"--You're misunderstanding something here.\""
                             ]
                         },
                         {
@@ -22443,7 +22268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……？」"
+                                "\\n<Roselitte>\"...?\""
                             ]
                         },
                         {
@@ -22533,21 +22358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「それだよ、それ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その目。その態度。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　捕まってもなお俺を…いや、男を見下しやがって」"
+                                "\\n<Deorc>\"That's right, that look in your eyes, that attitude. Even\nthough you're caught, you still look down on me... no, on\nmen.\""
                             ]
                         },
                         {
@@ -22564,21 +22375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「気に食わねえなあ、お前みたいな女はよお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺さっき言ったよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　舐め腐ったお前を教育してやるって」"
+                                "\\n<Deorc>\"I can't stand women like you. Didn't I say it earlier? I'm\ngoing to 'educate' your rotten self.\""
                             ]
                         },
                         {
@@ -22595,21 +22392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「お前が帝国の情報を話すとか、話さないとか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　価値があるとか無いとか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなことはどーでもいいんだわ」"
+                                "\\n<Deorc>\"Whether you talk about the empire's information or not,\nwhether it has value or not, I don't give a damn about any\nof that.\""
                             ]
                         },
                         {
@@ -22626,14 +22409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「てめえは、ただのむかつく女だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それ以上でも以下でもねえ」"
+                                "\\n<Deorc>\"You're just an annoying woman. Nothing more, nothing less.\""
                             ]
                         },
                         {
@@ -22650,7 +22426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「だからよ、お前にすることは一つだけだ」"
+                                "\\n<Deorc>\"So there's only one thing for you to do.\""
                             ]
                         },
                         {
@@ -22753,14 +22529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「――おい、野郎ども！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よーく聞け！」"
+                                "\\n<Deorc>\"--Hey, guys! Listen up!\""
                             ]
                         },
                         {
@@ -22777,21 +22546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ろくに使えねえ人間とはおさらばだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺は魔物どもを連れて好きにやらせてもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっさと失せちまえ！」"
+                                "\\n<Deorc>\"Say goodbye to these useless humans! I'm taking the\nmonsters and doing as I please. Get lost!\""
                             ]
                         },
                         {
@@ -23023,21 +22778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「そんな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクさんひどいッスよ、ここまできて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺たちもついていかせてくださいよ！」"
+                                "\\n<Thief A>\"That's terrible! Deorc-san, after all we've been through!\nLet us come with you!\""
                             ]
                         },
                         {
@@ -23054,21 +22795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「っるせえ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またてめらのせいで捕まったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たまったもんじゃねえからな」"
+                                "\\n<Deorc>\"Shut up! If we get caught because of you guys again, it'll\nbe the end of it.\""
                             ]
                         },
                         {
@@ -23085,14 +22812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「そんなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ俺たち、どうすれば…」"
+                                "\\n<Thief B>\"But... what should we do then...?\""
                             ]
                         },
                         {
@@ -23109,21 +22829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ははっ、最後まで間抜けな奴らだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まあどうしてもって言うならついてきてもいいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえらでも使えることはあるだろうしな」"
+                                "\\n<Deorc>\"Haha, you guys are fools until the end. Well, if you\ninsist, you can come along. You might be useful for\nsomething after all.\""
                             ]
                         },
                         {
@@ -23140,21 +22846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「しかしまあ、そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少なくともこれまで俺のために働いてくれたわけだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最後くらいプレゼントを渡してやるよ」"
+                                "\\n<Deorc>\"But well, yeah. At least you've worked for me until now, so\nI'll give you a parting gift.\""
                             ]
                         },
                         {
@@ -23342,14 +23034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「くっ…！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　は、離せ…！」"
+                                "\\n<Roselitte>\"Gh...! Let go...!\""
                             ]
                         },
                         {
@@ -23373,7 +23058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「っるせえ！　来い！」"
+                                "\\n<Deorc>\"Shut up! Come here!\""
                             ]
                         },
                         {
@@ -23821,14 +23506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「い、痛い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やめっ…離しなさい！」"
+                                "\\n<Roselitte>\"Ow, it hurts! Stop... let me go!\""
                             ]
                         },
                         {
@@ -24280,7 +23958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あぅ！」"
+                                "\\n<Roselitte>\"Ah!\""
                             ]
                         },
                         {
@@ -24304,14 +23982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「てめえら、俺から最後の贈り物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…こいつを好きにしてもいいぜ」"
+                                "\\n<Deorc>\"You guys, this is my final gift to you... You can do\nwhatever you want with her.\""
                             ]
                         },
                         {
@@ -24377,7 +24048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「なっ……」"
+                                "\\n<Roselitte>\"Wha...\""
                             ]
                         },
                         {
@@ -24401,7 +24072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「ま、マジですか…？」"
+                                "\\n<Thief A>\"Are you serious...?\""
                             ]
                         },
                         {
@@ -24418,28 +24089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　痛めつけようが、好きに輪姦そうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　売りさばこうが、何をしても自由だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らの好きにしていいぞ！」"
+                                "\\n<Deorc>\"Yeah. Whether you want to beat her, gang-rape her, or sell\nher off, you're free to do whatever. Do as you please!\""
                             ]
                         },
                         {
@@ -24578,14 +24228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「…だってよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ど、どうする？」"
+                                "\\n<Thief A>\"...You heard him. What do we do?\""
                             ]
                         },
                         {
@@ -24602,7 +24245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「どうするって、そりゃあ…」"
+                                "\\n<Thief B>\"What do we do, you ask? Well...\""
                             ]
                         },
                         {
@@ -24619,21 +24262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くはは！　優柔不断な奴らだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よし、お前らの頭領だった俺から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最後にありがたーい話をしてやる！」"
+                                "\\n<Deorc>\"Haha! You guys are so indecisive. Alright, as your former\nleader, I'll give you one last piece of precious advice!\""
                             ]
                         },
                         {
@@ -24650,21 +24279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「――こいつに散々痛い目に合わせられたなぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くそムカつくよなぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうなんだお前ら、ぇえ！？」"
+                                "\\n<Deorc>\"She's made us suffer a lot, hasn't she?! She's so damn\nannoying, right?! What do you guys think, huh?!\""
                             ]
                         },
                         {
@@ -24681,7 +24296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「「「お…おおッ…！」」」"
+                                "\\n<Thieves>\"O...oh...!\""
                             ]
                         },
                         {
@@ -24698,14 +24313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「クソ生意気な態度で気に入らねえよなぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らはどう思ってんだ、答えろ！」"
+                                "\\n<Deorc>\"Her snotty attitude is unbearable, right?! What do you guys\nthink, answer me!\""
                             ]
                         },
                         {
@@ -24722,21 +24330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「…な、生意気だ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺はこいつにやられたんだ！　マジで痛てえ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺もだ！　俺も！」"
+                                "\\n<Thieves>\"...Yeah, she's arrogant!\",\"I got beaten by her! It really\nhurt!\",\"Me too! Me too!\""
                             ]
                         },
                         {
@@ -24753,7 +24347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「そうだろう、そうだろう！」"
+                                "\\n<Deorc>\"That's right, that's right!\""
                             ]
                         },
                         {
@@ -24770,14 +24364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「だったらうじうじしてんじゃねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らにくれてやる、好きにしろ！」"
+                                "\\n<Deorc>\"Then stop dawdling! She's yours now, do as you like!\""
                             ]
                         },
                         {
@@ -24794,21 +24381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「犯せ！　嬲れ！　痛めつけろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　賊を見下してる騎士の威厳も！　女の矜持も！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全部喰って、吐き捨てちまえッ！！」"
+                                "\\n<Deorc>\"Rape her! Torment her! Make her suffer! Strip away the\nknight's dignity and the woman's pride! Devour it all and\nspit it out!!\""
                             ]
                         },
                         {
@@ -24825,7 +24398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「「「…………」」」"
+                                "\\n<Thieves>\"...\""
                             ]
                         },
                         {
@@ -24842,7 +24415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「「「…お――」」」"
+                                "\\n<Thieves>\"...Oh--\""
                             ]
                         },
                         {
@@ -25318,7 +24891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「「「おおおおおおおおっっ！！！！」」」"
+                                "\\n<Thieves>\"Oooooohhhhh!!!!\""
                             ]
                         },
                         {
@@ -25475,14 +25048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「待っ――待って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いや…さ、触るなあッ！」"
+                                "\\n<Roselitte>\"Wait--wait! No... don't touch me!\""
                             ]
                         },
                         {
@@ -25506,14 +25072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「動くんじゃねえ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おい、そっち足持て！」"
+                                "\\n<Thief A>\"Don't move! Hey, grab her legs over there!\""
                             ]
                         },
                         {
@@ -25530,7 +25089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「へへっ、ヤバ…マジで好きにしていいのかよ！」"
+                                "\\n<Thief B>\"Heh heh, damn... we can really do whatever we want?!\""
                             ]
                         },
                         {
@@ -25547,14 +25106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「お前ら何ぐずぐずしてんだ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く剥いちまえ！」"
+                                "\\n<Thief C>\"What are you guys waiting for?! Hurry up and strip her!\""
                             ]
                         },
                         {
@@ -25578,14 +25130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どこを触って――きゃあ！？//"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やめッ…やめてッ…！！」"
+                                "\\n<Roselitte>\"Don't touch there--kyaa! Stop... stop it...!!\""
                             ]
                         },
                         {
@@ -25691,7 +25236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いやああああああああッッ！！」"
+                                "\\n<Roselitte>\"Nooooooaaaaahhhhh!!\""
                             ]
                         },
                         {
@@ -25715,14 +25260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くははははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえも女らしく泣くんだなあ！」"
+                                "\\n<Deorc>\"Hahahahaha! Even you cry like a woman!\""
                             ]
                         },
                         {
@@ -25770,14 +25308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「そこのシスターもだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえらにくれてやるぜ！」"
+                                "\\n<Deorc>\"And you too, Sister! I'm giving her to you guys!\""
                             ]
                         },
                         {
@@ -25915,7 +25446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひっ…！？」"
+                                "\\n<Ameria>\"Hii...!?\""
                             ]
                         },
                         {
@@ -26351,7 +25882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｄ>「へへ…待ってましたぁ！♡」"
+                                "\\n<Thief D>\"Hehe... I've been waiting for this! ♡\""
                             ]
                         },
                         {
@@ -26508,14 +26039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、あぁ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やああああああッ…！！」"
+                                "\\n<Ameria>\"Ah, ahh...! Nooooooo!!\""
                             ]
                         },
                         {
@@ -26674,14 +26198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ユーリ様！　ユーリ様ぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いやあああああッッ！！」"
+                                "\\n<Roselitte>\"Lady Yuri! Lady Yuri! Noooooo!!\""
                             ]
                         },
                         {
@@ -26714,14 +26231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「デオルク！！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴様ぁぁぁああああ！！」"
+                                "\\n<Yuri>\"Deorc!! You bastarddddd!!\""
                             ]
                         },
                         {
@@ -26817,21 +26327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くははははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最高だぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もっと叫べ叫べ叫べぇ！！」"
+                                "\\n<Deorc>\"Hahahahaha! This is the best! Scream more, scream!!\""
                             ]
                         },
                         {
@@ -26848,14 +26344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「魔物ども、皇太子を連れていけ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ていちょーに扱えよなっ！」"
+                                "\\n<Deorc>\"Monsters, take the crown prince away! Treat him with care\nnow!\""
                             ]
                         },
                         {
@@ -29248,21 +28737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「じゃあなあローゼリッテ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その情けねえ様を見てるのもいいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう今となっちゃあどうでもいい！」"
+                                "\\n<Deorc>\"See ya, Roselitte. Watching your pathetic state is fun, but\nnow I don't care anymore!\""
                             ]
                         },
                         {
@@ -29279,14 +28754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「このチカラで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺は、奪われたもんを全部取り返すッ！」"
+                                "\\n<Deorc>\"With this power! I will take back everything that was\nstolen from me!\""
                             ]
                         },
                         {
@@ -29303,14 +28771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「待ってろよぉ、ゴミども！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くはははははは！！」"
+                                "\\n<Deorc>\"Wait for me, you trash! Hahahahaha!!\""
                             ]
                         },
                         {
@@ -29555,7 +29016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「…よお、デオルク」"
+                                "\\n<Riolauno>\"...Yo, Deorc.\""
                             ]
                         },
                         {
@@ -29572,7 +29033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「あん？　なんだ、てめえか」"
+                                "\\n<Deorc>\"Huh? What is it, you?\""
                             ]
                         },
                         {
@@ -29589,14 +29050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「アンタ、すげえな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかここまでやる奴だとは思わなかったよ」"
+                                "\\n<Riolauno>\"You're amazing. I never thought you'd go this far.\""
                             ]
                         },
                         {
@@ -29613,14 +29067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「捕まえたヴァラム兵たちはゆずってもらえないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　男でも買い手は多いからな」"
+                                "\\n<Riolauno>\"Can you hand over the captured Valam soldiers to me? Even\nthe men have many buyers.\""
                             ]
                         },
                         {
@@ -29637,14 +29084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「そんなことか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう俺には関係ねえ、好きにしろ」"
+                                "\\n<Deorc>\"Is that all? I don't care anymore, do as you like.\""
                             ]
                         },
                         {
@@ -29661,7 +29101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「助かるよ」"
+                                "\\n<Riolauno>\"That helps.\""
                             ]
                         },
                         {
@@ -29867,14 +29307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「――おい、アンタら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　商売の話をしないか」"
+                                "\\n<Riolauno>\"--Hey, you guys. How about we talk business?\""
                             ]
                         },
                         {
@@ -29953,21 +29386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リオラノ>「女がいてもこれからの食い扶持に困るだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そいつを俺に買わせてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　報酬は弾むし、いい仕事をくれてやる」"
+                                "\\n<Riolauno>\"Even with a woman, you'll struggle for food in the future,\nright? Let me buy her off you. I'll pay well and give you\nsome good work.\""
                             ]
                         },
                         {
@@ -29984,14 +29403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊>「おお、マジかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあこの女をヤッてから――」"
+                                "\\n<Thief>\"Oh, seriously? Then after we have our way with this\nchick--\""
                             ]
                         },
                         {
@@ -30040,7 +29452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くくっ…」"
+                                "\\n<Deorc>\"Heh...\""
                             ]
                         },
                         {
@@ -30092,7 +29504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くははははははははは！！」"
+                                "\\n<Deorc>\"Hahahahahahahaha!!\""
                             ]
                         },
                         {
@@ -32074,7 +31486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -32290,7 +31702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -32386,7 +31798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

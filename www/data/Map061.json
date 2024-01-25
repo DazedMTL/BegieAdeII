@@ -2270,14 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「昨日、よその村の子と友達になったの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また今日ももおしゃべりするんだ」"
+                                "\\n<Villager>\"I made friends with a child from another village yesterday!\nWe're going to chat again today.\""
                             ]
                         },
                         {

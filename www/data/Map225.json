@@ -20680,14 +20680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊>「デオルクさん…俺たちどうなるんですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだと、しばり首…」"
+                                "\\n<Thief>\"Deorc-san... what's going to happen to us? At this rate,\nwe'll be hanged...\""
                             ]
                         },
                         {
@@ -20704,7 +20697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「……」"
+                                "\\n<Deorc>\"...\""
                             ]
                         },
                         {
@@ -20721,7 +20714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊>「デオルクさん！」"
+                                "\\n<Thief>\"Deorc-san!\""
                             ]
                         },
                         {
@@ -20769,21 +20762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「っるせえ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だいたいてめーらが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とろとろしてっから捕まったんだろ！」"
+                                "\\n<Deorc>\"Shut up! It's all because you lot were dawdling that we got\ncaught!\""
                             ]
                         },
                         {
@@ -20800,21 +20779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「さっさと女を見つければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　捕まらずに済んだんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ふざけんじゃねえ、巻き込みやがって！」"
+                                "\\n<Deorc>\"If we had found the woman quickly, we wouldn't have been\ncaught! Don't mess with me, dragging me into this!\""
                             ]
                         },
                         {
@@ -20876,7 +20841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ａ>「おいうるさいぞ！　黙れ！」"
+                                "\\n<Valam Soldier A>\"You're too loud! Be quiet!\""
                             ]
                         },
                         {
@@ -20924,7 +20889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「チッ…。――ああ？」"
+                                "\\n<Deorc>\"Tch...--huh?\""
                             ]
                         },
                         {
@@ -20957,14 +20922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「――お前が俺以外のやつと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　長く話しているなんて珍しいな」"
+                                "\\n<????>\"--It's rare to see you talking with someone other than me\nfor so long.\""
                             ]
                         },
                         {
@@ -20988,14 +20946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「べ…別に珍しいことではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私だって、殿下以外と話くらいします」"
+                                "\\n<Roselitte>\"It's... not that rare. I do talk to people other than His\nHighness.\""
                             ]
                         },
                         {
@@ -21592,7 +21543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -21609,7 +21560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「あの女…！」"
+                                "\\n<Deorc>\"That woman...!\""
                             ]
                         },
                         {
@@ -21675,7 +21626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ふん」"
+                                "\\n<Roselitte>\"...Hmph\""
                             ]
                         },
                         {
@@ -21699,14 +21650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…どうした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつに何か用か？」"
+                                "\\n<????>\"...What's wrong. Do you need something from that guy?\""
                             ]
                         },
                         {
@@ -21851,14 +21795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ、なんでもありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行きましょう」"
+                                "\\n<Roselitte>\"No, it's nothing. Let's go.\""
                             ]
                         },
                         {
@@ -22280,14 +22217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「あの野郎…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつ今、この俺を笑いやがった…！」"
+                                "\\n<Deorc>\"That bastard...! He just laughed at me, didn't he...!\""
                             ]
                         },
                         {
@@ -22304,14 +22234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おいこらてめえ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見下してんじゃねえよ、おい！」"
+                                "\\n<Deorc>\"Hey you! Don't look down on me, hey!\""
                             ]
                         },
                         {
@@ -22328,21 +22251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「クソアマぁ、ローゼリッテ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめーさえいなけりゃ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめーさえいなけりゃあ！！」"
+                                "\\n<Deorc>\"Damn bitch, Roselitte! If it weren't for you! If only you\nweren't here!!\""
                             ]
                         },
                         {
@@ -22404,7 +22313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ｂ>「貴様、いい加減にしろ！」"
+                                "\\n<Valam Soldier B>\"Enough already, you bastard!\""
                             ]
                         },
                         {
@@ -22607,14 +22516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「っるせえカス！　ゴミ！　寄んじゃねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえなんか縛られてなきゃ――」"
+                                "\\n<Deorc>\"Shut up, trash! Scum! Don't come near me! If you weren't\ntied up--\""
                             ]
                         },
                         {
@@ -22652,7 +22554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ぐあっ！」"
+                                "\\n<Deorc>\"Gah!\""
                             ]
                         },
                         {
@@ -22669,7 +22571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「静かにしていろ！」"
+                                "\\n<Valam Soldier>\"Keep it down!\""
                             ]
                         },
                         {
@@ -22686,7 +22588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「痛ってぇ…てめえなにしやがっ――」"
+                                "\\n<Deorc>\"Ouch... what the hell are you doing--\""
                             ]
                         },
                         {
@@ -22724,7 +22626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「うぐ！」"
+                                "\\n<Deorc>\"Ugh!\""
                             ]
                         },
                         {
@@ -22741,14 +22643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「いい加減にしろ賊が！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　黙らんと今すぐその首を掻っ切るぞ！」"
+                                "\\n<Valam Soldier>\"Shut up, thief! If you don't keep quiet, I'll slit your\nthroat right now!\""
                             ]
                         },
                         {
@@ -22765,14 +22660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くそ…ぢくしょう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　無能なゴミどものせいで、こんな…！」"
+                                "\\n<Deorc>\"Shit... damn it all...! Because of these useless pieces of\ngarbage, this...!\""
                             ]
                         },
                         {
@@ -22920,7 +22808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デオルクは頭を地面に打ち付けた。"
+                                "Deorc slammed his head against the ground."
                             ]
                         },
                         {
@@ -22937,14 +22825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「クソッ！　俺は！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなとこで死んでられねえんだよッ！」"
+                                "\\n<Deorc>\"Damn it! I can't die in a place like this!\""
                             ]
                         },
                         {
@@ -22961,7 +22842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「くそ！　くそくそ！　くそ！！」"
+                                "\\n<Deorc>\"Shit! Shit shit! Shit!!\""
                             ]
                         },
                         {
@@ -23109,7 +22990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「クソがあああぁぁぁぁ！！」"
+                                "\\n<Deorc>\"Damn it all to hellllll!!\""
                             ]
                         },
                         {
@@ -23461,7 +23342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ａ>「…おい、こいつやべえよ」"
+                                "\\n<Valam Soldier A>\"...Hey, this guy's crazy.\""
                             ]
                         },
                         {
@@ -23478,14 +23359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ｂ>「あ、ああ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう手がつけられん」"
+                                "\\n<Valam Soldier B>\"Yeah, yeah... he's beyond help.\""
                             ]
                         },
                         {
@@ -23527,14 +23401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ｂ>「あの空き家に入れておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うるさくてかなわん」"
+                                "\\n<Valam Soldier B>\"Let's lock him up in that abandoned house. He's too noisy\nto deal with.\""
                             ]
                         },
                         {
@@ -23551,7 +23418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ａ>「そうだな、そうしよう」"
+                                "\\n<Valam Soldier A>\"Right, let's do that.\""
                             ]
                         },
                         {
@@ -23605,7 +23472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おい！　俺に触んじゃねえ！！」"
+                                "\\n<Deorc>\"Hey! Don't touch me!!\""
                             ]
                         },
                         {
@@ -23622,7 +23489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「このっ、暴れるな！」"
+                                "\\n<Soldier A>\"Stop it, stop struggling!\""
                             ]
                         },
                         {
@@ -23639,7 +23506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「おい！　誰か手を貸してくれ！」"
+                                "\\n<Soldier B>\"Hey! Someone give me a hand here!\""
                             ]
                         },
                         {
@@ -23777,14 +23644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ちくしょう！　俺をどうする気だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　離せッ！　離せーッ！！」"
+                                "\\n<Deorc>\"Damn it! What are you planning to do with me! Let go! Let\ngooo!!\""
                             ]
                         },
                         {
@@ -25529,7 +25389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -25625,7 +25485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -25721,7 +25581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

@@ -1651,14 +1651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男の声>「――おい！　医者！！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くッ！　早く診ろッ！」"
+                                "\\n<Man's voice>\"Hey! Doctor!! Hurry up! Treat her quickly!\""
                             ]
                         },
                         {
@@ -1675,7 +1668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――医者や衛生兵が慌ただしく動く野戦病院。"
+                                "--Doctors and medics are bustling about in a field hospital."
                             ]
                         },
                         {
@@ -1692,21 +1685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこへ騎士の装備をまとう男が突然押しかけると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼は怒鳴り散らしながら、かつ丁寧に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人の女をベッドに寝かせた。"
+                                "A man clad in knight's armor suddenly barges in, shouting\nangrily yet carefully lays a woman down on a bed."
                             ]
                         },
                         {
@@ -1870,7 +1849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪我をしている女>「ぅ…………」"
+                                "\\n<Injured woman>\"Ugh...\""
                             ]
                         },
                         {
@@ -1894,14 +1873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「グズグズするな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前ら、このお方を、早く治せッ！」"
+                                "\\n<Knight>\"Stop dawdling! You lot, treat this person quickly!\""
                             ]
                         },
                         {
@@ -1918,14 +1890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気圧された医者たちが手を止めてベッドを囲む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして横になる女を見て、ワッと驚きの声を上げた。"
+                                "The intimidated doctors stop their work to surround the bed.\nUpon seeing the woman lying there, they let out a gasp of\nsurprise."
                             ]
                         },
                         {
@@ -1942,14 +1907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<医者たち>「まさか…この方は…！？　冗談だろ！？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことって…いったい何が…！？」"
+                                "\\n<Doctors>\"Impossible... This person is...!? You're joking, right!?\nWhat in the world happened...!?\""
                             ]
                         },
                         {
@@ -1966,14 +1924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「何をモタモタしている！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くこのお方を治療しろっ！！」"
+                                "\\n<Knight>\"What are you dilly-dallying for!? Treat this person at\nonce!!\""
                             ]
                         },
                         {
@@ -1990,14 +1941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<衛生兵Ａ>「騎士様、お下がりください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あとは我々が…！」"
+                                "\\n<Medic A>\"Knight-sama, please step back! We'll take it from here...!\""
                             ]
                         },
                         {
@@ -2014,14 +1958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血相を変えた医者と衛生兵は女を囲み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大慌てで診察を始めた。"
+                                "The doctors and medics, with changed complexions, surround\nthe woman and begin examining her in a panic."
                             ]
                         },
                         {
@@ -2038,28 +1975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<医者たち>「頭部の外傷がひどい…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「止血だ！　もっと布を持ってこい！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聞こえますか！　声が聞こえますか！？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめだ、反応が――！」"
+                                "\\n<Doctors>\"The head injury is severe...! We need to stop the bleeding!\nBring more cloth! Can you hear me? Can you hear my voice!?\nNo response--!\""
                             ]
                         },
                         {
@@ -2076,21 +1992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「――貴様らぁ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このお方にもしものことがあれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうなるか分かっているだろうな！？」"
+                                "\\n<Knight>\"--You bastards! Do you understand what will happen if\nsomething goes wrong with this person!?\""
                             ]
                         },
                         {
@@ -2107,14 +2009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<衛生兵Ａ>「そ、そんなこと言われても！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいから下がっていてください！」"
+                                "\\n<Medic A>\"Even if you say that! Please, just step back!\""
                             ]
                         },
                         {
@@ -2131,14 +2026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<医者Ａ>「…だめだ、先生を…医術士を呼んでくるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はもう医術式でなければ助けられない！」"
+                                "\\n<Doctor A>\"...No good, we need the doctor... Call the medical\npractitioner! At this point, only a medical spell can save\nher!\""
                             ]
                         },
                         {
@@ -2155,21 +2043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「ちくしょう！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なら早くそいつを呼べ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その医術士はどこにいる！？」"
+                                "\\n<Knight>\"Damn it! Then hurry up and call them! Where is this medical\npractitioner!?\""
                             ]
                         },
                         {
@@ -2186,7 +2060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<医者Ｂ>「お、奥で他の患者を診ております！」"
+                                "\\n<Doctor B>\"They're, uh, attending to another patient in the back!\""
                             ]
                         },
                         {
@@ -2203,7 +2077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<騎士>「くそッ！」"
+                                "\\n<Knight>\"Damn!\""
                             ]
                         },
                         {
@@ -2232,7 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士は大急ぎで野戦病院の奥へ駈け込んでいった。"
+                                "The knight rushes to the back of the field hospital at full\nspeed."
                             ]
                         },
                         {
@@ -2305,7 +2179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪我をしている女>「ぅ……ぁ……」"
+                                "\\n<Injured woman>\"Ugh...ah...\""
                             ]
                         },
                         {
@@ -2329,7 +2203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<医者Ａ>「まずい…呼吸が…！」"
+                                "\\n<Doctor A>\"This is bad... her breathing is...!\""
                             ]
                         },
                         {
@@ -2346,14 +2220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<医者Ｂ>「お気を確かに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先生！　早く来てください、先生――！！」"
+                                "\\n<Doctor B>\"Stay calm! Doctor! Please come quickly, Doctor--!!\""
                             ]
                         },
                         {
@@ -2377,7 +2244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者たちが必死に治療を施しながら声をかける。"
+                                "The doctors continue to administer desperate treatment while\ncalling out."
                             ]
                         },
                         {
@@ -2394,7 +2261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし女の呼吸は次第にかすれていき――"
+                                "However, the woman's breathing gradually becomes more\nragged--"
                             ]
                         },
                         {
@@ -2432,7 +2299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして一度、大きく息を吐き出した。"
+                                "And then, she lets out one large breath."
                             ]
                         },
                         {

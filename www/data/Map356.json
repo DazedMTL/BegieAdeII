@@ -20675,14 +20675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴァラム帝国・タルーザ地方。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さな村『エイベル』"
+                                "Varum Empire, Tar-Za region, the small village of \"Eibel\""
                             ]
                         },
                         {
@@ -20699,14 +20692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かつては戦争の渦中にあったこの村も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今では平凡でのどかな時間が過ぎている。"
+                                "Once caught in the throes of war, this village now passes\nthe time in mundane tranquility."
                             ]
                         },
                         {
@@ -20723,21 +20709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人は鶏の鳴き声に目を覚まし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "牛を田畑に歩かせて汗をかき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "豚に餌を食わせて、腹の虫がグゥ…と鳴く。"
+                                "The villagers wake to the crowing of roosters, lead their\ncows to the fields to sweat, feed the pigs, and their\nstomachs growl..."
                             ]
                         },
                         {
@@ -20761,7 +20733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんないつもの朝が終わり、日も高く昇った頃――。"
+                                "Such a typical morning ends, and as the sun climbs high--"
                             ]
                         },
                         {
@@ -21988,14 +21960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「――おぉい、ゴミども！　動くんじゃねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　下手なことしたら命はねえからなッ！」"
+                                "\\n<???>\"--Hey, you trash! Don't move! Make one wrong move and\nyou're dead!\""
                             ]
                         },
                         {

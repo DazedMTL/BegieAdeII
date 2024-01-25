@@ -2577,21 +2577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>「子供が好きでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楽しそうに遊ぶ声が聞きたくてここに住んでいたんだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またはしゃぎ声を聞けるようになるには当分先かな」"
+                                "\\N<Villager>\"I've always loved children. I moved here just to hear the\njoyful sounds of them playing... but it seems it will be a\nwhile before I can hear their cheerful voices again.\""
                             ]
                         },
                         {
@@ -2615,14 +2601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>「…また、１０年前みたいにならなきゃいいんだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　泣いている子供の声は聞きたくないよ」"
+                                "\\N<Villager>\"...I just hope it doesn't turn out like it did 10 years\nago. I don't want to hear the sound of children crying.\""
                             ]
                         },
                         {
@@ -2720,21 +2699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>「広場の人たちに部屋を貸そうとしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　兵士に止められたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてかしら。ひどい話よ、まったく」"
+                                "\\N<Villager>\"When I tried to rent a room to the people in the square, a\nsoldier stopped me. I wonder why. It's just awful, really.\""
                             ]
                         },
                         {

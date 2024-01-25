@@ -22453,14 +22453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「お、お前らいったいなんなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急に押し入って好き勝手暴れやがって…」"
+                                "\\n<Bandit leader>\"Hey, what the hell are you guys doing?! Bursting in here\nand wreaking havoc all of a sudden...\""
                             ]
                         },
                         {
@@ -22477,14 +22470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「無駄話をするつもりはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンへ通じる道を教えなさい」"
+                                "\\n<Roselitte>\"I have no intention of making idle chit-chat. Tell us the\nway to Annabern.\""
                             ]
                         },
                         {
@@ -22501,14 +22487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「なに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…なんだ、お前らただの迷子かよ！」"
+                                "\\n<Bandit leader>\"What?... What are you, just a bunch of lost kids?!\""
                             ]
                         },
                         {
@@ -22525,21 +22504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「だったら残念だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らはアンナベルンに行けねえよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんせこの俺が塞いじまったからなぁ！」"
+                                "\\n<Bandit leader>\"Well, that's too bad for you. You can't go to Annabern!\nBecause I've blocked the way myself!\""
                             ]
                         },
                         {
@@ -22556,14 +22521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「道を塞いだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどういうことです」"
+                                "\\n<Roselitte>\"Blocked the way... What do you mean by that?\""
                             ]
                         },
                         {
@@ -22580,21 +22538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「てめえらに話すことなんかねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――行くぞお前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女どもをとっ捕まえろ！」"
+                                "\\n<Bandit leader>\"I've got nothing to say to you! --Let's go, men! Capture\nthese women!\""
                             ]
                         },
                         {
@@ -22611,7 +22555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊たち>「「「おおッ！！」」」"
+                                "\\n<Bandits>\"Oooh!!\""
                             ]
                         },
                         {
@@ -23533,7 +23477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ……はあ……。しまった……」"
+                                "\\n<Roselitte>\"Haa... Haa... Damn it...\""
                             ]
                         },
                         {
@@ -23606,14 +23550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「おいおい、話を聞くんじゃなかったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　倒しちゃったら何も聞き出せないじゃないか」"
+                                "\\n<Lyric>\"Hey, hey, weren't we supposed to talk to them? If you knock\nthem out, we can't get any information.\""
                             ]
                         },
                         {
@@ -23759,14 +23696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　つい、力が入って……」"
+                                "\\n<Roselitte>\"...I just, put too much strength into it...\""
                             ]
                         },
                         {
@@ -23839,7 +23769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫…？　顔色悪いけど…」"
+                                "\\n<Ameria>\"Are you okay...? You look pale...\""
                             ]
                         },
                         {
@@ -23912,14 +23842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…心配は、いりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ともかく…この洞窟をもう一度――」"
+                                "\\n<Roselitte>\"...Don't worry. Anyway... Let's search this cave once\nmore--\""
                             ]
                         },
                         {
@@ -24163,14 +24086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「なんの音…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしかして崩れ落ちるんじゃ！？」"
+                                "\\n<Ameria>\"What's that noise...!? Could it be collapsing!?\""
                             ]
                         },
                         {
@@ -24243,7 +24159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「いや、あれを見ろ！」"
+                                "\\n<Lyric>\"No, look over there!\""
                             ]
                         },
                         {
@@ -25324,14 +25240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「お、お前らいったいなんなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急に押し入って好き勝手暴れやがって…」"
+                                "\\n<Bandit leader>\"Hey, what the hell are you guys doing?! Bursting in here\nand rampaging around as you please...\""
                             ]
                         },
                         {
@@ -25348,14 +25257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「無駄話をするつもりはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンへ通じる道を教えなさい」"
+                                "\\n<Roselitte>\"I have no intention of wasting words. Tell us the way to\nAnnabern.\""
                             ]
                         },
                         {
@@ -25372,14 +25274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「なに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…なんだ、お前らただの迷子かよ！」"
+                                "\\n<Bandit leader>\"What?... What are you, just a bunch of lost kids?!\""
                             ]
                         },
                         {
@@ -25396,21 +25291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「だったら残念だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らはアンナベルンに行けねえよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんせこの俺が塞いじまったからなぁ！」"
+                                "\\n<Bandit leader>\"Well, that's too bad for you. You won't be able to get to\nAnnabern! Because I've blocked the way myself!\""
                             ]
                         },
                         {
@@ -25427,14 +25308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「道を塞いだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどういうことです」"
+                                "\\n<Roselitte>\"Blocked the way... What do you mean by that?\""
                             ]
                         },
                         {
@@ -25451,21 +25325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「てめえらに話すことなんかねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――行くぞお前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女どもをとっ捕まえろ！」"
+                                "\\n<Bandit leader>\"I've got nothing to say to you! --Come on, men! Capture\nthese women!\""
                             ]
                         },
                         {
@@ -25482,7 +25342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊たち>「「「おおッ！！」」」"
+                                "\\n<Bandits>\"Oooh!!\""
                             ]
                         },
                         {
@@ -26404,7 +26264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ……はあ……。しまった……」"
+                                "\\n<Roselitte>\"Haa... Haa... Damn it...\""
                             ]
                         },
                         {
@@ -26477,14 +26337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「おいおい、話を聞くんじゃなかったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　倒しちゃったら何も聞き出せないじゃないか」"
+                                "\\n<Lyric>\"Hey, hey, weren't we supposed to listen to him? If you\nknock him out, we can't get any information.\""
                             ]
                         },
                         {
@@ -26630,14 +26483,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　つい、力が入って……」"
+                                "\\n<Roselitte>\"...I just, put too much strength into it...\""
                             ]
                         },
                         {
@@ -26710,7 +26556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫…？　顔色悪いけど…」"
+                                "\\n<Ameria>\"Are you okay...? You look pale...\""
                             ]
                         },
                         {
@@ -26783,14 +26629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…心配は、いりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ともかく…この洞窟をもう一度――」"
+                                "\\n<Roselitte>\"...Don't worry. Anyway... Let's search this cave once\nmore--\""
                             ]
                         },
                         {
@@ -27034,14 +26873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「なんの音…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしかして崩れ落ちるんじゃ！？」"
+                                "\\n<Ameria>\"What's that noise...!? Could it be collapsing!?\""
                             ]
                         },
                         {
@@ -27114,7 +26946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「いや、あれを見ろ！」"
+                                "\\n<Lyric>\"No, look at that!\""
                             ]
                         },
                         {
@@ -28569,14 +28401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「お、お前らいったいなんなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急に押し入って好き勝手暴れやがって…」"
+                                "\\n<Bandit leader>\"Hey, what the hell are you guys doing?! Bursting in here\nand wreaking havoc all of a sudden...\""
                             ]
                         },
                         {
@@ -28593,14 +28418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「無駄話をするつもりはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンへ通じる道を教えなさい」"
+                                "\\n<Roselitte>\"I have no intention of making idle chatter. Tell us the way\nto Annabern.\""
                             ]
                         },
                         {
@@ -28617,14 +28435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「なに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…なんだ、お前らただの迷子かよ！」"
+                                "\\n<Bandit leader>\"What?... What are you, just a bunch of lost kids?!\""
                             ]
                         },
                         {
@@ -28641,21 +28452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「だったら残念だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らはアンナベルンに行けねえよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんせこの俺が塞いじまったからなぁ！」"
+                                "\\n<Bandit leader>\"Well, that's too bad for you. You can't go to Annabern!\nBecause I've blocked the way myself!\""
                             ]
                         },
                         {
@@ -28672,14 +28469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「道を塞いだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどういうことです」"
+                                "\\n<Roselitte>\"Blocked the way... What do you mean by that?\""
                             ]
                         },
                         {
@@ -28696,21 +28486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「てめえらに話すことなんかねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――行くぞお前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女どもをとっ捕まえろ！」"
+                                "\\n<Bandit leader>\"I've got nothing to say to you! -- Go on, guys! Capture\nthose women!\""
                             ]
                         },
                         {
@@ -28727,7 +28503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊たち>「「「おおッ！！」」」"
+                                "\\n<Bandits>\"「「「Oooh!!」」」\""
                             ]
                         },
                         {
@@ -29649,7 +29425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ……はあ……。しまった……」"
+                                "\\n<Roselitte>\"*pant*... *pant*... Damn it...\""
                             ]
                         },
                         {
@@ -29722,14 +29498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「おいおい、話を聞くんじゃなかったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　倒しちゃったら何も聞き出せないじゃないか」"
+                                "\\n<Lyric>\"Hey, hey, weren't we supposed to listen to him? If you\nknock him out, we can't get any information.\""
                             ]
                         },
                         {
@@ -29875,14 +29644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　つい、力が入って……」"
+                                "\\n<Roselitte>\"...I just... put in too much strength...\""
                             ]
                         },
                         {
@@ -29955,7 +29717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫…？　顔色悪いけど…」"
+                                "\\n<Ameria>\"Are you okay...? You look pale...\""
                             ]
                         },
                         {
@@ -30028,14 +29790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…心配は、いりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ともかく…この洞窟をもう一度――」"
+                                "\\n<Roselitte>\"...Don't worry. Anyway... Let's search this cave once\nmore--\""
                             ]
                         },
                         {
@@ -30279,14 +30034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「なんの音…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしかして崩れ落ちるんじゃ！？」"
+                                "\\n<Ameria>\"What's that noise...!? Could it be collapsing!?\""
                             ]
                         },
                         {
@@ -30359,7 +30107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「いや、あれを見ろ！」"
+                                "\\n<Lyric>\"No, look at that!\""
                             ]
                         },
                         {
@@ -31440,14 +31188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「お、お前らいったいなんなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急に押し入って好き勝手暴れやがって…」"
+                                "\\n<Bandit leader>\"Hey, what the hell are you guys doing! Bursting in here and\nrampaging around as you please...\""
                             ]
                         },
                         {
@@ -31464,14 +31205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「無駄話をするつもりはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンへ通じる道を教えなさい」"
+                                "\\n<Roselitte>\"I have no intention of wasting words. Tell us the way to\nAnnabern.\""
                             ]
                         },
                         {
@@ -31488,14 +31222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「なに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…なんだ、お前らただの迷子かよ！」"
+                                "\\n<Bandit leader>\"What?... What are you, just a bunch of lost kids?!\""
                             ]
                         },
                         {
@@ -31512,21 +31239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「だったら残念だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らはアンナベルンに行けねえよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんせこの俺が塞いじまったからなぁ！」"
+                                "\\n<Bandit leader>\"Well, that's too bad for you. You can't go to Annabern!\nBecause I've blocked the way, that's why!\""
                             ]
                         },
                         {
@@ -31543,14 +31256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「道を塞いだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどういうことです」"
+                                "\\n<Roselitte>\"Blocked the way... What do you mean by that?\""
                             ]
                         },
                         {
@@ -31567,21 +31273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「てめえらに話すことなんかねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――行くぞお前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女どもをとっ捕まえろ！」"
+                                "\\n<Bandit leader>\"I've got nothing to say to you! --Come on, guys! Capture\nthese women!\""
                             ]
                         },
                         {
@@ -31598,7 +31290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊たち>「「「おおッ！！」」」"
+                                "\\n<Bandits>\"「「「Yeahhh!!」」」\""
                             ]
                         },
                         {
@@ -32520,7 +32212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ……はあ……。しまった……」"
+                                "\\n<Roselitte>\"Haah... Haah... Damn it...\""
                             ]
                         },
                         {
@@ -32593,14 +32285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「おいおい、話を聞くんじゃなかったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　倒しちゃったら何も聞き出せないじゃないか」"
+                                "\\n<Lyric>\"Hey, hey, weren't we supposed to talk to them? If you knock\nthem out, we can't get any information.\""
                             ]
                         },
                         {
@@ -32746,14 +32431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　つい、力が入って……」"
+                                "\\n<Roselitte>\"...I just, put too much strength into it...\""
                             ]
                         },
                         {
@@ -32826,7 +32504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫…？　顔色悪いけど…」"
+                                "\\n<Ameria>\"Are you okay...? You look pale...\""
                             ]
                         },
                         {
@@ -32899,14 +32577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…心配は、いりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ともかく…この洞窟をもう一度――」"
+                                "\\n<Roselitte>\"...Don't worry. Anyway... Let's check this cave once\nmore--\""
                             ]
                         },
                         {
@@ -33150,14 +32821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「なんの音…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしかして崩れ落ちるんじゃ！？」"
+                                "\\n<Ameria>\"What's that noise...!? Could it be collapsing!?\""
                             ]
                         },
                         {
@@ -33230,7 +32894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「いや、あれを見ろ！」"
+                                "\\n<Lyric>\"No, look at that!\""
                             ]
                         },
                         {
@@ -34325,14 +33989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「お、お前らいったいなんなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急に押し入って好き勝手暴れやがって…」"
+                                "\\n<Bandit leader>\"Hey, what the hell are you guys doing?! Bursting in here\nand rampaging around as you please...\""
                             ]
                         },
                         {
@@ -34349,14 +34006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「無駄話をするつもりはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンへ通じる道を教えなさい」"
+                                "\\n<Roselitte>\"I have no intention of wasting words. Tell us the way to\nAnnabern.\""
                             ]
                         },
                         {
@@ -34373,14 +34023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「なに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…なんだ、お前らただの迷子かよ！」"
+                                "\\n<Bandit leader>\"What?... What are you, just a bunch of lost kids?!\""
                             ]
                         },
                         {
@@ -34397,21 +34040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「だったら残念だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前らはアンナベルンに行けねえよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんせこの俺が塞いじまったからなぁ！」"
+                                "\\n<Bandit leader>\"Well, that's too bad for you. You can't go to Annabern!\nBecause I've blocked the way myself!\""
                             ]
                         },
                         {
@@ -34428,14 +34057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「道を塞いだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどういうことです」"
+                                "\\n<Roselitte>\"Blocked the way... What do you mean by that?\""
                             ]
                         },
                         {
@@ -34452,21 +34074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊リーダー>「てめえらに話すことなんかねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――行くぞお前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女どもをとっ捕まえろ！」"
+                                "\\n<Bandit leader>\"I've got nothing to say to you! --Go on, guys! Capture\nthose women!\""
                             ]
                         },
                         {
@@ -34483,7 +34091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊たち>「「「おおッ！！」」」"
+                                "\\n<Bandits>\"「「「Yeahhh!!」」」\""
                             ]
                         },
                         {
@@ -35405,7 +35013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ……はあ……。しまった……」"
+                                "\\n<Roselitte>\"Haa... Haa... Damn it...\""
                             ]
                         },
                         {
@@ -35478,14 +35086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「おいおい、話を聞くんじゃなかったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　倒しちゃったら何も聞き出せないじゃないか」"
+                                "\\n<Lyric>\"Hey, hey, weren't we supposed to listen to him? If you\nknock him out, we can't get any information.\""
                             ]
                         },
                         {
@@ -35631,14 +35232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「っ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　つい、力が入って……」"
+                                "\\n<Roselitte>\"I... I just got a little too forceful...\""
                             ]
                         },
                         {
@@ -35711,7 +35305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫…？　顔色悪いけど…」"
+                                "\\n<Ameria>\"Are you okay...? You look pale...\""
                             ]
                         },
                         {
@@ -35784,14 +35378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…心配は、いりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ともかく…この洞窟をもう一度――」"
+                                "\\n<Roselitte>\"...Don't worry. Anyway... Let's check this cave once\nmore--\""
                             ]
                         },
                         {
@@ -36035,14 +35622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アメリア>「なんの音…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしかして崩れ落ちるんじゃ！？」"
+                                "\\n<Ameria>\"What's that noise...!? Could it be collapsing?!\""
                             ]
                         },
                         {
@@ -36115,7 +35695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<リリック>「いや、あれを見ろ！」"
+                                "\\n<Lyric>\"No, look over there!\""
                             ]
                         },
                         {
@@ -38923,7 +38503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーションを手に入れた！"
+                                "Gained a High Potion!"
                             ]
                         },
                         {
@@ -39192,7 +38772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気力の指輪を手に入れた！"
+                                "Gained the Ring of Vitality!"
                             ]
                         },
                         {
@@ -39371,7 +38951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォリウムハーブを手に入れた！"
+                                "Gained Folium Herb!"
                             ]
                         },
                         {

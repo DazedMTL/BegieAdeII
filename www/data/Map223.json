@@ -21208,7 +21208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ローゼリッテ」"
+                                "\\n<Yuri>\"Roselitte\""
                             ]
                         },
                         {
@@ -21301,7 +21301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「こ…皇太子殿下！」"
+                                "\\n<Ameria>\"Th...Your Highness the Crown Prince!\""
                             ]
                         },
                         {
@@ -21325,7 +21325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「楽にしてくれて構わない」"
+                                "\\n<Yuri>\"Relax, it's fine.\""
                             ]
                         },
                         {
@@ -21349,7 +21349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「は…はい…！」"
+                                "\\n<Ameria>\"Ye...Yes...!\""
                             ]
                         },
                         {
@@ -21422,7 +21422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「殿下。いかがなされました？」"
+                                "\\n<Roselitte>\"Your Highness. What seems to be the matter?\""
                             ]
                         },
                         {
@@ -21446,14 +21446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「いやなに、少しな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…調子はどうだ、アメリア」"
+                                "\\n<Yuri>\"Oh, it's nothing much.... How are you feeling, Ameria?\""
                             ]
                         },
                         {
@@ -21561,21 +21554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大丈夫です、元気です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お心遣いありがとうございます！」"
+                                "\\n<Ameria>\"Ah, yes. I'm fine, I'm healthy! Thank you for your\nconcern!\""
                             ]
                         },
                         {
@@ -21599,14 +21578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ところで、一つ頼みたいことがあるんだが、いいか」"
+                                "\\n<Yuri>\"Ah.... By the way, there's something I'd like to ask of\nyou, is that alright?\""
                             ]
                         },
                         {
@@ -21672,7 +21644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私に、ですか？」"
+                                "\\n<Ameria>\"Me?\""
                             ]
                         },
                         {
@@ -21696,7 +21668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「例の、奴隷商人についてだ」"
+                                "\\n<Yuri>\"It's about that slave trader.\""
                             ]
                         },
                         {
@@ -21713,14 +21685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「奴はお前の誘拐と、友人…だったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その子の殺しを目論んでいた」"
+                                "\\n<Yuri>\"He was plotting your kidnapping and the murder of your\nfriend... was it? That child.\""
                             ]
                         },
                         {
@@ -21737,28 +21702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「今も尋問を続けているが、こいつがなかなか強情で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　詳しいことはまだ何も分かっていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな時間ですまないが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　後で事情を聞いて構わないか」"
+                                "\\n<Yuri>\"We're still interrogating him, but he's quite stubborn and\nwe haven't learned anything detailed yet. I'm sorry for the\nlate hour, but would you mind if I ask you about it later?\""
                             ]
                         },
                         {
@@ -21824,14 +21768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「はい、大丈夫です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…あんまりお役に立てないかもしれませんけれど」"
+                                "\\n<Ameria>\"Yes, that's fine.... I might not be of much help though.\""
                             ]
                         },
                         {
@@ -21855,7 +21792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「構わないさ」"
+                                "\\n<Yuri>\"Don't worry about it.\""
                             ]
                         },
                         {
@@ -21872,14 +21809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「その友人にも話を聞きたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行方を知らないか？」"
+                                "\\n<Yuri>\"I'd also like to hear from that friend. Do you know where\nshe might be?\""
                             ]
                         },
                         {
@@ -21945,14 +21875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えっと…ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　逃げる時に別れたっきりで、私にも分からないんです」"
+                                "\\n<Ameria>\"Um... I'm sorry. We separated when we escaped, and I\nhaven't seen her since.\""
                             ]
                         },
                         {
@@ -21976,7 +21899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ふぅむ、そうか…」"
+                                "\\n<Yuri>\"Hmm, is that so...\""
                             ]
                         },
                         {
@@ -22042,14 +21965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、でも…たぶんですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐ会えるんじゃないかなって思ってます」"
+                                "\\n<Ameria>\"Ah, but... I think we might be able to see her soon,\nprobably.\""
                             ]
                         },
                         {
@@ -22073,7 +21989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「どうして？」"
+                                "\\n<Yuri>\"Why do you think that?\""
                             ]
                         },
                         {
@@ -22139,21 +22055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あの子、気まぐれだから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村が安全になったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのうちひょっこり顔を出してくると思います」"
+                                "\\n<Ameria>\"Because she's whimsical... Now that the village is safe, I\nthink she'll show up out of the blue.\""
                             ]
                         },
                         {
@@ -22177,7 +22079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…猫みたいなやつだな」"
+                                "\\n<Yuri>\"...She's like a cat, isn't she?\""
                             ]
                         },
                         {
@@ -22194,14 +22096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ともかく、放っておいては危険だし、話も聞きたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戻ってきたら教えてくれ」"
+                                "\\n<Yuri>\"Anyway, it's dangerous to leave her alone, and I want to\nhear her story. Let me know when she returns.\""
                             ]
                         },
                         {
@@ -22267,14 +22162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「はい、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　感謝いたします、皇太子殿下」"
+                                "\\n<Ameria>\"Yes, understood. Thank you very much, Your Highness the\nCrown Prince.\""
                             ]
                         },
                         {
@@ -22298,14 +22186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーリは頷いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふところから酒の入った小瓶を取り出した。"
+                                "Yuri nodded and took out a small bottle filled with alcohol\nfrom her bosom."
                             ]
                         },
                         {
@@ -22322,21 +22203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「飲むか、ローゼリッテ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本土の宮殿地下にあった果実酒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　甘くて飲みやすいぞ」"
+                                "\\n<Yuri>\"Want a drink, Roselitte? It's fruit wine from the palace\ncellars on the mainland. It's sweet and easy to drink.\""
                             ]
                         },
                         {
@@ -22402,7 +22269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ…お酒は苦手なので」"
+                                "\\n<Roselitte>\"No... I'm not good with alcohol.\""
                             ]
                         },
                         {
@@ -22426,7 +22293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…そうか」"
+                                "\\n<Yuri>\"...I see.\""
                             ]
                         },
                         {
@@ -22450,7 +22317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーリは小瓶の酒を一気にあおった。"
+                                "Yuri downed the alcohol from the small bottle in one gulp."
                             ]
                         },
                         {
@@ -22467,7 +22334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「少し村の外を歩きたい。構わないだろう？」"
+                                "\\n<Yuri>\"I'd like to take a walk outside the village. Is that\nalright?\""
                             ]
                         },
                         {
@@ -22533,7 +22400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「夜に出歩くのは危険です」"
+                                "\\n<Roselitte>\"It's dangerous to walk around at night.\""
                             ]
                         },
                         {
@@ -22557,7 +22424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「お前がそばにいて危険なのか」"
+                                "\\n<Yuri>\"Is it dangerous because you're with me?\""
                             ]
                         },
                         {
@@ -22623,7 +22490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…でしたら他に何人か護衛を――」"
+                                "\\n<Roselitte>\"...Then perhaps we should take a few more guards--\""
                             ]
                         },
                         {
@@ -22755,7 +22622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「お前と二人きりがいい」"
+                                "\\n<Yuri>\"I'd prefer it if it were just the two of us.\""
                             ]
                         },
                         {
@@ -22877,7 +22744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ッ――！？」"
+                                "\\n<Roselitte>\"Wh--!? \""
                             ]
                         },
                         {
@@ -22908,7 +22775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「わ、わわっ…！」"
+                                "\\n<Ameria>\"Oh, oh my...!\""
                             ]
                         },
                         {
@@ -23046,7 +22913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…それでもダメか？」"
+                                "\\n<Yuri>\"...Is that not okay?\""
                             ]
                         },
                         {
@@ -23119,7 +22986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「～～～～ッ！」"
+                                "\\n<Roselitte>\"~~~~~~!\""
                             ]
                         },
                         {
@@ -23199,7 +23066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…あ、あまり遠くまでは行けませんよ？」"
+                                "\\n<Roselitte>\"...Well, we can't go too far, okay?\""
                             ]
                         },
                         {
@@ -23223,7 +23090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ああ。こっちだ」"
+                                "\\n<Yuri>\"Yes. This way.\""
                             ]
                         },
                         {
@@ -24149,7 +24016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24245,7 +24112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24341,7 +24208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

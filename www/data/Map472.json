@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ちゅ」"
+                                "\\n<Lyric>\"*kiss*\""
                             ]
                         },
                         {
@@ -5164,7 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「～～～～～～～ッッ！！？」"
+                                "\\n<Ameria>\"Ahhhhhhhhhh!!?\""
                             ]
                         },
                         {
@@ -5451,7 +5451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ななな…！　なにするの！？」"
+                                "\\n<Ameria>\"Wha-wha...! What are you doing!?\""
                             ]
                         },
                         {
@@ -5482,7 +5482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「キス。元気出るでしょ？」"
+                                "\\n<Lyric>\"A kiss. It cheers you up, right?\""
                             ]
                         },
                         {
@@ -5513,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「出ないよ！」"
+                                "\\n<Ameria>\"It does not!\""
                             ]
                         },
                         {
@@ -5593,7 +5593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そう？　すごく元気そうだけど」"
+                                "\\n<Lyric>\"Really? You seem very energetic though.\""
                             ]
                         },
                         {
@@ -5617,7 +5617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックはくつくつと笑って言葉を続けた。"
+                                "Lyric chuckled and continued speaking."
                             ]
                         },
                         {
@@ -5732,21 +5732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…君の過去に何があったのか知らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもだからって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕に泣いて謝る必要なんて、無いだろ」"
+                                "\\n<Lyric>\"...I don't know what happened in your past. But that\ndoesn't mean you have to cry and apologize to me.\""
                             ]
                         },
                         {
@@ -5826,7 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君は僕の怪我を治してくれた」"
+                                "\\n<Lyric>\"You healed my injuries.\""
                             ]
                         },
                         {
@@ -5857,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そして僕は、君が来てくれたから、生きている」"
+                                "\\n<Lyric>\"And because you came to me, I am alive.\""
                             ]
                         },
                         {
@@ -5888,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「これでどうして、君に迷惑だなんて言えるんだ」"
+                                "\\n<Lyric>\"How can I possibly say that you're a bother to me after all\nthat?\""
                             ]
                         },
                         {
@@ -5954,7 +5940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6027,7 +6013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――アメリア」"
+                                "\\n<Lyric>\"--Ameria\""
                             ]
                         },
                         {
@@ -6100,7 +6086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックは、歯を見せて微笑んだ。"
+                                "Lyric smiled, showing her teeth."
                             ]
                         },
                         {
@@ -6124,7 +6110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…助けてくれて、ありがとね」"
+                                "\\n<Lyric>\"...Thank you for saving me.\""
                             ]
                         },
                         {
@@ -6148,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6207,7 +6193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6273,7 +6259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ぐすっ…」"
+                                "\\n<Ameria>\"--sniffle...\""
                             ]
                         },
                         {
@@ -6395,21 +6381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぁぁぁああああん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぁぁぁあああああん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うぅぅぅぅああああああんッ！！」"
+                                "\\n<Ameria>\"Waaaaaah! Aaaaaaaaah! Uuuuuuuuuhhhhh!!\""
                             ]
                         },
                         {
@@ -6440,7 +6412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…なんでまた泣くんだよ……」"
+                                "\\n<Lyric>\"...Why are you crying again...\""
                             ]
                         },
                         {
@@ -6499,14 +6471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「戦うチカラとか、医術式の才能なんか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君には必要ないさ」"
+                                "\\n<Lyric>\"You don't need the power to fight or talent in healing\narts.\""
                             ]
                         },
                         {
@@ -6537,7 +6502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君ならなれるよ。立派な医術士に」"
+                                "\\n<Lyric>\"You can become one. A fine healer.\""
                             ]
                         },
                         {
@@ -6568,7 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君の願いが、叶うといいね」"
+                                "\\n<Lyric>\"I hope your wish comes true.\""
                             ]
                         },
                         {

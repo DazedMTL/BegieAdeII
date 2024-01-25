@@ -5898,7 +5898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅ…カビくさい…」"
+                                "\\n<Ameria>\"Ugh... It smells musty...\""
                             ]
                         },
                         {
@@ -5915,7 +5915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「魔物の気配は感じないな」"
+                                "\\n<Lyric>\"I don't sense any monsters around.\""
                             ]
                         },
                         {
@@ -5974,14 +5974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「これが秘密の抜け道…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この造り、どこかで見たような…？」"
+                                "\\n<Roselitte>\"So this is the secret passage... This structure, it seems\nfamiliar somehow...?\""
                             ]
                         },
                         {
@@ -6996,7 +6989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鉄格子のカギを開けた。"
+                                "I unlocked the iron bars."
                             ]
                         },
                         {
@@ -7083,7 +7076,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鉄格子にはカギが掛かっている。"
+                                "The iron bars are locked."
                             ]
                         },
                         {

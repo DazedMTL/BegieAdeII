@@ -5045,28 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ふう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　えっと、あの子の体も拭いたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シーツも取り替えたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　部屋の掃除も終わったし……」"
+                                "\\n<Ameria>\"Phew... Okay, I've wiped down the child's body, changed the\nsheets, and finished cleaning the room...\""
                             ]
                         },
                         {
@@ -5139,14 +5118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…うん、今日のお仕事終了！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあさっそく医術式のお勉強を――」"
+                                "\\n<Ameria>\"...Yeah, that's all the work for today done! Now, let's get\nstarted on studying medical arts--\""
                             ]
                         },
                         {
@@ -5257,21 +5229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――あ、そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご飯の準備だけ先に済ませちゃおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　司祭様、きっとお腹空かせて帰ってくると思うし」"
+                                "\\n<Ameria>\"--Ah, that's right. I should prepare the meal first. The\npriest must be coming back hungry.\""
                             ]
                         },
                         {
@@ -5997,7 +5955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「ルエールさん！　ルエールさんッ！」"
+                                "\\n<Villager A>\"Luerre-san! Luerre-san!\""
                             ]
                         },
                         {
@@ -6021,14 +5979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ど、どうしたの？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなに慌てて…」"
+                                "\\n<Ameria>\"What's the matter? Why are you in such a hurry...?\""
                             ]
                         },
                         {
@@ -6052,14 +6003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「ああ、アメリアちゃん。ルエールさんは？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いでルエールさんを呼んできてくれ！」"
+                                "\\n<Villager A>\"Oh, Ameria-chan. Where is Luerre-san? Please hurry and call\nLuerre-san for me!\""
                             ]
                         },
                         {
@@ -6083,14 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様はいま外に出てるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうすぐ帰ってくると思うけど…」"
+                                "\\n<Ameria>\"The priest is currently out. I think he'll be back soon...\""
                             ]
                         },
                         {
@@ -6114,14 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「そんな…どうしよう！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ああ、ああ……！」"
+                                "\\n<Villager A>\"What to do... Oh no, oh no...!\""
                             ]
                         },
                         {
@@ -6145,7 +6075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「いったい何が――」"
+                                "\\n<Ameria>\"What in the world has--\""
                             ]
                         },
                         {
@@ -6402,7 +6332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村の子供>「う、ぅ……！」"
+                                "\\n<Village Child>\"Uh, ugh...!\""
                             ]
                         },
                         {
@@ -6426,14 +6356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ひどい怪我！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これ、どうしたの！？」"
+                                "\\n<Ameria>\"Such a terrible injury! What happened to you?!\""
                             ]
                         },
                         {
@@ -6457,14 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｂ>「この子、勝手に村の外に出て遊んでいたの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしたら、魔物に襲われたみたいで！」"
+                                "\\n<Villager B>\"This child went out to play outside the village without\npermission! And then, it seems a monster attacked them!\""
                             ]
                         },
                         {
@@ -6488,7 +6404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな！」"
+                                "\\n<Ameria>\"No way!\""
                             ]
                         },
                         {
@@ -6512,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村の子供>「痛い……痛いよおぉ、うあああぁぁぁ……！」"
+                                "\\n<Village Child>\"It hurts... it hurts so much, uwaahhh...!\""
                             ]
                         },
                         {
@@ -6529,21 +6445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「ルエールさんはどこに行ったんだ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物の毒で、血が、止まらないんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医術式をしないと、このままじゃあ…！」"
+                                "\\n<Villager A>\"Where did Luerre-san go?! The monster's poison is making\nthe blood not stop! We need to perform medical arts or\nelse...!\""
                             ]
                         },
                         {
@@ -6602,7 +6504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6626,7 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…大丈夫……」"
+                                "\\n<Ameria>\"...It's okay...\""
                             ]
                         },
                         {
@@ -6650,7 +6552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「え…？」"
+                                "\\n<Villager A>\"Eh...?\""
                             ]
                         },
                         {
@@ -6716,21 +6618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、医術式が使えるから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この子の怪我は私が治すからッ…！」"
+                                "\\n<Ameria>\"--It's okay! I can use medical arts! I will heal this\nchild's injuries...!\""
                             ]
                         },
                         {
@@ -6754,14 +6642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村の子供>「うぇぇぇえええんッ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひっく…！　ひっく…！」"
+                                "\\n<Village Child>\"Waaahhh...! *hic*... *hic*...\""
                             ]
                         },
                         {
@@ -6785,21 +6666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「泣かないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう大丈夫だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ま、まずは止血を……」"
+                                "\\n<Ameria>\"Don't cry. It's going to be okay now. First, let's stop the\nbleeding...\""
                             ]
                         },
                         {
@@ -6846,7 +6713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村の子供>「う……ぅ……」"
+                                "\\n<Village Child>\"Uh... ugh...\""
                             ]
                         },
                         {
@@ -6863,14 +6730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｂ>「血が止まった！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良かった、治った！」"
+                                "\\n<Villager B>\"The bleeding stopped! Thank goodness, it's healed!\""
                             ]
                         },
                         {
@@ -6936,14 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ううん、今は血を止めてるだけ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　傷口を塞ぐのは、これから…！」"
+                                "\\n<Ameria>\"No, I've only stopped the bleeding for now! I still need to\nclose up the wound...\""
                             ]
                         },
                         {
@@ -6990,14 +6843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「――塞がってない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アメリアちゃん、だめだよ、治ってない！」"
+                                "\\n<Villager A>\"--It's not closed! Ameria-chan, it's no good, it hasn't\nhealed!\""
                             ]
                         },
                         {
@@ -7021,7 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「も、もう一度…！」"
+                                "\\n<Ameria>\"Once more...\""
                             ]
                         },
                         {
@@ -7117,7 +6963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな……」"
+                                "\\n<Ameria>\"This is bad...\""
                             ]
                         },
                         {
@@ -7141,14 +6987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「だめだ……傷が治らない……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だめなのか、もうだめなのか、アメリアちゃん！」"
+                                "\\n<Villager A>\"It's no use... The wound won't heal...! Is it over, is it\nreally over, Ameria-chan?!\""
                             ]
                         },
                         {
@@ -7214,14 +7053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だ…だめじゃない！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　司祭様が戻るまで、私が血を止める！」"
+                                "\\n<Ameria>\"It's not over! Until the priest returns, I will keep the\nblood stopped!\""
                             ]
                         },
                         {
@@ -7252,14 +7084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だから！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だめじゃないッ…！！」"
+                                "\\n<Ameria>\"So it's not over...!!\""
                             ]
                         },
                         {
@@ -7306,7 +7131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「アメリアちゃん……」"
+                                "\\n<Villager A>\"Ameria-chan...\""
                             ]
                         },
                         {
@@ -7372,7 +7197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「はあ…！　はあ…！」"
+                                "\\n<Ameria>\"*pant*... *pant*...\""
                             ]
                         },
                         {
@@ -7419,7 +7244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村の子供>「うぅ……痛いぃ……」"
+                                "\\n<Village Child>\"Ow... it hurts...\""
                             ]
                         },
                         {
@@ -7443,14 +7268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「大丈夫、大丈夫だからッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が……私がッ……！！」"
+                                "\\n<Ameria>\"It's okay, it's going to be okay! I will... I will...!!\""
                             ]
                         },
                         {
@@ -7814,7 +7632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<司祭>「…これは何の騒ぎだ？」"
+                                "\\n<Priest>\"...What is all this commotion?\""
                             ]
                         },
                         {
@@ -7838,7 +7656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「ルエールさん！」"
+                                "\\n<Villager A>\"Luerre-san!\""
                             ]
                         },
                         {
@@ -7904,7 +7722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様ッ…！」"
+                                "\\n<Ameria>\"Priest-sama...!\""
                             ]
                         },
                         {
@@ -8172,7 +7990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…かなり深い傷だな」"
+                                "\\n<Luerre>\"...This is a rather deep wound.\""
                             ]
                         },
                         {
@@ -8196,14 +8014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｂ>「ルエールさん！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この子が、外で魔物に！」"
+                                "\\n<Villager B>\"Luerre-san! This child was attacked by a monster outside!\""
                             ]
                         },
                         {
@@ -8227,7 +8038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「司祭様…！　私、私…！」"
+                                "\\n<Ameria>\"Priest-sama...! I, I...!\""
                             ]
                         },
                         {
@@ -8300,21 +8111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「静かに。…集中しろ、アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま止血を続けるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　傷は私が塞ぐ」"
+                                "\\n<Luerre>\"Quiet... concentrate, Ameria. Continue to stop the\nbleeding. I will close the wound.\""
                             ]
                         },
                         {
@@ -8387,7 +8184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うんッ…！」"
+                                "\\n<Ameria>\"Yes...!\""
                             ]
                         },
                         {
@@ -8434,7 +8231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村の子供>「ぅ……あ……あれ……？」"
+                                "\\n<Village child>\"Uh... ah... what's that...?\""
                             ]
                         },
                         {
@@ -8500,7 +8297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「傷が塞がった！」"
+                                "\\n<Ameria>\"The wound has closed!\""
                             ]
                         },
                         {
@@ -8615,21 +8412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「…よし、これでいいだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ああ、動くんじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのまま大人しくしているんだ」"
+                                "\\n<Luerre>\"...Good, that should do it. Ah, don't move. Stay still just\nlike that.\""
                             ]
                         },
                         {
@@ -8684,7 +8467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「…ルエールさん、この子は、もう……？」"
+                                "\\n<Villager A>\"...Luerre-san, is this child going to be...?\""
                             ]
                         },
                         {
@@ -8708,21 +8491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「ああ、心配いらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だがしばらくは安静にしておくんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　明日の朝にまた、様子を見させてくれ」"
+                                "\\n<Luerre>\"Yes, there's no need to worry. But they must rest for a\nwhile. Let me see them again tomorrow morning.\""
                             ]
                         },
                         {
@@ -8884,21 +8653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｂ>「ああ…ああ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良かった！　本当に良かった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとうルエールさん！　ありがとう！」"
+                                "\\n<Villager B>\"Ah... ah! That's a relief! Truly a relief...! Thank you,\nLuerre-san! Thank you!\""
                             ]
                         },
                         {
@@ -9011,14 +8766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「なんてお礼をしたらいいか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ルエールさんがいてくれなかったら、今ごろ…」"
+                                "\\n<Villager A>\"I don't know how to thank you enough... If you hadn't been\nhere, by now...\""
                             ]
                         },
                         {
@@ -9035,14 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「そうだ、今晩うちに来てほしい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご馳走を用意するから！」"
+                                "\\n<Villager A>\"That's it, please come to my house tonight! I'll prepare a\nfeast!\""
                             ]
                         },
                         {
@@ -9177,14 +8918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村の子供>「ありがとう、ルエールお姉ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとう…！」"
+                                "\\n<Village child>\"Thank you, Luerre Onee-san. Thank you...!\""
                             ]
                         },
                         {
@@ -9250,14 +8984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルエール>「分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　分かったから、あまり騒ぐな」"
+                                "\\n<Luerre>\"Understood. I got it, so don't make too much noise.\""
                             ]
                         },
                         {
@@ -9323,7 +9050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {

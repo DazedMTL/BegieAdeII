@@ -3377,14 +3377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「はぁ～ヤッたヤッた(笑)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　久しぶりに出しまくったぜ」"
+                                "\\n<Thief A>\"Hah... That was something. It's been a while since I've let\nout so much.\""
                             ]
                         },
                         {
@@ -3401,21 +3394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「俺も俺も(笑)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まったく、一時はどうなるもんかと思ったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか近衛騎士をヤれる日がくるなんてなぁ」"
+                                "\\n<Thief B>\"Me too, me too. Seriously, I was wondering how it would go,\nbut who would've thought we'd get to screw a royal guard,\nhuh?\""
                             ]
                         },
                         {
@@ -3432,21 +3411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「もう一生ねえぞ、こんな機会。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今の内にヤりまくって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ケツ穴ゆるくなったらさっさと金に換えちまおう」"
+                                "\\n<Thief B>\"We'll never get another chance like this in our lifetimes.\nLet's screw our brains out now, and once her ass is loose,\nwe'll quickly turn her into cash.\""
                             ]
                         },
                         {
@@ -3463,14 +3428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「…だけど、肝心のリオラノさんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　兵士をどこに連れていったんかねぇ」"
+                                "\\n<Thief C>\"...But where did that Riolaro guy take the soldiers, I\nwonder?\""
                             ]
                         },
                         {
@@ -3487,21 +3445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「さあ、知らねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただまあ、お目当てだった女と近衛騎士がいるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに戻ってくるさ」"
+                                "\\n<Thief A>\"Who knows? But hey, the woman we were after and the royal\nguard are here. They'll be back soon enough.\""
                             ]
                         },
                         {
@@ -3518,7 +3462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「俺たちはそれまで、気兼ねなく遊ぼうぜ(笑)」"
+                                "\\n<Thief A>\"Until then, let's enjoy ourselves without any worries\n(laughs).\""
                             ]
                         },
                         {
@@ -3535,7 +3479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「へへ、たまんねえなぁ…」"
+                                "\\n<Thief C>\"Hehe, this is just too good...\""
                             ]
                         },
                         {
@@ -4383,7 +4327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -4400,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -4587,14 +4531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し、休もう…？」"
+                                "\\n<Ameria>\"...Roselitte-san. Shall we rest a bit...?\""
                             ]
                         },
                         {
@@ -4660,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -4791,7 +4728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…？　どうしたの？」"
+                                "\\n<Ameria>\"...? What's wrong?\""
                             ]
                         },
                         {
@@ -4822,7 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -5047,7 +4984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――くそッ！！」"
+                                "\\n<Roselitte>\"--Damn it!!\""
                             ]
                         },
                         {
@@ -5185,14 +5122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どうして、あんな男たちに…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この私がッ…！」"
+                                "\\n<Roselitte>\"Why did I...! How could those men...! To me...!\""
                             ]
                         },
                         {
@@ -5223,7 +5153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「くそッ、くそッ、くそッ！」"
+                                "\\n<Roselitte>\"Damn it, damn it, damn it!\""
                             ]
                         },
                         {
@@ -5363,21 +5293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ちくしょう！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この私が…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんなみじめな笑いものにッ…！」"
+                                "\\n<Roselitte>\"Damn it! Me...! To be made into such a miserable\nlaughingstock...!\""
                             ]
                         },
                         {
@@ -5450,7 +5366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん、落ち着いて…！」"
+                                "\\n<Ameria>\"Roselitte-san, please calm down...!\""
                             ]
                         },
                         {
@@ -5574,21 +5490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「うるさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　下手な慰めなんていらない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたまで私を馬鹿にするつもり！？」"
+                                "\\n<Roselitte>\"Shut up! I don't need your clumsy consolation! Are you\ntrying to mock me too!?\""
                             ]
                         },
                         {
@@ -5661,7 +5563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんな、馬鹿にだなんて…！」"
+                                "\\n<Ameria>\"No, I would never mock you...!\""
                             ]
                         },
                         {
@@ -5734,14 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「くそ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして…どうして、こんな…！」"
+                                "\\n<Roselitte>\"Damn...! Why... Why did this happen...!\""
                             ]
                         },
                         {
@@ -5814,7 +5709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「く……ぅ……！　ううぅぅぅッ……！」"
+                                "\\n<Roselitte>\"Guh... Uuuuuhhh...!\""
                             ]
                         },
                         {
@@ -5887,7 +5782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6048,7 +5943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは、ローゼリッテの腕にそっと手を添えた。"
+                                "Ameria gently placed her hand on Roselitte's arm."
                             ]
                         },
                         {
@@ -6072,7 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「さわらないで……」"
+                                "\\n<Roselitte>\"Don't touch me...\""
                             ]
                         },
                         {
@@ -6096,7 +5991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -6120,21 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私ね、もし一人だったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　きっと今ごろ、怖くてしょうがなかったと思う」"
+                                "\\n<Ameria>\"...Roselitte-san. If I were alone, I think I would be\nterribly scared right now.\""
                             ]
                         },
                         {
@@ -6165,14 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさんがいてくれるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　泣かないし、がんばろうって、思えるんだよ？」"
+                                "\\n<Ameria>\"Because you're here with me, I can keep from crying and\nfind the strength to keep going, you know?\""
                             ]
                         },
                         {
@@ -6238,7 +6112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -6304,14 +6178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「きっと逃げるチャンスがあるはずだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから、一緒にがんばろう？　…ね？」"
+                                "\\n<Ameria>\"There must be a chance to escape. So let's keep trying\ntogether, okay? ...Right?\""
                             ]
                         },
                         {
@@ -6335,7 +6202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -6469,14 +6336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…すいません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し、疲れました…」"
+                                "\\n<Roselitte>\"...I'm sorry. I'm just a little tired...\""
                             ]
                         },
                         {
@@ -6593,14 +6453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ううん、気にしないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し休もう？」"
+                                "\\n<Ameria>\"It's okay, don't worry about it. Let's rest for a bit,\nokay?\""
                             ]
                         },
                         {
@@ -7025,14 +6878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「民間人を巻き込んでしまうなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近衛騎士失格ですね…」"
+                                "\\n<Roselitte>\"To involve civilians in this... I'm a disgrace as a royal\nguard...\""
                             ]
                         },
                         {
@@ -7063,14 +6909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そんなことないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさんは悪くないんだから」"
+                                "\\n<Ameria>\"That's not true at all. You're not at fault, Roselitte-\nsan.\""
                             ]
                         },
                         {
@@ -7136,7 +6975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7160,14 +6999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…あなたが人質にされた時。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私はあなたを見捨てて、デオルクを斬ろうとしました」"
+                                "\\n<Roselitte>\"...When you were taken hostage, I abandoned you and tried\nto kill Deoruk.\""
                             ]
                         },
                         {
@@ -7198,14 +7030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「それなのに、今はあなたに励まされて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こうして支えられている…」"
+                                "\\n<Roselitte>\"And yet now, here I am being encouraged by you, supported\nby you...\""
                             ]
                         },
                         {
@@ -7278,14 +7103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…情けない。無力だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貞操さえも、自分で守ることができないなんて…」"
+                                "\\n<Roselitte>\"...It's pathetic. I'm powerless. To think that I can't even\nprotect my own chastity...\""
                             ]
                         },
                         {
@@ -7316,14 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…私はシスターだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　困っている人を助けるのは当然だよ」"
+                                "\\n<Ameria>\"...As a sister, it's natural for me to help those in\ntrouble.\""
                             ]
                         },
                         {
@@ -7354,21 +7165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　正しいことをしようとしたんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまり自分を責めないで。ね…？」"
+                                "\\n<Ameria>\"Roselitte-san, you tried to do the right thing, so please\ndon't be too hard on yourself, okay...?\""
                             ]
                         },
                         {
@@ -7399,7 +7196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ですが……私は……」"
+                                "\\n<Roselitte>\"But... I...\""
                             ]
                         },
                         {
@@ -7495,14 +7292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ん～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ、こうしよう！」"
+                                "\\n<Ameria>\"Hmm... then let's do this!\""
                             ]
                         },
                         {
@@ -7533,14 +7323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「責めるなら、自分じゃなくて神様を責めちゃおう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてこんなことしたんだー！　…って」"
+                                "\\n<Ameria>\"Instead of blaming yourself, let's blame God! Why did you\nlet this happen-! ...like that\""
                             ]
                         },
                         {
@@ -7644,7 +7427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…その発言は、シスターとしてどうかと思いますが」"
+                                "\\n<Roselitte>\"...I'm not sure if that's appropriate for a Sister to say.\""
                             ]
                         },
                         {
@@ -7717,21 +7500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そう？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもデオルクはこう言ってたでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"自分は神に選ばれた\"って」"
+                                "\\n<Ameria>\"Is that so? But Deoruk said, 'I have been chosen by God,'\ndidn't he?\""
                             ]
                         },
                         {
@@ -7804,14 +7573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だったら、そんなことをした神様が悪い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…違う？」"
+                                "\\n<Ameria>\"Then it's the God who allowed such things to happen who is\nto blame! ...Isn't that right?\""
                             ]
                         },
                         {
@@ -7877,7 +7639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7943,14 +7705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いえ、そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かにこれは全部、神様が悪い」"
+                                "\\n<Roselitte>\"...No, you're right. Indeed, all of this is God's fault.\""
                             ]
                         },
                         {
@@ -8023,7 +7778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、その通り！」"
+                                "\\n<Ameria>\"Yes, exactly!\""
                             ]
                         },
                         {
@@ -8089,7 +7844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人は顔を見合わせて小さく笑った。"
+                                "The two exchanged glances and smiled faintly."
                             ]
                         },
                         {
@@ -9213,14 +8968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「…おいほんとにやるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見つかったらヤバイんじゃね？」"
+                                "\\n<Thief b>\"...Hey, are we really gonna do this? Isn't it dangerous if\nwe get caught?\""
                             ]
                         },
                         {
@@ -9237,14 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「しっ。あんま声出すなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他の奴らに見つかっちまうだろ」"
+                                "\\n<Thief c>\"Shh. Don't raise your voice too much. You'll get us caught\nby the others.\""
                             ]
                         },
                         {
@@ -9768,7 +9509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「おやすみのとこ悪いなぁ？」"
+                                "\\n<Thief a>\"Sorry to wake you up, eh?\""
                             ]
                         },
                         {
@@ -9792,7 +9533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いったい何の用です」"
+                                "\\n<Roselitte>\"...What do you want?\""
                             ]
                         },
                         {
@@ -9816,21 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「へへ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺らまだヤり足りなくてよお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わりぃがもう一度相手してもらうぜ」"
+                                "\\n<Thief b>\"Heh... We're not satisfied yet. Sorry, but you gotta\nentertain us one more time.\""
                             ]
                         },
                         {
@@ -9896,7 +9623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「っ…。この、下種め…」"
+                                "\\n<Roselitte>\"Tch... You lowlife...\""
                             ]
                         },
                         {
@@ -10015,21 +9742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「おっと、動くんじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あれだけ輪姦したうえに、今は丸腰だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さすがのお前でもキツイだろ？」"
+                                "\\n<Thief b>\"Whoa there, don't move. After being gang-raped like that,\nand now unarmed, even you must find it tough, right?\""
                             ]
                         },
                         {
@@ -10095,7 +9808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「くっ…」"
+                                "\\n<Roselitte>\"Grr...\""
                             ]
                         },
                         {
@@ -10388,14 +10101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「よっしゃ、さっさとヤッちまおうぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずはローゼリッテからだ！」"
+                                "\\n<Thief c>\"Alright, let's get this over with quickly! Starting with\nRoselitte!\""
                             ]
                         },
                         {
@@ -10785,7 +10491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「嫌っ…やめなさいッ！　離せッ！」"
+                                "\\n<Roselitte>\"No... Stop it! Let me go!\""
                             ]
                         },
                         {
@@ -10809,7 +10515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「うるせえ！　大人しくしろ！」"
+                                "\\n<Thief a>\"Shut up! Stay still!\""
                             ]
                         },
                         {
@@ -10951,7 +10657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ローゼリッテさん！」"
+                                "\\n<Ameria>\"--Roselitte-san!\""
                             ]
                         },
                         {
@@ -11461,7 +11167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「痛ってえ！！」"
+                                "\\n<Thief b>\"Ouch, damn it!!\""
                             ]
                         },
                         {
@@ -11497,7 +11203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「しまった…剣が！」"
+                                "\\n<Thief c>\"Damn... the sword!\""
                             ]
                         },
                         {
@@ -11563,7 +11269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ッ――！！」"
+                                "\\n<Roselitte>\"--!!\""
                             ]
                         },
                         {
@@ -12101,7 +11807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｃ>「ぐあッ！！」"
+                                "\\n<Thief c>\"Guah!!\""
                             ]
                         },
                         {
@@ -12149,7 +11855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「こんの…くそアマぁ！！」"
+                                "\\n<Thief a>\"You damn... bitch!!\""
                             ]
                         },
                         {
@@ -12436,7 +12142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「うぉぉおああ！？」"
+                                "\\n<Thief a>\"Woahhh!?\""
                             ]
                         },
                         {
@@ -12460,7 +12166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――アメリア、こっちへ！」"
+                                "\\n<Roselitte>\"--Ameria, this way!\""
                             ]
                         },
                         {
@@ -12564,7 +12270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「う、うん！」"
+                                "\\n<Ameria>\"Y-Yes!\""
                             ]
                         },
                         {
@@ -13341,14 +13047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ａ>「や…やべえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女が逃げた、捕まえろッ！」"
+                                "\\n<Thief a>\"Damn... damn it! The women are escaping, catch them!\""
                             ]
                         },
                         {
@@ -13365,21 +13064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊Ｂ>「おおい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みんな、大変だーッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女が逃げたーッ！！」"
+                                "\\n<Thief b>\"Hey! Everyone, this is bad--!! The women are escaping--!!\""
                             ]
                         },
                         {

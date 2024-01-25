@@ -1964,14 +1964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>「外で日光浴をしながら本を読むのが好きなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…今はとても、そんなことできないけどね」"
+                                "\\N<Villager>\"I love reading a book while basking in the sun outside...\nbut now, I really can't do that.\""
                             ]
                         },
                         {

@@ -5865,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いったい何が…」"
+                                "\\n<Roselitte>\"What on earth is...\""
                             ]
                         },
                         {
@@ -5996,7 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「はあ……はあ……」"
+                                "\\n<Ameria>\"Haa... Haa...\""
                             ]
                         },
                         {
@@ -6069,14 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…シスター。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはあなたの仕業ですか？」"
+                                "\\n<Roselitte>\"...Sister. Is this your doing?\""
                             ]
                         },
                         {
@@ -6238,7 +6231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ッ…！！」"
+                                "\\n<Ameria>\"Ah...!!\""
                             ]
                         },
                         {
@@ -6316,7 +6309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは武器を持ち直して身構えた。"
+                                "Ameria readied her weapon and took a defensive stance."
                             ]
                         },
                         {
@@ -6382,14 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…安心して。私たちは帝国軍です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたを助けにきました」"
+                                "\\n<Roselitte>\"...Relax. We are the Imperial Army. We've come to rescue\nyou.\""
                             ]
                         },
                         {
@@ -6513,7 +6499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ほ、本当…？」"
+                                "\\n<Ameria>\"Is that... true?\""
                             ]
                         },
                         {
@@ -6586,7 +6572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ、本当です」"
+                                "\\n<Roselitte>\"Yes, it's true.\""
                             ]
                         },
                         {
@@ -6727,14 +6713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「この男は俺に任せろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女同士だ、彼女についていてやれ」"
+                                "\\n<Yuri>\"Leave this man to me. It's woman to woman, stay with her.\""
                             ]
                         },
                         {
@@ -6758,7 +6737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「分かりました」"
+                                "\\n<Roselitte>\"Understood.\""
                             ]
                         },
                         {
@@ -6914,7 +6893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7073,7 +7052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…もう大丈夫。怪我は――」"
+                                "\\n<Roselitte>\"...You're safe now. Your injuries are--\""
                             ]
                         },
                         {
@@ -7309,14 +7288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言い終わる前に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アメリアはローゼリッテの胸元に飛びついた。"
+                                "Before she could finish, Ameria threw herself into\nRoselitte's chest."
                             ]
                         },
                         {
@@ -7340,7 +7312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――っと…大丈夫ですか」"
+                                "\\n<Roselitte>\"--Oh... Are you okay?\""
                             ]
                         },
                         {
@@ -7371,21 +7343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ぐすっ……ひっく……怖かった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、もうダメかと……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこか知らないとこに、売られちゃうって思って……」"
+                                "\\n<Ameria>\"Sob... hic... I was so scared... I thought I was done\nfor... that I'd be sold off somewhere unknown...\""
                             ]
                         },
                         {
@@ -7458,21 +7416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そう…でも、もう大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この場所は帝国軍が制圧しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたの身の安全は、私が保障します」"
+                                "\\n<Roselitte>\"I see... But it's all right now. This place has been\nsecured by the Imperial Army. I guarantee your safety.\""
                             ]
                         },
                         {
@@ -7503,14 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私の名前は、ローゼリッテ・シュバルツ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…あなたの名前は？」"
+                                "\\n<Roselitte>\"My name is Roselitte Schwarz... What's your name?\""
                             ]
                         },
                         {
@@ -7583,14 +7520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私は――って、ええっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテさん！？」"
+                                "\\n<Ameria>\"I am-- wait, what!? Roselitte-san!?\""
                             ]
                         },
                         {
@@ -7826,7 +7756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは慌てた様子でローゼリッテから離れた。"
+                                "Ameria stepped back from Roselitte in a flustered manner."
                             ]
                         },
                         {
@@ -7850,14 +7780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「わ、えっ！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほんとにローゼリッテさんだ！」"
+                                "\\n<Ameria>\"Wa, what!? It really is Roselitte-san!\""
                             ]
                         },
                         {
@@ -7930,21 +7853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私、この教会でシスターをしていて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　えっと、そのっ、さっきは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あわわわわッ…！」"
+                                "\\n<Ameria>\"I serve as a Sister at this church! Um, about earlier! Oh\nmy gosh...!\""
                             ]
                         },
                         {
@@ -8010,7 +7919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -8034,21 +7943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「初めまして、アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうかしこまらなくてもいいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたは兵士ではないのですから」"
+                                "\\n<Roselitte>\"Nice to meet you, Ameria. There's no need to be so formal.\nYou're not a soldier, after all.\""
                             ]
                         },
                         {
@@ -8121,7 +8016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――え？」"
+                                "\\n<Ameria>\"--Eh?\""
                             ]
                         },
                         {
@@ -8194,7 +8089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あっ……」"
+                                "\\n<Ameria>\"Ah...\""
                             ]
                         },
                         {
@@ -8260,7 +8155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -8326,7 +8221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…どうしました？」"
+                                "\\n<Roselitte>\"...What's the matter?\""
                             ]
                         },
                         {
@@ -8399,14 +8294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――あ。い、いえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでもありません、ローゼリッテ様」"
+                                "\\n<Ameria>\"--Ah. No, it's nothing! Roselitte-sama.\""
                             ]
                         },
                         {
@@ -8521,21 +8409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えと…私、アメリア。アメリア・アウルクスです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助けてくれて、本当にありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんてお礼をしたらいいのか」"
+                                "\\n<Ameria>\"Um... I'm Ameria. Ameria Aulcrux. Thank you so much for\nsaving me. I don't know how to thank you enough.\""
                             ]
                         },
                         {
@@ -8566,21 +8440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「構いません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は好き勝手でここに来ただけですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　礼なら自ら兵を率いられた殿下と、外の兵士たちに」"
+                                "\\n<Roselitte>\"Don't worry about it. I came here on my own accord. If you\nwant to thank someone, thank His Highness who led the troops\nhimself, and the soldiers outside.\""
                             ]
                         },
                         {
@@ -8653,21 +8513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「殿下…？　って、そういえばさっきの…わわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして殿下がこんなところまで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんとご挨拶しないと！」"
+                                "\\n<Ameria>\"His Highness...? Oh, now that you mention it, earlier... Oh\nmy! Why would His Highness come all the way here? I must\ngreet him properly!\""
                             ]
                         },
                         {
@@ -8733,7 +8579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -8757,7 +8603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも、私…」"
+                                "\\n<Ameria>\"But, I...\""
                             ]
                         },
                         {
@@ -8823,7 +8669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアはにっこりと微笑んだ。"
+                                "Ameria smiled brightly."
                             ]
                         },
                         {
@@ -8847,14 +8693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテ様に助けてもらえるなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とても…とても嬉しいです！」"
+                                "\\n<Ameria>\"To be saved by Roselitte-sama... I'm so... so happy!\""
                             ]
                         },
                         {
@@ -8927,14 +8766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「これも神様の思し召し。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとう神様！　ハレルヤ！」"
+                                "\\n<Ameria>\"This must be God's will. Thank you, God! Hallelujah!\""
                             ]
                         },
                         {
@@ -9007,7 +8839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ハレ…なんです？」"
+                                "\\n<Roselitte>\"Halle... what is it?\""
                             ]
                         },
                         {
@@ -9080,21 +8912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、えっと…ハレルヤ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　神様に、ありがとうって気持ちを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　伝えたい時に使う言葉なんです」"
+                                "\\n<Ameria>\"Ah, um... Hallelujah. It's a word we use to express our\nthanks to God.\""
                             ]
                         },
                         {
@@ -9167,21 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「嬉しかったり、楽しかったり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　感謝の気持ちを表したい時。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな時に、使うんです」"
+                                "\\n<Ameria>\"When we're happy or joyful... when we want to express our\ngratitude. That's when we use it.\""
                             ]
                         },
                         {
@@ -9254,7 +9058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ハレルヤ…」"
+                                "\\n<Roselitte>\"Hallelujah...\""
                             ]
                         },
                         {
@@ -9327,7 +9131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、ハレルヤ」"
+                                "\\n<Ameria>\"Yes, hallelujah.\""
                             ]
                         },
                         {
@@ -9393,7 +9197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -9459,14 +9263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…さあ、怪我はしていませんね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ひとまずここを出ましょう」"
+                                "\\n<Roselitte>\"...So, you're not injured, are you? Let's get out of here\nfor now.\""
                             ]
                         },
                         {
@@ -9539,14 +9336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あ、はい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとうございます、ローゼリッテ様」"
+                                "\\n<Ameria>\"Ah, yes! Thank you so much, Roselitte-sama.\""
                             ]
                         },
                         {
@@ -10152,7 +9942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「……」"
+                                "\\n<???>\"...\""
                             ]
                         },
                         {

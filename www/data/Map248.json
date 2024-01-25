@@ -20917,7 +20917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「うう…今晩は少し冷えるな…」"
+                                "\\n<Soldier>\"Brr... It's a bit chilly tonight...\""
                             ]
                         },
                         {
@@ -21008,7 +21008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「ここまで遠かったけど、楽な仕事で良かった」"
+                                "\\n<Soldier>\"It was a long way here, but I'm glad it was an easy job.\""
                             ]
                         },
                         {
@@ -21364,14 +21364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「いやあ～、この酒、かなり飲みやすいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐ酔っ払っちまいそうだぜ」"
+                                "\\n<Soldier a>\"Ahh, this booze is really easy to drink! I might get drunk\npretty quickly.\""
                             ]
                         },
                         {
@@ -21388,21 +21381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「ほんとにな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あーあ、これに良いツマミでもあれば文句はねえけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シケてんぜ」"
+                                "\\n<Soldier b>\"Really. Ah, if only we had some good snacks to go with it,\nno complaints then. It's damp out here.\""
                             ]
                         },
                         {
@@ -21419,7 +21398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…あなたたち」"
+                                "\\n<Roselitte>\"...You two.\""
                             ]
                         },
                         {
@@ -21476,7 +21455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「ろ、ローゼリッテ様！」"
+                                "\\n<Soldier a>\"R-Roselitte-sama!\""
                             ]
                         },
                         {
@@ -21567,7 +21546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士たちは姿勢を正し敬礼をした。"
+                                "The soldiers straightened up and saluted."
                             ]
                         },
                         {
@@ -21584,7 +21563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「い、いかがなされましたか？」"
+                                "\\n<Soldier a>\"What can we do for you?\""
                             ]
                         },
                         {
@@ -21601,14 +21580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そのお酒はどこから？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遠征任務にお酒の持ち出しですか」"
+                                "\\n<Roselitte>\"Where did that alcohol come from? Are you carrying alcohol\non an expedition mission?\""
                             ]
                         },
                         {
@@ -21625,7 +21597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「いえ、これはその…」"
+                                "\\n<Soldier a>\"No, this is... um...\""
                             ]
                         },
                         {
@@ -21684,21 +21656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…まさかとは思いますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この村のものを勝手に飲んでいるわけでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありませんよね？」"
+                                "\\n<Roselitte>\"...Surely you aren't just helping yourselves to the\nvillage's supplies, are you?\""
                             ]
                         },
                         {
@@ -21715,14 +21673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「そ、そんな滅相もございません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この酒は皇太子殿下のはからいで頂いたものです！」"
+                                "\\n<Soldier a>\"No, absolutely not! This alcohol was provided by the\ncourtesy of His Highness the Crown Prince!\""
                             ]
                         },
                         {
@@ -21781,7 +21732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…なんですって。殿下の？」"
+                                "\\n<Roselitte>\"...What did you say? The Crown Prince's?\""
                             ]
                         },
                         {
@@ -21798,21 +21749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「は、はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　酒を持ってきてるから飲めと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　兵たちに回って歩かれておりました」"
+                                "\\n<Soldier b>\"Yes. He said since he brought the alcohol, we should drink\nit, and he was going around offering it to the soldiers.\""
                             ]
                         },
                         {
@@ -21871,14 +21808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……はあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まったく、あの方ときたら…」"
+                                "\\n<Roselitte>\"...Sigh. That man, I swear...\""
                             ]
                         },
                         {
@@ -21937,28 +21867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「水を差して悪かった――と言いたいところですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はあくまで任務中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　例え殿下のはからいだとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　節度はわきまえるように」"
+                                "\\n<Roselitte>\"I hate to be a wet blanket--as much as I'd like to say\notherwise, we are still on duty. Even if it's from His\nHighness, please remember to behave with moderation.\""
                             ]
                         },
                         {
@@ -21975,7 +21884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士たち>「……」"
+                                "\\n<Soldiers>\"...\""
                             ]
                         },
                         {
@@ -22034,7 +21943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…返事は」"
+                                "\\n<Roselitte>\"...Your response?\""
                             ]
                         },
                         {
@@ -22063,7 +21972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士たち>「「「――ハッ！　承知いたしました！！」」」"
+                                "\\n<Soldiers>\"--Yes ma'am! Understood!!\""
                             ]
                         },
                         {
@@ -22595,14 +22504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「ご、ご苦労様ですローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し温まっていきますか？」"
+                                "\\n<Soldier>\"Th-thank you for your hard work, Roselitte-sama. Would you\nlike to warm up a bit?\""
                             ]
                         },
                         {
@@ -22693,7 +22595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「冷える夜には、酒が一番さ！」"
+                                "\\n<Soldier>\"On a cold night, there's nothing better than a drink!\""
                             ]
                         },
                         {
@@ -22919,7 +22821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「むむ…その手で来たか…」"
+                                "\\n<Soldier>\"Hmm... So you've chosen that tactic...\""
                             ]
                         },
                         {
@@ -23010,7 +22912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「ふふふ…ここまでは俺の想定通り…！」"
+                                "\\n<Soldier>\"Hehehe... Everything has gone according to my plan so\nfar...!\""
                             ]
                         },
                         {
@@ -23101,7 +23003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「げっ。なんだこのクソ手札は！」"
+                                "\\n<Soldier>\"Ugh, what the hell is this shitty hand!\""
                             ]
                         },
                         {
@@ -23384,7 +23286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「――よっしゃ！　アガリだ！」"
+                                "\\n<Soldier a>\"Alright! I win!\""
                             ]
                         },
                         {
@@ -23401,14 +23303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「マジか！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くそぅ、またお前の一人勝ちかよ」"
+                                "\\n<Soldier b>\"Seriously?! Damn it, you win again?\""
                             ]
                         },
                         {
@@ -23425,21 +23320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「はははは！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よし、もうひと勝負いこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま負けっぱなしじゃあ悔しいだろ？」"
+                                "\\n<Soldier a>\"Hahaha! Okay, let's have another round! You must be\nfrustrated losing like this, right?\""
                             ]
                         },
                         {
@@ -23563,7 +23444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いったいなんの騒ぎです。騒々しい」"
+                                "\\n<Roselitte>\"...What is all this noise about? It's quite loud.\""
                             ]
                         },
                         {
@@ -23704,7 +23585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「なんだ？　いま良いところ――」"
+                                "\\n<Soldier a>\"What? We were just at the good part--\""
                             ]
                         },
                         {
@@ -23953,14 +23834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「――ローゼリッテ様！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　し、失礼しましたッ…！！」"
+                                "\\n<Soldier a>\"--Lady Roselitte!? My apologies...!!\""
                             ]
                         },
                         {
@@ -24019,14 +23893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…構いません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、さっきから何を騒いでいるんです」"
+                                "\\n<Roselitte>\"...It's fine. Now, what have you been making noise about\nsince earlier?\""
                             ]
                         },
                         {
@@ -24043,7 +23910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「えと…今はその、ゲームをしていまして」"
+                                "\\n<Soldier a>\"Well... we were playing a game.\""
                             ]
                         },
                         {
@@ -24102,7 +23969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ゲーム？」"
+                                "\\n<Roselitte>\"A game?\""
                             ]
                         },
                         {
@@ -24119,14 +23986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「はい。この記号と数字が書いてあるカードを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　より強いヤクに揃えるっていう、カードゲームです」"
+                                "\\n<Soldier a>\"Yes. It's a card game where you arrange these cards with\nsymbols and numbers into stronger combinations.\""
                             ]
                         },
                         {
@@ -24143,14 +24003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「ローゼリッテ様もどうですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　けっこう面白いんですよ、これ」"
+                                "\\n<Soldier a>\"How about it, Lady Roselitte? It's quite fun, you know.\""
                             ]
                         },
                         {
@@ -24209,14 +24062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…いえ、結構です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ルールも知りませんので」"
+                                "\\n<Roselitte>\"...No, thank you. I don't even know the rules.\""
                             ]
                         },
                         {
@@ -24284,21 +24130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「ああ、それならちょうど良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　実はこいつ、このゲームにめっぽう強くて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくいろんな奴に教えながら遊んでるんですよ」"
+                                "\\n<Soldier b>\"Oh, that's perfect. Actually, this guy is incredibly strong\nat this game. He often teaches various people while\nplaying.\""
                             ]
                         },
                         {
@@ -24315,21 +24147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「こいつの腕は帝国一強いって評判でして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かなり面白いゲーム運びをしてくれるんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぜひ遊んでみましょうよ！」"
+                                "\\n<Soldier b>\"His skills are reputed to be the strongest in the empire.\nHe makes the game really interesting, so you should\ndefinitely give it a try!\""
                             ]
                         },
                         {
@@ -24388,7 +24206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…帝国一強い、ですか」"
+                                "\\n<Roselitte>\"...The strongest in the empire, you say.\""
                             ]
                         },
                         {
@@ -24405,21 +24223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「さ、さすがにそれは言い過ぎかと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもまあ、自信ありますよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ様といえど、これだけは譲れません！」"
+                                "\\n<Soldier a>\"Well, that might be an exaggeration... but I do have\nconfidence! Even against Lady Roselitte, I won't back down\non this!\""
                             ]
                         },
                         {
@@ -24478,7 +24282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ほう…」"
+                                "\\n<Roselitte>\"Hmm...\""
                             ]
                         },
                         {
@@ -24527,7 +24331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｃ>「すげぇ、ローゼリッテ様にあんなこと言ってるよ…」"
+                                "\\n<Soldier c>\"Wow, he's saying such things to Lady Roselitte...\""
                             ]
                         },
                         {
@@ -24544,21 +24348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｄ>「ローゼリッテ様！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここはどうですか、ひと勝負！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺たちの仇を取ってください！」"
+                                "\\n<Soldier d>\"Lady Roselitte! How about a match? Please take revenge for\nus!\""
                             ]
                         },
                         {
@@ -24617,14 +24407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ルールを教えてください」"
+                                "\\n<Roselitte>\"...Very well. Teach me the rules.\""
                             ]
                         },
                         {
@@ -24641,14 +24424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「もちろんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ええっとですね、まずはこのカードを――」"
+                                "\\n<Soldier a>\"Of course! So, first you take these cards--\""
                             ]
                         },
                         {
@@ -24879,14 +24655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これでアガリですね」"
+                                "\\n<Roselitte>\"--Yes. This means I win, correct?\""
                             ]
                         },
                         {
@@ -24953,14 +24722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「うおおお、すげえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またローゼリッテ様が勝った！」"
+                                "\\n<Soldier b>\"Whoa, amazing! Lady Roselitte won again!\""
                             ]
                         },
                         {
@@ -24977,14 +24739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「つ…強すぎる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今のは良い手札だったのに…！」"
+                                "\\n<Soldier a>\"Tch... Too strong... And I had such a good hand too...!\""
                             ]
                         },
                         {
@@ -25043,14 +24798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふん。あれだけ大口を叩いてこの程度ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これで帝国一を名乗ろうだなんて、片腹痛い」"
+                                "\\n<Roselitte>\"Hmph. All that boasting and this is all you've got? To\nclaim to be the strongest in the empire is laughable.\""
                             ]
                         },
                         {
@@ -25067,21 +24815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「くっ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ様、もうひと勝負！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度こそ絶対負けません！」"
+                                "\\n<Soldier a>\"Grr...! Lady Roselitte, one more match! This time I\ndefinitely won't lose!\""
                             ]
                         },
                         {
@@ -25098,7 +24832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いいでしょう。次も容赦は――」"
+                                "\\n<Roselitte>\"Very well. But I won't go easy on you next time either--\""
                             ]
                         },
                         {
@@ -25157,7 +24891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -25216,7 +24950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いったい何をしているんだ私は……」"
+                                "\\n<Roselitte>\"What am I even doing...\""
                             ]
                         },
                         {
@@ -25233,14 +24967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「ローゼリッテ様？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしました？」"
+                                "\\n<Soldier a>\"Lady Roselitte? What's wrong?\""
                             ]
                         },
                         {
@@ -25299,14 +25026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…こほん。もうお開きです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私は抜けます」"
+                                "\\n<Roselitte>\"...Ahem. That's enough for now. I will take my leave.\""
                             ]
                         },
                         {
@@ -25323,21 +25043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「そんな、良いところだったのに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少しやりましょうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　けっこうおもしろかったでしょう？」"
+                                "\\n<Soldier a>\"But we were just getting to the good part! Let's play a\nlittle longer. You were enjoying it, weren't you?\""
                             ]
                         },
                         {
@@ -25396,7 +25102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…別に、普通です。普通」"
+                                "\\n<Roselitte>\"...Not particularly. It was just average. Average.\""
                             ]
                         },
                         {
@@ -25455,14 +25161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「もう夜ですし、あまり騒がないように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいですね」"
+                                "\\n<Roselitte>\"It's already night, so try not to be too noisy.\nUnderstood?\""
                             ]
                         },
                         {
@@ -25479,14 +25178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「…はい、ローゼリッテ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしまた機会があれば、お願いします」"
+                                "\\n<Soldier a>\"...Yes, Lady Roselitte. If there's another chance, please\nlet us invite you again.\""
                             ]
                         },
                         {
@@ -25545,7 +25237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…考えておきます」"
+                                "\\n<Roselitte>\"...I'll think about it.\""
                             ]
                         },
                         {
@@ -25957,7 +25649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「また勝負しましょうね、ローゼリッテ様」"
+                                "\\n<Soldier>\"Let's have a rematch sometime, Roselitte-sama.\""
                             ]
                         },
                         {
@@ -26202,7 +25894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -26536,14 +26228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…うん、これでもう大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　痛むところがあればまた言ってね！」"
+                                "\\n<Ameria>\"Yeah, that should do it! If you're still in pain anywhere,\njust let me know!\""
                             ]
                         },
                         {
@@ -26560,14 +26245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ａ>「おお…盗賊にやられた傷が嘘のように消えた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとう、アメリアちゃん！」"
+                                "\\n<Villager A>\"Wow... The wounds I got from the bandits have vanished like\nmagic! Thank you, Ameria-chan!\""
                             ]
                         },
                         {
@@ -26626,14 +26304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えへへ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どういたしまして♪」"
+                                "\\n<Ameria>\"Ehehe... You're welcome♪\""
                             ]
                         },
                         {
@@ -27239,14 +26910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「次、どうぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…足の怪我ね。大丈夫、すぐに治るから！」"
+                                "\\n<Ameria>\"Next, please!... A leg injury, huh. Don't worry, it'll heal\nup quickly!\""
                             ]
                         },
                         {
@@ -27373,21 +27037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｂ>「アメリアちゃん、あんなに医術式が上手かったんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　薬と医術式じゃあ治療の効き目が大違いだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いてくれて助かったよ」"
+                                "\\n<Villager B>\"Ameria-chan, I had no idea you were so skilled with healing\narts. Medicine and healing arts make such a difference in\ntreatment, we're lucky to have you.\""
                             ]
                         },
                         {
@@ -27404,14 +27054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｃ>「でも、聞いてるだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今回の騒ぎはアメリアちゃんが…」"
+                                "\\n<Villager C>\"But you've heard, haven't you? This commotion was all\nbecause Ameria-chan...\""
                             ]
                         },
                         {
@@ -27428,21 +27071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｂ>「いやまあそうだけど、あの子は悪くないだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前だって傷を診てもらったんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなこと言うなって」"
+                                "\\n<Villager B>\"Yeah, well, that's true but the girl's not to blame. You\ngot your wounds treated by her too, so don't say things like\nthat.\""
                             ]
                         },
                         {
@@ -27459,7 +27088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人Ｃ>「…それもそうだな」"
+                                "\\n<Villager C>\"...You're right about that.\""
                             ]
                         },
                         {
@@ -27559,7 +27188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「治療の邪魔をしてはいけませんね」"
+                                "\\n<Roselitte>\"We mustn't interfere with the treatment.\""
                             ]
                         },
                         {
@@ -27936,7 +27565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「えっと……この症状は……」"
+                                "\\n<Ameria>\"Um... these symptoms are...\""
                             ]
                         },
                         {
@@ -27953,7 +27582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは治療に集中している。"
+                                "Ameria is focused on the treatment."
                             ]
                         },
                         {
@@ -28044,7 +27673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「いてて…。盗賊の奴らに思い切り殴れちゃったよ」"
+                                "\\n<Villager>\"Ouch... I got punched really hard by those bandits.\""
                             ]
                         },
                         {
@@ -28135,14 +27764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「逃げてる時に足をくじいちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう、本当に迷惑」"
+                                "\\n<Villager>\"I sprained my ankle while trying to escape. It's such a\nnuisance, really.\""
                             ]
                         },
                         {
@@ -28233,14 +27855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「襲われたのはびっくりしたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この程度で済んで良かったわ」"
+                                "\\n<Villager>\"I was surprised to be attacked, but I'm glad it was only to\nthis extent.\""
                             ]
                         },
                         {
@@ -28331,7 +27946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「まったく。帝国軍がもっと早く来てくれれば…」"
+                                "\\n<Villager>\"Really, if only the Imperial Army had come sooner...\""
                             ]
                         },
                         {
@@ -28422,7 +28037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「アメリアちゃんがいてくれて助かったよ」"
+                                "\\n<Villager>\"I'm so grateful that Ameria-chan was here to help.\""
                             ]
                         },
                         {
@@ -28513,7 +28128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「軍の医術士より手際が良いんだ、あの子」"
+                                "\\n<Villager>\"She's more skilled than the army's medics, that girl.\""
                             ]
                         },
                         {
@@ -28739,14 +28354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「ああ、急に動いたから腰が痛い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くアメリアちゃんに診てもらいたいのだけれど…」"
+                                "\\n<Villager>\"Ah, my back hurts because I moved too suddenly... I wish\nAmeria-chan could take a look at it soon...\""
                             ]
                         },
                         {
@@ -28837,14 +28445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「向こうで軍の医術士が診察してますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さ、そちらに行ってみましょうか」"
+                                "\\n<Soldier>\"The army's medical officer is conducting examinations over\nthere. Shall we go and have a look?\""
                             ]
                         },
                         {
@@ -28935,14 +28536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「ほら、言わんこっちゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからあの時ちゃんと止めれば良かったのよ」"
+                                "\\n<Villager>\"See, I told you so. That's why we should have stopped it\nback then.\""
                             ]
                         },
                         {
@@ -29033,14 +28627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「しょうがないだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　兵士だって、言われたことに従うしかないんだ」"
+                                "\\n<Villager>\"Can't be helped. Even soldiers have no choice but to follow\norders.\""
                             ]
                         },
                         {
@@ -29131,21 +28718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「幸い死者は出ませんでしたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村の外に逃げてしまった人達が心配です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　朝まで無事でいてくれればいいのですが…」"
+                                "\\n<Villager>\"Fortunately, there were no fatalities, but I'm worried\nabout those who fled outside the village. I hope they remain\nsafe until morning...\""
                             ]
                         },
                         {
@@ -29236,21 +28809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「見て、見て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　向こうでてーこく軍のいじゅつ士に治してもらったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　膝、擦りむいたんだ」"
+                                "\\n<Villager>\"Look, look. I got it treated by a healer from the Tekoku\narmy over there. I scraped my knee.\""
                             ]
                         },
                         {
@@ -29341,14 +28900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<村人>「てっきりこの村は領主様に見捨てられたとばかり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ですが、何かお考えがあってのことなのでしょうな」"
+                                "\\n<Villager>\"I was certain that our village had been abandoned by the\nlord... But perhaps there is some reason behind it.\""
                             ]
                         },
                         {
@@ -29439,21 +28991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<帝国軍医術士>「様子を見て回っておりましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここは彼女に任せても大丈夫そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　優秀な医術士がいてくれて助かりました」"
+                                "\\n<Imperial army medical officer>\"I've been making rounds to check on the situation, but it\nseems safe to leave this place in her hands. It's a relief\nto have such a skilled medic here.\""
                             ]
                         },
                         {

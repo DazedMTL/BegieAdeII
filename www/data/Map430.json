@@ -3324,7 +3324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地下囚人街の鍵で鉄格子の鍵を開けた。"
+                                "Unlocked the iron bars with the key to the underground\nprisoner district."
                             ]
                         },
                         {
@@ -3411,7 +3411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鉄格子にはカギが掛かっている。"
+                                "The iron bars are locked."
                             ]
                         },
                         {
@@ -3663,7 +3663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どちらに向かいますか？"
+                                "Which way will you go?"
                             ]
                         },
                         {
@@ -3671,9 +3671,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ワールドマップ",
-                                    "監獄棟",
-                                    "先に進まない"
+                                    "World Map",
+                                    "Prison Block",
+                                    "Do not proceed"
                                 ],
                                 2,
                                 0,
@@ -4092,7 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リフレッシュポーションを手に入れた！"
+                                "Gained a Refresh Potion!"
                             ]
                         },
                         {

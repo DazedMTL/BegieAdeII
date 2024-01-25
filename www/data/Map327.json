@@ -10019,7 +10019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊Ａ>「食料はさっき運んだ奴で終わりか？」"
+                                "\\n<Bandit a>\"Is that the last of the food we carried over?\""
                             ]
                         },
                         {
@@ -10036,14 +10036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊Ｂ>「ああ。今日はなかなかの収穫だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺たちもだいぶ狩りが様になってきたぜ」"
+                                "\\n<Bandit b>\"Yeah. We had quite the haul today. We're getting pretty\ngood at hunting, aren't we?\""
                             ]
                         },
                         {
@@ -10060,14 +10053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊Ａ>「素直に喜んでいいのか分かんねぇな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これじゃあただの狩猟生活だ」"
+                                "\\n<Bandit a>\"Not sure if I should be happy about it... This is just like\nliving a hunter's life.\""
                             ]
                         },
                         {
@@ -10084,21 +10070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<山賊Ｃ>「しょうがねえだろ。うちのリーダーさんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　滅多なことじゃあ町側の道を開けないんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…さあ、さっさと奥に運んじまおう」"
+                                "\\n<Bandit c>\"Can't help it. Our leader isn't going to open the road to\nthe town side for just any reason.... Now, let's hurry up\nand carry it inside.\""
                             ]
                         },
                         {
@@ -11147,14 +11119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「おー、人間がいるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　町の人間には見えないけど、あれ山賊かなあ？」"
+                                "\\n<Lyric>\"Oh, there are people over there. They don't look like\ntownsfolk, maybe they're bandits?\""
                             ]
                         },
                         {
@@ -11171,14 +11136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「たぶん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもなんか、変なこと言ってたよね」"
+                                "\\n<Ameria>\"Probably. But they were saying something strange, weren't\nthey?\""
                             ]
                         },
                         {
@@ -11195,21 +11153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。町側の道を開けないとかなんとか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アンナベルンへの道を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼らが塞いでしまっているのでしょうか」"
+                                "\\n<Roselitte>\"Yes. Something about not opening the road to the town side.\nCould they be blocking the way to Annabern?\""
                             ]
                         },
                         {
@@ -11226,14 +11170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…どうする、ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　迂回して別の道を探す？」"
+                                "\\n<Ameria>\"...What do we do, Roselitte-san? Should we take a detour\nand look for another path?\""
                             ]
                         },
                         {
@@ -11385,21 +11322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふむ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見たところこの峠もかなり大きいですし、時間も惜しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ここは一つ、\"話をしてみる\"ことにしますか」"
+                                "\\n<Roselitte>\"Hmm... Considering the size of this mountain pass and the\ntime we'd lose... Perhaps we should 'have a talk' with\nthem.\""
                             ]
                         },
                         {
@@ -11465,7 +11388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「やっぱ騎士ってのは血の気多いなぁ」"
+                                "\\n<Lyric>\"Knights really are hot-blooded, huh?\""
                             ]
                         },
                         {
@@ -11524,7 +11447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「他に何か考えが？」"
+                                "\\n<Roselitte>\"Do you have any other ideas?\""
                             ]
                         },
                         {
@@ -11590,14 +11513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「いいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他の道探すのもしんどいし、僕も賛成」"
+                                "\\n<Lyric>\"Nope. Looking for another path sounds tough too, so I\nagree.\""
                             ]
                         },
                         {
@@ -11656,14 +11572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「よし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　では二人とも、気を引き締めて」"
+                                "\\n<Roselitte>\"Alright. Then both of you, stay sharp.\""
                             ]
                         },
                         {
@@ -12494,7 +12403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホルヌス洞窟"
+                                "Holnus Cave"
                             ]
                         },
                         {
@@ -12502,9 +12411,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "lv10",
-                                    "lv13",
-                                    "選択しない"
+                                    "Lv10",
+                                    "Lv13",
+                                    "Do not choose"
                                 ],
                                 2,
                                 0,

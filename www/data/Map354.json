@@ -20696,7 +20696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ヴァラムは戦うことしか能がない』"
+                                "\"Valam is only capable of fighting.\""
                             ]
                         },
                         {
@@ -20713,21 +20713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現皇帝\"ロドリク・ハウゼン\"即位後のヴァラム帝国は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ある時を境に、他国はおろか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自国民にまでそう揶揄されるほど戦争を繰り返した。"
+                                "After the current Emperor \"Rodrik Hausen\" ascended to the\nthrone, the Empire of Valam began to engage in wars so\nfrequently that it was scorned as such not only by other\nnations but even by its own citizens."
                             ]
                         },
                         {
@@ -20744,7 +20730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ヴァラムは戦うことしか能がない』"
+                                "\"Valam is only capable of fighting.\""
                             ]
                         },
                         {
@@ -20761,14 +20747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "揶揄の言葉はやがて畏怖となり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、大きな争いが起きた。"
+                                "The words of scorn eventually turned into fear, and then, a\ngreat conflict arose."
                             ]
                         },
                         {

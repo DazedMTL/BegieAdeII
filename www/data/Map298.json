@@ -3250,7 +3250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「――ハッ…ハッ…！」"
+                                "\\n<???>\"--Hah... Hah...!\""
                             ]
                         },
                         {
@@ -3281,7 +3281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「ハ――ックション！」"
+                                "\\n<???>\"Ha--choo!\""
                             ]
                         },
                         {
@@ -3673,7 +3673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック、大丈夫？」"
+                                "\\n<Ameria>\"Lyric, are you okay?\""
                             ]
                         },
                         {
@@ -3704,21 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「グスッ…うぅ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　寒いし、鼻に水が入ってすごい痛いし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サイアクなんだけど…」"
+                                "\\n<Lyric>\"Sniff... Ugh... It's cold, water got in my nose and it\nreally hurts, this is the worst...\""
                             ]
                         },
                         {
@@ -3791,7 +3777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…自分から川に落ちたくせに」"
+                                "\\n<Roselitte>\"...Even though you fell into the river on your own.\""
                             ]
                         },
                         {
@@ -3871,21 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「なんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助けてあげたんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もっと労わってくれても良くない？」"
+                                "\\n<Lyric>\"What's with that? I saved you, so a little gratitude\nwouldn't hurt, right?\""
                             ]
                         },
                         {
@@ -3916,21 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どうだか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　溺れるあなたを助けたのは私たちですし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　下手したら巻き添えで死んでいました」"
+                                "\\n<Roselitte>\"I wonder... We were the ones who saved you from drowning,\nand we could have died in the process.\""
                             ]
                         },
                         {
@@ -4010,21 +3968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「まあいいじゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この通りなんともなかったんだからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　結果オーライ、結果オーライ♪」"
+                                "\\n<Lyric>\"Oh come on, everything turned out fine in the end. All's\nwell that ends well♪\""
                             ]
                         },
                         {
@@ -4146,14 +4090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――それで、えーっと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっきどこまで話したっけ？」"
+                                "\\n<Lyric>\"--So, um... where did we leave off in our conversation?\""
                             ]
                         },
                         {
@@ -4226,14 +4163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「魔物たちが\"城塞都市・アナトス”を攻撃して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして占領した…ってところまでだよ」"
+                                "\\n<Ameria>\"The monsters attacked and then occupied the 'Fortress City\nof Anatose'... that's where we were.\""
                             ]
                         },
                         {
@@ -4313,7 +4243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああ、そうだそうだ」"
+                                "\\n<Lyric>\"Ah, right, right.\""
                             ]
                         },
                         {
@@ -4406,21 +4336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…君たちが捕まったあと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクは魔物を率いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村の東にあるアナトスを攻撃したんだ」"
+                                "\\n<Lyric>\"...After you guys were captured, Deorc led the monsters to\nattack Anatose to the east of the village.\""
                             ]
                         },
                         {
@@ -4451,28 +4367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あっという間だったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物たちが一気に町へなだれこんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこにいた人間たちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大した抵抗もできずに逃げちゃった」"
+                                "\\n<Lyric>\"It happened in a flash. The monsters swarmed into the town\nall at once, and the humans there couldn't put up much of a\nfight and just ran away.\""
                             ]
                         },
                         {
@@ -4503,14 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「逃げた人間の大半は…えっと、なんてとこだっけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナトスより東にあるでかい町」"
+                                "\\n<Lyric>\"Most of the humans who fled... um, what was that place\ncalled again? The big town east of Anatose.\""
                             ]
                         },
                         {
@@ -4541,21 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…レーベのことかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"中央都市・レーベ\""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この地方で一番大きな町だよ」"
+                                "\\n<Ameria>\"...You mean 'Leve'? 'Central City Leve', it's the biggest\ntown in this region.\""
                             ]
                         },
                         {
@@ -4586,21 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああ、それそれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナトスにいた人間の大半は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのレーベに逃げたみたいだね」"
+                                "\\n<Lyric>\"Ah, that's it. It seems like most of the humans from\nAnatose fled to Leve.\""
                             ]
                         },
                         {
@@ -4631,21 +4491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んで、デオルクはそのままアナトスに留まって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物をたくさん集めてるみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頃合いを見てまたどこかに攻撃するつもりだと思う」"
+                                "\\n<Lyric>\"And Deorc has stayed in Anatose, gathering a lot of\nmonsters. It looks like he's planning to attack somewhere\nelse when the time is right.\""
                             ]
                         },
                         {
@@ -4676,14 +4522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…次の目的は、アナトスから東にあるレーベ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして更に東にある\"ヴァラム本土\"のはず」"
+                                "\\n<Roselitte>\"...The next target must be Leve to the east of Anatose. And\nthen further east, the 'Mainland of Valam'.\""
                             ]
                         },
                         {
@@ -4767,14 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「デオルクは何か声明を出していませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…それと、ユーリ様の安否も分かりますか」"
+                                "\\n<Roselitte>\"Has Deorc issued any statements... and do you know anything\nabout Prince Yuri's safety?\""
                             ]
                         },
                         {
@@ -4854,7 +4686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ユーリ？　誰それ」"
+                                "\\n<Lyric>\"Yuri? Who's that?\""
                             ]
                         },
                         {
@@ -4885,14 +4717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ユーリ皇太子のことです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村の一件で、デオルクに連れ去られてしまったんです」"
+                                "\\n<Roselitte>\"Prince Yuri. He was taken away by Deorc during the incident\nin the village.\""
                             ]
                         },
                         {
@@ -4972,21 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「連れ去られた…ああー、あのイケメンか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良い男がいるなーって思ってたから、よく覚えてるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　へー、そうかぁ、あれが皇太子ねぇ」"
+                                "\\n<Lyric>\"Taken away... Ah-, that handsome guy! I thought he was\nquite a catch, so I remember him well. Heh, so that was the\ncrown prince, huh.\""
                             ]
                         },
                         {
@@ -5066,14 +4877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でも皇太子って、すごい偉い人なんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでわざわざこんな所に？」"
+                                "\\n<Lyric>\"But the crown prince is a very important person, right? Why\nwould he come to such a place?\""
                             ]
                         },
                         {
@@ -5146,14 +4950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「それは帝国会議でイリス皇女が――って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの場にいたんですか？」"
+                                "\\n<Roselitte>\"That was because of the imperial conference with Princess\nIris-- wait, were you there at that time?\""
                             ]
                         },
                         {
@@ -5233,28 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うん、いたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…おっと、助けろなんて無茶なこと言わないでよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんな魔物と盗賊がいたんじゃあ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手の出しようがなかったんだから」"
+                                "\\n<Lyric>\"Yeah, I was there.... Oh, and don't ask me to do something\nunreasonable like saving you. With those monsters and\nbandits around, there was no way to intervene.\""
                             ]
                         },
                         {
@@ -5327,28 +5103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「それに、デオルクの動向を見ながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君たちの行方も追ってたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから声明がどうとか、皇太子がどうとか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう細かいことまでは分からないよ」"
+                                "\\n<Lyric>\"Besides, I was keeping an eye on Deorc's movements while\ntracking your whereabouts. So I don't know the finer details\nlike any statements or what happened to the crown prince.\""
                             ]
                         },
                         {
@@ -5379,21 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でもわざわざ人質に取るくらいだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しばらく殺したりはしないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いだほうがいいっていうのは変わらないけどね」"
+                                "\\n<Lyric>\"But taking hostages like that means they probably won't\nkill him for a while. But it doesn't change the fact that we\nneed to hurry.\""
                             ]
                         },
                         {
@@ -5473,21 +5214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…にしても、皇太子が人質かぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクが魔物使役術を使ってるだけでも厄介なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こりゃあまた、骨が折れそうだ」"
+                                "\\n<Lyric>\"...Still, having the crown prince as a hostage is\ntroublesome. It's going to be difficult enough with Deorc\nusing monster taming magic.\""
                             ]
                         },
                         {
@@ -5560,7 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「魔物使役術、か…」"
+                                "\\n<Roselitte>\"Monster taming magic, huh...\""
                             ]
                         },
                         {
@@ -5633,21 +5360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…私、聞いたことがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　神話や逸話にもよく出てくる、実在する秘術でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもそれって…」"
+                                "\\n<Ameria>\"...I've heard of it. It's a real secret art that often\nappears in myths and legends, right? But that means...\""
                             ]
                         },
                         {
@@ -5727,28 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――魔物使役術は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　高位な魔物で、更に限られた者にしか使えない秘術。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから人間であるデオルクが使えるのはおかしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…って、言いたいんでしょ？」"
+                                "\\n<Lyric>\"--Monster taming magic is a secret art that can only be\nused by high-ranking monsters and a select few individuals.\nSo it's strange for Deorc, a human, to be able to use it...\nis what you want to say, right?\""
                             ]
                         },
                         {
@@ -5814,7 +5506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアはこくこくと頷いた。"
+                                "Ameria nodded vigorously."
                             ]
                         },
                         {
@@ -5887,21 +5579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「それと併せて、もう一つ不思議なことがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…騎士さま。実際にデオルクと戦った君なら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは\"痛いほど\"分かってるよね？」"
+                                "\\n<Lyric>\"In addition to that, there's another strange thing...\nKnight. Since you've actually fought Deorc, you know this\n'painfully' well, don't you?\""
                             ]
                         },
                         {
@@ -5974,21 +5652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…奴は、初めて戦った時とは違って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　異常なチカラを手にしていました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それこそ、同じ人物とは思えないほどに」"
+                                "\\n<Roselitte>\"...He had abnormal strength unlike the first time we\nfought. It was as if he wasn't even the same person.\""
                             ]
                         },
                         {
@@ -6068,14 +5732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そう。そして奴はこう言った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"俺は神に選ばれた\"ってね」"
+                                "\\n<Lyric>\"Right. And he said this: 'I have been chosen by God.'\""
                             ]
                         },
                         {
@@ -6148,21 +5805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「悪魔がここにいるんだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見たことないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　神様もどこかにはいるんだろうさ」"
+                                "\\n<Lyric>\"If demons exist here, then gods must be somewhere too, even\nthough we haven't seen them.\""
                             ]
                         },
                         {
@@ -6193,21 +5836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「だとしても、そんなのは馬鹿げた話だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物使役術やあのチカラを得られたのはきっと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アレの仕業のはず」"
+                                "\\n<Lyric>\"But even so, that's a ridiculous story. The monster taming\nmagic and that power must surely be the work of 'that'.\""
                             ]
                         },
                         {
@@ -6238,7 +5867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…アレ？」"
+                                "\\n<Ameria>\"...That?\""
                             ]
                         },
                         {
@@ -6318,14 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そう、アレ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…デオルクにチカラを与えたのは――」"
+                                "\\n<Lyric>\"Yes, 'that'... The one who gave Deorc his power is--\""
                             ]
                         },
                         {
@@ -6356,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――ちょっと、待ってください」"
+                                "\\n<Roselitte>\"--Wait a moment, please.\""
                             ]
                         },
                         {
@@ -6387,21 +6009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「洞窟でも言っていましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分は悪魔だ、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まさかとは思いますが……」"
+                                "\\n<Roselitte>\"He mentioned it in the cave as well. He said he was a\ndemon... It's hard to believe, but...\""
                             ]
                         },
                         {
@@ -6481,14 +6089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そういえば、まだ言ってなかったっけ」"
+                                "\\n<Lyric>\"Ah... now that you mention it, I haven't said it yet.\""
                             ]
                         },
                         {
@@ -6568,14 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…僕は淫魔・サキュバス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君の嫌いな魔物だよ」"
+                                "\\n<Lyric>\"...I am an incubus. A succubus. The kind of monster you\ndespise.\""
                             ]
                         },
                         {
@@ -6869,14 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「待って、ローゼリッテさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この子、悪い子じゃないよ！」"
+                                "\\n<Ameria>\"Wait, Roselitte-san! This child isn't bad!\""
                             ]
                         },
                         {
@@ -6998,14 +6585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「訳あって、一緒に教会で暮らしているの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大丈夫だから、剣をしまって」"
+                                "\\n<Ameria>\"There's a reason why we live together at the church. It's\nokay, so please put away your sword.\""
                             ]
                         },
                         {
@@ -7078,7 +6658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「サキュバスと一緒に…？　いったいどうして」"
+                                "\\n<Roselitte>\"Living with a succubus...? Why on earth would you...?\""
                             ]
                         },
                         {
@@ -7109,14 +6689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んふふ、前にもこんなことがあったなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…いいさ。殺したいのなら殺せばいいよ」"
+                                "\\n<Lyric>\"Nfufu, something like this has happened before.... It's\nfine. If you want to kill me, then go ahead.\""
                             ]
                         },
                         {
@@ -7196,14 +6769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でもそれは、話を聞いてからでも遅くないんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　せっかちは嫌われるよ、騎士さま」"
+                                "\\n<Lyric>\"But wouldn't it be better to hear the story first?\nImpatience is not a virtue, Knight-sama.\""
                             ]
                         },
                         {
@@ -7269,7 +6835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -7610,14 +7176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んふふ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騎士さまよくできました♪」"
+                                "\\n<Lyric>\"Nfufu... Well done, Knight-sama♪\""
                             ]
                         },
                         {
@@ -7690,7 +7249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…妙なことをすれば、斬ります」"
+                                "\\n<Roselitte>\"...If you do anything strange, I will cut you down.\""
                             ]
                         },
                         {
@@ -7770,14 +7329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はいはい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これまで通りおとなし～くしてますよ」"
+                                "\\n<Lyric>\"Yes, yes. I'll continue to behave myself just as I have\nbeen.\""
                             ]
                         },
                         {
@@ -7941,21 +7493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…さて、話を戻そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクが手にした魔物使役術と、強大なチカラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あれは神様じゃなくて、アレに与えられたものなんだ」"
+                                "\\n<Lyric>\"...Now, let's get back to the topic. The monster taming\nmagic and the immense power that Deorc acquired. Those were\ngiven by 'that'.\""
                             ]
                         },
                         {
@@ -8035,21 +7573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「覚えてるかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物使役術が使われた時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクは手に本を持っていたでしょ？」"
+                                "\\n<Lyric>\"Do you remember? When the monster taming magic was used,\nDeorc had a book in his hand, right?\""
                             ]
                         },
                         {
@@ -8129,7 +7653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「その本の名前は…\"欲喰いの魔本・ベギーアデ\"」"
+                                "\\n<Lyric>\"The name of that book is... 'The Gluttonous Grimoire of\nBegierde'.\""
                             ]
                         },
                         {
@@ -8160,21 +7684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「魔物を操る秘術も。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騎士さまを圧倒できるほどのチカラも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　きっと、あの魔本が与えたはずだ」"
+                                "\\n<Lyric>\"Both the secret art of controlling monsters and the power\nto overwhelm you, Knight-sama, must surely have been granted\nby that grimoire.\""
                             ]
                         },
                         {
@@ -8282,14 +7792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテとアメリアは目を合わせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪訝な表情を浮かべた。"
+                                "Roselitte and Ameria exchanged glances with puzzled\nexpressions."
                             ]
                         },
                         {
@@ -8313,14 +7816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「魔本がチカラを与えた…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当にそんなことがあり得るのですか」"
+                                "\\n<Roselitte>\"The grimoire granted power...? Can such a thing really be\npossible?\""
                             ]
                         },
                         {
@@ -8435,21 +7931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「たしかに秘術や禁術を記した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔本と呼ばれるものはいくつかあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ですが、あなたのその口ぶりでは……」"
+                                "\\n<Roselitte>\"Certainly, there are several grimoires known to contain\nsecret and forbidden arts... but from the way you speak...\""
                             ]
                         },
                         {
@@ -8529,14 +8011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「うん。ベギーアデは生きている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　意思があり、目的があってチカラを与えたんだ」"
+                                "\\n<Lyric>\"Yes. Begierde is alive. It has a will and a purpose when it\ngrants power.\""
                             ]
                         },
                         {
@@ -8609,7 +8084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そんなまさか…」"
+                                "\\n<Roselitte>\"That can't be possible...\""
                             ]
                         },
                         {
@@ -8675,7 +8150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…………」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -8741,14 +8216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…でも、それが本当だとして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデはどうしてデオルクにチカラを与えたの？」"
+                                "\\n<Ameria>\"...But even if that's true, why would Begierde grant power\nto Deorc?\""
                             ]
                         },
                         {
@@ -8828,14 +8296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「さあ？　それは僕も知りたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも関係があるとしたら…」"
+                                "\\n<Lyric>\"Who knows? That's what I'd like to find out too. But if\nthere's a connection...\""
                             ]
                         },
                         {
@@ -8901,7 +8362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックはローゼリッテに目を移した。"
+                                "Lyric turned her gaze to Roselitte."
                             ]
                         },
                         {
@@ -8925,7 +8386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…私？」"
+                                "\\n<Roselitte>\"...Me?\""
                             ]
                         },
                         {
@@ -9005,14 +8466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「関係ないほうが不自然でしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かベギーアデの恨みを買うようなことでもした？」"
+                                "\\n<Lyric>\"It would be unnatural if there wasn't a connection. Did you\ndo something to incur Begierde's wrath?\""
                             ]
                         },
                         {
@@ -9085,21 +8539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そんなの知りませんよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本はよく読みますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　傷つけるようなことはしたことありませんし」"
+                                "\\n<Roselitte>\"I don't know anything about that... I read books often, but\nI've never done anything to harm them.\""
                             ]
                         },
                         {
@@ -9179,14 +8619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なにそれ。君って面白いこと言うね」"
+                                "\\n<Lyric>\"--Haha! What's that? You say some funny things.\""
                             ]
                         },
                         {
@@ -9252,7 +8685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -9276,14 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…はい、リリック先生。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう一つ質問があるんですが」"
+                                "\\n<Ameria>\"...Okay, Professor Lyric. I have another question.\""
                             ]
                         },
                         {
@@ -9363,7 +8789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「どうぞ、アメリアくん」"
+                                "\\n<Lyric>\"Go ahead, Ameria-kun.\""
                             ]
                         },
                         {
@@ -9436,14 +8862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「欲喰いの魔本・ベギーアデ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その\"欲喰い\"っていうのは何？」"
+                                "\\n<Ameria>\"'The Gluttonous Grimoire of Begierde.' What does\n'gluttonous' mean in this context?\""
                             ]
                         },
                         {
@@ -9523,28 +8942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「良い質問だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも難しく考えなくてもいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その名前の通り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデは\"欲望を喰う魔本\"なんだ」"
+                                "\\n<Lyric>\"Good question. But don't think too hard about it. Just as\nthe name suggests, Begierde is a 'grimoire that devours\ndesires'.\""
                             ]
                         },
                         {
@@ -9575,21 +8973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でもただ欲望を喰うだけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"欲望を糧に持ち主の願いを叶える魔本\"なのさ」"
+                                "\\n<Lyric>\"But it doesn't just devour desires. Begierde is a 'grimoire\nthat fulfills the owner's wishes by feeding on desires'.\""
                             ]
                         },
                         {
@@ -9662,21 +9046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…え、ごめん、よく分からなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　願いを叶えるっていうのは、その…え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どういうこと…？」"
+                                "\\n<Ameria>\"...Eh, sorry, I don't quite understand. Fulfilling wishes\nmeans, that... eh? What does that mean...?\""
                             ]
                         },
                         {
@@ -9756,14 +9126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…ちょっと落ち着きなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君いますごい馬鹿っぽいよ」"
+                                "\\n<Lyric>\"...Calm down a bit. You're sounding quite foolish right\nnow.\""
                             ]
                         },
                         {
@@ -9836,14 +9199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だって…そんなことありえないもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　願いを叶えるなんてありっこない」"
+                                "\\n<Ameria>\"But... that's impossible. Fulfilling wishes just can't\nhappen.\""
                             ]
                         },
                         {
@@ -9923,7 +9279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でも、これは本当の話さ」"
+                                "\\n<Lyric>\"But this is a true story.\""
                             ]
                         },
                         {
@@ -10003,28 +9359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ベギーアデは\"記憶を綴ること\"で書き手の欲望を喰らい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それを糧にして、願いを叶える奇跡を起こすんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"喰わせる欲望の質や量によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　叶えられる願いには限界がある\"んだけどね」"
+                                "\\n<Lyric>\"'Begierde performs miracles by fulfilling wishes through\n'chronicling memories.' It feeds on the writer's desires and\nuses them as nourishment. However, 'the quality and quantity\nof the desires fed to it determine the limits of the wishes\nit can grant.'\""
                             ]
                         },
                         {
@@ -10132,14 +9467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテとアメリアは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「信じられない」といった様子で顔を見合わせた。"
+                                "Roselitte and Ameria exchanged glances, both looking\nincredulous."
                             ]
                         },
                         {
@@ -10240,7 +9568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -10264,14 +9592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…サキュバス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一つ質問に答えなさい」"
+                                "\\n<Roselitte>\"Succubus. Answer one question for me.\""
                             ]
                         },
                         {
@@ -10302,7 +9623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなた、何を企んでいるんです」"
+                                "\\n<Roselitte>\"What are you plotting?\""
                             ]
                         },
                         {
@@ -10382,7 +9703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はあ？」"
+                                "\\n<Lyric>\"Huh?\""
                             ]
                         },
                         {
@@ -10413,28 +9734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「盗賊が村を襲い、アメリアが誘拐され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして、ベギーアデが現れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　更にあなたはアメリアと同居していて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデについてここまで熟知している…」"
+                                "\\n<Roselitte>\"Thieves attacked the village, Ameria was kidnapped, and\nthen Begierde appeared. Furthermore, you're living with\nAmeria and you know so much about Begierde...\""
                             ]
                         },
                         {
@@ -10507,7 +9807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――これは、偶然ですか」"
+                                "\\n<Roselitte>\"--Is this all just a coincidence?\""
                             ]
                         },
                         {
@@ -10592,7 +9892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは剣に手を伸ばした。"
+                                "Roselitte reached for her sword."
                             ]
                         },
                         {
@@ -10658,7 +9958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！」"
+                                "\\n<Ameria>\"Roselitte-san!\""
                             ]
                         },
                         {
@@ -10689,21 +9989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　淫魔は人を煽り、昂ぶらせ、堕落させる魔物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その言動にたぶらかされて堕ちた人間は多い」"
+                                "\\n<Roselitte>\"...Ameria. Succubi are demons that incite and excite\nhumans, leading them to corruption. Many have been deceived\nby their words and fallen.\""
                             ]
                         },
                         {
@@ -10734,14 +10020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どういう理由で淫魔と暮らしているのかは知りませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼女は私たち人間の敵なのですよ」"
+                                "\\n<Roselitte>\"I don't know why you're living with a succubus, but she is\nan enemy to us humans.\""
                             ]
                         },
                         {
@@ -10814,7 +10093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも…この子は…」"
+                                "\\n<Ameria>\"But... this girl is...\""
                             ]
                         },
                         {
@@ -10887,7 +10166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -10911,14 +10190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…サキュバス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたの目的を話しなさい」"
+                                "\\n<Roselitte>\"...Succubus. Speak your purpose.\""
                             ]
                         },
                         {
@@ -10942,7 +10214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -11015,14 +10287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…前置きが長くなっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ、本題を話させてもらおうかな」"
+                                "\\n<Lyric>\"...I've made quite the lengthy preface. Now, let me get to\nthe main point.\""
                             ]
                         },
                         {
@@ -11179,7 +10444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックは一度大きく息を吸って、言葉を続けた。"
+                                "Lyric took a deep breath before continuing her words."
                             ]
                         },
                         {
@@ -11203,14 +10468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「欲喰いの魔本・ベギーアデ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕は以前、その本の持ち主だった」"
+                                "\\n<Lyric>\"The Gluttonous Grimoire of Begierde. I was once the owner\nof that book.\""
                             ]
                         },
                         {
@@ -11241,14 +10499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…前、”とある女騎士”に、ひどいことをされてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしたらベギーアデが現れて、こう言ったんだ」"
+                                "\\n<Lyric>\"...Before, 'a certain female knight' did something terrible\nto me. Then Begierde appeared and said this to me.\""
                             ]
                         },
                         {
@@ -11279,14 +10530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「その騎士の欲望を…淫欲を喰わせてくれれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"僕の願いを叶えてくれる\"って」"
+                                "\\n<Lyric>\"'If you feed me the knight's desires... her lust, I will\ngrant your wish.'\""
                             ]
                         },
                         {
@@ -11317,28 +10561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「騎士を淫堕させて、淫欲を魔本に喰わせること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…報復すること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうすれば僕の頼みを聞いてくれるって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　約束してくれた」"
+                                "\\n<Lyric>\"'By corrupting the knight with lust and feeding it to the\ngrimoire... seeking revenge. If I did that, it promised to\nfulfill my request.'\""
                             ]
                         },
                         {
@@ -11418,21 +10641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕はベギーアデを頼ることにした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、その…それから少し、考えが変わってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その騎士に手を出したくなくなったんだ」"
+                                "\\n<Lyric>\"I decided to rely on Begierde. But then... after a while, I\nchanged my mind. I didn't want to lay a hand on that knight\nanymore.\""
                             ]
                         },
                         {
@@ -11463,21 +10672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「願いを叶えるために欲望の糧が必要なら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なにもその騎士を堕とさなくても構わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう思って、関係ない人間達に手を出した」"
+                                "\\n<Lyric>\"'If nourishment of desires is needed to fulfill a wish, it\ndoesn't have to be that knight who falls. That's what I\nthought, so I targeted unrelated humans instead.\""
                             ]
                         },
                         {
@@ -11508,14 +10703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「たくさんの人間を堕として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そいつらの淫欲をベギーアデに喰わせてきた」"
+                                "\\n<Lyric>\"I corrupted many humans and fed their lust to Begierde.\""
                             ]
                         },
                         {
@@ -11595,7 +10783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…たくさん。たくさんね」"
+                                "\\n<Lyric>\"...Many, many of them.\""
                             ]
                         },
                         {
@@ -11661,7 +10849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ／アメリア>「……」"
+                                "\\n<Roselitte/Ameria>\"...\""
                             ]
                         },
                         {
@@ -11734,28 +10922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…でも、ダメだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデはあの騎士の淫欲を欲していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そいつを淫堕させなきゃ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕の願いを叶えてくれなかったんだ」"
+                                "\\n<Lyric>\"...But it was no use. Begierde wanted that knight's lust.\nWithout corrupting her, it wouldn't grant my wish.\""
                             ]
                         },
                         {
@@ -11786,28 +10953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「だから僕は、騎士に手を出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近づいて、利用して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデに淫欲を喰わせるように画策した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…でも……」"
+                                "\\n<Lyric>\"So I went after the knight. I got close, used her, and\nschemed to feed her lust to Begierde... but...\""
                             ]
                         },
                         {
@@ -11887,7 +11033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…でも結局、僕はその騎士に殺されたんだ」"
+                                "\\n<Lyric>\"...In the end, I was killed by that knight.\""
                             ]
                         },
                         {
@@ -11960,7 +11106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…騎士に、殺された？　それはどういう…？」"
+                                "\\n<Roselitte>\"...Killed by the knight? What do you mean by...?\""
                             ]
                         },
                         {
@@ -12082,21 +11228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリックはね、\"ステラお姉ちゃん\"…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私のお姉ちゃんが、遺体のまま教会に持ってきたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しの間預かってくれって言って」"
+                                "\\n<Ameria>\"Lyric was brought to the church as a corpse by 'Stella\nOnee-san'... my older sister. She asked us to look after her\nfor a while.\""
                             ]
                         },
                         {
@@ -12169,7 +11301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…それからしばらくして、突然生き返ったの。本当に」"
+                                "\\n<Ameria>\"...And then after some time, she suddenly came back to\nlife. Really.\""
                             ]
                         },
                         {
@@ -12242,14 +11374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――そんな馬鹿な。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　死んだ者が生き返るなんて、そんなこと…」"
+                                "\\n<Roselitte>\"--That's absurd. The dead coming back to life, such a\nthing...\""
                             ]
                         },
                         {
@@ -12329,14 +11454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あるわけがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもただ一人、できる奴がいる」"
+                                "\\n<Lyric>\"It's impossible. But there is one who can do it.\""
                             ]
                         },
                         {
@@ -12458,21 +11576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「欲望を喰い、それを糧に願いを叶える魔本、ベギーアデ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かつて持ち主だった僕が生き返り…そして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデが現れた」"
+                                "\\n<Lyric>\"The Gluttonous Grimoire of Begierde, which feeds on desires\nand uses them to grant wishes. I, its former owner, was\nresurrected... and then Begierde appeared.\""
                             ]
                         },
                         {
@@ -12552,14 +11656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「騎士さま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君の言う通り、これは偶然じゃない」"
+                                "\\n<Lyric>\"Knight-sama. As you say, this is not a coincidence.\""
                             ]
                         },
                         {
@@ -12639,21 +11736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…でも僕は、本当に、何も分からないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうして生き返ったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベギーアデが何を考えているのか、何も分からない」"
+                                "\\n<Lyric>\"...But truly, I don't understand anything. Why I was\nresurrected, what Begierde is thinking, I don't know any of\nit.\""
                             ]
                         },
                         {
@@ -12733,7 +11816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「だから僕は、この真意を確かめたい」"
+                                "\\n<Lyric>\"That's why I want to ascertain its true intentions.\""
                             ]
                         },
                         {
@@ -12764,28 +11847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…騎士さま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君がデオルクの元に向かうのなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この先必ずベギーアデと接触するはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから僕も、一緒に同行させてほしい」"
+                                "\\n<Lyric>\"...Knight-sama. If you are heading towards Deorc, you will\ninevitably come into contact with Begierde. That's why I\nwant to accompany you on your journey.\""
                             ]
                         },
                         {
@@ -12851,7 +11913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -12924,21 +11986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「もちろんタダでとは言わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君と同行するからには、チカラを貸すことを約束する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　皇太子の救出にも、全面的に協力する」"
+                                "\\n<Lyric>\"Of course, I won't ask for nothing in return. If I am to\naccompany you, I promise to lend my strength. I will fully\ncooperate in the rescue of the Crown Prince.\""
                             ]
                         },
                         {
@@ -13018,14 +12066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「邪魔はしないからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君について行ってもいい？」"
+                                "\\n<Lyric>\"I won't get in the way. May I come with you?\""
                             ]
                         },
                         {
@@ -13049,7 +12090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -13115,14 +12156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いえ、信用できません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクの元には私一人で向かいます」"
+                                "\\n<Roselitte>\"No, I cannot trust you. I will head to Deorc alone.\""
                             ]
                         },
                         {
@@ -13202,7 +12236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…まあ、そう言われるのは分かってた」"
+                                "\\n<Lyric>\"...Well, I expected you to say that.\""
                             ]
                         },
                         {
@@ -13324,14 +12358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「一人…私は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も一緒に行かせて！」"
+                                "\\n<Ameria>\"Alone... what about me? Let me come with you!\""
                             ]
                         },
                         {
@@ -13404,14 +12431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「同行するのは安全な場所へ着くまで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう約束したはずです」"
+                                "\\n<Roselitte>\"You are to accompany me only until we reach a safe place.\nThat was the promise, wasn't it?\""
                             ]
                         },
                         {
@@ -13484,14 +12504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…でも、一人でなんて危険だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それにローゼリッテさんは怪我してるじゃない」"
+                                "\\n<Ameria>\"...But it's dangerous to go alone. Besides, Roselitte-san,\nyou're injured.\""
                             ]
                         },
                         {
@@ -13522,21 +12535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…あまり私を困らせないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は状況が状況なだけに手伝ってもらっているだけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたを危険な目に合わせるわけにはいきません」"
+                                "\\n<Roselitte>\"...Please don't trouble me. Given the situation, I'm only\naccepting your help because I have to, but I cannot allow\nyou to be put in danger.\""
                             ]
                         },
                         {
@@ -13609,28 +12608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「まあ一人でとは言いましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大きな町に行けば多少の兵はいるでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼らと合流し作戦を練ったうえで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクを攻撃します」"
+                                "\\n<Roselitte>\"Well, I did say I would go alone, but if we reach a large\ntown, there should be some soldiers. I will join them and\ndevise a strategy before attacking Deorc.\""
                             ]
                         },
                         {
@@ -13703,14 +12681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「戦うのは私たちの仕事です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたは大人しくしていなさい」"
+                                "\\n<Roselitte>\"Fighting is our job. You should just stay put.\""
                             ]
                         },
                         {
@@ -13734,7 +12705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -13758,28 +12729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そして、サキュバス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　事情はどうであれ、魔物と同行することなどできません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本来であれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私はあなたを斬ってしかるべき人間なのですよ」"
+                                "\\n<Roselitte>\"And as for you, succubus. Regardless of the circumstances,\nI cannot travel with a demon. By rights, I should be the one\nto slay you.\""
                             ]
                         },
                         {
@@ -13852,14 +12802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「しかし一応恩がありますし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたは貴重な情報を提供してくれました」"
+                                "\\n<Roselitte>\"However, you do owe me a favor, and you have provided\nvaluable information.\""
                             ]
                         },
                         {
@@ -13890,28 +12833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリアの手前、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物であることは聞かなかったことにしておきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　感謝しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたも一緒に安全な場所へ送り届けましょう」"
+                                "\\n<Roselitte>\"For Ameria's sake, I will pretend I did not hear of your\ndemonic nature. Be grateful. I will ensure you too are\nescorted to a safe place.\""
                             ]
                         },
                         {
@@ -13984,7 +12906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…このまま何もしなければ、の話ですが」"
+                                "\\n<Roselitte>\"...That is, if you do nothing from here on out.\""
                             ]
                         },
                         {
@@ -14064,21 +12986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どーもありがとうございます、騎士さま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何もしませんよーだ」"
+                                "\\n<Lyric>\"Ah, is that so. Thank you very much, Knight-sama. I won't\ndo anything—promise.\""
                             ]
                         },
                         {
@@ -14144,7 +13052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -14168,21 +13076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…そしてさらに言えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これまでの話が全て本当のことなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なおさら同行させることはできません」"
+                                "\\n<Roselitte>\"...And furthermore, if everything you've told us so far is\ntrue, all the more reason I cannot allow you to accompany\nus.\""
                             ]
                         },
                         {
@@ -14262,14 +13156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふぅん…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　理由を聞こうじゃないか」"
+                                "\\n<Lyric>\"Hmm...? Let's hear your reason then.\""
                             ]
                         },
                         {
@@ -14293,7 +13180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -14317,21 +13204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…淫魔の願い、ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聞かなくてもそれがどんなものか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だいたい想像がつきますよ」"
+                                "\\n<Roselitte>\"...A succubus's wish, huh? Even without asking, I can\nimagine what that might entail.\""
                             ]
                         },
                         {
@@ -14404,21 +13277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「前回はその"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\"卑しい願い\"が叶えられなくて残念でしたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今回は、私とアメリアをどう利用する気ですか？」"
+                                "\\n<Roselitte>\"Last time, it was unfortunate that your 'vile wish' was not\ngranted. How do you plan to use me and Ameria this time?\""
                             ]
                         },
                         {
@@ -14572,7 +13431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「あ……？」"
+                                "\\n<Lyric>\"Ah...?\""
                             ]
                         },
                         {
@@ -14905,7 +13764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「やはりか…！」"
+                                "\\n<Roselitte>\"Just as I thought...!\""
                             ]
                         },
                         {
@@ -15085,14 +13944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック！　ローゼリッテさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　二人ともやめてッ！」"
+                                "\\n<Ameria>\"Lyric! Roselitte-san! Stop it, both of you!\""
                             ]
                         },
                         {
@@ -15116,7 +13968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -15133,7 +13985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -15199,7 +14051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…チッ」"
+                                "\\n<Lyric>\"...Tch\""
                             ]
                         },
                         {
@@ -15458,14 +14310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…僕はもう、ベギーアデに欲望を喰わせる気も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　願いを叶えてもらうつもりもない」"
+                                "\\n<Lyric>\"...I no longer have any desire to feed Begierde with my\nwishes or to have them granted.\""
                             ]
                         },
                         {
@@ -15496,21 +14341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「それどころか、あいつのせいで殺されたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今すぐにでも焼き払ってやりたいくらい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつのことが嫌いだよ」"
+                                "\\n<Lyric>\"On the contrary, it's because of that thing that I was\nkilled. I hate Begierde so much that I'd burn it right now\nif I could.\""
                             ]
                         },
                         {
@@ -15590,21 +14421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「だから君たちをどうこうしようなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これっぽっちも考えてない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…誰のおかげで助かったか、思い出してみろ」"
+                                "\\n<Lyric>\"So I'm not thinking of doing anything to you guys at all...\nRemember who it is you owe your lives to.\""
                             ]
                         },
                         {
@@ -15677,7 +14494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふん。それも全て計算の上では？」"
+                                "\\n<Roselitte>\"Hmph. Is that all part of your calculation too?\""
                             ]
                         },
                         {
@@ -15822,7 +14639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさん。剣を下ろして」"
+                                "\\n<Ameria>\"...Roselitte-san. Lower your sword.\""
                             ]
                         },
                         {
@@ -15846,7 +14663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -16183,14 +15000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…二人を安全な場所へ連れていきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　同行するのはそこまでです」"
+                                "\\n<Roselitte>\"...I will take the two of you to a safe place. That is as\nfar as I will accompany you.\""
                             ]
                         },
                         {
@@ -16263,28 +15073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そしてサキュバス。覚えておきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたが何をしようと勝手にすればいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でももし私の、そして帝国の障害になるのであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　容赦はしません」"
+                                "\\n<Roselitte>\"And succubus. Remember this. Do whatever you want on your\nown accord. But if you become an obstacle to me or the\nempire, I will show no mercy.\""
                             ]
                         },
                         {
@@ -16357,7 +15146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -16374,7 +15163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…………」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -16447,14 +15236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ほんと、血の気が多いし頑固だよね、君って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなボロボロの体してるくせにさぁ」"
+                                "\\n<Lyric>\"Really, you're so hot-blooded and stubborn. And yet you're\nin such a battered state.\""
                             ]
                         },
                         {
@@ -16527,7 +15309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…なんですって？」"
+                                "\\n<Roselitte>\"...What did you say?\""
                             ]
                         },
                         {
@@ -16607,14 +15389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「怪我の具合は大丈夫？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕、これでも心配してるんだよねぇ」"
+                                "\\n<Lyric>\"Are your injuries okay? I'm actually worried about you, you\nknow.\""
                             ]
                         },
                         {
@@ -16638,7 +15413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックはローゼリッテの額の傷を指差した。"
+                                "Lyric pointed at the wound on Roselitte's forehead."
                             ]
                         },
                         {
@@ -16711,14 +15486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「それ。見た目以上にひどいんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　様子を見る限りじゃあ、頭の中が相当やられてる」"
+                                "\\n<Lyric>\"That looks worse than it appears, doesn't it? From what I\ncan see, it seems like your head has taken quite a beating.\""
                             ]
                         },
                         {
@@ -16798,14 +15566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「君はもう二度と、満足に戦えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…そうなんでしょ、アメリア？」"
+                                "\\n<Lyric>\"You'll never be able to fight properly again... Isn't that\nright, Ameria?\""
                             ]
                         },
                         {
@@ -16836,7 +15597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「それは…」"
+                                "\\n<Ameria>\"That is...\""
                             ]
                         },
                         {
@@ -16902,7 +15663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -16975,28 +15736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「しかも今は病み上がりなんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな体でどうにかなるものなのかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクはおろか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道中で野垂れ死ぬのがオチじゃないの」"
+                                "\\n<Lyric>\"And you're still recovering from illness, aren't you? With\nyour body in such a state, I wonder if you can really do\nanything. You might just drop dead on the way, not to\nmention facing Deoruk.\""
                             ]
                         },
                         {
@@ -17027,21 +15767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…なまった体はすぐ叩き起こします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それに戦えなくなったわけではありませんから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これくらい私にはどうってこと――」"
+                                "\\n<Roselitte>\"...I'll quickly whip this weakened body back into shape.\nAnd it's not like I've become unable to fight. This much is\nnothing to me--\""
                             ]
                         },
                         {
@@ -17230,7 +15956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん」"
+                                "\\n<Ameria>\"Roselitte-san\""
                             ]
                         },
                         {
@@ -17310,21 +16036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「このまま無理をしたら、死んじゃう。確実に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐかもしれないし、まだ先かもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもまた無理をすれば、近いうちに必ず…」"
+                                "\\n<Ameria>\"If you keep pushing yourself like this, you'll die for\nsure. It could be soon or later, but if you continue to\noverdo it, it will definitely happen sooner rather than\nlater...\""
                             ]
                         },
                         {
@@ -17390,7 +16102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -17463,21 +16175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…君は強い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なまった体を元に戻して多少無茶をすれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクに勝てるかもしれない」"
+                                "\\n<Lyric>\"...You are strong. If you get your weakened body back in\nshape and push yourself a bit, you might be able to defeat\nDeoruk.\""
                             ]
                         },
                         {
@@ -17508,28 +16206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「でも今そんな悠長にしてる時間があるのかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぐずぐずしてたら本当に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手が付けられなくなるかもしれないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　皇太子だってどうなるか分からない」"
+                                "\\n<Lyric>\"But do we have the luxury of time to do that? If we dawdle,\nthings might become truly unmanageable, and who knows what\nwill happen to the crown prince.\""
                             ]
                         },
                         {
@@ -17609,21 +16286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「デオルクは魔物を使役し、強大なチカラを得た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま戦っても勝算は低い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは君が、人一倍理解しているんじゃないの？」"
+                                "\\n<Lyric>\"Deoruk has enslaved monsters and gained immense power. Even\nif we fight as we are now, our chances of winning are slim.\nYou understand that better than anyone, don't you?\""
                             ]
                         },
                         {
@@ -17720,7 +16383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -17896,21 +16559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…だから、何だと言うんですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　例えあなたたちと協力しようとも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勝算が低いのは変わりありません」"
+                                "\\n<Roselitte>\"...So what are you trying to say? Even if we cooperate with\nyou guys, the chances of winning are still low.\""
                             ]
                         },
                         {
@@ -17941,21 +16590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなただって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　淫魔でありながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　盗賊相手にも苦戦しているではありませんか」"
+                                "\\n<Roselitte>\"Even you, a succubus, struggle against mere thieves.\""
                             ]
                         },
                         {
@@ -18028,21 +16663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…私はずっと、いかなる困難も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　己のチカラで道を斬り開いてきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私にはそれだけの知識と経験…チカラがあります」"
+                                "\\n<Roselitte>\"...I have always carved my path through any difficulty with\nmy own power. I have the knowledge, experience... and power\nto do so.\""
                             ]
                         },
                         {
@@ -18115,7 +16736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私は……」"
+                                "\\n<Roselitte>\"I am...\""
                             ]
                         },
                         {
@@ -18181,7 +16802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -18334,14 +16955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私は、ヴァラム帝国近衛十二騎士団の一柱。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ・シュバルツ」"
+                                "\\n<Roselitte>\"I am one of the twelve knights of the Varum Empire's\nImperial Guard. Roselitte Schwarz.\""
                             ]
                         },
                         {
@@ -18372,21 +16986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…サキュバス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてもこの私と同行したいのであれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それ相応の信頼と、価値を示しなさい」"
+                                "\\n<Roselitte>\"...Succubus. If you truly wish to accompany me, then show\nme the trust and value that befits it.\""
                             ]
                         },
                         {
@@ -18490,7 +17090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -18563,14 +17163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…はん。さすがというかなんというか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな体になっても態度だけは立派だね」"
+                                "\\n<Lyric>\"...Hmph. As expected, or should I say typical? Even with\nyour body in such a state, your attitude remains grand.\""
                             ]
                         },
                         {
@@ -18650,7 +17243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…でもまあ、そういうのは嫌いじゃない」"
+                                "\\n<Lyric>\"...But well, I don't dislike that about you.\""
                             ]
                         },
                         {
@@ -18730,14 +17323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「いいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　デオルクに勝ちたいのなら、この僕が勝たせてあげる」"
+                                "\\n<Lyric>\"Fine. If you want to defeat Deoruk, I'll make sure you\nwin.\""
                             ]
                         },
                         {
@@ -18810,7 +17396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…どういうことです」"
+                                "\\n<Roselitte>\"...What do you mean by that?\""
                             ]
                         },
                         {
@@ -18890,7 +17476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「んふふ…♪」"
+                                "\\n<Lyric>\"Nfufu...♪\""
                             ]
                         },
                         {
@@ -19054,7 +17640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックは両手をゆっくりと広げて、言った。"
+                                "Lyric slowly spread his arms and said,"
                             ]
                         },
                         {
@@ -19078,14 +17664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕に身を任せてくれるだけでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしたら、君の願いを叶えるチカラを貸してあげる」"
+                                "\\n<Lyric>\"Just entrust yourself to me. If you do that, I'll lend you\nthe power to make your wishes come true.\""
                             ]
                         },
                         {
@@ -19116,7 +17695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「なんて言ったって、僕は――」"
+                                "\\n<Lyric>\"After all, I am--\""
                             ]
                         },
                         {
@@ -19196,14 +17775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕は願いを叶える素敵な女の子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リリックなんだからね♪」"
+                                "\\n<Lyric>\"I am the wonderful girl who grants wishes. Lyric♪\""
                             ]
                         },
                         {

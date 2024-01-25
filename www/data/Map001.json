@@ -2567,21 +2567,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「コヨルの森」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Enter \"Koyoru Forest\"? Confirm Key: Enter / Cancel Key: Do\nNot Enter"
                             ]
                         },
                         {
@@ -3251,21 +3237,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ホルヌス洞窟」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Will you enter the \"Hornus Cave\"? Confirm Key: Enter /\nCancel Key: Do Not Enter"
                             ]
                         },
                         {
@@ -3935,21 +3907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ナヌーマ森林」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Will you enter \"Nanu-Ma Forest\"? Confirm Key: Enter / Cancel\nKey: Do Not Enter"
                             ]
                         },
                         {
@@ -4705,21 +4663,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「アンナベルン」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Enter \"Annabern\"? Confirm Key: Enter / Cancel Key: Do not\nenter"
                             ]
                         },
                         {
@@ -5040,7 +4984,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ローゼリッテは衣服の補修を行った！"
+                                "Roselitte mended her clothes!"
                             ]
                         },
                         {
@@ -5100,7 +5044,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ローゼリッテは衣服を正した！"
+                                "Roselitte adjusted her outfit!"
                             ]
                         },
                         {
@@ -5171,7 +5115,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ローゼリッテは体の汚れを落とした！"
+                                "Roselitte washed off the dirt from her body!"
                             ]
                         },
                         {
@@ -5240,7 +5184,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ローゼリッテは体の汚れを落とした！"
+                                "Roselitte washed off the dirt from her body!"
                             ]
                         },
                         {
@@ -5309,7 +5253,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ローゼリッテは発情し昂る心をどうにか落ち着かせた。"
+                                "Roselitte somehow managed to calm her aroused and agitated\nheart."
                             ]
                         },
                         {
@@ -5338,7 +5282,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "しかしそれは内なる淫欲を更に深めていく…。"
+                                "However, that only served to deepen the lust within her..."
                             ]
                         },
                         {
@@ -5848,21 +5792,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「エイベル」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Would you like to enter \"Abel\"? Confirm Key: Enter / Cancel\nKey: Do Not Enter"
                             ]
                         },
                         {
@@ -6489,21 +6419,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「レアンダ密林」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Enter \"Leanda Jungle\"? Confirm Key: Enter / Cancel Key: Do\nNot Enter"
                             ]
                         },
                         {
@@ -7173,21 +7089,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「盗賊のアジト」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Will you enter the \"Thieves' Hideout\"? Confirm Key: Enter /\nCancel Key: Do Not Enter"
                             ]
                         },
                         {
@@ -7746,21 +7648,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「アナトス」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Enter \"Anatos\"? Confirm Key: Enter / Cancel Key: Do not\nenter"
                             ]
                         },
                         {
@@ -8392,21 +8280,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「回想」へ入りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "決定キー：入る ／ キャンセルキー：入らない"
+                                "Would you like to enter \"Recollection\"? Confirm Key: Enter /\nCancel Key: Do not enter"
                             ]
                         },
                         {

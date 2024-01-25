@@ -4248,7 +4248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "錆びた鍵Ａを手に入れた！"
+                                "Gained a Rusty Key A!"
                             ]
                         },
                         {
@@ -4516,7 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーション×２を手に入れた！"
+                                "Gained 2 Potions!"
                             ]
                         },
                         {
@@ -4784,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法の裁縫道具×２を手に入れた！"
+                                "Gained 2 Magic Sewing Kits!"
                             ]
                         },
                         {
@@ -5052,7 +5052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セィメンコロン×２を手に入れた！"
+                                "Gained Semen Cologne x2!"
                             ]
                         },
                         {

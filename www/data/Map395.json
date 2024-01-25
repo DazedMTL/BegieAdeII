@@ -16050,7 +16050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャカクリスタルを手に入れた！"
+                                "You've obtained the Jakaku Crystal!"
                             ]
                         },
                         {
@@ -16311,7 +16311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーションを手に入れた！"
+                                "Gained a High Potion!"
                             ]
                         },
                         {

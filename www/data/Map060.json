@@ -2638,21 +2638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<住民>「こんな時だもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　助け合わなきゃ――ってことは分かるけど…はあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつまでこれが続くのかしら」"
+                                "\\n<Villager>\"In times like these, we have to help each other out—I\nunderstand that, but... *sigh* I wonder how long this will\ncontinue.\""
                             ]
                         },
                         {

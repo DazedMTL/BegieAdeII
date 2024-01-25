@@ -9545,7 +9545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「くそっ…痛ってぇ…」"
+                                "\\n<Bandit Leader>\"Damn it... that hurts...\""
                             ]
                         },
                         {
@@ -9569,28 +9569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…質問に答えなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたたちはアナトス城主と金銭の取引を行っていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この洞窟はアナトスに通じている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　間違いありませんね？」"
+                                "\\n<Roselitte>\"...Answer my question. You have been conducting financial\ntransactions with the lord of Anatos, and this cave leads to\nAnatos, correct?\""
                             ]
                         },
                         {
@@ -9614,21 +9593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「どうしてそれを…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ああ、なんだ、そういうことか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここからアナトスに行くのが目的だったのか」"
+                                "\\n<Bandit Leader>\"Why do you... Ah, I see, that's what this is about. Your\ngoal was to head to Anatos from here.\""
                             ]
                         },
                         {
@@ -9645,21 +9610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「…そうだよ。アンタの言う通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この場所はもともと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　昔の戦争で帝国が作った道なんだ」"
+                                "\\n<Bandit Leader>\"...That's right. Just as you said. This place was\noriginally a route created by the empire during the old\nwar.\""
                             ]
                         },
                         {
@@ -9676,21 +9627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「この場所といくらか金をもらって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他のとこで盗った物を流してたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かなり美味しい話だったぜ」"
+                                "\\n<Bandit Leader>\"We got a bit of money for this place and sold the stuff we\nstole elsewhere. It was a pretty sweet deal.\""
                             ]
                         },
                         {
@@ -9707,28 +9644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「デオルクさんはいつも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気に入らねえ」って愚痴ってたけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　金がもらえるとはいえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あごで使われるのが嫌だったんだろうな」"
+                                "\\n<Bandit Leader>\"Deorc-san was always grumbling about not liking it. Even\nthough we got money, he hated being bossed around.\""
                             ]
                         },
                         {
@@ -9794,14 +9710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…奴がアナトスを攻撃したのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これまでこき使われた事への復讐…ということですか」"
+                                "\\n<Roselitte>\"...So his attack on Anatos was revenge for being exploited\nall this time... is that it?\""
                             ]
                         },
                         {
@@ -9825,7 +9734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「さあ。そこまでは聞かなきゃ分からねえ」"
+                                "\\n<Bandit Leader>\"Who knows. I wouldn't know unless I asked him.\""
                             ]
                         },
                         {
@@ -9884,21 +9793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「…はあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　にしても、割と上手くいってたのになぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奴隷商人の野郎が来てから全部狂っちまった」"
+                                "\\n<Bandit Leader>\"...Sigh. Things were going pretty well until that slave\ntrader bastard showed up and everything went to hell.\""
                             ]
                         },
                         {
@@ -9915,21 +9810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「デオルクさんはなんかすげえことしてるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奴隷商人の野郎も戻ってこねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…俺ら本格的におしまいだなあ」"
+                                "\\n<Bandit Leader>\"Deorc-san is up to something crazy, and the slave trader\nbastard hasn't come back... We're really finished now, huh.\""
                             ]
                         },
                         {
@@ -9995,14 +9876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…同情はしません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もとより盗賊稼業に手を出したあなたたちが悪い」"
+                                "\\n<Roselitte>\"...I have no sympathy for you. It's your own fault for\ngetting involved in thievery in the first place.\""
                             ]
                         },
                         {
@@ -10026,14 +9900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「ほんとにな。…あーあ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もっとマシに生きたいと思ったことはあるんだけどな！」"
+                                "\\n<Bandit Leader>\"Yeah, really... Ah-ah! I did think about living a better\nlife though!\""
                             ]
                         },
                         {
@@ -10050,7 +9917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -10179,7 +10046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは剣を収めた。"
+                                "Roselitte sheathed her sword."
                             ]
                         },
                         {
@@ -10196,7 +10063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「…あ？　なんだ、殺さねえのか」"
+                                "\\n<Bandit Leader>\"...Huh? What, you're not going to kill me?\""
                             ]
                         },
                         {
@@ -10220,7 +10087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アナトスへの道を教えなさい」"
+                                "\\n<Roselitte>\"Tell me the way to Anatos.\""
                             ]
                         },
                         {
@@ -10244,21 +10111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「それは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この先を進んで、洞窟を出たら川沿いに進めばいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　迷うことはねえはずだ」"
+                                "\\n<Bandit Leader>\"That would be... just keep going forward, and once you\nleave the cave, follow the river. You shouldn't get lost.\""
                             ]
                         },
                         {
@@ -10282,7 +10135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…そう。分かりました」"
+                                "\\n<Roselitte>\"...I see. Understood.\""
                             ]
                         },
                         {
@@ -10355,21 +10208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「事が済んだらこの地方を是正します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それまでに、そのマシな生き方というのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今一度考えておきなさい」"
+                                "\\n<Roselitte>\"Once this matter is settled, I will rectify this region.\nUntil then, give some thought to that better way of living\nyou mentioned.\""
                             ]
                         },
                         {
@@ -11113,7 +10952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あの…」"
+                                "\\n<Ameria>\"Um...\""
                             ]
                         },
                         {
@@ -11137,7 +10976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「…なんだよシスター。なんか用か」"
+                                "\\n<Bandit Leader>\"...What is it, Sister? Do you need something?\""
                             ]
                         },
                         {
@@ -11203,7 +11042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…少し、じっとしててね」"
+                                "\\n<Ameria>\"...Just stay still for a moment, okay?\""
                             ]
                         },
                         {
@@ -11301,7 +11140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「…どうして治療を？」"
+                                "\\n<Bandit Leader>\"...Why are you treating me?\""
                             ]
                         },
                         {
@@ -11367,14 +11206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…決して褒められた形ではないけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少なくとも今回の騒動まで村を襲ったりしなかった」"
+                                "\\n<Ameria>\"...It's not exactly commendable, but at least you didn't\nattack the village during this commotion.\""
                             ]
                         },
                         {
@@ -11447,14 +11279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私には、あなたたちのした事全部が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　悪かったとは思えない」"
+                                "\\n<Ameria>\"I can't see everything you've done as entirely bad.\""
                             ]
                         },
                         {
@@ -11527,21 +11352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「落ち着いたら、ぜひ教会に来てね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　教会は誰でも受け入れるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　神様は、どんな人にでも耳を傾けるから」"
+                                "\\n<Ameria>\"Once you've calmed down, please come to the church. The\nchurch welcomes everyone, and God listens to anyone.\""
                             ]
                         },
                         {
@@ -11565,7 +11376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「……」"
+                                "\\n<Bandit Leader>\"...\""
                             ]
                         },
                         {
@@ -11684,21 +11495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「急ぐから全員を診ることはできないけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　薬、ここに置いておくから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しっかり治療しておいてね」"
+                                "\\n<Ameria>\"I'm in a hurry so I can't treat everyone... but I'll leave\nsome medicine here, make sure to use it properly for\ntreatment.\""
                             ]
                         },
                         {
@@ -11722,7 +11519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊たち>「……」"
+                                "\\n<Thieves>\"...\""
                             ]
                         },
                         {
@@ -11739,7 +11536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<盗賊リーダー>「…ありがとうな、シスター」"
+                                "\\n<Bandit Leader>\"...Thanks, Sister.\""
                             ]
                         },
                         {
@@ -11805,7 +11602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…うん。ハレルヤ♪」"
+                                "\\n<Ameria>\"...Yes. Hallelujah♪\""
                             ]
                         },
                         {
@@ -13101,7 +12898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オールアウェイを手に入れた！"
+                                "Gained All Away!"
                             ]
                         },
                         {

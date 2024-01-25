@@ -20866,21 +20866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「兵士長。明日から行われる村の復興計画と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　避難した住民の護送計画について簡単にまとめました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目を通しておいてください」"
+                                "\\n<Roselitte>\"Captain, I've briefly summarized the village reconstruction\nplan starting tomorrow and the escort plan for the evacuated\nresidents. Please review it.\""
                             ]
                         },
                         {
@@ -20904,7 +20890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「ハッ。かしこまりました」"
+                                "\\n<Captain>\"Yes, understood.\""
                             ]
                         },
                         {
@@ -20928,7 +20914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「捕縛した盗賊たちの様子は？」"
+                                "\\n<Roselitte>\"How are the captured bandits behaving?\""
                             ]
                         },
                         {
@@ -20952,14 +20938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「今のところは大人しいものです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…まあ、一人を除いて」"
+                                "\\n<Captain>\"For the most part, they're quiet... well, except for one.\""
                             ]
                         },
                         {
@@ -20976,14 +20955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「ですが厳重に監視しておりますので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か妙なことがあれば、すぐにご報告します」"
+                                "\\n<Captain>\"But we're keeping a close watch, so if anything strange\nhappens, we'll report it immediately.\""
                             ]
                         },
                         {
@@ -21007,14 +20979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。賊とはいえ警戒は怠らないように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　兵の体調管理も徹底して」"
+                                "\\n<Roselitte>\"Good. Even if they are thieves, don't let your guard down.\nAlso, make sure to thoroughly manage the soldiers' health.\""
                             ]
                         },
                         {
@@ -21038,7 +21003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士長は敬礼して応えた。"
+                                "The Captain saluted in response."
                             ]
                         },
                         {
@@ -21104,21 +21069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…それともう一つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　例の、この村の警備状況について。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　調べはつきましたか」"
+                                "\\n<Roselitte>\"...And one more thing. Have you finished investigating the\nsecurity situation of this village?\""
                             ]
                         },
                         {
@@ -21142,21 +21093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだ不可解な点は多いのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　住民から話を聞いて、おおよその見当はつきました」"
+                                "\\n<Captain>\"Yes. There are still many puzzling aspects, but after\ntalking to the residents, we have a general idea.\""
                             ]
                         },
                         {
@@ -21173,28 +21110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「…やはり、通常配備されているはずの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヴァラム警備兵は村に一人もいませんでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　逃げたというわけでも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　殺されたというわけでもないようです」"
+                                "\\n<Captain>\"...As expected, not a single Valam security guard, who\nshould have been stationed here, was present in the village.\nIt doesn't seem like they fled or were killed.\""
                             ]
                         },
                         {
@@ -21260,7 +21176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…この村は、最初から無防備だったと」"
+                                "\\n<Roselitte>\"...So this village was defenseless from the start.\""
                             ]
                         },
                         {
@@ -21284,21 +21200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「はい。この地方の管轄は\"中央都市・レーベ\"です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レーベの城主が何かしらの理由で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警備兵を退けさせたものだと思われますが…」"
+                                "\\n<Captain>\"Yes. The jurisdiction of this region is 'Central City\nLeve'. It seems that the lord of Leve had the security\nguards withdrawn for some reason...”"
                             ]
                         },
                         {
@@ -21364,7 +21266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「村の住民はなんと？」"
+                                "\\n<Roselitte>\"What about the villagers?\""
                             ]
                         },
                         {
@@ -21388,28 +21290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「それが、その…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村人全員、理由がよく分かっていないようなのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　突然村に駐屯していた警備兵が引き上げてしまった、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　つい先日の話のようです」"
+                                "\\n<Captain>\"That's the thing... it seems none of the villagers\nunderstand why. The security guards who were stationed in\nthe village suddenly pulled out. It happened just the other\nday.\""
                             ]
                         },
                         {
@@ -21808,7 +21689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -21874,21 +21755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この件に関しては私が引き継ぎます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたは、村の復興と避難民捜索に専念して」"
+                                "\\n<Roselitte>\"...Understood. I will take over this matter. You focus on\nthe village reconstruction and searching for the evacuees.\""
                             ]
                         },
                         {
@@ -21912,7 +21779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士長>「ハッ。かしこまりました」"
+                                "\\n<Captain>\"Yes, understood.\""
                             ]
                         },
                         {
@@ -22225,14 +22092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ａ>「この酒、美味いな！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんでも大事に貯蔵していた良い酒らしいぞ」"
+                                "\\n<Soldier A>\"This liquor is delicious! It seems to be a fine wine that\nwas carefully stored away.\""
                             ]
                         },
                         {
@@ -22249,7 +22109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士Ｂ>「へー、こりゃあ贅沢だ。良い果実酒だぜ」"
+                                "\\n<Soldier B>\"Heh, this is a luxury. A fine fruit wine indeed.\""
                             ]
                         },
                         {
@@ -22505,7 +22365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「貯蔵していた酒…？」"
+                                "\\n<Roselitte>\"Stored wine...?\""
                             ]
                         },
                         {
@@ -22578,7 +22438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…兵たちの様子を見に行きましょうか」"
+                                "\\n<Roselitte>\"...Shall we go check on the soldiers?\""
                             ]
                         },
                         {
@@ -23451,7 +23311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -23607,7 +23467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -23703,7 +23563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

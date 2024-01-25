@@ -5366,14 +5366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どこまで行かれるのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これ以上は…」"
+                                "\\n<Roselitte>\"How far are you going? You can't go any further...\""
                             ]
                         },
                         {
@@ -5397,7 +5390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「この辺りのはずなんだが…。ふぅむ…」"
+                                "\\n<Yuri>??? \"It should be around here... Hmm...\""
                             ]
                         },
                         {
@@ -5470,14 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「これ以上はいけません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お戻りください」"
+                                "\\n<Roselitte>\"You can't go any further. Please go back.\""
                             ]
                         },
                         {
@@ -5501,14 +5487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「まあまあ、もう少し先まで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――おっ。やはりここで合っていたか」"
+                                "\\n<Yuri>??? \"Now, now, just a little further...--Oh. So I was right\nabout this place.\""
                             ]
                         },
                         {
@@ -5723,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あ、殿下！　もう…」"
+                                "\\n<Roselitte>\"Ah, Your Highness! You really shouldn't...\""
                             ]
                         },
                         {

@@ -1869,14 +1869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<道具屋の店主>「おや、あなたは…ローゼリッテ様？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして当店をご利用くださるのですか？」"
+                                "\\n<Tool shop owner>\"Oh, are you... Lady Roselitte? Could it be that you wish to\npatronize our store?\""
                             ]
                         },
                         {
@@ -1893,21 +1886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<道具屋の店主>「大変光栄なのですが、その…先の襲撃によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医薬品をはじめとした物資が枯渇しておりまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とても商いができる状態ではないのです」"
+                                "\\n<Tool shop owner>\"It is a great honor, however... due to the recent attack,\nour supplies including medical goods have been depleted. We\nare not in a position to conduct business.\""
                             ]
                         },
                         {
@@ -1924,14 +1903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<道具屋の店主>「再開の目途はまだ立っておりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　申し訳ございませんが、なにとぞご理解を…」"
+                                "\\n<Tool shop owner>\"We have no estimate for when we will resume operations. I\napologize, but please try to understand...\""
                             ]
                         },
                         {
@@ -2021,7 +1993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<道具屋の店主>「道中くれぐれもお気をつけて」"
+                                "\\n<Tool shop owner>\"Please take care on your journey.\""
                             ]
                         },
                         {

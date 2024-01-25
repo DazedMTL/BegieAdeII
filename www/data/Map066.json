@@ -20666,7 +20666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「大丈夫か。無理はするなよ」"
+                                "\\n<Yuri>\"Are you okay? Don't push yourself too hard.\""
                             ]
                         },
                         {
@@ -20729,7 +20729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーリはローゼリッテに回復薬を与えた。"
+                                "Yuri gave Roselitte a healing potion."
                             ]
                         },
                         {
@@ -21315,7 +21315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは自分の荷物の中に手を伸ばした。"
+                                "Roselitte reached into her bag."
                             ]
                         },
                         {
@@ -21364,14 +21364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーション×５を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マジックポーション×３を手に入れた！"
+                                "Gained 5 Potions! Gained 3 Magic Potions!"
                             ]
                         },
                         {
@@ -23901,7 +23894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「どうかお気をつけて！」"
+                                "\\n<Soldier>\"Please be careful!\""
                             ]
                         },
                         {
@@ -24011,7 +24004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24102,7 +24095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「我々が殿下をお守りいたします」"
+                                "\\n<Soldier>\"We shall protect Your Highness.\""
                             ]
                         },
                         {
@@ -24193,7 +24186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>「ここは我々にお任せください！」"
+                                "\\n<Soldier>\"Leave this place to us!\""
                             ]
                         },
                         {
@@ -24303,7 +24296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24413,7 +24406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24523,7 +24516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24633,7 +24626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -24744,7 +24737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

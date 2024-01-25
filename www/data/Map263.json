@@ -2160,7 +2160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふあぁ……。あー、眠い……」"
+                                "\\n<Lyric>\"Yawn... Ah, I'm so sleepy...\""
                             ]
                         },
                         {
@@ -2208,7 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「寝不足？　眠れなかったの？」"
+                                "\\n<Ameria>\"Lack of sleep? Couldn't you fall asleep?\""
                             ]
                         },
                         {
@@ -2305,14 +2305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ああ…どっかの誰かにひっつかれてたもんでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　寝にくいったらありゃしない」"
+                                "\\n<Lyric>\"Yeah... someone kept clinging to me, made it impossible to\nget comfortable.\""
                             ]
                         },
                         {
@@ -2329,14 +2322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…さて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　二人とも、準備はいいですね」"
+                                "\\n<Roselitte>\"...Well then. Both of you, are you ready?\""
                             ]
                         },
                         {
@@ -2464,14 +2450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「まずは予定通り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナトス城主と繋がりのある盗賊について調べます」"
+                                "\\n<Roselitte>\"First, as planned, we'll investigate the thieves connected\nto Lord Anatos.\""
                             ]
                         },
                         {
@@ -2488,28 +2467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「先ほどここの兵士に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナトス周辺の調査記録を調べるように頼みました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しばらくしたら盗賊についての情報を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　持ってきてくれるはずです」"
+                                "\\n<Roselitte>\"I've already asked the soldiers here to check the\ninvestigation records around Anatos. They should bring us\ninformation about the thieves soon.\""
                             ]
                         },
                         {
@@ -2568,28 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「それで、待っている間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この町の\"難民キャンプ\"へ向かいましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　情報収集と併せて、避難している人々の様子を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見ておきましょう」"
+                                "\\n<Roselitte>\"In the meantime, while we wait, shall we head to the\n'refugee camp' in this town? Along with gathering\ninformation, let's check on the condition of the people who\nhave taken refuge.\""
                             ]
                         },
                         {
@@ -2648,14 +2585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、私も賛成。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　難民キャンプはどこにあるの？」"
+                                "\\n<Ameria>\"Yeah, I agree. Where is the refugee camp located?\""
                             ]
                         },
                         {
@@ -2672,7 +2602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「町の広場一帯をキャンプ地にしているようです」"
+                                "\\n<Roselitte>\"It seems they've made the town square into a campsite.\""
                             ]
                         },
                         {
@@ -2689,21 +2619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「町の広場…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ならここから西にある所かな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確かにあそこは広いから、避難場所には良いかも」"
+                                "\\n<Ameria>\"The town square... So it's to the west from here, right?\nThat place is indeed spacious, might be a good spot for\nrefuge.\""
                             ]
                         },
                         {
@@ -2793,7 +2709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ふぅん。この町に詳しいんだね」"
+                                "\\n<Lyric>\"Hmm, you're quite familiar with this town, aren't you?\""
                             ]
                         },
                         {
@@ -2841,14 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「そりゃあ私、ここに住んでたからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…けっこう前の事だけど」"
+                                "\\n<Ameria>\"Well, I used to live here... though it was quite some time\nago.\""
                             ]
                         },
                         {
@@ -2865,14 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「そうなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずっとエイベルにいたんじゃないんだ」"
+                                "\\n<Lyric>\"Is that so? I thought you'd always been in Abel.\""
                             ]
                         },
                         {
@@ -2931,28 +2833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ちょっといろいろあって、怪我をしたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その時司祭様に引き取られて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それからエイベルに移り住むようになったんだよ」"
+                                "\\n<Ameria>\"Yeah... There were some complications, and I got injured.\nThat's when a priest took me in, and after that, I moved to\nAbel.\""
                             ]
                         },
                         {
@@ -2969,7 +2850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「あれからもう、１０年になるかな」"
+                                "\\n<Ameria>\"It's been almost 10 years since then.\""
                             ]
                         },
                         {
@@ -3035,7 +2916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「１０年……」"
+                                "\\n<Roselitte>\"10 years...\""
                             ]
                         },
                         {
@@ -3059,7 +2940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…………」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -3180,7 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…さ、準備はいいですね。出発しますよ」"
+                                "\\n<Roselitte>\"...Alright, are we all set? Let's depart.\""
                             ]
                         },
                         {

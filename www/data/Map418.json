@@ -7401,7 +7401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジックウォーターα×２を手に入れた！"
+                                "Gained Magic Water α×2!"
                             ]
                         },
                         {
@@ -7543,14 +7543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水が溜まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら体の汚れを落とせるだろう。"
+                                "There's a pool of clean water here. I could probably wash\noff the dirt from my body."
                             ]
                         },
                         {
@@ -7567,7 +7560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の汚れを洗い流しますか？"
+                                "Would you like to wash off the dirt from your body?"
                             ]
                         },
                         {
@@ -7575,8 +7568,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

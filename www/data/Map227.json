@@ -23328,7 +23328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ａ>「ちくしょう、どうしていきなり魔物が！？」"
+                                "\\n<Valam soldier a>\"Damn it, why are monsters appearing all of a sudden!?\""
                             ]
                         },
                         {
@@ -23345,14 +23345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ｂ>「わからねえよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とにかく、片っ端から魔物どもをやるしかねえ！」"
+                                "\\n<Valam soldier b>\"I have no idea! Anyway, we've got no choice but to take\ndown these monsters one by one!\""
                             ]
                         },
                         {
@@ -23520,14 +23513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ｃ>「おい、殿下がどこにいるか知らないか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　姿が見当たらないんだ！」"
+                                "\\n<Valam soldier c>\"Hey, does anyone know where His Highness is!? I can't find\nhim anywhere!\""
                             ]
                         },
                         {
@@ -23544,21 +23530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵Ａ>「いや見ていない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だがローゼリッテ様も一緒のはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺たちは魔物どもを追っ払うぞ！」"
+                                "\\n<Valam soldier a>\"No, I haven't seen him... But Roselitte-sama should be with\nhim! We'll drive these monsters away!\""
                             ]
                         },
                         {
@@ -23575,7 +23547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵たち>「オオッ！」"
+                                "\\n<Valam soldiers>\"Oooh!\""
                             ]
                         },
                         {
@@ -24373,7 +24345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「な…何がどうなって…」"
+                                "\\n<Ameria>\"Wha... What's happening...\""
                             ]
                         },
                         {
@@ -24568,7 +24540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>「オオオオオッ！！」"
+                                "\\n<Monster>\"ROOOAAARR!!\""
                             ]
                         },
                         {
@@ -24634,7 +24606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――きゃあああああッ！」"
+                                "\\n<Ameria>\"--Kyaaahhhhh!\""
                             ]
                         },
                         {
@@ -25424,7 +25396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！」"
+                                "\\n<Ameria>\"Roselitte-san!\""
                             ]
                         },
                         {
@@ -25534,14 +25506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはいったい、どういうことです」"
+                                "\\n<Roselitte>\"...Ameria. What on earth is going on?\""
                             ]
                         },
                         {
@@ -25614,14 +25579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「分からない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきなり魔物がたくさん現れて、村を…！」"
+                                "\\n<Ameria>\"I don't know... Suddenly, so many monsters appeared and the\nvillage...!\""
                             ]
                         },
                         {
@@ -25694,14 +25652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そんな馬鹿な…どうして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いきなりこんな大勢の魔物が村を襲うだなんて…」"
+                                "\\n<Roselitte>\"That's absurd... Why would so many monsters suddenly attack\nthe village...\""
                             ]
                         },
                         {
@@ -25725,14 +25676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「考えるのは後だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ローゼリッテ、お前は急ぎ住民の避難を手伝え！」"
+                                "\\n<Yuri>\"We'll think about that later. Roselitte, you must hurry and\nhelp with the evacuation of the residents!\""
                             ]
                         },
                         {
@@ -25829,7 +25773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ですが、ユーリ様をお一人にするわけには」"
+                                "\\n<Roselitte>\"...But I cannot leave you alone, Your Highness.\""
                             ]
                         },
                         {
@@ -25895,7 +25839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「――殿下！　ローゼリッテ様！」"
+                                "\\n<Valam soldier>\"--Your Highness! Roselitte-sama!\""
                             ]
                         },
                         {
@@ -26460,21 +26404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「この通り兵もいるし問題ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それに、多少の魔物に遅れをとるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺もやわではないさ」"
+                                "\\n<Yuri>\"There are soldiers here, so it's not a problem. Besides,\nI'm not so weak as to be delayed by a few monsters.\""
                             ]
                         },
                         {
@@ -26491,14 +26421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「――急げ、ローゼリッテ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　住民の避難が最優先だ！」"
+                                "\\n<Yuri>\"--Hurry, Roselitte! The evacuation of the residents is the\ntop priority!\""
                             ]
                         },
                         {
@@ -26595,7 +26518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…はい。かしこまりました」"
+                                "\\n<Roselitte>\"...Yes, I understand.\""
                             ]
                         },
                         {
@@ -26699,21 +26622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなたたち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様とアメリアを守りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔物に指一本触れさせないで」"
+                                "\\n<Roselitte>\"All of you. Protect Yuri-sama and Ameria. Don't let the\nmonsters touch them even with a single finger.\""
                             ]
                         },
                         {
@@ -26737,7 +26646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵たち>「「「ハッ！」」」"
+                                "\\n<Valam soldiers>\"'Yes, sir!'\""
                             ]
                         },
                         {
@@ -27418,14 +27327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も一緒に戦う…！」"
+                                "\\n<Ameria>\"Roselitte-san! I want to fight alongside you...!\""
                             ]
                         },
                         {
@@ -27529,14 +27431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「馬鹿なことを言わないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様のそばを離れないように」"
+                                "\\n<Roselitte>\"Don't be foolish. Stay by Yuri-sama's side.\""
                             ]
                         },
                         {
@@ -27567,7 +27462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「でも…！」"
+                                "\\n<Ameria>\"But...!\""
                             ]
                         },
                         {
@@ -27633,7 +27528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「……」"
+                                "\\n<Ameria>\"...\""
                             ]
                         },
                         {
@@ -27699,7 +27594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…うん。どうか気をつけて」"
+                                "\\n<Ameria>\"...Alright. Please be careful.\""
                             ]
                         },
                         {
@@ -27772,14 +27667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ。でも大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに方をつけますから」"
+                                "\\n<Roselitte>\"Yes. But don't worry. I'll settle this quickly.\""
                             ]
                         },
                         {
@@ -28052,7 +27940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――っと…」"
+                                "\\n<Roselitte>\"--Hmm...\""
                             ]
                         },
                         {
@@ -28088,7 +27976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは指輪が汚れないように荷物の中へしまった。"
+                                "Roselitte carefully stored the ring in her bag to keep it\nfrom getting dirty."
                             ]
                         },
                         {
@@ -28154,7 +28042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…よし」"
+                                "\\n<Roselitte>\"...Alright.\""
                             ]
                         },
                         {
@@ -28989,7 +28877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -29925,7 +29813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -30021,7 +29909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -30117,7 +30005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -30213,7 +30101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -30309,7 +30197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛けられている。"
+                                "It's locked."
                             ]
                         },
                         {

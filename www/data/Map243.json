@@ -5288,7 +5288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――嫌です」"
+                                "\\n<Roselitte>\"I refuse.\""
                             ]
                         },
                         {
@@ -5335,7 +5335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「嫌ってお前。これは――」"
+                                "\\n<Yuri>\"You refuse? This is--\""
                             ]
                         },
                         {
@@ -5359,14 +5359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「嫌です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　騎士はやめません」"
+                                "\\n<Roselitte>\"I refuse. I will not quit being a knight.\""
                             ]
                         },
                         {
@@ -5390,14 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「皇太子妃が戦場に出てどうするつもりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　父上もお許しになるはずがない」"
+                                "\\n<Yuri>\"What do you plan to do by going to the battlefield as the\nCrown Prince's wife? Father will never allow it.\""
                             ]
                         },
                         {
@@ -5421,21 +5407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「抗議します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…ユーリ様が何と言おうと、陛下がお相手でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出るとこ出ますから」"
+                                "\\n<Roselitte>\"I protest... No matter what you say, Lord Yuri, even if\nit's His Majesty himself, I will go where I must.\""
                             ]
                         },
                         {
@@ -5459,7 +5431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「わがままを言うなよ…」"
+                                "\\n<Yuri>\"Don't be so selfish...\""
                             ]
                         },
                         {
@@ -5483,14 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「何を言われても結構です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうあっても、騎士をやめるつもりはありません」"
+                                "\\n<Roselitte>\"No matter what you say, it's fine. I have no intention of\nquitting being a knight, no matter what.\""
                             ]
                         },
                         {
@@ -5563,14 +5528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「もし辞めさせるというのなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　婚約も…は、破棄させていただきます」"
+                                "\\n<Roselitte>\"If you insist on making me quit, then the engagement too...\nI shall have it annulled.\""
                             ]
                         },
                         {
@@ -5594,14 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指にはめた婚約指輪を撫でながら声を荒げた。"
+                                "Roselitte raised her voice while caressing the engagement\nring on her finger."
                             ]
                         },
                         {
@@ -5625,14 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「い…いただいた指輪も。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お、お返し…しますからねっ」"
+                                "\\n<Roselitte>\"The ring you gave me... I will... return it to you!\""
                             ]
                         },
                         {
@@ -5656,7 +5600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「お前なぁ…」"
+                                "\\n<Yuri>\"You...\""
                             ]
                         },
                         {
@@ -5673,14 +5617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…よし、分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこまで言うなら、返してもらうとするかな」"
+                                "\\n<Yuri>\"...Alright, I understand. If you say so, then I'll take it\nback.\""
                             ]
                         },
                         {
@@ -5697,14 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手を伸ばすユーリの手を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローゼリッテは手早く払いのけた。"
+                                "Roselitte quickly brushed away Yuri's outstretched hand."
                             ]
                         },
                         {
@@ -5770,7 +5700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「それも嫌です」"
+                                "\\n<Roselitte>\"I refuse that as well.\""
                             ]
                         },
                         {
@@ -5794,7 +5724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「わがまますぎるだろ！」"
+                                "\\n<Yuri>\"You're being too selfish!\""
                             ]
                         },
                         {
@@ -5811,7 +5741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「……」"
+                                "\\n<Yuri>\"...\""
                             ]
                         },
                         {
@@ -5828,21 +5758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…はあ。分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この件はまた、改める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だがこれだけは約束してくれ」"
+                                "\\n<Yuri>\"...Sigh. Alright, I understand. We'll revisit this matter\nlater. But promise me just this one thing.\""
                             ]
                         },
                         {
@@ -5859,21 +5775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「お前はしばらく休め。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺もこの遠征任務を終えたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しばらく休みを取ることにしよう」"
+                                "\\n<Yuri>\"You take a break for a while. Once I finish this expedition\nmission, I'll take some time off as well.\""
                             ]
                         },
                         {
@@ -5890,14 +5792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ああ、そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早めの新婚旅行というのも悪くない」"
+                                "\\n<Yuri>\"Ah, that's right. An early honeymoon wouldn't be too bad.\""
                             ]
                         },
                         {
@@ -5970,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「し、新婚……」"
+                                "\\n<Roselitte>\"A honeymoon...\""
                             ]
                         },
                         {
@@ -5994,14 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…どうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　悪くない話だろう？」"
+                                "\\n<Yuri>\"...What do you think? It's not a bad idea, right?\""
                             ]
                         },
                         {
@@ -6067,7 +5955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……//」"
+                                "\\n<Roselitte>\"...//\""
                             ]
                         },
                         {
@@ -6140,21 +6028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そ、そろそろ戻るとしましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまり長い間離れていると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　兵にいらぬ心配をさせてしまいます」"
+                                "\\n<Roselitte>\"We should head back soon. If we're apart for too long, it\nwill cause unnecessary worry among the soldiers.\""
                             ]
                         },
                         {
@@ -6178,14 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「もう戻るのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだいいじゃないか」"
+                                "\\n<Yuri>\"You want to go back already? We still have time.\""
                             ]
                         },
                         {
@@ -6258,21 +6125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ダメです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユーリ様の身の安全に関しては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の言うことに従ってもらいますからね」"
+                                "\\n<Roselitte>\"No, it's not allowed. You must follow my instructions\nregarding your safety, Lord Yuri.\""
                             ]
                         },
                         {
@@ -6296,7 +6149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…お堅い騎士には、困ったものだ」"
+                                "\\n<Yuri>\"...Such a stubborn knight can be quite troublesome.\""
                             ]
                         },
                         {
@@ -6313,14 +6166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「それなら、ゆっくり帰るとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…おいで」"
+                                "\\n<Yuri>\"Then let's take our time returning... Come here.\""
                             ]
                         },
                         {
@@ -6337,7 +6183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユーリはローゼリッテの手を引いた。"
+                                "Yuri took Roselitte's hand."
                             ]
                         },
                         {
@@ -6548,7 +6394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……//」"
+                                "\\n<Roselitte>\"...//\""
                             ]
                         },
                         {
@@ -6760,7 +6606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -6808,7 +6654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「どうした？」"
+                                "\\n<Yuri>\"What's wrong?\""
                             ]
                         },
                         {
@@ -7012,7 +6858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>「オオオオオッ！！」"
+                                "\\n<Monster>\"GRRRAAAHHH!!\""
                             ]
                         },
                         {
@@ -7060,7 +6906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「なっ――！」"
+                                "\\n<Yuri>\"What--!\""
                             ]
                         },
                         {
@@ -7084,7 +6930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ッ――！」"
+                                "\\n<Roselitte>\"Gah--!\""
                             ]
                         },
                         {
@@ -7499,14 +7345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…助かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すまなかったな、ローゼ――」"
+                                "\\n<Yuri>\"...That was close. Sorry about that, Rosel--\""
                             ]
                         },
                         {
@@ -7530,7 +7369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「まだ来ます！」"
+                                "\\n<Roselitte>\"They're still coming!\""
                             ]
                         },
                         {
@@ -8192,7 +8031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物たち>「「「ォォォオオオオオッ！！」」」"
+                                "\\n<Monsters>\"GRRRAAAHHH!! GRRRAAAHHH!! GRRRAAAHHH!!\""
                             ]
                         },
                         {
@@ -8209,14 +8048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「まさか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどうなっている！？」"
+                                "\\n<Yuri>\"No way... What in the world is happening!?\""
                             ]
                         },
                         {
@@ -8282,14 +8114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「くっ…急いで村へ！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が道を斬り開きます！」"
+                                "\\n<Roselitte>\"Damn... Hurry to the village! I'll carve us a path!\""
                             ]
                         },
                         {
@@ -8335,7 +8160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物たち>「「「ォォォオオオオオッ！！」」」"
+                                "\\n<Monsters>\"GRRRAAAHHH!! GRRRAAAHHH!! GRRRAAAHHH!!\""
                             ]
                         },
                         {

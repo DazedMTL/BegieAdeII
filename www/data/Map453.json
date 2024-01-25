@@ -12900,14 +12900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うぅ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだ昼なのに、どうしてこんな薄暗いのぉ…」"
+                                "\\n<Ameria>\"Ugh... Why is it so dim even though it's still noon...\""
                             ]
                         },
                         {
@@ -13011,14 +13004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…ローゼ、ここで少し休もう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これからまだ歩くし、アメリアがもう限界だ」"
+                                "\\n<Lyric>\"...Roselitte, let's rest here for a bit. We still have to\nwalk more, and Ameria is at her limit.\""
                             ]
                         },
                         {
@@ -13091,14 +13077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…大丈夫ですか？　顔色も悪いようですが」"
+                                "\\n<Roselitte>\"That's true... Are you okay? You look pale.\""
                             ]
                         },
                         {
@@ -13202,7 +13181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「う…うん…平気――」"
+                                "\\n<Ameria>\"Uh... yeah... I'm fine--\""
                             ]
                         },
                         {
@@ -13450,7 +13429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――ぎゃああああッッ！！」"
+                                "\\n<Ameria>\"--gyaaaahhh!!\""
                             ]
                         },
                         {
@@ -13808,7 +13787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ぐえッ！？」"
+                                "\\n<Lyric>\"Gueh!? What's that?\""
                             ]
                         },
                         {
@@ -13839,7 +13818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「オバケぇ！！」"
+                                "\\n<Ameria>\"A ghost!!\""
                             ]
                         },
                         {
@@ -13934,14 +13913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ちょッ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　首ッ…首締まってる！」"
+                                "\\n<Lyric>\"Wait...! My neck... It's being squeezed!\""
                             ]
                         },
                         {
@@ -13972,7 +13944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「助けて…助けてぇッ！」"
+                                "\\n<Ameria>\"Help me... Help meee!\""
                             ]
                         },
                         {
@@ -14067,14 +14039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ぐぇぇッ…！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　た、たしゅけてぇッ…！」"
+                                "\\n<Lyric>\"Guehh...! S-someone help meee...!\""
                             ]
                         },
                         {
@@ -14257,14 +14222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリア…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただの鳥ですよ、鳥。落ち着いて！」"
+                                "\\n<Roselitte>\"Ameria... It's just a bird, a bird. Calm down!\""
                             ]
                         },
                         {
@@ -14337,7 +14295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ぐすっ…ひっく、うぇぇぇええええ…！」"
+                                "\\n<Ameria>\"Sob... hic, waaaahhhhh...\""
                             ]
                         },
                         {

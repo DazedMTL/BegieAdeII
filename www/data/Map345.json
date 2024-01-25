@@ -12698,7 +12698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラインドアウェイを手に入れた！"
+                                "Gained Blind Away!"
                             ]
                         },
                         {
@@ -14102,7 +14102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フレイクリスタルを手に入れた！"
+                                "Gained a Flake Crystal!"
                             ]
                         },
                         {
@@ -14363,7 +14363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リフレッシュポーション×２を手に入れた！"
+                                "Gained 2 Refresh Potions!"
                             ]
                         },
                         {

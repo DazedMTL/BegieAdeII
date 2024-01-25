@@ -5403,7 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -5420,7 +5420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「……」"
+                                "\\n<Yuri>??? \"...\""
                             ]
                         },
                         {
@@ -5437,7 +5437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「今日のお前は、特に機嫌が悪いな」"
+                                "\\n<Yuri>??? \"You seem to be in a particularly bad mood today.\""
                             ]
                         },
                         {
@@ -5503,7 +5503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「そんなことはありません」"
+                                "\\n<Roselitte>\"That's not true.\""
                             ]
                         },
                         {
@@ -5527,21 +5527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「隠さなくてもいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前の口元を見ればすぐ分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつも以上にへの字だ」"
+                                "\\n<Yuri>??? \"There's no need to hide it. Just by looking at your\nmouth, I can tell. It's more downturned than usual.\""
                             ]
                         },
                         {
@@ -5607,7 +5593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「む……」"
+                                "\\n<Roselitte>\"Hmm...\""
                             ]
                         },
                         {
@@ -5638,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「何をそんなに怒っているんだ？」"
+                                "\\n<Yuri>??? \"What are you so angry about?\""
                             ]
                         },
                         {
@@ -5704,7 +5690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ご自身の胸に聞いてみてはいかがです」"
+                                "\\n<Roselitte>\"...Why don't you ask your own heart?\""
                             ]
                         },
                         {
@@ -5728,14 +5714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「お前なぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今更だが、この俺によくそんな口をきけるもんだ」"
+                                "\\n<Yuri>??? \"You... Even now, I'm surprised you can talk back to me\nlike that.\""
                             ]
                         },
                         {
@@ -5752,28 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…ああ、分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺が酒を持ってきたからか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遠征に酒を持ち出したから怒っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだろう？」"
+                                "\\n<Yuri>??? \"...Ah, I see. It's because I brought alcohol, isn't it?\nYou're angry because I took alcohol on the expedition.\nRight?\""
                             ]
                         },
                         {
@@ -5832,7 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテはプイッと顔をそらした。"
+                                "Roselitte turned her face away with a huff."
                             ]
                         },
                         {
@@ -5849,21 +5807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「固いやつめ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あれくらい良いじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何も酔い潰れるまで飲もうとしていないのだから」"
+                                "\\n<Yuri>??? \"You're so uptight. It's not a big deal. It's not like\nI'm planning to drink until I pass out.\""
                             ]
                         },
                         {
@@ -5929,14 +5873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…違います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなことで怒ったりなんてしていません」"
+                                "\\n<Roselitte>\"...No, that's not it. I'm not angry about something like\nthat.\""
                             ]
                         },
                         {
@@ -5960,7 +5897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「なら、どうしてそんなに機嫌が悪い」"
+                                "\\n<Yuri>??? \"Then why are you in such a bad mood?\""
                             ]
                         },
                         {
@@ -6019,7 +5956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -6036,7 +5973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「…ローゼリッテ？」"
+                                "\\n<Yuri>??? \"...Roselitte?\""
                             ]
                         },
                         {
@@ -6053,7 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -6077,7 +6014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…で…殿下は…」"
+                                "\\n<Roselitte>\"...So... Your Highness...\""
                             ]
                         },
                         {
@@ -6108,7 +6045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「殿下は…私を、必要としてくれていますか」"
+                                "\\n<Roselitte>\"Does Your Highness... need me?\""
                             ]
                         },
                         {
@@ -6132,7 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「なんだって？」"
+                                "\\n<Yuri>??? \"What did you say?\""
                             ]
                         },
                         {
@@ -6156,28 +6093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…今回の遠征任務。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いくらイリス様のご提案とはいえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近衛騎士団のみならず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私ですら置いていくことはないではありませんか」"
+                                "\\n<Roselitte>\"...This expedition mission. No matter if it was Lady Iris's\nsuggestion, isn't it unusual to leave not only the Royal\nGuards but even me behind?\""
                             ]
                         },
                         {
@@ -6201,7 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「それは…」"
+                                "\\n<Yuri>??? \"That is...\""
                             ]
                         },
                         {
@@ -6267,7 +6183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私が怪我をしたからですか？」"
+                                "\\n<Roselitte>\"Is it because I was injured?\""
                             ]
                         },
                         {
@@ -6298,21 +6214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ですが、誓い合ったではございませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この身がどうなろうと、殿下のそばにお仕えすると。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私をいつもそばに置いてくださると」"
+                                "\\n<Roselitte>\"But didn't we swear to each other? That no matter what\nhappens to me, I would serve by Your Highness's side. That\nyou would always keep me by your side.\""
                             ]
                         },
                         {
@@ -6343,7 +6245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…それでも殿下は、私を連れていきませんでした」"
+                                "\\n<Roselitte>\"...And yet, Your Highness did not take me with you.\""
                             ]
                         },
                         {
@@ -6416,7 +6318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私は……」"
+                                "\\n<Roselitte>\"I am...\""
                             ]
                         },
                         {
@@ -6447,7 +6349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「私はもう、帝国のために戦えないのですか」"
+                                "\\n<Roselitte>\"Am I no longer able to fight for the empire?\""
                             ]
                         },
                         {
@@ -6478,7 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「殿下のお力になれないのですか」"
+                                "\\n<Roselitte>\"Can I no longer be of assistance to Your Highness?\""
                             ]
                         },
                         {
@@ -6502,7 +6404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「……」"
+                                "\\n<Yuri>??? \"...\""
                             ]
                         },
                         {
@@ -6519,14 +6421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ユーリ>「ローゼリッテ、もう少しだけ付き合え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…この先にあるはずだ」"
+                                "\\n<Yuri>??? \"Roselitte, bear with me a little longer... It should be\njust ahead.\""
                             ]
                         },
                         {
@@ -6856,7 +6751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あ…殿下…？」"
+                                "\\n<Roselitte>\"Ah... Your Highness...?\""
                             ]
                         },
                         {

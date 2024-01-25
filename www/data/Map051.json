@@ -1653,14 +1653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<装備屋の店主>「悪いな。今は武器や防具は売ってないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　軍に依頼された装備を作るのに手一杯で」"
+                                "\\n<Equipment shop owner>\"Sorry about this. I'm not selling any weapons or armor\nright now. I'm swamped with making gear for a military\ncontract.\""
                             ]
                         },
                         {
@@ -1677,14 +1670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<装備屋の店主>「だけど旅に役立つ物は揃ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　味気ない品揃えだが、まあ見ていってくれよ」"
+                                "\\n<Equipment shop owner>\"But I do have items that could be useful for your journey.\nIt's a modest selection, but take a look anyway.\""
                             ]
                         },
                         {
@@ -1742,7 +1728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<装備屋の店主>「まいどあり！」"
+                                "\\n<Equipment shop owner>\"Thanks for stopping by!\""
                             ]
                         },
                         {
@@ -1832,7 +1818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<装備屋の店主>「いらっしゃい！」"
+                                "\\n<Equipment shop owner>\"Welcome!\""
                             ]
                         },
                         {
@@ -1890,7 +1876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<装備屋の店主>「まいどあり！」"
+                                "\\n<Equipment shop owner>\"Thank you as always!\""
                             ]
                         },
                         {

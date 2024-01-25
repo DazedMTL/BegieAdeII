@@ -1429,14 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大聖堂の中に入るとそこには大勢の人質がいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見張りの姿は見えなかった。"
+                                "Upon entering the cathedral, there were many hostages. No\nguards were in sight."
                             ]
                         },
                         {
@@ -1453,7 +1446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナトス住民>「ああ…助けがきてくださるなんて！」"
+                                "\\n<Anatose resident>\"Ah... to think help has come!\""
                             ]
                         },
                         {
@@ -1470,14 +1463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「静かに。あまり大きな声を出さないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人質はこれで全員ですか？」"
+                                "\\n<Roselitte>\"Quietly. Don't raise your voice too much. Are all the\nhostages here?\""
                             ]
                         },
                         {
@@ -1494,7 +1480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナトス住民>「はい、ここにいるのが全員だと思います」"
+                                "\\n<Anatose resident>\"Yes, I believe everyone here is accounted for.\""
                             ]
                         },
                         {
@@ -1511,7 +1497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「怪我人や具合の悪い者は？」"
+                                "\\n<Roselitte>\"Are there any injured or sick among you?\""
                             ]
                         },
                         {
@@ -1528,7 +1514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナトス住民>「怪我人はいませんが、奥に老人が」"
+                                "\\n<Anatose resident>\"There are no injured, but there's an elderly person in the\nback.\""
                             ]
                         },
                         {
@@ -1545,7 +1531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアが一歩前に出た。"
+                                "Ameria stepped forward."
                             ]
                         },
                         {
@@ -1562,7 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「私が診れますので、案内をお願いします」"
+                                "\\n<Ameria>\"I can take a look, please lead the way.\""
                             ]
                         },
                         {
@@ -1579,14 +1565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナトス住民>「ああ、シスターさんですね、良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こっちです」"
+                                "\\n<Anatose resident>\"Ah, you're a Sister, thank goodness. This way, please.\""
                             ]
                         },
                         {
@@ -1603,7 +1582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは男の後ろについていった。"
+                                "Ameria followed behind the man."
                             ]
                         },
                         {
@@ -1620,21 +1599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「デオルクについて何か知っている人はいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奴が帝国の要人を捕虜にしていると思われます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その話も伺っていますか」"
+                                "\\n<Roselitte>\"Does anyone know anything about Deorc? It's believed he's\ntaken imperial dignitaries hostage. Have you heard anything\nabout that?\""
                             ]
                         },
                         {
@@ -1651,14 +1616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナトス住民>「その、デオルクというのは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　逃げ遅れてからずっとここにいたので…」"
+                                "\\n<Anatose resident>\"This Deorc, you say? We've been here since we got left\nbehind...\""
                             ]
                         },
                         {
@@ -1675,14 +1633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「魔物を使役し、今回の騒動を起こした張本人です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…本当に何も知らないようですね」"
+                                "\\n<Roselitte>\"He's the mastermind who uses monsters and caused this\nturmoil... It seems you truly know nothing.\""
                             ]
                         },
                         {
@@ -1699,7 +1650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナトス住民>「め、面目ございません…」"
+                                "\\n<Anatose resident>\"I'm... I'm sorry...\""
                             ]
                         },
                         {
@@ -1716,7 +1667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -1733,7 +1684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック、どう見ますか」"
+                                "\\n<Roselitte>\"Lyric, what do you make of this?\""
                             ]
                         },
                         {
@@ -1750,7 +1701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -1767,7 +1718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「リリック？」"
+                                "\\n<Roselitte>\"Lyric?\""
                             ]
                         },
                         {
@@ -1784,14 +1735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リリックはローゼリッテの声を無視して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聖台のほうへ歩いていった。"
+                                "Ignoring Roselitte's voice, Lyric walked towards the altar."
                             ]
                         },
                         {
@@ -1808,7 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「……」"
+                                "\\n<Lyric>\"...\""
                             ]
                         },
                         {
@@ -1825,7 +1769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「どうかしましたか」"
+                                "\\n<Roselitte>\"Is something wrong?\""
                             ]
                         },
                         {
@@ -1842,14 +1786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…いや？　僕はどうも、こいつが苦手でね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "!\\リリックは聖台を睨んでそう言った。"
+                                "\\n<Lyric>\"...No? I just really don't like this thing,\" Lyric said,\nglaring at the altar."
                             ]
                         },
                         {
@@ -1866,7 +1803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「あなたは悪魔ですしね」"
+                                "\\n<Roselitte>\"Well, you are a demon after all.\""
                             ]
                         },
                         {
@@ -1883,14 +1820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「まあね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…でも、なんか、変なんだ」"
+                                "\\n<Lyric>\"Yeah... but still, something's off.\""
                             ]
                         },
                         {
@@ -1907,7 +1837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「変？」"
+                                "\\n<Roselitte>\"Off?\""
                             ]
                         },
                         {
@@ -1924,28 +1854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「僕は悪魔だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから、アメリアの教会にいた時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずっと不快感があったんだけど…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "!\\リリックは聖台に上がり、振り向いた。"
+                                "\\n<Lyric>\"I'm a demon. So when I was at Ameria's church, I always\nfelt uncomfortable...,\" Lyric climbed onto the altar and\nturned around."
                             ]
                         },
                         {
@@ -1962,7 +1871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「どうもこの大聖堂は、居心地がいい」"
+                                "\\n<Lyric>\"But somehow, this cathedral feels comfortable.\""
                             ]
                         },
                         {
@@ -1979,7 +1888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…それはどういう――」"
+                                "\\n<Roselitte>\"...What do you mean by that--\""
                             ]
                         },
                         {
@@ -1996,14 +1905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言いかけたその時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローゼリッテとリリックが出入り口へ体を向けた。"
+                                "As she was speaking, Roselitte and Lyric turned towards the\nentrance."
                             ]
                         },
                         {
@@ -2020,7 +1922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――敵だ」"
+                                "\\n<Lyric>\"--Enemies.\""
                             ]
                         },
                         {
@@ -2037,7 +1939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「全員！　扉から離れろッ！」"
+                                "\\n<Roselitte>\"Everyone! Get away from the door!\""
                             ]
                         },
                         {
@@ -2054,14 +1956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテが吠えたその時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな音を立てて教会の出入り口が崩れ去った。"
+                                "As Roselitte shouted, the entrance of the church collapsed\nwith a loud noise."
                             ]
                         },
                         {
@@ -2078,7 +1973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「ォォォォオオオオオオオオッッ！！」"
+                                "\\n<Voice of the monster>\"Grrraaaarrrghhh!!\""
                             ]
                         },
                         {
@@ -2095,7 +1990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アナトスの住民たちが悲鳴を上げる。"
+                                "The residents of Anatose screamed."
                             ]
                         },
                         {
@@ -2112,21 +2007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナトス住民>「うわあああ！　助けてくれぇ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひいい！　もうおしまいだぁ！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うああああお母さぁぁぁぁあああん！！」"
+                                "\\n<Anatose resident>\"Aaahhh! Save us!\",\"Eeeek! It's all over!!\",\"Aaahhh\nMommyyyyy!!\""
                             ]
                         },
                         {
@@ -2143,14 +2024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「みんな、こっち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奥に逃げてッ！　早くッ！」"
+                                "\\n<Ameria>\"Everyone, this way! To the back! Hurry!\""
                             ]
                         },
                         {
@@ -2167,7 +2041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「ォォォォオオオオオオオオッッ！！」"
+                                "\\n<Voice of the monster>\"Grrraaaarrrghhh!!\""
                             ]
                         },
                         {
@@ -2184,7 +2058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「きゃあ！？」"
+                                "\\n<Ameria>\"Kyaa!?\""
                             ]
                         },
                         {
@@ -2201,7 +2075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人質の避難をしていたアメリアに魔物が襲い掛かる。"
+                                "A monster attacked Ameria as she was helping the hostages\nevacuate."
                             ]
                         },
                         {
@@ -2218,7 +2092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを、ローゼリッテの剣が防いだ。"
+                                "Roselitte's sword blocked it."
                             ]
                         },
                         {
@@ -2235,7 +2109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ぐっ！！」"
+                                "\\n<Roselitte>\"Guh!!\""
                             ]
                         },
                         {
@@ -2252,7 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！」"
+                                "\\n<Ameria>\"Roselitte-san!\""
                             ]
                         },
                         {
@@ -2269,7 +2143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「彼らを聖堂の奥へ！　早く！」"
+                                "\\n<Roselitte>\"Take them to the back of the church! Quickly!\""
                             ]
                         },
                         {
@@ -2286,7 +2160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「は、はい！」"
+                                "\\n<Ameria>\"Y-Yes!\""
                             ]
                         },
                         {
@@ -2303,7 +2177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「ォォォォオオオオオオオオッッ！！」"
+                                "\\n<Voice of the monster>\"Grrraaaarrrghhh!!\""
                             ]
                         },
                         {
@@ -2320,7 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ッ…！　この、ナメるなッ…！！」"
+                                "\\n<Roselitte>\"Tch...! Don't underestimate me...!!\""
                             ]
                         },
                         {
@@ -2337,14 +2211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは力を振り絞り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大型の魔物を一振りで薙ぎ払った。"
+                                "Roselitte mustered her strength and swept away the large\nmonster with a single swing."
                             ]
                         },
                         {
@@ -2361,7 +2228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「グルルルルゥゥゥゥッッ！？」"
+                                "\\n<Voice of the monster>\"Grrrrrrrrr!!?\""
                             ]
                         },
                         {
@@ -2378,28 +2245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――ひゅう♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すご、やるじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう僕ら必要ないんじゃない？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "!\\リリックは唇を吹いてローゼリッテに肩を並べた。"
+                                "\\n<Lyric>\"--Phew♪ Impressive, you're doing great. Do we even need to\nbe here?\" Lyric whistled and lined up beside Roselitte."
                             ]
                         },
                         {
@@ -2416,14 +2262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ふふ…残念ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう力を出し切りました」"
+                                "\\n<Roselitte>\"Hehe... Unfortunately, I've already used up all my\nstrength.\""
                             ]
                         },
                         {
@@ -2440,14 +2279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「ははっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なに、君がそんなこと言うなんてね」"
+                                "\\n<Lyric>\"Haha. What, I can't believe you'd say something like that.\""
                             ]
                         },
                         {
@@ -2464,7 +2296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん！　リリック！」"
+                                "\\n<Ameria>\"Roselitte-san! Lyric!\""
                             ]
                         },
                         {
@@ -2481,7 +2313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアが駆け足で戻ってきた。"
+                                "Ameria came running back at a trot."
                             ]
                         },
                         {
@@ -2498,7 +2330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「みんな奥の部屋へ避難させたよ！」"
+                                "\\n<Ameria>\"I've evacuated everyone to the back room!\""
                             ]
                         },
                         {
@@ -2515,7 +2347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「よし――」"
+                                "\\n<Roselitte>\"Good--\""
                             ]
                         },
                         {
@@ -2532,7 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「ォォォォオオオオオオオオッッ！！」"
+                                "\\n<Voice of the monster>\"Grrraaaarrrghhh!!\""
                             ]
                         },
                         {
@@ -2549,14 +2381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「正面は私に任せて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　合図を見逃さないように」"
+                                "\\n<Roselitte>\"Leave the front to me. Don't miss the signal.\""
                             ]
                         },
                         {
@@ -2573,7 +2398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん！」"
+                                "\\n<Ameria>\"Okay!\""
                             ]
                         },
                         {
@@ -2590,7 +2415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「はいよ～♪」"
+                                "\\n<Lyric>\"Roger that～♪\""
                             ]
                         },
                         {
@@ -2607,7 +2432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――いきますッ！！」"
+                                "\\n<Roselitte>\"--Here I go!!\""
                             ]
                         },
                         {
@@ -2665,7 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「ガアアアアアアアアァァァァッッ！！？」"
+                                "\\n<Voice of the monster>\"Gaaaaaaaahhh!!?\""
                             ]
                         },
                         {
@@ -2682,7 +2507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物が暴れ狂い、大きな体で大聖堂の中をのたうち回る。"
+                                "The monster went berserk, thrashing its large body around\ninside the grand cathedral."
                             ]
                         },
                         {
@@ -2699,7 +2524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「きゃああっ！？」"
+                                "\\n<Ameria>\"Kyaaah!?\""
                             ]
                         },
                         {
@@ -2716,7 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリア、私の後ろへ！」"
+                                "\\n<Roselitte>\"Ameria, get behind me!\""
                             ]
                         },
                         {
@@ -2733,7 +2558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ちょ――手が付けられないんだけど！？」"
+                                "\\n<Ameria>\"Wait--it's out of control!?\""
                             ]
                         },
                         {
@@ -2750,7 +2575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「ォォォォオオオオオオオオッッ！！」"
+                                "\\n<Voice of the monster>\"Grrraaaarrrghhh!!\""
                             ]
                         },
                         {
@@ -2767,14 +2592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物は断末魔の叫びをあげて暴れ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大聖堂の聖堂を叩き壊した。"
+                                "The monster let out a death throes scream and smashed the\nsanctuary of the grand cathedral."
                             ]
                         },
                         {
@@ -2791,7 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ああ！　そ、そんな！」"
+                                "\\n<Ameria>\"Ah! No, this can't be!\""
                             ]
                         },
                         {
@@ -2808,7 +2626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「くっ…この、いい加減に…ッ！」"
+                                "\\n<Roselitte>\"Damn it... Enough of this...!\""
                             ]
                         },
                         {
@@ -2825,7 +2643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは飛び出して、剣を振りかぶった。"
+                                "Roselitte leaped forward, sword raised high."
                             ]
                         },
                         {
@@ -2842,7 +2660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあああああッ！！」"
+                                "\\n<Roselitte>\"Haaaaaaaah!!\""
                             ]
                         },
                         {
@@ -2859,7 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは魔物に剣を突き刺した。"
+                                "Roselitte plunged her sword into the monster."
                             ]
                         },
                         {
@@ -2876,7 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物の声>「ガアアアアアアアアァァァァッッ！！？」"
+                                "\\n<Voice of the monster>\"Gaaaaaaaahhh!!?\""
                             ]
                         },
                         {
@@ -2893,7 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物は最後に吠え、大人しくなった。"
+                                "The monster howled one last time and then quieted down."
                             ]
                         },
                         {
@@ -2910,7 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「はあ…はあ…」"
+                                "\\n<Roselitte>\"Haah... Haah...\""
                             ]
                         },
                         {
@@ -2927,7 +2745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ローゼリッテさん…！」"
+                                "\\n<Ameria>\"Roselitte-san...!\""
                             ]
                         },
                         {
@@ -2944,7 +2762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アメリアは膝をついたローゼリッテのもとに駆け寄った。"
+                                "Ameria rushed over to Roselitte, who had fallen to her\nknees."
                             ]
                         },
                         {
@@ -2961,7 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「だ、大丈夫？」"
+                                "\\n<Ameria>\"Are you okay?\""
                             ]
                         },
                         {
@@ -2978,7 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「ええ…なんとか…」"
+                                "\\n<Roselitte>\"Yes... Somehow...\""
                             ]
                         },
                         {
@@ -2995,14 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「しかし…ここまで暴れるなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聖堂に何の恨みがあったのでしょう」"
+                                "\\n<Roselitte>\"But... to go on such a rampage. What grudge did it have\nagainst the church?\""
                             ]
                         },
                         {
@@ -3019,7 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「うん、本当に…よりによって聖台を――うん？」"
+                                "\\n<Ameria>\"Yeah, really... Of all places, the altar--huh?\""
                             ]
                         },
                         {
@@ -3036,14 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖台に目を向けると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リリックが崩れた瓦礫をどかしていた。"
+                                "When they looked towards the altar, Lyric was moving aside\nthe collapsed rubble."
                             ]
                         },
                         {
@@ -3060,7 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「リリック、何してるの？」"
+                                "\\n<Ameria>\"Lyric, what are you doing?\""
                             ]
                         },
                         {
@@ -3077,14 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…２人とも、来てみなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　面白いものがあるよ」"
+                                "\\n<Lyric>\"...Both of you, come take a look. There's something\ninteresting here.\""
                             ]
                         },
                         {
@@ -3101,14 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテとアメリアは首をかしげて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リリックのもとに歩み寄った。"
+                                "Roselitte and Ameria walked over to Lyric with puzzled\nexpressions."
                             ]
                         },
                         {
@@ -3125,7 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「――こ、これは…」"
+                                "\\n<Roselitte>\"--This is...\""
                             ]
                         },
                         {
@@ -3142,14 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…アメリア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これが教会の隠し事ってやつみたいだ」"
+                                "\\n<Lyric>\"...Ameria. It seems like this is one of the church's\nsecrets.\""
                             ]
                         },
                         {
@@ -3166,7 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖台のあった場所には地下に通じる階段があった。"
+                                "Where the altar stood, there was a staircase leading\nunderground."
                             ]
                         },
                         {
@@ -3183,14 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「し、知らなかった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなものがあるだなんて…」"
+                                "\\n<Ameria>\"I-I had no idea... that something like this was here...\""
                             ]
                         },
                         {
@@ -3207,21 +2983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「それだけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この中から魔物の気配がする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…僕の魔力と一緒にね」"
+                                "\\n<Lyric>\"That's not all. I can sense the presence of monsters from\ninside... along with my magic.\""
                             ]
                         },
                         {
@@ -3238,14 +3000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…魔物使役術？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　――そ、それでは、\"まさか\"…！」"
+                                "\\n<Roselitte>\"...Monster taming?--Could it be... 'no way'...!\""
                             ]
                         },
                         {
@@ -3262,7 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「…察したかい？」"
+                                "\\n<Lyric>\"...Figured it out?\""
                             ]
                         },
                         {
@@ -3279,7 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -3296,7 +3051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…？」"
+                                "\\n<Ameria>\"...?\""
                             ]
                         },
                         {
@@ -3313,14 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「\"その答え\"は中にある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうする、ローゼ？」"
+                                "\\n<Lyric>\"'The answer' lies within. What will you do, Roselitte?\""
                             ]
                         },
                         {
@@ -3337,7 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -3354,14 +3102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…進むのは賢明な判断とは言えません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ですが――」"
+                                "\\n<Roselitte>\"...Proceeding may not be the wisest decision. However--\""
                             ]
                         },
                         {
@@ -3378,7 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテは聖堂の奥、人質が隠れている場所を見た。"
+                                "Roselitte looked towards the back of the cathedral, where\nthe hostages were hiding."
                             ]
                         },
                         {
@@ -3395,14 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「いま\"撒き餌は人質に\"なりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いまここを離れれば、彼らの命が危ない」"
+                                "\\n<Roselitte>\"'The bait is now the hostages.' If we leave now, their\nlives are in danger.\""
                             ]
                         },
                         {
@@ -3419,7 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「――そ、それって…！」"
+                                "\\n<Ameria>\"--That means...!\""
                             ]
                         },
                         {
@@ -3436,7 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「……」"
+                                "\\n<Roselitte>\"...\""
                             ]
                         },
                         {
@@ -3453,7 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…私はこの先へ進みます」"
+                                "\\n<Roselitte>\"...I will go ahead.\""
                             ]
                         },
                         {
@@ -3470,14 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「アメリア。リリック。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　２人はここに――」"
+                                "\\n<Roselitte>\"Ameria. Lyric. You two stay here--\""
                             ]
                         },
                         {
@@ -3494,7 +3221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言いかけて、ローゼリッテは首を振った。"
+                                "Mid-sentence, Roselitte shook her head."
                             ]
                         },
                         {
@@ -3511,7 +3238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「判断は任せます」"
+                                "\\n<Roselitte>\"I'll leave the decision to you.\""
                             ]
                         },
                         {
@@ -3528,21 +3255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リリック>「――んふふ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一緒に来てほしいって言うなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言ってあげてもいいよ？♪」"
+                                "\\n<Lyric>\"--Nfufu♪ If you want us to come with you, just say the\nword, okay?♪\""
                             ]
                         },
                         {
@@ -3559,7 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「ちょっと、リリック」"
+                                "\\n<Ameria>\"Hey, Lyric\""
                             ]
                         },
                         {
@@ -3576,14 +3289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アメリア>「…ローゼリッテさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も行く」"
+                                "\\n<Ameria>\"...Roselitte-san. I'm coming too.\""
                             ]
                         },
                         {
@@ -3600,7 +3306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ローゼリッテ>「…ええ、わかりました」"
+                                "\\n<Roselitte>\"...Yes, understood.\""
                             ]
                         },
                         {
@@ -3617,14 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローゼリッテはリリックを見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リリックは、肩をすくめて返事をした。"
+                                "Roselitte looked at Lyric. Lyric shrugged in response."
                             ]
                         },
                         {

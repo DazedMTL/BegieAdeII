@@ -4782,7 +4782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヴァラム兵>「ここで大人しくしていろ！」"
+                                "\\n<Valam soldier>\"Stay put right here!\""
                             ]
                         },
                         {
@@ -4811,7 +4811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「痛ってえ！」"
+                                "\\n<Deorc>\"Ouch, damn it!\""
                             ]
                         },
                         {
@@ -4854,21 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おい！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえら、どこに行きやがる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここから出せ！」"
+                                "\\n<Deorc>\"Hey! Where the hell do you think you're going! Let me out\nof here!\""
                             ]
                         },
                         {
@@ -4885,14 +4871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「この俺をこんなとこに押し込みやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てめえらタダで済まさねえからな！」"
+                                "\\n<Deorc>\"You bastards, locking me up in a place like this! You won't\nget away with this for free!\""
                             ]
                         },
                         {
@@ -4909,14 +4888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「おい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聞いてんのか、おいッ！！」"
+                                "\\n<Deorc>\"Hey! Are you listening to me, hey!!\""
                             ]
                         },
                         {
@@ -4933,7 +4905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「……」"
+                                "\\n<Deorc>\"...\""
                             ]
                         },
                         {
@@ -4950,14 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「ちくしょう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺は、こんな所で…」"
+                                "\\n<Deorc>\"Damn it... I can't end up in a place like this...\""
                             ]
                         },
                         {
@@ -4981,7 +4946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「……」"
+                                "\\n<???>\"...\""
                             ]
                         },
                         {
@@ -5005,7 +4970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「んふふ…」"
+                                "\\n<???>\"Nfufu...\""
                             ]
                         },
                         {
@@ -5052,14 +5017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「あぁ…？　幻聴？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頭おかしくなっちまったのか、俺は…？」"
+                                "\\n<Deorc>\"Ah...? Hallucinations? Have I gone crazy...?\""
                             ]
                         },
                         {
@@ -5083,14 +5041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「幻聴じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君はいたって正常。健康そのものさ」"
+                                "\\n<???>\"It's not a hallucination. You are perfectly sane. The\npicture of health.\""
                             ]
                         },
                         {
@@ -5114,14 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「だ、誰だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこにいる！？」"
+                                "\\n<Deorc>\"Who's there! Where are you!?\""
                             ]
                         },
                         {
@@ -5330,14 +5274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…なんだか、懐かしいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　歴史は繰り返されるとは、よく言ったものだね」"
+                                "\\n<???>\"...Somehow, this feels nostalgic. History does have a way\nof repeating itself, doesn't it?\""
                             ]
                         },
                         {
@@ -5392,14 +5329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「だ、誰だてめえ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどこから現れた！」"
+                                "\\n<Deorc>\"Who the hell are you!? Where did you come from!?\""
                             ]
                         },
                         {
@@ -5465,21 +5395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「どこから…か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それを説明するためには少し時間がかかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここはとりあえず、気にしないでもらえるかい？」"
+                                "\\n<???>\"Where from... Well, that would take some time to explain.\nFor now, can you just not worry about it?\""
                             ]
                         },
                         {
@@ -5503,14 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「はぁ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何が気にするなだ、ふざけんな！」"
+                                "\\n<Deorc>\"Hah...? What do you mean 'don't worry about it', don't mess\nwith me!\""
                             ]
                         },
                         {
@@ -5576,21 +5485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…いちいち騒がないでくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　苛立っているのは分かるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう声を荒げていては、話が前に進まない」"
+                                "\\n<???>\"...Please don't make such a fuss. I understand you're\nirritated, but raising your voice won't help us move forward\nwith the conversation.\""
                             ]
                         },
                         {
@@ -5621,14 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「君は頭は良くないが、要領はいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まずはそのうるさい口を閉じて、僕の話を聞け」"
+                                "\\n<???>\"You're not the brightest, but you're shrewd. First, shut\nthat noisy mouth of yours and listen to what I have to say.\""
                             ]
                         },
                         {
@@ -5652,7 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「い、いったいなんだってんだよ…」"
+                                "\\n<Deorc>\"What the hell are you talking about...\""
                             ]
                         },
                         {
@@ -5718,14 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「そう警戒しないでほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕は君に、頼みがあってここに来たんだ」"
+                                "\\n<???>\"Please don't be so wary. I've come here because I have a\nrequest for you.\""
                             ]
                         },
                         {
@@ -5749,7 +5630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「俺に頼みだと？」"
+                                "\\n<Deorc>\"A request for me?\""
                             ]
                         },
                         {
@@ -5773,14 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まあでも、そう身構える話じゃあないさ」"
+                                "\\n<???>\"Yes. But it's nothing to be so tense about.\""
                             ]
                         },
                         {
@@ -5811,14 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「僕の話を聞いてくれるね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お近づきのしるしに、君を自由にしてあげよう」"
+                                "\\n<???>\"Will you listen to my story? As a token of our new\nacquaintance, I'll set you free.\""
                             ]
                         },
                         {
@@ -5879,14 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女が指を振るうと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "デオルクを拘束している縄が簡単に解かれた。"
+                                "As the woman waved her finger, the ropes binding Deorc were\neasily untied."
                             ]
                         },
                         {
@@ -5903,7 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「なっ…！？　お前、何を…」"
+                                "\\n<Deorc>\"What...!? What did you do...\""
                             ]
                         },
                         {
@@ -5927,21 +5787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「んふふ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それだけでびっくりしていたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この先、体がもたないよ」"
+                                "\\n<???>\"Nfufu... If you're surprised by just that, you won't last\nlong from here on out.\""
                             ]
                         },
                         {
@@ -5965,14 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女はくつくつ笑うと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なまめかしい手つきで自身の体を抱いた。"
+                                "The woman chuckled and embraced her own body with a\nseductive gesture."
                             ]
                         },
                         {
@@ -6038,14 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「悔しい。悔しい。悔しい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とてもよく分かるよ、その気持ち」"
+                                "\\n<???>\"Frustrating. Frustrating. Frustrating... I understand that\nfeeling very well.\""
                             ]
                         },
                         {
@@ -6076,14 +5908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「自分の目的が志半ばで潰されるというのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　耐えがたい苦痛を伴うものだ」"
+                                "\\n<???>\"Having one's purpose crushed midway is an unbearable\ntorment.\""
                             ]
                         },
                         {
@@ -6114,21 +5939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…僕もね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君と同じように、むかついているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これでもとても…とても、とても…」"
+                                "\\n<???>\"...You see, I'm also irritated. Just like you, very...\nvery, very...\""
                             ]
                         },
                         {
@@ -6201,14 +6012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「とても、とても、とても、とても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とても、とても、とても、とても…」"
+                                "\\n<???>\"Very, very, very, very, very, very, very, very...\""
                             ]
                         },
                         {
@@ -6281,7 +6085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「とっ――ても、むかついているんだ」"
+                                "\\n<???>\"Extremely irritated.\""
                             ]
                         },
                         {
@@ -6347,7 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「……」"
+                                "\\n<???>\"...\""
                             ]
                         },
                         {
@@ -6413,7 +6217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…だから」"
+                                "\\n<???>\"...That's why\""
                             ]
                         },
                         {
@@ -6444,21 +6248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「だから僕と共に、報復を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むかつく相手に。気にいらない相手に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　復讐をしようじゃないか」"
+                                "\\n<???>\"That's why let's take revenge together. On those who\nirritate us. On those we dislike. Let's exact vengeance.\""
                             ]
                         },
                         {
@@ -6489,21 +6279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「君に手を貸そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕に身を任せてくれるだけでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうしたら、君にチカラを貸してあげる」"
+                                "\\n<???>\"I'll lend you a hand. Just entrust yourself to me. Then,\nI'll lend you power.\""
                             ]
                         },
                         {
@@ -6534,14 +6310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「復讐に燃える君の欲望を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　暴力というチカラに変えて」"
+                                "\\n<???>\"I'll transform your vengeful desires burning for revenge\ninto the power of violence.\""
                             ]
                         },
                         {
@@ -6565,7 +6334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「……」"
+                                "\\n<Deorc>\"...\""
                             ]
                         },
                         {
@@ -6624,21 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「――ははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大層な雰囲気出してなにを言い出すかと思えば…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　口を開けば与太話か」"
+                                "\\n<Deorc>\"--Haha! After all that grand talk, what nonsense are you\nspouting... Just empty words when your mouth opens.\""
                             ]
                         },
                         {
@@ -6655,28 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「職業柄、お前みたいな奴とはよく会うんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そいつらをなんて言うか教えてやろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ペテン師って言うんだよ、ペテン師。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よーく覚えていやがれ」"
+                                "\\n<Deorc>\"Due to my line of work, I meet guys like you all the time.\nWant to know what they're called? Swindlers, that's what\nthey're called, swindlers. Remember that well.\""
                             ]
                         },
                         {
@@ -6693,21 +6427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「さっき縄を解いたのも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法を使った手品とかなんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こすい手使いやがって」"
+                                "\\n<Deorc>\"You also used some kind of magic trick to untie the ropes\nearlier, didn't you? Resorting to such petty tricks.\""
                             ]
                         },
                         {
@@ -6724,14 +6444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「お前が何考えてるのか知らねえが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くだらねえ遊びに付き合ってる暇はねえんだよ」"
+                                "\\n<Deorc>\"I don't know what you're plotting, but I don't have time to\nplay your silly games.\""
                             ]
                         },
                         {
@@ -6786,21 +6499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「あいつ…ローゼリッテ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すました顔で俺のことを笑いやがって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぜってー後悔させてやるからな！」"
+                                "\\n<Deorc>\"That guy... Roselitte! She's looking all smug, laughing at\nme. I'll make her regret it for sure!\""
                             ]
                         },
                         {
@@ -6817,21 +6516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「あのシスターもだ、アメリア！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつがいりゃあ大金が手に入る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度こそ儲けさせてもらうぜ！」"
+                                "\\n<Deorc>\"And that sister too, Ameria! With her around, a fortune is\nwithin reach! This time I'll definitely make a killing!\""
                             ]
                         },
                         {
@@ -6948,14 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「そして俺は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺は、今度こそ…！」"
+                                "\\n<Deorc>\"And I... I will, this time for sure...!\""
                             ]
                         },
                         {
@@ -7021,7 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「……」"
+                                "\\n<??>\"...\""
                             ]
                         },
                         {
@@ -7087,7 +6765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「んふふふふふ…」"
+                                "\\n<??>\"Nfufufufufu...\""
                             ]
                         },
                         {
@@ -7247,7 +6925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「んふふふふふふふふふ…♪」"
+                                "\\n<??>\"Nfufufufufufufufufu...♪\""
                             ]
                         },
                         {
@@ -7271,7 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「な、なんだよ急に…」"
+                                "\\n<Deorc>\"What the... why all of a sudden...\""
                             ]
                         },
                         {
@@ -7337,14 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…いいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運命のめぐり合わせとは、分からないものだ」"
+                                "\\n<??>\"...Nice. Fate has a strange way of bringing people\ntogether.\""
                             ]
                         },
                         {
@@ -7375,14 +7046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「君ならば、きっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子の望む、理想の物語を、紡ぐことができる」"
+                                "\\n<??>\"If it's you, surely you can weave the ideal story that\nchild desires.\""
                             ]
                         },
                         {
@@ -7455,14 +7119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「一人では行かせない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕の言うことを聞いてもらおうか」"
+                                "\\n<??>\"I won't let you go alone. You will listen to what I have to\nsay.\""
                             ]
                         },
                         {
@@ -7486,7 +7143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「何を言って…？」"
+                                "\\n<Deorc>\"What are you talking about...?\""
                             ]
                         },
                         {
@@ -7510,14 +7167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「デオルク。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕の質問に、改めて答えろ」"
+                                "\\n<??>\"Deorc. Answer my question once more.\""
                             ]
                         },
                         {
@@ -7548,21 +7198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「むかついているか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その苛立ちを晴らしたいと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　心の奥底から願っているか」"
+                                "\\n<??>\"Are you irritated? Do you deeply wish to relieve that\nfrustration from the bottom of your heart?\""
                             ]
                         },
                         {
@@ -7586,7 +7222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「は…？」"
+                                "\\n<Deorc>\"Ha...?\""
                             ]
                         },
                         {
@@ -7652,7 +7288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「早く答えろ！」"
+                                "\\n<??>\"Answer quickly!\""
                             ]
                         },
                         {
@@ -7676,14 +7312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「む…むかついてるに決まってんだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国に目にものを見せてやる！」"
+                                "\\n<Deorc>\"Of course I'm pissed off! I'll show the Empire what I'm\nmade of!\""
                             ]
                         },
                         {
@@ -7749,21 +7378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「女が欲しいか。金が欲しいか。暴力が欲しいか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自身の乾いた欲望を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　心行くまで満たしたいとは思わないか」"
+                                "\\n<??>\"Do you want women? Money? Violence? Don't you want to\nsatisfy your parched desires to your heart's content?\""
                             ]
                         },
                         {
@@ -7787,14 +7402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<デオルク>「そんなの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなの、当たり前だろ！」"
+                                "\\n<Deorc>\"That's... that's obvious, isn't it!\""
                             ]
                         },
                         {
@@ -7860,7 +7468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「…よし。君が相応しい」"
+                                "\\n<??>\"...Good. You are suitable.\""
                             ]
                         },
                         {
@@ -7933,21 +7541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「僕に身を任せてくれるだけでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうすれば君の願いを叶えてあげよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…そして――」"
+                                "\\n<??>\"Just entrust yourself to me. If you do, I will grant your\nwishes.... And then--\""
                             ]
                         },
                         {
@@ -8248,14 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？>「そして、君が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　願いを求める人の、為となれ」"
+                                "\\n<??>\"And then, you will become someone who fulfills the wishes\nof those who seek them.\""
                             ]
                         },
                         {
@@ -8286,14 +7873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ベギーアデ>「僕の名前は、ベギーアデ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…さあ。僕を手にするといい」"
+                                "\\n<Begieade>\"My name is Begieade.... Now, take me into your hands.\""
                             ]
                         },
                         {
