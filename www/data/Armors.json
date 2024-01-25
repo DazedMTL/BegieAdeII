@@ -3,7 +3,7 @@
     {
         "id": 1,
         "atypeId": 5,
-        "description": "",
+        "description": "Roselitte's commonly worn battle attire. She doesn't prefer standard\nknight armor and rarely wears it outside of major battles.",
         "etypeId": 2,
         "traits": [
             {
@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Attack\n+5",
         "etypeId": 3,
         "traits": [
             {
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "帽子",
+        "name": "Hat",
         "note": "",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Attack\n+7",
         "etypeId": 2,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "服",
+        "name": "Clothes",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Attack\n+10",
         "etypeId": 3,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "指輪",
+        "name": "Ring",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "ローゼリッテがよく着用している戦闘時の服。\n正規の騎士装備は好みではなく、大きな戦い以外で滅多に着ることはない。",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Defense\n+5",
         "etypeId": 2,
         "traits": [
             {
@@ -153,7 +153,7 @@
             }
         ],
         "iconIndex": 1320,
-        "name": "ローゼリッテの服",
+        "name": "Roselitte's Clothes",
         "note": "",
         "params": [
             0,
@@ -197,11 +197,11 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：攻撃力＋５",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Defense\n+7",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1461,
-        "name": "強襲の指輪",
+        "name": "Ring of Assault",
         "note": "",
         "params": [
             0,
@@ -218,11 +218,11 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：攻撃力＋７",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Defense\n+10",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1461,
-        "name": "襲撃の指輪",
+        "name": "Ring of Raid",
         "note": "",
         "params": [
             0,
@@ -239,11 +239,11 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：攻撃力＋１０",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: M.\nDefense +5",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1461,
-        "name": "侵攻の指輪",
+        "name": "Ring of Invasion",
         "note": "",
         "params": [
             0,
@@ -341,11 +341,11 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：防御力＋５",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: M.\nDefense +7",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1462,
-        "name": "保護の指輪",
+        "name": "Ring of Protection",
         "note": "",
         "params": [
             0,
@@ -362,11 +362,11 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：防御力＋７",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: M.\nDefense +10",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1462,
-        "name": "防衛の指輪",
+        "name": "Ring of Defense",
         "note": "",
         "params": [
             0,
@@ -383,11 +383,11 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：防御力＋１０",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Max HP\n+10% / HP Regen 3%",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1462,
-        "name": "守護の指輪",
+        "name": "Ring of Guardianship",
         "note": "",
         "params": [
             0,
@@ -485,11 +485,11 @@
     {
         "id": 20,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：魔法防御力＋５",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Max HP\n+20% / HP Regen 5%",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1459,
-        "name": "抵抗の指輪",
+        "name": "Ring of Resistance",
         "note": "",
         "params": [
             0,
@@ -506,11 +506,11 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：魔法防御力＋７",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Max HP\n+30% / HP Regen 7%",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1459,
-        "name": "反抗の指輪",
+        "name": "Ring of Rebellion",
         "note": "",
         "params": [
             0,
@@ -527,11 +527,11 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：魔法防御力＋１０",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Max MP\n+10% / MP Regen 3%",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1459,
-        "name": "抗拒の指輪",
+        "name": "Ring of Defiance",
         "note": "",
         "params": [
             0,
@@ -629,7 +629,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：最大ＨＰ＋１０％／ＨＰ再生３％",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Max MP\n+20% / MP Regen 5%",
         "etypeId": 3,
         "traits": [
             {
@@ -644,7 +644,7 @@
             }
         ],
         "iconIndex": 1463,
-        "name": "生気の指輪",
+        "name": "Ring of Vitality",
         "note": "",
         "params": [
             0,
@@ -661,7 +661,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：最大ＨＰ＋２０％／ＨＰ再生５％",
+        "description": "A ring that enhances the wearer's physical abilities. Effect: Max MP\n+30% / MP Regen 7%",
         "etypeId": 3,
         "traits": [
             {
@@ -676,7 +676,7 @@
             }
         ],
         "iconIndex": 1463,
-        "name": "生命の指輪",
+        "name": "Ring of Life",
         "note": "",
         "params": [
             0,
@@ -693,7 +693,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：最大ＨＰ＋３０％／ＨＰ再生７％",
+        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +5 / ACP Recovery Amount +3",
         "etypeId": 3,
         "traits": [
             {
@@ -708,7 +708,7 @@
             }
         ],
         "iconIndex": 1463,
-        "name": "生彩の指輪",
+        "name": "Ring of Vividness",
         "note": "",
         "params": [
             0,
@@ -806,7 +806,7 @@
     {
         "id": 32,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：最大ＭＰ＋１０％／ＭＰ再生３％",
+        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +7 / ACP Recovery Amount +4",
         "etypeId": 3,
         "traits": [
             {
@@ -821,7 +821,7 @@
             }
         ],
         "iconIndex": 1460,
-        "name": "気力の指輪",
+        "name": "Ring of Vigor",
         "note": "",
         "params": [
             0,
@@ -838,7 +838,7 @@
     {
         "id": 33,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：最大ＭＰ＋２０％／ＭＰ再生５％",
+        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +10 / ACP Recovery Amount +5",
         "etypeId": 3,
         "traits": [
             {
@@ -853,7 +853,7 @@
             }
         ],
         "iconIndex": 1460,
-        "name": "気勢の指輪",
+        "name": "Ring of Spirit",
         "note": "",
         "params": [
             0,
@@ -870,7 +870,7 @@
     {
         "id": 34,
         "atypeId": 1,
-        "description": "装備した者の身体能力を上昇させる指輪。\n効果：最大ＭＰ＋３０％／ＭＰ再生７％",
+        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +5 / LCP Recovery Amount +3",
         "etypeId": 3,
         "traits": [
             {
@@ -885,7 +885,7 @@
             }
         ],
         "iconIndex": 1460,
-        "name": "神気の指輪",
+        "name": "Ring of Divine Spirit",
         "note": "",
         "params": [
             0,
@@ -983,11 +983,11 @@
     {
         "id": 38,
         "atypeId": 1,
-        "description": "聖なる加護を施した魔石。聖職者にチカラを与える。\n効果：ＡＣＰ初期最大値＋５／ＡＣＰ回復量＋３",
+        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +7 / LCP Recovery Amount +4",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1557,
-        "name": "ローズクリスタル",
+        "name": "Rose Crystal",
         "note": "",
         "params": [
             0,
@@ -1004,11 +1004,11 @@
     {
         "id": 39,
         "atypeId": 1,
-        "description": "聖なる加護を施した魔石。聖職者にチカラを与える。\n効果：ＡＣＰ初期最大値＋７／ＡＣＰ回復量＋４",
+        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +10 / LCP Recovery Amount +5",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1557,
-        "name": "カメリアクリスタル",
+        "name": "Camellia Crystal",
         "note": "",
         "params": [
             0,
@@ -1025,11 +1025,11 @@
     {
         "id": 40,
         "atypeId": 1,
-        "description": "聖なる加護を施した魔石。聖職者にチカラを与える。\n効果：ＡＣＰ初期最大値＋１０／ＡＣＰ回復量＋５",
+        "description": "A contract for forming a pact with a succubus. Enjoy pleasure and\nreceive its benefits. Effect: TP Consumption Increase / Increased Lewd\nEXP during battle",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1557,
-        "name": "ロザージュクリスタル",
+        "name": "Rosage Crystal",
         "note": "",
         "params": [
             0,
@@ -1127,11 +1127,11 @@
     {
         "id": 44,
         "atypeId": 1,
-        "description": "魔性の加護を施した魔石。魔術師にチカラを与える。\n効果：ＬＣＰ初期最大値＋５／ＬＣＰ回復量＋３",
+        "description": "A contract for forming a pact with a succubus. Enjoy pleasure and gain\npower. Effect: TP Consumption Increase / Increase in all basic\nabilities",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1575,
-        "name": "フレイクリスタル",
+        "name": "Frey Crystal",
         "note": "",
         "params": [
             0,
@@ -1148,11 +1148,11 @@
     {
         "id": 45,
         "atypeId": 1,
-        "description": "魔性の加護を施した魔石。魔術師にチカラを与える。\n効果：ＬＣＰ初期最大値＋７／ＬＣＰ回復量＋４",
+        "description": "An ornament that protects from calamity. The indomitable magic within\nsupports the wearer's resistance. Effect: TP does not decrease from\nsexual attacks while restrained (clothing does not change when\nrestrained)",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1575,
-        "name": "ジャカクリスタル",
+        "name": "Jak Crystal",
         "note": "",
         "params": [
             0,
@@ -1169,11 +1169,11 @@
     {
         "id": 46,
         "atypeId": 1,
-        "description": "魔性の加護を施した魔石。魔術師にチカラを与える。\n効果：ＬＣＰ初期最大値＋１０／ＬＣＰ回復量＋５",
+        "description": "An ornament that protects from calamity. The resisting magic within\nsupports the wearer's resistance. Effect: TP Recovery +10 every turn",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1575,
-        "name": "デロニクリスタル",
+        "name": "Delon Crystal",
         "note": "",
         "params": [
             0,
@@ -1271,11 +1271,11 @@
     {
         "id": 50,
         "atypeId": 1,
-        "description": "淫魔と契りを交わす契約書。快楽を享受し恩恵を授かる。\n効果：ＴＰ消費量増加／戦闘時の淫欲経験値量増加",
+        "description": "Perfume that sexually excites [Assailants]. Effect: Induces [Sexual\nHarassment Attacks].",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1497,
-        "name": "淫堕の契約書",
+        "name": "Contract of Depravity",
         "note": "",
         "params": [
             0,
@@ -1319,11 +1319,11 @@
     {
         "id": 52,
         "atypeId": 1,
-        "description": "淫魔と契りを交わす契約書。快楽を享受しチカラを得る。\n効果：ＴＰ消費量増加／全基礎能力増加",
+        "description": "A contract for forming a pact with a succubus. Enjoy pleasure and gain\npower. Effect: TP Consumption Increase / Increase in all basic\nabilities",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1497,
-        "name": "戯れの契約書",
+        "name": "Contract of Frolic",
         "note": "",
         "params": [
             200,
@@ -1448,11 +1448,11 @@
     {
         "id": 57,
         "atypeId": 1,
-        "description": "災いから身を守る装飾品。込められる不屈の魔力は装備者の抵抗力を支える。\n効果：拘束時の性攻撃でＴＰが減少しない（拘束時に服装が変わらない）",
+        "description": "An ornament that protects from calamity. The indomitable magic within\nsupports the wearer's resistance. Effect: TP does not decrease from\nsexual attacks while restrained (clothing does not change when\nrestrained)",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1493,
-        "name": "不屈のネックレス",
+        "name": "Necklace of Indomitability",
         "note": "",
         "params": [
             0,
@@ -1469,11 +1469,11 @@
     {
         "id": 58,
         "atypeId": 1,
-        "description": "災いから身を守る装飾品。込められる抗いの魔力は装備者の抵抗力を支える。\n効果：毎ターンＴＰ回復＋１０",
+        "description": "An ornament that protects from calamity. The resisting magic within\nsupports the wearer's resistance. Effect: TP Recovery +10 every turn",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1494,
-        "name": "抗いのネックレス",
+        "name": "Necklace of Resistance",
         "note": "",
         "params": [
             0,
@@ -1517,11 +1517,11 @@
     {
         "id": 60,
         "atypeId": 1,
-        "description": "[凌辱者]を性的に昂ぶらせる香水。\n効果：[セクハラ攻撃]を誘発させる。",
+        "description": "Perfume that sexually excites [Assailants]. Effect: Induces [Sexual\nHarassment Attacks].",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1454,
-        "name": "誘惑の香水",
+        "name": "Perfume of Temptation",
         "note": "",
         "params": [
             0,

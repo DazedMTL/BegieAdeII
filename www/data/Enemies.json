@@ -64,7 +64,7 @@
             }
         ],
         "gold": 0,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             100,
@@ -141,7 +141,7 @@
             }
         ],
         "gold": 0,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             100,
@@ -218,7 +218,7 @@
             }
         ],
         "gold": 0,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             100,
@@ -295,7 +295,7 @@
             }
         ],
         "gold": 0,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             120,
@@ -372,7 +372,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             80,
@@ -456,7 +456,7 @@
             }
         ],
         "gold": 0,
-        "name": "プラント",
+        "name": "Plant",
         "note": "",
         "params": [
             100,
@@ -540,7 +540,7 @@
             }
         ],
         "gold": 0,
-        "name": "アモル",
+        "name": "Amor",
         "note": "",
         "params": [
             120,
@@ -664,7 +664,7 @@
             }
         ],
         "gold": 0,
-        "name": "アメリア_テスト",
+        "name": "Ameria_Test",
         "note": "",
         "params": [
             10,
@@ -721,7 +721,7 @@
             }
         ],
         "gold": 0,
-        "name": "ベギーアデ_テスト",
+        "name": "Begiade_Test",
         "note": "",
         "params": [
             10,
@@ -831,7 +831,7 @@
             }
         ],
         "gold": 500,
-        "name": "死神",
+        "name": "Reaper",
         "note": "",
         "params": [
             5000,
@@ -1017,7 +1017,7 @@
             }
         ],
         "gold": 0,
-        "name": "★盗賊のアジトA",
+        "name": "★Thieves' Hideout A",
         "note": "",
         "params": [
             100,
@@ -1129,7 +1129,7 @@
             }
         ],
         "gold": 4,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             120,
@@ -1241,7 +1241,7 @@
             }
         ],
         "gold": 4,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             120,
@@ -1353,7 +1353,7 @@
             }
         ],
         "gold": 6,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             180,
@@ -1465,7 +1465,7 @@
             }
         ],
         "gold": 6,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             180,
@@ -1577,7 +1577,7 @@
             }
         ],
         "gold": 6,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             180,
@@ -1689,7 +1689,7 @@
             }
         ],
         "gold": 6,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             180,
@@ -1801,7 +1801,7 @@
             }
         ],
         "gold": 8,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             240,
@@ -1913,7 +1913,7 @@
             }
         ],
         "gold": 8,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             240,
@@ -2080,7 +2080,7 @@
             }
         ],
         "gold": 0,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             120,
@@ -2185,7 +2185,7 @@
             }
         ],
         "gold": 0,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             180,
@@ -2681,7 +2681,7 @@
             }
         ],
         "gold": 0,
-        "name": "★コヨルの森",
+        "name": "★Koyoru Forest",
         "note": "",
         "params": [
             100,
@@ -2795,7 +2795,7 @@
             }
         ],
         "gold": 11,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             180,
@@ -2909,7 +2909,7 @@
             }
         ],
         "gold": 15,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             240,
@@ -3023,7 +3023,7 @@
             }
         ],
         "gold": 16,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             300,
@@ -3137,7 +3137,7 @@
             }
         ],
         "gold": 22,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             360,
@@ -3251,7 +3251,7 @@
             }
         ],
         "gold": 22,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             360,
@@ -3328,7 +3328,7 @@
             }
         ],
         "gold": 9,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             150,
@@ -3405,7 +3405,7 @@
             }
         ],
         "gold": 9,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             150,
@@ -3482,7 +3482,7 @@
             }
         ],
         "gold": 12,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             210,
@@ -3566,7 +3566,7 @@
             }
         ],
         "gold": 12,
-        "name": "プラント",
+        "name": "Plant",
         "note": "",
         "params": [
             210,
@@ -3650,7 +3650,7 @@
             }
         ],
         "gold": 12,
-        "name": "プラント",
+        "name": "Plant",
         "note": "",
         "params": [
             210,
@@ -3734,7 +3734,7 @@
             }
         ],
         "gold": 15,
-        "name": "プラント",
+        "name": "Plant",
         "note": "",
         "params": [
             270,
@@ -3818,7 +3818,7 @@
             }
         ],
         "gold": 15,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             270,
@@ -3902,7 +3902,7 @@
             }
         ],
         "gold": 15,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             270,
@@ -3986,7 +3986,7 @@
             }
         ],
         "gold": 17,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             320,
@@ -4075,7 +4075,7 @@
             }
         ],
         "gold": 19,
-        "name": "アモル",
+        "name": "Amor",
         "note": "",
         "params": [
             270,
@@ -4171,7 +4171,7 @@
             }
         ],
         "gold": 23,
-        "name": "アポリュオン",
+        "name": "Apollyon",
         "note": "",
         "params": [
             330,
@@ -4267,7 +4267,7 @@
             }
         ],
         "gold": 27,
-        "name": "ピスキス=ククリィ",
+        "name": "Piskis=Kukrii",
         "note": "",
         "params": [
             390,
@@ -4949,7 +4949,7 @@
             }
         ],
         "gold": 0,
-        "name": "★ホルヌス洞窟",
+        "name": "★Hornus Cave",
         "note": "",
         "params": [
             100,
@@ -5068,7 +5068,7 @@
             }
         ],
         "gold": 21,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             300,
@@ -5187,7 +5187,7 @@
             }
         ],
         "gold": 21,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             300,
@@ -5306,7 +5306,7 @@
             }
         ],
         "gold": 24,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             360,
@@ -5425,7 +5425,7 @@
             }
         ],
         "gold": 24,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             360,
@@ -5544,7 +5544,7 @@
             }
         ],
         "gold": 24,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             360,
@@ -5663,7 +5663,7 @@
             }
         ],
         "gold": 24,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             360,
@@ -5782,7 +5782,7 @@
             }
         ],
         "gold": 27,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             420,
@@ -5901,7 +5901,7 @@
             }
         ],
         "gold": 27,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             420,
@@ -5978,7 +5978,7 @@
             }
         ],
         "gold": 18,
-        "name": "ウーズ",
+        "name": "Ooze",
         "note": "",
         "params": [
             270,
@@ -6055,7 +6055,7 @@
             }
         ],
         "gold": 18,
-        "name": "ウーズ",
+        "name": "Ooze",
         "note": "",
         "params": [
             270,
@@ -6132,7 +6132,7 @@
             }
         ],
         "gold": 18,
-        "name": "ウーズ",
+        "name": "Ooze",
         "note": "",
         "params": [
             300,
@@ -6216,7 +6216,7 @@
             }
         ],
         "gold": 21,
-        "name": "サハギン",
+        "name": "Sahagin",
         "note": "",
         "params": [
             360,
@@ -6300,7 +6300,7 @@
             }
         ],
         "gold": 21,
-        "name": "サハギン",
+        "name": "Sahagin",
         "note": "",
         "params": [
             360,
@@ -6384,7 +6384,7 @@
             }
         ],
         "gold": 23,
-        "name": "サハギン",
+        "name": "Sahagin",
         "note": "",
         "params": [
             390,
@@ -6468,7 +6468,7 @@
             }
         ],
         "gold": 27,
-        "name": "クラーケン",
+        "name": "Kraken",
         "note": "",
         "params": [
             420,
@@ -6564,7 +6564,7 @@
             }
         ],
         "gold": 30,
-        "name": "ハンギングペイン",
+        "name": "Hanging Pain",
         "note": "",
         "params": [
             360,
@@ -6660,7 +6660,7 @@
             }
         ],
         "gold": 34,
-        "name": "水無月エレジー",
+        "name": "Minazuki Elegy",
         "note": "",
         "params": [
             420,
@@ -6756,7 +6756,7 @@
             }
         ],
         "gold": 42,
-        "name": "ロッティングアス",
+        "name": "Rotting Ass",
         "note": "",
         "params": [
             480,
@@ -6854,7 +6854,7 @@
             }
         ],
         "gold": 21,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             560,
@@ -6952,7 +6952,7 @@
             }
         ],
         "gold": 21,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             560,
@@ -7050,7 +7050,7 @@
             }
         ],
         "gold": 27,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             800,
@@ -7148,7 +7148,7 @@
             }
         ],
         "gold": 27,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             800,
@@ -7279,7 +7279,7 @@
             }
         ],
         "gold": 50,
-        "name": "賊徒リーダー",
+        "name": "Bandit Leader",
         "note": "",
         "params": [
             1680,
@@ -7651,7 +7651,7 @@
             }
         ],
         "gold": 0,
-        "name": "★ナヌーマ森林",
+        "name": "★Nanuma Forest",
         "note": "",
         "params": [
             100,
@@ -7772,7 +7772,7 @@
             }
         ],
         "gold": 35,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             450,
@@ -7893,7 +7893,7 @@
             }
         ],
         "gold": 35,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             450,
@@ -8014,7 +8014,7 @@
             }
         ],
         "gold": 35,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             450,
@@ -8128,7 +8128,7 @@
             }
         ],
         "gold": 39,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             560,
@@ -8242,7 +8242,7 @@
             }
         ],
         "gold": 39,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             560,
@@ -8356,7 +8356,7 @@
             }
         ],
         "gold": 39,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             560,
@@ -8470,7 +8470,7 @@
             }
         ],
         "gold": 43,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             680,
@@ -8584,7 +8584,7 @@
             }
         ],
         "gold": 43,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             680,
@@ -8698,7 +8698,7 @@
             }
         ],
         "gold": 43,
-        "name": "亜人の群れ",
+        "name": "Demi-Human Horde",
         "note": "",
         "params": [
             680,
@@ -8775,7 +8775,7 @@
             }
         ],
         "gold": 32,
-        "name": "タール塊",
+        "name": "Tar Clump",
         "note": "",
         "params": [
             420,
@@ -8852,7 +8852,7 @@
             }
         ],
         "gold": 32,
-        "name": "タール塊",
+        "name": "Tar Clump",
         "note": "",
         "params": [
             420,
@@ -8929,7 +8929,7 @@
             }
         ],
         "gold": 32,
-        "name": "タール塊",
+        "name": "Tar Clump",
         "note": "",
         "params": [
             420,
@@ -9013,7 +9013,7 @@
             }
         ],
         "gold": 36,
-        "name": "トレント",
+        "name": "Treant",
         "note": "",
         "params": [
             540,
@@ -9097,7 +9097,7 @@
             }
         ],
         "gold": 36,
-        "name": "トレント",
+        "name": "Treant",
         "note": "",
         "params": [
             540,
@@ -9181,7 +9181,7 @@
             }
         ],
         "gold": 36,
-        "name": "トレント",
+        "name": "Treant",
         "note": "",
         "params": [
             540,
@@ -9265,7 +9265,7 @@
             }
         ],
         "gold": 40,
-        "name": "デス・スパイダー",
+        "name": "Death Spider",
         "note": "",
         "params": [
             660,
@@ -9349,7 +9349,7 @@
             }
         ],
         "gold": 40,
-        "name": "デス・スパイダー",
+        "name": "Death Spider",
         "note": "",
         "params": [
             660,
@@ -9433,7 +9433,7 @@
             }
         ],
         "gold": 40,
-        "name": "デス・スパイダー",
+        "name": "Death Spider",
         "note": "",
         "params": [
             660,
@@ -9529,7 +9529,7 @@
             }
         ],
         "gold": 50,
-        "name": "嘲るアルルカン",
+        "name": "Mocking Harlequin",
         "note": "",
         "params": [
             510,
@@ -9625,7 +9625,7 @@
             }
         ],
         "gold": 56,
-        "name": "猛威の野獣",
+        "name": "Ferocious Beast",
         "note": "",
         "params": [
             630,
@@ -9721,7 +9721,7 @@
             }
         ],
         "gold": 61,
-        "name": "悪罵の嘴",
+        "name": "Scornful Beak",
         "note": "",
         "params": [
             750,
@@ -10403,7 +10403,7 @@
             }
         ],
         "gold": 0,
-        "name": "★レアンダ密林",
+        "name": "★Leanda Jungle",
         "note": "",
         "params": [
             100,
@@ -10529,7 +10529,7 @@
             }
         ],
         "gold": 80,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             750,
@@ -10655,7 +10655,7 @@
             }
         ],
         "gold": 80,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             750,
@@ -10781,7 +10781,7 @@
             }
         ],
         "gold": 80,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             750,
@@ -10900,7 +10900,7 @@
             }
         ],
         "gold": 88,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             870,
@@ -11019,7 +11019,7 @@
             }
         ],
         "gold": 88,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             870,
@@ -11138,7 +11138,7 @@
             }
         ],
         "gold": 88,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             870,
@@ -11257,7 +11257,7 @@
             }
         ],
         "gold": 96,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             990,
@@ -11376,7 +11376,7 @@
             }
         ],
         "gold": 96,
-        "name": "亜人の群れ",
+        "name": "Subhuman Horde",
         "note": "",
         "params": [
             990,
@@ -11467,7 +11467,7 @@
             }
         ],
         "gold": 84,
-        "name": "熔解王",
+        "name": "Melting King",
         "note": "",
         "params": [
             780,
@@ -11551,7 +11551,7 @@
             }
         ],
         "gold": 92,
-        "name": "世界樹",
+        "name": "World Tree",
         "note": "",
         "params": [
             840,
@@ -11635,7 +11635,7 @@
             }
         ],
         "gold": 100,
-        "name": "キング・ビートル",
+        "name": "King Beetle",
         "note": "",
         "params": [
             960,
@@ -11724,7 +11724,7 @@
             }
         ],
         "gold": 123,
-        "name": "悪徳の花",
+        "name": "Vice Flower",
         "note": "",
         "params": [
             830,
@@ -11820,7 +11820,7 @@
             }
         ],
         "gold": 134,
-        "name": "執着アゲハ",
+        "name": "Clinging Swallowtail",
         "note": "",
         "params": [
             950,
@@ -11916,7 +11916,7 @@
             }
         ],
         "gold": 156,
-        "name": "恐角獣",
+        "name": "Terrifying Horned Beast",
         "note": "",
         "params": [
             1070,
@@ -12598,7 +12598,7 @@
             }
         ],
         "gold": 0,
-        "name": "★盗賊のアジトB",
+        "name": "★Thieves' Hideout B",
         "note": "",
         "params": [
             100,
@@ -12731,7 +12731,7 @@
             }
         ],
         "gold": 127,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             840,
@@ -12864,7 +12864,7 @@
             }
         ],
         "gold": 123,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             840,
@@ -13004,7 +13004,7 @@
             }
         ],
         "gold": 127,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             960,
@@ -13144,7 +13144,7 @@
             }
         ],
         "gold": 127,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             960,
@@ -13284,7 +13284,7 @@
             }
         ],
         "gold": 132,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             1080,
@@ -13424,7 +13424,7 @@
             }
         ],
         "gold": 132,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             1080,
@@ -13564,7 +13564,7 @@
             }
         ],
         "gold": 142,
-        "name": "賊徒リーダー",
+        "name": "Bandit Leader",
         "note": "",
         "params": [
             1200,
@@ -13704,7 +13704,7 @@
             }
         ],
         "gold": 142,
-        "name": "賊徒リーダー",
+        "name": "Bandit Leader",
         "note": "",
         "params": [
             1200,
@@ -13906,7 +13906,7 @@
             }
         ],
         "gold": 123,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             1680,
@@ -14046,7 +14046,7 @@
             }
         ],
         "gold": 123,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             1680,
@@ -14186,7 +14186,7 @@
             }
         ],
         "gold": 132,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             2160,
@@ -14326,7 +14326,7 @@
             }
         ],
         "gold": 132,
-        "name": "賊徒",
+        "name": "Bandit",
         "note": "",
         "params": [
             2160,
@@ -14476,7 +14476,7 @@
             }
         ],
         "gold": 710,
-        "name": "賊徒リーダー",
+        "name": "Bandit Leader",
         "note": "",
         "params": [
             2880,
@@ -14786,7 +14786,7 @@
             }
         ],
         "gold": 0,
-        "name": "★地下囚人街",
+        "name": "★Underground Prison Town",
         "note": "",
         "params": [
             100,
@@ -14905,7 +14905,7 @@
             }
         ],
         "gold": 138,
-        "name": "新参の囚人",
+        "name": "New Prisoner",
         "note": "",
         "params": [
             1140,
@@ -15024,7 +15024,7 @@
             }
         ],
         "gold": 138,
-        "name": "新参の囚人",
+        "name": "New Prisoner",
         "note": "",
         "params": [
             1140,
@@ -15143,7 +15143,7 @@
             }
         ],
         "gold": 143,
-        "name": "古参の囚人",
+        "name": "Veteran Prisoner",
         "note": "",
         "params": [
             1260,
@@ -15269,7 +15269,7 @@
             }
         ],
         "gold": 153,
-        "name": "名のある囚人",
+        "name": "Famed Prisoner",
         "note": "",
         "params": [
             1380,
@@ -15395,7 +15395,7 @@
             }
         ],
         "gold": 153,
-        "name": "名のある囚人",
+        "name": "Famed Prisoner",
         "note": "",
         "params": [
             1380,
@@ -15521,7 +15521,7 @@
             }
         ],
         "gold": 157,
-        "name": "名のある囚人",
+        "name": "Notorious Prisoner",
         "note": "",
         "params": [
             1440,
@@ -15612,7 +15612,7 @@
             }
         ],
         "gold": 143,
-        "name": "ソウル",
+        "name": "Soul",
         "note": "",
         "params": [
             1080,
@@ -15703,7 +15703,7 @@
             }
         ],
         "gold": 143,
-        "name": "ソウル",
+        "name": "Soul",
         "note": "",
         "params": [
             1080,
@@ -15794,7 +15794,7 @@
             }
         ],
         "gold": 143,
-        "name": "ソウル",
+        "name": "Soul",
         "note": "",
         "params": [
             1140,
@@ -15878,7 +15878,7 @@
             }
         ],
         "gold": 152,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             1200,
@@ -15962,7 +15962,7 @@
             }
         ],
         "gold": 152,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             1200,
@@ -16046,7 +16046,7 @@
             }
         ],
         "gold": 152,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             1260,
@@ -16130,7 +16130,7 @@
             }
         ],
         "gold": 141,
-        "name": "スピリット",
+        "name": "Spirit",
         "note": "",
         "params": [
             1320,
@@ -16214,7 +16214,7 @@
             }
         ],
         "gold": 141,
-        "name": "スピリット",
+        "name": "Spirit",
         "note": "",
         "params": [
             1320,
@@ -16298,7 +16298,7 @@
             }
         ],
         "gold": 141,
-        "name": "スピリット",
+        "name": "Spirit",
         "note": "",
         "params": [
             1380,
@@ -16401,7 +16401,7 @@
             }
         ],
         "gold": 208,
-        "name": "焔氷のリブラー",
+        "name": "Flame Ice Libra",
         "note": "",
         "params": [
             1180,
@@ -16511,7 +16511,7 @@
             }
         ],
         "gold": 220,
-        "name": "エリザベートⅣ世",
+        "name": "Elizabeth IV",
         "note": "",
         "params": [
             1300,
@@ -16614,7 +16614,7 @@
             }
         ],
         "gold": 255,
-        "name": "無知なるマギストラ",
+        "name": "Ignorant Magistra",
         "note": "",
         "params": [
             1420,
@@ -17032,7 +17032,7 @@
             }
         ],
         "gold": 0,
-        "name": "デオルク",
+        "name": "Deorc",
         "note": "",
         "params": [
             4000,
@@ -17123,7 +17123,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔物の群れ",
+        "name": "Swarm of Monsters",
         "note": "",
         "params": [
             2640,
@@ -17214,7 +17214,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔物の群れ",
+        "name": "Swarm of Monsters",
         "note": "",
         "params": [
             2640,
@@ -17305,7 +17305,7 @@
             }
         ],
         "gold": 0,
-        "name": "傀儡騎士",
+        "name": "Puppet Knight",
         "note": "",
         "params": [
             2800,
@@ -17396,7 +17396,7 @@
             }
         ],
         "gold": 0,
-        "name": "傀儡騎士",
+        "name": "Puppet Knight",
         "note": "",
         "params": [
             2800,
@@ -17709,7 +17709,7 @@
             }
         ],
         "gold": 0,
-        "name": "アメリア",
+        "name": "Ameria",
         "note": "",
         "params": [
             5600,
@@ -17859,7 +17859,7 @@
             }
         ],
         "gold": 0,
-        "name": "アメリア",
+        "name": "Ameria",
         "note": "",
         "params": [
             10400,
@@ -18184,7 +18184,7 @@
             }
         ],
         "gold": 0,
-        "name": "欲喰いの魔本",
+        "name": "Lust Devouring Grimoire",
         "note": "",
         "params": [
             24000,
@@ -18278,7 +18278,7 @@
             }
         ],
         "gold": 0,
-        "name": "怖がりラーテ",
+        "name": "Fearful Rate",
         "note": "",
         "params": [
             2800,
@@ -18379,7 +18379,7 @@
             }
         ],
         "gold": 0,
-        "name": "相克の刃",
+        "name": "Blade of Mutual Destruction",
         "note": "",
         "params": [
             2800,
@@ -18480,7 +18480,7 @@
             }
         ],
         "gold": 0,
-        "name": "鈍色の鉄人",
+        "name": "Dull-Colored Iron Man",
         "note": "",
         "params": [
             3200,
@@ -18574,7 +18574,7 @@
             }
         ],
         "gold": 0,
-        "name": "無情のファタル",
+        "name": "Ruthless Fatal",
         "note": "",
         "params": [
             3200,
@@ -18668,7 +18668,7 @@
             }
         ],
         "gold": 0,
-        "name": "アサルトルーク",
+        "name": "Assault Rook",
         "note": "",
         "params": [
             3600,
@@ -18783,7 +18783,7 @@
             }
         ],
         "gold": 0,
-        "name": "弾圧のカテドラル",
+        "name": "Oppression Cathedral",
         "note": "",
         "params": [
             3600,
@@ -18891,7 +18891,7 @@
             }
         ],
         "gold": 0,
-        "name": "フェイスレザー",
+        "name": "Face Leather",
         "note": "",
         "params": [
             4000,
@@ -19006,7 +19006,7 @@
             }
         ],
         "gold": 0,
-        "name": "幻惑の鏡像",
+        "name": "Mirror Image of Illusion",
         "note": "",
         "params": [
             4000,
@@ -19121,7 +19121,7 @@
             }
         ],
         "gold": 0,
-        "name": "死神",
+        "name": "Reaper",
         "note": "Hide HP",
         "params": [
             5600,

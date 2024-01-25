@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "剣",
+        "name": "Sword",
         "note": "",
         "params": [
             0,
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "斧",
+        "name": "Axe",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "杖",
+        "name": "Staff",
         "note": "",
         "params": [
             0,
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "弓",
+        "name": "Bow",
         "note": "",
         "params": [
             0,
@@ -168,7 +168,7 @@
     {
         "id": 6,
         "animationId": 129,
-        "description": "ローゼリッテがいつも愛用している大剣。\n重く扱いにくい代物だが、練習で使う内に愛着が湧いた。",
+        "description": "The greatsword that Roselitte always favors. It's heavy and unwieldy,\nbut she's grown attached to it through practice.",
         "etypeId": 1,
         "traits": [
             {
@@ -183,7 +183,7 @@
             }
         ],
         "iconIndex": 1297,
-        "name": "ローゼリッテの大剣",
+        "name": "Roselitte's Greatsword",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 129,
-        "description": "細かな魔石が散りばめられた美しい大剣。\n星のように煌めくその魔石は、使用者とその周辺にも影響を及ぼす。\\n特殊効果：最大ＭＰ＋２０％",
+        "description": "A beautiful greatsword inlaid with fine magic stones. The stones\ntwinkle like stars, affecting both the wielder and their\nsurroundings.\\nSpecial Effect: Max MP +20%",
         "etypeId": 1,
         "traits": [
             {
@@ -320,7 +320,7 @@
             }
         ],
         "iconIndex": 1297,
-        "name": "ミルヒシュトラーセ",
+        "name": "Milchstrasse",
         "note": "",
         "params": [
             0,
@@ -437,7 +437,7 @@
     {
         "id": 14,
         "animationId": 129,
-        "description": "鋭く波打つ剣身を持つ禍々しい大剣。\n魔石を溶かし込み歪な形状と重心を持つそれは、達人が使えば無類の強さを発揮する。\\n特殊効果：最大ＨＰ＋２０％",
+        "description": "A sinister greatsword with a sharply undulating blade. Melded with\nmagic stones, its distorted shape and balance unleash unparalleled\nstrength when wielded by a master.\\nSpecial Effect: Max HP +20%",
         "etypeId": 1,
         "traits": [
             {
@@ -457,7 +457,7 @@
             }
         ],
         "iconIndex": 1297,
-        "name": "ブリッツシュラーク",
+        "name": "Blitzschlag",
         "note": "",
         "params": [
             0,
@@ -574,7 +574,7 @@
     {
         "id": 18,
         "animationId": 129,
-        "description": "一級の職人が最良の鉱石を用いて作り上げた大剣。\nその洗練された刃の輝きは持ち主を選び、主となった者は弱き人の盾となる。\\n特殊効果：ＣＰ初期値＋５／ＣＰ回復量＋３",
+        "description": "A first-class greatsword crafted by a master artisan using the finest\nore. The refined gleam of its blade chooses its owner, and those who\nbecome its master will shield the weak.\\nSpecial Effect: Initial CP +5\n/ CP Recovery +3",
         "etypeId": 1,
         "traits": [
             {
@@ -589,7 +589,7 @@
             }
         ],
         "iconIndex": 1297,
-        "name": "シュプリンガー",
+        "name": "Springer",
         "note": "",
         "params": [
             0,

@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "安価なＨＰ回復薬。ちょっと苦い。\n効果：ＨＰ回復２５％",
+        "description": "Cheap HP recovery medicine. A bit bitter. Effect: Restores 25% HP",
         "effects": [
             {
                 "code": 11,
@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 1451,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "高価なＨＰ回復薬。けっこう苦い。\n効果：ＨＰ回復５０％",
+        "description": "Expensive HP recovery medicine. Quite bitter. Effect: Restores 50% HP",
         "effects": [
             {
                 "code": 11,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 1451,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "High Potion",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "かなり高価なＨＰ回復薬。かなり苦い。\n効果：ＨＰ回復８０％",
+        "description": "Very expensive HP recovery medicine. Very bitter. Effect: Restores 80%\nHP",
         "effects": [
             {
                 "code": 11,
@@ -89,7 +89,7 @@
         "hitType": 0,
         "iconIndex": 1451,
         "itypeId": 1,
-        "name": "マキシポーション",
+        "name": "Max Potion",
         "note": "",
         "occasion": 0,
         "price": 350,
@@ -240,7 +240,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "安価なＭＰ回復薬。クセになる味。\n効果：ＭＰ回復３０％",
+        "description": "Cheap MP recovery medicine. An addictive taste. Effect: Restores 30%\nMP",
         "effects": [
             {
                 "code": 12,
@@ -252,7 +252,7 @@
         "hitType": 0,
         "iconIndex": 1449,
         "itypeId": 1,
-        "name": "マジックウォーター",
+        "name": "Magic Water",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -273,7 +273,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "高価なＭＰ回復薬。病みつきになる味。\n効果：ＭＰ回復６０％",
+        "description": "Expensive MP recovery medicine. A taste you can get hooked on. Effect:\nRestores 60% MP",
         "effects": [
             {
                 "code": 12,
@@ -285,7 +285,7 @@
         "hitType": 0,
         "iconIndex": 1449,
         "itypeId": 1,
-        "name": "マジックウォーターα",
+        "name": "Magic Water α",
         "note": "",
         "occasion": 0,
         "price": 250,
@@ -306,7 +306,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "かなり高価なＭＰ回復薬。中毒になる味。\n効果：ＭＰ回復９０％",
+        "description": "Very expensive MP recovery medicine. A taste that can cause addiction.\nEffect: Restores 90% MP",
         "effects": [
             {
                 "code": 12,
@@ -318,7 +318,7 @@
         "hitType": 0,
         "iconIndex": 1449,
         "itypeId": 1,
-        "name": "マジックウォーターβ",
+        "name": "Magic Water β",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -469,7 +469,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "良い匂いのするハーブ。心が落ち着く。\n効果：ＴＰ回復２０",
+        "description": "Herb with a nice smell. Calms the mind. Effect: Restores 20 TP",
         "effects": [
             {
                 "code": 44,
@@ -481,7 +481,7 @@
         "hitType": 0,
         "iconIndex": 1528,
         "itypeId": 1,
-        "name": "セィメンハーブ",
+        "name": "Semen Herb",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -502,7 +502,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "とても良い匂いのするハーブ。頭が溶けそうになる。\n効果：ＴＰ回復４５",
+        "description": "Herb with a very nice smell. Feels like your head is melting. Effect:\nRestores 45 TP",
         "effects": [
             {
                 "code": 44,
@@ -514,7 +514,7 @@
         "hitType": 0,
         "iconIndex": 1528,
         "itypeId": 1,
-        "name": "フォリウムハーブ",
+        "name": "Folium Herb",
         "note": "",
         "occasion": 0,
         "price": 180,
@@ -535,7 +535,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "強烈な匂いのハーブ。意識が飛んで第三者目線になれる。\n効果：ＴＰ回復７０",
+        "description": "Herb with a strong smell. Makes you feel like you're losing\nconsciousness and becoming an observer. Effect: Restores 70 TP",
         "effects": [
             {
                 "code": 44,
@@ -547,7 +547,7 @@
         "hitType": 0,
         "iconIndex": 1528,
         "itypeId": 1,
-        "name": "フロースハーブ",
+        "name": "Florus Herb",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -698,7 +698,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セィメンハーブを香料に用いたコロン。いい香り。\n効果：淫欲度－１０",
+        "description": "Cologne made with Semen Herb fragrance. Smells good. Effect: Decreases\nlust by 10",
         "effects": [
             {
                 "code": 44,
@@ -710,7 +710,7 @@
         "hitType": 0,
         "iconIndex": 1450,
         "itypeId": 1,
-        "name": "セィメンコロン",
+        "name": "Semen Cologne",
         "note": "",
         "occasion": 0,
         "price": 80,
@@ -731,7 +731,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "フォリウムハーブを香料に用いたコロン。強烈な匂い。\n効果：淫欲度－３０",
+        "description": "Cologne made with Folium Herb fragrance. Intense smell. Effect:\nDecreases lust by 30",
         "effects": [
             {
                 "code": 44,
@@ -743,7 +743,7 @@
         "hitType": 0,
         "iconIndex": 1450,
         "itypeId": 1,
-        "name": "フォリウムコロン",
+        "name": "Folium Cologne",
         "note": "",
         "occasion": 0,
         "price": 210,
@@ -764,7 +764,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "フロースハーブを香料に用いたコロン。悪用禁止な匂い。\n効果：淫欲度－５０",
+        "description": "Cologne made with Flos Herb fragrance. A smell that should not be\nmisused. Effect: Decreases lust by 50",
         "effects": [
             {
                 "code": 44,
@@ -776,7 +776,7 @@
         "hitType": 0,
         "iconIndex": 1450,
         "itypeId": 1,
-        "name": "フロースコロン",
+        "name": "Florus Cologne",
         "note": "",
         "occasion": 0,
         "price": 330,
@@ -797,7 +797,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "卑猥な書物。妙に性癖に刺さる内容だ。\n効果：淫欲度＋１０",
+        "description": "Indecent book. Oddly hits the spot with your fetishes. Effect:\nIncreases lust by 10",
         "effects": [
             {
                 "code": 44,
@@ -809,7 +809,7 @@
         "hitType": 0,
         "iconIndex": 1497,
         "itypeId": 1,
-        "name": "エロ本",
+        "name": "Ero Book",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -908,7 +908,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "異常状態を回復する薬。\n効果：[暗闇]状態を回復",
+        "description": "Medicine that cures abnormal states. Effect: Cures [Darkness]\ncondition",
         "effects": [
             {
                 "code": 22,
@@ -920,7 +920,7 @@
         "hitType": 0,
         "iconIndex": 1448,
         "itypeId": 1,
-        "name": "ブラインドアウェイ",
+        "name": "Blind Away",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -941,7 +941,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "異常状態を回復する薬。\n効果：[毒]状態を回復",
+        "description": "Medicine that cures abnormal states. Effect: Cures [Poison] condition",
         "effects": [
             {
                 "code": 22,
@@ -953,7 +953,7 @@
         "hitType": 0,
         "iconIndex": 1448,
         "itypeId": 1,
-        "name": "ポイズンアウェイ",
+        "name": "Poison Away",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -974,7 +974,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "異常状態を回復する薬。\n効果：[燃焼]状態を回復",
+        "description": "Medicine that cures abnormal states. Effect: Cures [Burn] condition",
         "effects": [
             {
                 "code": 22,
@@ -986,7 +986,7 @@
         "hitType": 0,
         "iconIndex": 1448,
         "itypeId": 1,
-        "name": "ヒートアウェイ",
+        "name": "Heat Away",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -1007,7 +1007,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "異常状態を回復する薬。\n効果：[出血]状態を回復",
+        "description": "Medicine that cures abnormal states. Effect: Cures [Bleeding]\ncondition",
         "effects": [
             {
                 "code": 22,
@@ -1019,7 +1019,7 @@
         "hitType": 0,
         "iconIndex": 1448,
         "itypeId": 1,
-        "name": "ブリードアウェイ",
+        "name": "Bleed Away",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -1040,7 +1040,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "異常状態を回復する高級薬。\n効果：[発情]を除くすべての状態異常を回復",
+        "description": "Luxury medicine that cures abnormal states. Effect: Cures all abnormal\nconditions except [Heat]",
         "effects": [
             {
                 "code": 22,
@@ -1070,7 +1070,7 @@
         "hitType": 0,
         "iconIndex": 1448,
         "itypeId": 1,
-        "name": "オールアウェイ",
+        "name": "All Away",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -1091,7 +1091,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "心と体を落ち着かせる回復薬。\n効果：[発情]状態を回復",
+        "description": "Recovery medicine that calms both mind and body. Effect: Cures [Heat]\ncondition",
         "effects": [
             {
                 "code": 22,
@@ -1109,7 +1109,7 @@
         "hitType": 0,
         "iconIndex": 1453,
         "itypeId": 1,
-        "name": "リフレッシュポーション",
+        "name": "Refresh Potion",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -1260,7 +1260,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "どこでも服を直せる魔法の針と糸。\n効果：衣服の破損を１段階修復する。",
+        "description": "Magic needle and thread that can fix clothes anywhere. Effect: Repairs\none stage of clothing damage.",
         "effects": [
             {
                 "code": 44,
@@ -1272,7 +1272,7 @@
         "hitType": 0,
         "iconIndex": 1471,
         "itypeId": 1,
-        "name": "魔法の裁縫道具",
+        "name": "Magic Sewing Kit",
         "note": "",
         "occasion": 2,
         "price": 80,
@@ -1293,7 +1293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ごくふつうの裁ちばさみ。\n効果：衣服の破損を１段階進行させる。",
+        "description": "Just an ordinary pair of scissors. Effect: Progresses one stage of\nclothing damage.",
         "effects": [
             {
                 "code": 44,
@@ -1305,7 +1305,7 @@
         "hitType": 0,
         "iconIndex": 1471,
         "itypeId": 1,
-        "name": "裁ちばさみ",
+        "name": "Shears",
         "note": "",
         "occasion": 2,
         "price": 80,
@@ -1326,7 +1326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "瓶詰めされた綺麗な水。飲み水ではない。\n効果：精液の汚れを１段階洗い流す。",
+        "description": "Bottled clean water. Not for drinking. Effect: Washes away one stage\nof semen stains.",
         "effects": [
             {
                 "code": 44,
@@ -1338,7 +1338,7 @@
         "hitType": 0,
         "iconIndex": 1471,
         "itypeId": 1,
-        "name": "綺麗な水",
+        "name": "Pure Water",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1359,7 +1359,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "瓶詰めされた白濁液。その中身は…？\n効果：精液の汚れを１段階進行させる。",
+        "description": "Bottled cloudy liquid. What's inside...? Effect: Progresses one stage\nof semen stains.",
         "effects": [
             {
                 "code": 44,
@@ -1371,7 +1371,7 @@
         "hitType": 0,
         "iconIndex": 1471,
         "itypeId": 1,
-        "name": "白濁液",
+        "name": "Cloudy Fluid",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1496,7 +1496,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用者を安全な場所へ導く不思議な水晶。使い捨て。\n効果：ワールドマップへ戻る。",
+        "description": "Mysterious crystal that leads the user to a safe place. Disposable.\nEffect: Return to the world map.",
         "effects": [
             {
                 "code": 44,
@@ -1508,7 +1508,7 @@
         "hitType": 0,
         "iconIndex": 1498,
         "itypeId": 1,
-        "name": "帰還の水晶",
+        "name": "Return Crystal",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1529,12 +1529,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "敗北は負けでない。むしろ……\n効果：戦闘に敗北する。",
+        "description": "Defeat is not a loss. Rather... Effect: Lose in battle.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "自爆薬",
+        "name": "Self-Destructive Drug",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1737,7 +1737,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "リリックを呼んで、キスすることができる。\n※Ｃキー（デフォルト）でショートカット呼び出し可能",
+        "description": "Call Lyric and you can kiss her. *Shortcut call possible with the C\nkey (default)",
         "effects": [
             {
                 "code": 44,
@@ -1749,7 +1749,7 @@
         "hitType": 0,
         "iconIndex": 1517,
         "itypeId": 2,
-        "name": "リリックを呼ぶ",
+        "name": "Call Lyric",
         "note": "",
         "occasion": 2,
         "price": 80,
@@ -1822,12 +1822,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "盗賊のアジトで使われている鍵。",
+        "description": "A key used in the thieves' hideout.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1480,
         "itypeId": 2,
-        "name": "錆びた鍵Ａ",
+        "name": "Rusty Key A",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1848,12 +1848,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "盗賊のアジトで使われている鍵。",
+        "description": "A key used in the thieves' hideout.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1480,
         "itypeId": 2,
-        "name": "錆びた鍵Ｂ",
+        "name": "Rusty Key B",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1874,12 +1874,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "地下囚人街に繋がる鍵。",
+        "description": "A key leading to the underground prisoner district.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1481,
         "itypeId": 2,
-        "name": "地下囚人街の鍵",
+        "name": "Underground Prison Town Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1900,12 +1900,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "地下囚人街の\"個室\"に使われている鍵。",
+        "description": "A key used for \"private rooms\" in the underground prisoner district.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1480,
         "itypeId": 2,
-        "name": "個室の鍵",
+        "name": "Private Room Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1926,12 +1926,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "地下囚人街の作業場に通じる鍵。",
+        "description": "A key leading to the workshop in the underground prisoner district.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1480,
         "itypeId": 2,
-        "name": "刑務作業場の鍵",
+        "name": "Penal Labor Workshop Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2264,12 +2264,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "<材料のメモ>\\nコヨルの森／『赤褐色フーツギ』　　ホルヌス洞窟／『ゾコ陰結晶』\\nナヌーマ森林／『ハスウブの葉』　　レアンダ密林／『ゴンカコケ』",
+        "description": "",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1497,
         "itypeId": 2,
-        "name": "上質回復薬のメモ",
+        "name": "Note on Quality Recovery Medicine",
         "note": "\\n<材料のメモ>「コヨルの森／『赤褐色フーツギ』\n　ホルヌス洞窟／『ゾコ陰結晶』\n　ナヌーマ森林／『ハスウブの葉』\n　レアンダ密林／『ゴンカコケ』」\\n",
         "occasion": 3,
         "price": 0,
@@ -2295,7 +2295,7 @@
         "hitType": 0,
         "iconIndex": 1532,
         "itypeId": 2,
-        "name": "赤褐色フーツギ",
+        "name": "Brownish Red Futsugi",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2321,7 +2321,7 @@
         "hitType": 0,
         "iconIndex": 1583,
         "itypeId": 2,
-        "name": "ゾコ陰結晶",
+        "name": "Zoko Yin Crystal",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2347,7 +2347,7 @@
         "hitType": 0,
         "iconIndex": 1535,
         "itypeId": 2,
-        "name": "ハスウブの葉",
+        "name": "Husuub Leaf",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2368,12 +2368,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "",
+        "description": "You can view an explanation about \"COOP Battles\".",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1530,
         "itypeId": 2,
-        "name": "ゴンカコケ",
+        "name": "Gonkakoke",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2784,7 +2784,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ｈシーン時、キャラに被る男の表示方法を\n[表示][透過][消去]から切り替えることができます。\\nデフォルトでは[透過]状態となっております。",
+        "description": "You can view an explanation about \"Battle H\".",
         "effects": [
             {
                 "code": 44,
@@ -2796,7 +2796,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "透過スイッチ",
+        "name": "Transparency Switch",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2817,7 +2817,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "不具合発生時の応急処置アイテムです。立ち絵表示の処理を初期化し、再表示します。\nもし何らかの原因で立ち絵が表示されなくなった場合にお試しください。\\n使用した場合は、立ち絵表示に関連するステータス等も一部初期化されます。",
+        "description": "This is an emergency item for when glitches occur. It initializes and\nredisplay the standing picture processing. Please try it if the\nstanding picture stops being displayed for some reason.\\nNote that\nusing this will also partially initialize related statuses to the\nstanding picture display.",
         "effects": [
             {
                 "code": 44,
@@ -2829,7 +2829,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "立ち絵初期化スイッチ",
+        "name": "Character Art Initialization Switch",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2980,7 +2980,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『ＣＯＯＰバトル』についての説明を閲覧することができます。",
+        "description": "You can view an explanation about \"COOP Battles\".",
         "effects": [
             {
                 "code": 44,
@@ -2992,7 +2992,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "説明書「ＣＯＯＰバトル」",
+        "name": "Manual \"COOP Battle\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -3013,7 +3013,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『戦闘Ｈ』についての説明を閲覧することができます。",
+        "description": "You can view an explanation about \"Battle H\".",
         "effects": [
             {
                 "code": 44,
@@ -3025,7 +3025,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "説明書「戦闘Ｈ」",
+        "name": "Manual \"Battle H\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -3046,7 +3046,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『特殊な経験値』についての説明を閲覧することができます。",
+        "description": "You can view the explanation about \"Special EXP\".",
         "effects": [
             {
                 "code": 44,
@@ -3058,7 +3058,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "説明書「特殊な経験値」",
+        "name": "Manual \"Special EXP\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -3079,7 +3079,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『属性』についての説明を閲覧することができます。",
+        "description": "You can view the explanation about \"Attributes\".",
         "effects": [
             {
                 "code": 44,
@@ -3091,7 +3091,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "説明書「属性」",
+        "name": "Manual \"Attributes\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -3164,12 +3164,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "淫らな行為を受けるなど様々な条件で数値が上昇し、一定以上になると[淫欲]状態となります。\nアイテムで増減できるほか、敗北すると淫欲度はある程度減少されます。\\n特殊効果：攻撃力低下",
+        "description": "Receiving lewd acts and various other conditions can increase the\nvalue, and when it reaches a certain level, you will enter a [Lustful]\nstate. Items can increase or decrease this value, and if defeated, the\nlust level will decrease to some extent.\\nSpecial Effect: Lowered\nAttack Power",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "特殊ステート「淫欲」",
+        "name": "Special State \"Lust\"",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3190,12 +3190,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "一度の戦闘中に複数回射精されると[精液]状態となります。\nアイテムで着脱できるほか、敗北すると精液が一段階付与されます。\\n特殊効果：防御力・魔法防御力低下",
+        "description": "If you are ejaculated on multiple times during a single battle, you\nwill enter a [Semen] state. Items can be used to put on or take off\nthis state, and if defeated, semen will be applied at one\nlevel.\\nSpecial Effect: Lowered Defense & Magic Defense",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "特殊ステート「精液」",
+        "name": "Special State \"Semen\"",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3216,12 +3216,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘中に特定の攻撃を受けると確率で[発情]状態となります。\nローゼリッテの様子が変化するほか、淫欲度上昇値が増加します。",
+        "description": "During battle, receiving certain attacks may cause you to enter a\n[Heat] state with a certain probability. Roselitte's behavior changes,\nand the value of lust increase is amplified.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "特殊ステート「発情」",
+        "name": "Special State \"Heat\"",
         "note": "",
         "occasion": 3,
         "price": 0,
