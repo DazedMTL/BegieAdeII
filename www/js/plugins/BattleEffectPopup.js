@@ -304,570 +304,693 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function() {
-    'use strict';
-    var pluginName    = 'BattleEffectPopup';
-    var metaTagPrefix = 'BEP';
+(function () {
+  "use strict";
+  var pluginName = "BattleEffectPopup";
+  var metaTagPrefix = "BEP";
 
-    var getCommandName = function(command) {
-        return (command || '').toUpperCase();
-    };
+  var getCommandName = function (command) {
+    return (command || "").toUpperCase();
+  };
 
-    var getParamOther = function(paramNames) {
-        if (!Array.isArray(paramNames)) paramNames = [paramNames];
-        for (var i = 0; i < paramNames.length; i++) {
-            var name = PluginManager.parameters(pluginName)[paramNames[i]];
-            if (name) return name;
-        }
-        return null;
-    };
-
-    var getParamString = function(paramNames) {
-        var value = getParamOther(paramNames);
-        return value === null ? '' : value;
-    };
-
-    var getParamBoolean = function(paramNames) {
-        var value = getParamOther(paramNames);
-        return (value || '').toUpperCase() === 'ON' || (value || '').toUpperCase() === 'TRUE';
-    };
-
-    var getParamNumber = function(paramNames, min, max) {
-        var value = getParamOther(paramNames);
-        if (arguments.length < 2) min = -Infinity;
-        if (arguments.length < 3) max = Infinity;
-        return (parseInt(value, 10) || 0).clamp(min, max);
-    };
-
-    var getParamArrayString = function(paramNames) {
-        var values = getParamString(paramNames).split(',');
-        for (var i = 0; i < values.length; i++) values[i] = values[i].trim();
-        return values;
-    };
-
-    var getParamArrayNumber = function(paramNames, min, max) {
-        var values = getParamArrayString(paramNames);
-        if (arguments.length < 2) min = -Infinity;
-        if (arguments.length < 3) max = Infinity;
-        for (var i = 0; i < values.length; i++) {
-            if (!isNaN(parseInt(values[i], 10))) {
-                values[i] = (parseInt(values[i], 10) || 0).clamp(min, max);
-            } else {
-                values.splice(i--, 1);
-            }
-        }
-        return values;
-    };
-
-    var getArgString = function(arg, upperFlg) {
-        arg = convertEscapeCharacters(arg);
-        return upperFlg ? arg.toUpperCase() : arg;
-    };
-
-    var getArgArrayNumber = function(args, min, max) {
-        var values = getArgArrayString(args, false);
-        if (arguments.length < 2) min = -Infinity;
-        if (arguments.length < 3) max = Infinity;
-        for (var i = 0; i < values.length; i++) values[i] = (parseInt(values[i], 10) || 0).clamp(min, max);
-        return values;
-    };
-
-    var getArgArrayString = function(args, upperFlg) {
-        var values = getArgString(args, upperFlg).split(',');
-        for (var i = 0; i < values.length; i++) values[i] = values[i].trim();
-        return values;
-    };
-
-    var convertEscapeCharacters = function(text) {
-        if (text == null) text = '';
-        var windowLayer = SceneManager._scene._windowLayer;
-        return windowLayer ? windowLayer.children[0].convertEscapeCharacters(text) : text;
-    };
-
-    var getMetaValue = function(object, name) {
-        var metaTagName = metaTagPrefix + (name ? name : '');
-        return object.meta.hasOwnProperty(metaTagName) ? object.meta[metaTagName] : undefined;
-    };
-
-    var getMetaValues = function(object, names) {
-        if (!Array.isArray(names)) return getMetaValue(object, names);
-        for (var i = 0, n = names.length; i < n; i++) {
-            var value = getMetaValue(object, names[i]);
-            if (value !== undefined) return value;
-        }
-        return undefined;
-    };
-
-    //=============================================================================
-    // パラメータの取得と整形
-    //=============================================================================
-    var paramCritical         = getParamString(['Critical', 'クリティカル']);
-    var paramCriticalColor    = getParamArrayNumber(['CriticalColor', 'クリティカルカラー'], 0, 256);
-    var paramAvoid            = getParamString(['Avoid', '回避']);
-    var paramAvoidColor       = getParamArrayNumber(['AvoidColor', '回避カラー'], 0, 256);
-    var paramMiss             = getParamString(['Miss', 'ミス']);
-    var paramMissColor        = getParamArrayNumber(['MissColor', 'ミスカラー'], 0, 256);
-    var paramBuff             = getParamString(['Buff', 'バフ']);
-    var paramBuffColor        = getParamArrayNumber(['BuffColor', 'バフカラー'], 0, 256);
-    var paramDebuff           = getParamString(['Debuff', 'デバフ']);
-    var paramDebuffColor      = getParamArrayNumber(['DebuffColor', 'デバフカラー'], 0, 256);
-    var paramInvalid          = getParamString(['Invalid', '無効']);
-    var paramParamName        = getParamArrayString(['ParamName', 'パラメータ名称']);
-    var paramInvalidColor     = getParamArrayNumber(['InvalidColor', '無効カラー'], 0, 256);
-    var paramGuard            = getParamString(['Guard', 'ガード']);
-    var paramGuardColor       = getParamArrayNumber(['GuardColor', 'ガードカラー'], 0, 256);
-    var paramReflection       = getParamString(['Reflection', '魔法反射']);
-    var paramReflectionColor  = getParamArrayNumber(['ReflectionColor', '魔法反射カラー'], 0, 256);
-    var paramCounter          = getParamString(['Counter', '反撃']);
-    var paramCounterColor     = getParamArrayNumber(['CounterColor', '反撃カラー'], 0, 256);
-    var paramSubstitute       = getParamString(['Substitute', '身代わり']);
-    var paramSubstituteTarget = getParamBoolean(['SubstituteTarget', '身代わり対象にポップアップ']);
-    var paramSubstituteColor  = getParamArrayNumber(['SubstituteColor', '身代わりカラー'], 0, 256);
-    var paramWeakness         = getParamString(['Weakness', '弱点']);
-    var paramWeaknessColor    = getParamArrayNumber(['WeaknessColor', '弱点カラー'], 0, 256);
-    var paramWeaknessLine     = getParamNumber(['WeaknessLine', '弱点閾値']);
-    var paramResistance       = getParamString(['Resistance', '耐性']);
-    var paramResistanceLine   = getParamNumber(['ResistanceLine', '耐性閾値']);
-    var paramResistanceColor  = getParamArrayNumber(['ResistanceColor', '耐性カラー'], 0, 256);
-    var paramActorDamageColor = getParamArrayNumber(['ActorDamageColor', '味方ダメージカラー'], 0, 256);
-    var paramEnemyDamageColor = getParamArrayNumber(['EnemyDamageColor', '敵ダメージカラー'], 0, 256);
-    var paramFontSize         = getParamNumber(['FontSize', 'フォントサイズ'], 16, 128);
-    var paramMaxWidth         = getParamNumber(['MaxWidth', 'メッセージ最大幅'], 1);
-    var paramFlashDuration    = getParamNumber(['FlashDuration', 'フラッシュ時間'], 1);
-    var paramOffsetX          = getParamNumber(['OffsetX', 'X座標補正']);
-    var paramOffsetY          = getParamNumber(['OffsetY', 'Y座標補正']);
-    var paramUsingPicture     = getParamBoolean(['UsingPicture', '画像使用']);
-    var paramUsingItalic      = getParamBoolean(['UsingItalic', 'イタリック表示']);
-    var paramUsingOutline     = getParamBoolean(['UsingOutline', '縁取り表示']);
-    var paramOutlineColor     = getParamString(['OutlineColor', '縁取りカラー']);
-    var paramMessageWait      = getParamNumber(['MessageWait', 'メッセージウェイト']);
-
-    //=============================================================================
-    // Game_Interpreter
-    //  プラグインコマンドを追加定義します。
-    //=============================================================================
-    var _Game_Interpreter_pluginCommand      = Game_Interpreter.prototype.pluginCommand;
-    Game_Interpreter.prototype.pluginCommand = function(command, args) {
-        _Game_Interpreter_pluginCommand.apply(this, arguments);
-        if (!command.match(new RegExp('^' + metaTagPrefix))) return;
-        this.pluginCommandBattleEffectPopup(command.replace(metaTagPrefix, ''), args);
-    };
-
-    Game_Interpreter.prototype.pluginCommandBattleEffectPopup = function(command, args) {
-        switch (getCommandName(command)) {
-            case '使用者ポップアップ' :
-            case '_USER_POPUP':
-                BattleManager._subject.startMessagePopup(getArgString(args[0]), getArgArrayNumber(args[1], 0, 256));
-                break;
-            case '対象者ポップアップ' :
-            case '_TARGET_POPUP':
-                var action = BattleManager._action;
-                var unit   = action.isForOpponent() ? action.opponentsUnit() : action.friendsUnit();
-                var index  = BattleManager._subject._lastTargetIndex;
-                var target = unit.members()[index];
-                if (target) {
-                    target.startMessagePopup(getArgString(args[0]), getArgArrayNumber(args[1], 0, 256));
-                } else {
-                    console.error('対象者ポップアップのターゲットが見付かりませんでした。index : ' + index);
-                    console.error(unit.members());
-                }
-                break;
-        }
-    };
-
-    //=============================================================================
-    // Game_Action
-    //  弱点によってポップアップを設定します。
-    //=============================================================================
-    var _Game_Action_apply = Game_Action.prototype.apply;
-    Game_Action.prototype.apply = function(target) {
-        this._elementResult = {};
-        _Game_Action_apply.apply(this, arguments);
-        if (this._elementResult.guard) {
-            target.appointMessagePopup(paramGuard, paramGuardColor);
-        }
-        if (this._elementResult.weakness) {
-            target.appointMessagePopup(paramWeakness, paramWeaknessColor);
-        }
-        if (this._elementResult.resist) {
-            target.appointMessagePopup(paramResistance, paramResistanceColor);
-        }
-        this._elementResult = null;
-    };
-
-    var _Game_Action_calcElementRate = Game_Action.prototype.calcElementRate;
-    Game_Action.prototype.calcElementRate = function(target) {
-        const result = _Game_Action_calcElementRate.apply(this, arguments);
-        if (this._elementResult) {
-            if (result === 0) {
-                this._elementResult.guard = true;
-            } else if (result >= paramWeaknessLine / 100) {
-                this._elementResult.weakness = true;
-            } else if (result <= paramResistanceLine / 100) {
-                this._elementResult.resist = true;
-            }
-        }
-        return result;
-    };
-
-    //=============================================================================
-    // Game_Battler
-    //  ポップアップメッセージのリクエストに応答します。
-    //=============================================================================
-    Game_Battler.prototype.clearMessagePopup = function() {
-        this._messagePopup = false;
-    };
-
-    Game_Battler.prototype.isMessagePopupRequested = function() {
-        return this._messagePopup;
-    };
-
-    Game_Battler.prototype.startMessagePopup = function(message, flashColor) {
-        if (message) {
-            this._messagePopup = true;
-            this._message      = message;
-            this._flashColor   = flashColor;
-        }
-    };
-
-    Game_Battler.prototype.startAppointMessagePopup = function() {
-        this.startMessagePopup(this._appointMessage, this._appointFlashColor);
-        this._appointMessage    = '';
-        this._appointFlashColor = null;
-    };
-
-    Game_Battler.prototype.appointMessagePopup = function(message, flashColor) {
-        this._appointMessage    = message;
-        this._appointFlashColor = flashColor;
-    };
-
-    Game_Battler.prototype.getMessagePopupText = function() {
-        return this._message;
-    };
-
-    Game_Battler.prototype.hasAppointMessage = function() {
-        return !!this._appointMessage;
-    };
-
-    Game_Battler.prototype.getMessagePopupFlashColor = function() {
-        return this._flashColor;
-    };
-
-    var _Game_Battler_stateRate = Game_Battler.prototype.stateRate;
-    Game_Battler.prototype.stateRate = function(stateId) {
-        var rate = _Game_Battler_stateRate.apply(this, arguments);
-        if (rate === 0) {
-            this.result().guarded = true;
-        }
-        return rate;
-    };
-
-    //=============================================================================
-    // Game_ActionResult
-    //  行動が無効だったかどうかを返します。
-    //=============================================================================
-    var _Game_ActionResult_clear = Game_ActionResult.prototype.clear;
-    Game_ActionResult.prototype.clear = function() {
-        _Game_ActionResult_clear.apply(this, arguments);
-        this.guarded = false;
-    };
-
-    Game_ActionResult.prototype.isInvalid = function() {
-        return !this.success && !this.missed && !this.evaded && !$gameTemp.isCommonEventReserved();
-    };
-
-    Game_ActionResult.prototype.isGuarded = function() {
-        return this.guarded && this.isInvalid();
-    };
-
-    //=============================================================================
-    // Window_BattleLog
-    //  ポップアップメッセージをリクエストします。
-    //=============================================================================
-    Window_BattleLog.prototype.popupMessage = function(target, message, flashColor) {
-        target.startMessagePopup(message, flashColor);
-    };
-
-    Window_BattleLog.prototype.popupAppointMessage = function(target) {
-        target.startAppointMessagePopup();
-    };
-
-    var _Window_BattleLog_displayDamage      = Window_BattleLog.prototype.displayDamage;
-    Window_BattleLog.prototype.displayDamage = function(target) {
-        _Window_BattleLog_displayDamage.apply(this, arguments);
-        if (target.result().isGuarded()) {
-            this.pushPopupMessage(target, paramGuard, paramGuardColor);
-        } else if (target.result().isInvalid()) {
-            this.pushPopupMessage(target, paramInvalid, paramInvalidColor);
-        }
-        if (target.hasAppointMessage()) {
-            this.pushPopupAppointMessage(target);
-        }
-    };
-
-    var _Window_BattleLog_displayCritical      = Window_BattleLog.prototype.displayCritical;
-    Window_BattleLog.prototype.displayCritical = function(target) {
-        _Window_BattleLog_displayCritical.apply(this, arguments);
-        if (target.result().critical) {
-            this.pushPopupMessage(target, paramCritical, paramCriticalColor);
-        }
-    };
-
-    var _Window_BattleLog_displayMiss      = Window_BattleLog.prototype.displayMiss;
-    Window_BattleLog.prototype.displayMiss = function(target) {
-        _Window_BattleLog_displayMiss.apply(this, arguments);
-        this.popupMiss(target);
-    };
-
-    Window_BattleLog.prototype.popupMiss = function(target) {
-        this.pushPopupMessage(target, paramMiss, paramMissColor);
-    };
-
-    var _Window_BattleLog_displayEvasion      = Window_BattleLog.prototype.displayEvasion;
-    Window_BattleLog.prototype.displayEvasion = function(target) {
-        _Window_BattleLog_displayEvasion.apply(this, arguments);
-        this.popupEvasion(target);
-    };
-
-    Window_BattleLog.prototype.popupEvasion = function(target) {
-        this.pushPopupMessage(target, paramAvoid, paramAvoidColor);
-    };
-
-    var _Window_BattleLog_displayCounter      = Window_BattleLog.prototype.displayCounter;
-    Window_BattleLog.prototype.displayCounter = function(target) {
-        _Window_BattleLog_displayCounter.apply(this, arguments);
-        this.popupCounter(target);
-    };
-
-    var _Window_BattleLog_displaySubstitute = Window_BattleLog.prototype.displaySubstitute;
-    Window_BattleLog.prototype.displaySubstitute = function(substitute, target) {
-        _Window_BattleLog_displaySubstitute.apply(this, arguments);
-        this.pushPopupMessage(paramSubstituteTarget ? target : substitute, paramSubstitute, paramSubstituteColor);
-    };
-
-    Window_BattleLog.prototype.popupCounter = function(target) {
-        this.pushPopupMessage(target, paramCounter, paramCounterColor);
-    };
-
-    var _Window_BattleLog_displayReflection      = Window_BattleLog.prototype.displayReflection;
-    Window_BattleLog.prototype.displayReflection = function(target) {
-        _Window_BattleLog_displayReflection.apply(this, arguments);
-        this.popupReflection(target);
-    };
-
-    Window_BattleLog.prototype.popupReflection = function(target) {
-        this.pushPopupMessage(target, paramReflection, paramReflectionColor);
-    };
-
-    var _Window_BattleLog_displayAddedStates      = Window_BattleLog.prototype.displayAddedStates;
-    Window_BattleLog.prototype.displayAddedStates = function(target) {
-        _Window_BattleLog_displayAddedStates.apply(this, arguments);
-        target.result().addedStateObjects().forEach(function(state) {
-            var message = getMetaValues(state, ['Message', 'メッセージ']);
-            if (message) {
-                var flash = getMetaValues(state, ['FlashColor', 'カラー']);
-                if (flash) flash = getArgArrayNumber(flash, 0, 256);
-                this.pushPopupMessage(target, getArgString(message), flash);
-            }
-        }, this);
-    };
-
-    var _Window_BattleLog_displayChangedBuffs = Window_BattleLog.prototype.displayChangedBuffs;
-    Window_BattleLog.prototype.displayChangedBuffs = function(target) {
-        _Window_BattleLog_displayChangedBuffs.apply(this, arguments);
-        target.result().addedBuffs.forEach(function(paramId) {
-            var message = paramBuff.format(paramParamName[paramId] || TextManager.param(paramId));
-            if (message) {
-                this.pushPopupMessage(target, getArgString(message), paramBuffColor);
-            }
-        }, this);
-        target.result().addedDebuffs.forEach(function(paramId) {
-            var message = paramDebuff.format(paramParamName[paramId] || TextManager.param(paramId));
-            if (message) {
-                this.pushPopupMessage(target, getArgString(message), paramDebuffColor);
-            }
-        }, this);
-    };
-
-    Window_BattleLog.prototype.pushPopupMessage = function(target, message, flashColor) {
-        if (this.hasPopupMessage() || target.isMessagePopupRequested()) {
-            this.push('waitForPopup');
-            this.push('popupMessage', target, message, flashColor);
-        } else {
-            this.popupMessage(target, message, flashColor);
-        }
-    };
-
-    Window_BattleLog.prototype.pushPopupAppointMessage = function(target) {
-        if (this.hasPopupMessage() || target.isMessagePopupRequested()) {
-            this.push('waitForPopup');
-            this.push('popupAppointMessage', target);
-        } else {
-            this.popupAppointMessage(target);
-        }
-    };
-
-    Window_BattleLog.prototype.hasPopupMessage = function() {
-        return this._methods.some(function(method) {
-            return method.name === 'popupMessage' || method.name === 'popupAppointMessage';
-        });
-    };
-
-    Window_BattleLog.prototype.waitForPopup = function() {
-        this._waitCount = paramMessageWait || 0;
-    };
-
-    //=============================================================================
-    // Sprite_Battler
-    //  ポップアップメッセージを作成します。
-    //=============================================================================
-    var _Sprite_Battler_updateDamagePopup      = Sprite_Battler.prototype.updateDamagePopup;
-    Sprite_Battler.prototype.updateDamagePopup = function() {
-        this.setupMessagePopup();
-        _Sprite_Battler_updateDamagePopup.apply(this, arguments);
-    };
-
-    var _Sprite_Battler_pushDamageSprite = Sprite_Battler.prototype.pushDamageSprite;
-    Sprite_Battler.prototype.pushDamageSprite = function(sprite) {
-        var damage = this._damages;
-        this._damages = this._damages.filter(function(sprite) {
-            return !sprite.isMessage();
-        });
-        _Sprite_Battler_pushDamageSprite.apply(this, arguments);
-        damage.push(sprite);
-        this._damages = damage;
-    };
-
-    Sprite_Battler.prototype.setupMessagePopup = function() {
-        if (this._battler.isMessagePopupRequested()) {
-            // Resolve conflict for MOG_BattleHud.js
-            if (this._battler.isSpriteVisible() || this._sprite_face) {
-                var sprite = new Sprite_PopupMessage();
-                sprite.x   = this.x + this.messageOffsetX();
-                sprite.y   = this.y + this.messageOffsetY();
-                sprite.setup(this._battler);
-                if (!sprite.z) {
-                    this.setZPositionOfPopup(sprite);
-                }
-                this._damages.push(sprite);
-                // for BigEnemy.js
-                if (this._enemy && this._enemy.isBigEnemy && this._enemy.isBigEnemy()) {
-                    this.adjustDamagePopup();
-                }
-                // for BigEnemy.js
-                this.parent.addChild(sprite);
-            }
-            this._battler.clearMessagePopup();
-        }
-    };
-
-    Sprite_Battler.prototype.setZPositionOfPopup = function(sprite) {
-        if (this.z > 0) sprite.z = this.z + 10;
-        if (this._mainSprite && this._mainSprite.z > 0) sprite.z = this._mainSprite.z + 10;
-    };
-
-    Sprite_Battler.prototype.messageOffsetX = function() {
-        return paramOffsetX;
-    };
-
-    Sprite_Battler.prototype.messageOffsetY = function() {
-        return paramOffsetY;
-    };
-
-    //=============================================================================
-    // Sprite_Damage
-    //  回避メッセージが有効な場合のミス表示を抑制します。
-    //=============================================================================
-    var _Sprite_Damage_setup      = Sprite_Damage.prototype.setup;
-    Sprite_Damage.prototype.setup = function(target) {
-        // for YEP_BattleEngineCore.js
-        var result = target.shiftDamagePopup ? target.shiftDamagePopup() : target.result();
-        if ((!result.evaded || !paramAvoid) && (!result.missed || !paramMiss)) {
-            if (target.shiftDamagePopup) {
-                target._damagePopup.unshift(result);
-            }
-            _Sprite_Damage_setup.apply(this, arguments);
-        }
-        this.setupFlash(result, target);
-    };
-
-    Sprite_Damage.prototype.setupFlash = function(result, target) {
-        if (!result.missed && !result.evaded && result.hpAffected) {
-            var color = target instanceof Game_Actor ? paramActorDamageColor : paramEnemyDamageColor;
-            if (color && color.length > 0) this.setupFlashEffect(color);
-        }
-    };
-
-    Sprite_Damage.prototype.setupFlashEffect = function(flashColor, duration) {
-        this._flashColor    = flashColor.clone();
-        this._flashDuration = duration || paramFlashDuration;
-    };
-
-    Sprite_Damage.prototype.isMessage = function() {
-        return false;
-    };
-
-    //=============================================================================
-    // Sprite_PopupMessage
-    //  ポップアップメッセージを表示するスプライトです。
-    //=============================================================================
-    function Sprite_PopupMessage() {
-        this.initialize.apply(this, arguments);
+  var getParamOther = function (paramNames) {
+    if (!Array.isArray(paramNames)) paramNames = [paramNames];
+    for (var i = 0; i < paramNames.length; i++) {
+      var name = PluginManager.parameters(pluginName)[paramNames[i]];
+      if (name) return name;
     }
+    return null;
+  };
 
-    Sprite_PopupMessage.prototype             = Object.create(Sprite_Damage.prototype);
-    Sprite_PopupMessage.prototype.constructor = Sprite_PopupMessage;
+  var getParamString = function (paramNames) {
+    var value = getParamOther(paramNames);
+    return value === null ? "" : value;
+  };
 
-    Sprite_PopupMessage.prototype.setup = function(target) {
-        var text       = target.getMessagePopupText();
-        var bitmap     = paramUsingPicture ? this.setupStaticText(text) : this.setupDynamicText(text);
-        var sprite     = this.createChildSprite();
-        sprite.bitmap  = bitmap;
-        sprite.dy      = 0;
-        var flashColor = target.getMessagePopupFlashColor();
-        if (flashColor) {
-            this.setupFlashEffect(flashColor);
+  var getParamBoolean = function (paramNames) {
+    var value = getParamOther(paramNames);
+    return (
+      (value || "").toUpperCase() === "ON" ||
+      (value || "").toUpperCase() === "TRUE"
+    );
+  };
+
+  var getParamNumber = function (paramNames, min, max) {
+    var value = getParamOther(paramNames);
+    if (arguments.length < 2) min = -Infinity;
+    if (arguments.length < 3) max = Infinity;
+    return (parseInt(value, 10) || 0).clamp(min, max);
+  };
+
+  var getParamArrayString = function (paramNames) {
+    var values = getParamString(paramNames).split(",");
+    for (var i = 0; i < values.length; i++) values[i] = values[i].trim();
+    return values;
+  };
+
+  var getParamArrayNumber = function (paramNames, min, max) {
+    var values = getParamArrayString(paramNames);
+    if (arguments.length < 2) min = -Infinity;
+    if (arguments.length < 3) max = Infinity;
+    for (var i = 0; i < values.length; i++) {
+      if (!isNaN(parseInt(values[i], 10))) {
+        values[i] = (parseInt(values[i], 10) || 0).clamp(min, max);
+      } else {
+        values.splice(i--, 1);
+      }
+    }
+    return values;
+  };
+
+  var getArgString = function (arg, upperFlg) {
+    arg = convertEscapeCharacters(arg);
+    return upperFlg ? arg.toUpperCase() : arg;
+  };
+
+  var getArgArrayNumber = function (args, min, max) {
+    var values = getArgArrayString(args, false);
+    if (arguments.length < 2) min = -Infinity;
+    if (arguments.length < 3) max = Infinity;
+    for (var i = 0; i < values.length; i++)
+      values[i] = (parseInt(values[i], 10) || 0).clamp(min, max);
+    return values;
+  };
+
+  var getArgArrayString = function (args, upperFlg) {
+    var values = getArgString(args, upperFlg).split(",");
+    for (var i = 0; i < values.length; i++) values[i] = values[i].trim();
+    return values;
+  };
+
+  var convertEscapeCharacters = function (text) {
+    if (text == null) text = "";
+    var windowLayer = SceneManager._scene._windowLayer;
+    return windowLayer
+      ? windowLayer.children[0].convertEscapeCharacters(text)
+      : text;
+  };
+
+  var getMetaValue = function (object, name) {
+    var metaTagName = metaTagPrefix + (name ? name : "");
+    return object.meta.hasOwnProperty(metaTagName)
+      ? object.meta[metaTagName]
+      : undefined;
+  };
+
+  var getMetaValues = function (object, names) {
+    if (!Array.isArray(names)) return getMetaValue(object, names);
+    for (var i = 0, n = names.length; i < n; i++) {
+      var value = getMetaValue(object, names[i]);
+      if (value !== undefined) return value;
+    }
+    return undefined;
+  };
+
+  //=============================================================================
+  // パラメータの取得と整形
+  //=============================================================================
+  var paramCritical = getParamString(["Critical", "クリティカル"]);
+  var paramCriticalColor = getParamArrayNumber(
+    ["CriticalColor", "クリティカルカラー"],
+    0,
+    256
+  );
+  var paramAvoid = getParamString(["Avoid", "回避"]);
+  var paramAvoidColor = getParamArrayNumber(
+    ["AvoidColor", "回避カラー"],
+    0,
+    256
+  );
+  var paramMiss = getParamString(["Miss", "ミス"]);
+  var paramMissColor = getParamArrayNumber(["MissColor", "ミスカラー"], 0, 256);
+  var paramBuff = getParamString(["Buff", "バフ"]);
+  var paramBuffColor = getParamArrayNumber(["BuffColor", "バフカラー"], 0, 256);
+  var paramDebuff = getParamString(["Debuff", "デバフ"]);
+  var paramDebuffColor = getParamArrayNumber(
+    ["DebuffColor", "デバフカラー"],
+    0,
+    256
+  );
+  var paramInvalid = getParamString(["Invalid", "無効"]);
+  var paramParamName = getParamArrayString(["ParamName", "パラメータ名称"]);
+  var paramInvalidColor = getParamArrayNumber(
+    ["InvalidColor", "無効カラー"],
+    0,
+    256
+  );
+  var paramGuard = getParamString(["Guard", "ガード"]);
+  var paramGuardColor = getParamArrayNumber(
+    ["GuardColor", "ガードカラー"],
+    0,
+    256
+  );
+  var paramReflection = getParamString(["Reflection", "魔法反射"]);
+  var paramReflectionColor = getParamArrayNumber(
+    ["ReflectionColor", "魔法反射カラー"],
+    0,
+    256
+  );
+  var paramCounter = getParamString(["Counter", "反撃"]);
+  var paramCounterColor = getParamArrayNumber(
+    ["CounterColor", "反撃カラー"],
+    0,
+    256
+  );
+  var paramSubstitute = getParamString(["Substitute", "身代わり"]);
+  var paramSubstituteTarget = getParamBoolean([
+    "SubstituteTarget",
+    "身代わり対象にポップアップ",
+  ]);
+  var paramSubstituteColor = getParamArrayNumber(
+    ["SubstituteColor", "身代わりカラー"],
+    0,
+    256
+  );
+  var paramWeakness = getParamString(["Weakness", "弱点"]);
+  var paramWeaknessColor = getParamArrayNumber(
+    ["WeaknessColor", "弱点カラー"],
+    0,
+    256
+  );
+  var paramWeaknessLine = getParamNumber(["WeaknessLine", "弱点閾値"]);
+  var paramResistance = getParamString(["Resistance", "耐性"]);
+  var paramResistanceLine = getParamNumber(["ResistanceLine", "耐性閾値"]);
+  var paramResistanceColor = getParamArrayNumber(
+    ["ResistanceColor", "耐性カラー"],
+    0,
+    256
+  );
+  var paramActorDamageColor = getParamArrayNumber(
+    ["ActorDamageColor", "味方ダメージカラー"],
+    0,
+    256
+  );
+  var paramEnemyDamageColor = getParamArrayNumber(
+    ["EnemyDamageColor", "敵ダメージカラー"],
+    0,
+    256
+  );
+  var paramFontSize = getParamNumber(["FontSize", "フォントサイズ"], 16, 128);
+  var paramMaxWidth = getParamNumber(["MaxWidth", "メッセージ最大幅"], 1);
+  var paramFlashDuration = getParamNumber(
+    ["FlashDuration", "フラッシュ時間"],
+    1
+  );
+  var paramOffsetX = getParamNumber(["OffsetX", "X座標補正"]);
+  var paramOffsetY = getParamNumber(["OffsetY", "Y座標補正"]);
+  var paramUsingPicture = getParamBoolean(["UsingPicture", "画像使用"]);
+  var paramUsingItalic = getParamBoolean(["UsingItalic", "イタリック表示"]);
+  var paramUsingOutline = getParamBoolean(["UsingOutline", "縁取り表示"]);
+  var paramOutlineColor = getParamString(["OutlineColor", "縁取りカラー"]);
+  var paramMessageWait = getParamNumber(["MessageWait", "メッセージウェイト"]);
+
+  //=============================================================================
+  // Game_Interpreter
+  //  プラグインコマンドを追加定義します。
+  //=============================================================================
+  var _Game_Interpreter_pluginCommand =
+    Game_Interpreter.prototype.pluginCommand;
+  Game_Interpreter.prototype.pluginCommand = function (command, args) {
+    _Game_Interpreter_pluginCommand.apply(this, arguments);
+    if (!command.match(new RegExp("^" + metaTagPrefix))) return;
+    this.pluginCommandBattleEffectPopup(
+      command.replace(metaTagPrefix, ""),
+      args
+    );
+  };
+
+  Game_Interpreter.prototype.pluginCommandBattleEffectPopup = function (
+    command,
+    args
+  ) {
+    switch (getCommandName(command)) {
+      case "使用者ポップアップ":
+      case "_USER_POPUP":
+        BattleManager._subject.startMessagePopup(
+          getArgString(args[0]),
+          getArgArrayNumber(args[1], 0, 256)
+        );
+        break;
+      case "対象者ポップアップ":
+      case "_TARGET_POPUP":
+        var action = BattleManager._action;
+        var unit = action.isForOpponent()
+          ? action.opponentsUnit()
+          : action.friendsUnit();
+        var index = BattleManager._subject._lastTargetIndex;
+        var target = unit.members()[index];
+        if (target) {
+          target.startMessagePopup(
+            getArgString(args[0]),
+            getArgArrayNumber(args[1], 0, 256)
+          );
+        } else {
+          console.error(
+            "対象者ポップアップのターゲットが見付かりませんでした。index : " +
+              index
+          );
+          console.error(unit.members());
         }
-        // Resolve conflict for KMS_SomStyleDamage.js
-        if (this.setupSomStyleDamageParameter) {
-            this.setupSomStyleDamageParameter();
-        }
-    };
+        break;
+    }
+  };
 
-    Sprite_PopupMessage.prototype.setupDynamicText = function(text) {
-        var bitmap      = new Bitmap(paramMaxWidth, paramFontSize + 8);
-        bitmap.fontSize = paramFontSize;
-        if (paramUsingItalic) {
-            bitmap.fontItalic = true;
-        }
-        if (paramUsingOutline) {
-            bitmap.outlineWidth = Math.floor(bitmap.fontSize / 6);
-            bitmap.outlineColor = paramOutlineColor || 'gray';
-            console.log(bitmap.outlineColor);
-        }
-        bitmap.drawText(text, 0, 0, bitmap.width, bitmap.height, 'center');
-        return bitmap;
-    };
+  //=============================================================================
+  // Game_Action
+  //  弱点によってポップアップを設定します。
+  //=============================================================================
+  var _Game_Action_apply = Game_Action.prototype.apply;
+  Game_Action.prototype.apply = function (target) {
+    this._elementResult = {};
+    _Game_Action_apply.apply(this, arguments);
+    if (this._elementResult.guard) {
+      target.appointMessagePopup(paramGuard, paramGuardColor);
+    }
+    if (this._elementResult.weakness) {
+      target.appointMessagePopup(paramWeakness, paramWeaknessColor);
+    }
+    if (this._elementResult.resist) {
+      target.appointMessagePopup(paramResistance, paramResistanceColor);
+    }
+    this._elementResult = null;
+  };
 
-    Sprite_PopupMessage.prototype.setupStaticText = function(textPicture) {
-        return ImageManager.loadPicture(textPicture, 0);
-    };
+  var _Game_Action_calcElementRate = Game_Action.prototype.calcElementRate;
+  Game_Action.prototype.calcElementRate = function (target) {
+    const result = _Game_Action_calcElementRate.apply(this, arguments);
+    if (this._elementResult) {
+      if (result === 0) {
+        this._elementResult.guard = true;
+      } else if (result >= paramWeaknessLine / 100) {
+        this._elementResult.weakness = true;
+      } else if (result <= paramResistanceLine / 100) {
+        this._elementResult.resist = true;
+      }
+    }
+    return result;
+  };
 
-    Sprite_PopupMessage.prototype.isMessage = function() {
-        return true;
-    };
+  //=============================================================================
+  // Game_Battler
+  //  ポップアップメッセージのリクエストに応答します。
+  //=============================================================================
+  Game_Battler.prototype.clearMessagePopup = function () {
+    this._messagePopup = false;
+  };
 
-    // for YEP_X_ActSeqPack1.js
-    var _BattleManager_actionAddState = BattleManager.actionAddState;
-    BattleManager.actionAddState = function(actionName, actionArgs) {
-        var targets = this.makeActionTargets(actionArgs[0]);
-        if (targets) {
-            targets.forEach(function(target) {
-                target.result().used = true;
-                target.result().success = true;
-            });
+  Game_Battler.prototype.isMessagePopupRequested = function () {
+    return this._messagePopup;
+  };
+
+  Game_Battler.prototype.startMessagePopup = function (message, flashColor) {
+    if (message) {
+      this._messagePopup = true;
+      this._message = message;
+      this._flashColor = flashColor;
+    }
+  };
+
+  Game_Battler.prototype.startAppointMessagePopup = function () {
+    this.startMessagePopup(this._appointMessage, this._appointFlashColor);
+    this._appointMessage = "";
+    this._appointFlashColor = null;
+  };
+
+  Game_Battler.prototype.appointMessagePopup = function (message, flashColor) {
+    this._appointMessage = message;
+    this._appointFlashColor = flashColor;
+  };
+
+  Game_Battler.prototype.getMessagePopupText = function () {
+    return this._message;
+  };
+
+  Game_Battler.prototype.hasAppointMessage = function () {
+    return !!this._appointMessage;
+  };
+
+  Game_Battler.prototype.getMessagePopupFlashColor = function () {
+    return this._flashColor;
+  };
+
+  var _Game_Battler_stateRate = Game_Battler.prototype.stateRate;
+  Game_Battler.prototype.stateRate = function (stateId) {
+    var rate = _Game_Battler_stateRate.apply(this, arguments);
+    if (rate === 0) {
+      this.result().guarded = true;
+    }
+    return rate;
+  };
+
+  //=============================================================================
+  // Game_ActionResult
+  //  行動が無効だったかどうかを返します。
+  //=============================================================================
+  var _Game_ActionResult_clear = Game_ActionResult.prototype.clear;
+  Game_ActionResult.prototype.clear = function () {
+    _Game_ActionResult_clear.apply(this, arguments);
+    this.guarded = false;
+  };
+
+  Game_ActionResult.prototype.isInvalid = function () {
+    return (
+      !this.success &&
+      !this.missed &&
+      !this.evaded &&
+      !$gameTemp.isCommonEventReserved()
+    );
+  };
+
+  Game_ActionResult.prototype.isGuarded = function () {
+    return this.guarded && this.isInvalid();
+  };
+
+  //=============================================================================
+  // Window_BattleLog
+  //  ポップアップメッセージをリクエストします。
+  //=============================================================================
+  Window_BattleLog.prototype.popupMessage = function (
+    target,
+    message,
+    flashColor
+  ) {
+    target.startMessagePopup(message, flashColor);
+  };
+
+  Window_BattleLog.prototype.popupAppointMessage = function (target) {
+    target.startAppointMessagePopup();
+  };
+
+  var _Window_BattleLog_displayDamage =
+    Window_BattleLog.prototype.displayDamage;
+  Window_BattleLog.prototype.displayDamage = function (target) {
+    _Window_BattleLog_displayDamage.apply(this, arguments);
+    if (target.result().isGuarded()) {
+      this.pushPopupMessage(target, paramGuard, paramGuardColor);
+    } else if (target.result().isInvalid()) {
+      this.pushPopupMessage(target, paramInvalid, paramInvalidColor);
+    }
+    if (target.hasAppointMessage()) {
+      this.pushPopupAppointMessage(target);
+    }
+  };
+
+  var _Window_BattleLog_displayCritical =
+    Window_BattleLog.prototype.displayCritical;
+  Window_BattleLog.prototype.displayCritical = function (target) {
+    _Window_BattleLog_displayCritical.apply(this, arguments);
+    if (target.result().critical) {
+      this.pushPopupMessage(target, paramCritical, paramCriticalColor);
+    }
+  };
+
+  var _Window_BattleLog_displayMiss = Window_BattleLog.prototype.displayMiss;
+  Window_BattleLog.prototype.displayMiss = function (target) {
+    _Window_BattleLog_displayMiss.apply(this, arguments);
+    this.popupMiss(target);
+  };
+
+  Window_BattleLog.prototype.popupMiss = function (target) {
+    this.pushPopupMessage(target, paramMiss, paramMissColor);
+  };
+
+  var _Window_BattleLog_displayEvasion =
+    Window_BattleLog.prototype.displayEvasion;
+  Window_BattleLog.prototype.displayEvasion = function (target) {
+    _Window_BattleLog_displayEvasion.apply(this, arguments);
+    this.popupEvasion(target);
+  };
+
+  Window_BattleLog.prototype.popupEvasion = function (target) {
+    this.pushPopupMessage(target, paramAvoid, paramAvoidColor);
+  };
+
+  var _Window_BattleLog_displayCounter =
+    Window_BattleLog.prototype.displayCounter;
+  Window_BattleLog.prototype.displayCounter = function (target) {
+    _Window_BattleLog_displayCounter.apply(this, arguments);
+    this.popupCounter(target);
+  };
+
+  var _Window_BattleLog_displaySubstitute =
+    Window_BattleLog.prototype.displaySubstitute;
+  Window_BattleLog.prototype.displaySubstitute = function (substitute, target) {
+    _Window_BattleLog_displaySubstitute.apply(this, arguments);
+    this.pushPopupMessage(
+      paramSubstituteTarget ? target : substitute,
+      paramSubstitute,
+      paramSubstituteColor
+    );
+  };
+
+  Window_BattleLog.prototype.popupCounter = function (target) {
+    this.pushPopupMessage(target, paramCounter, paramCounterColor);
+  };
+
+  var _Window_BattleLog_displayReflection =
+    Window_BattleLog.prototype.displayReflection;
+  Window_BattleLog.prototype.displayReflection = function (target) {
+    _Window_BattleLog_displayReflection.apply(this, arguments);
+    this.popupReflection(target);
+  };
+
+  Window_BattleLog.prototype.popupReflection = function (target) {
+    this.pushPopupMessage(target, paramReflection, paramReflectionColor);
+  };
+
+  var _Window_BattleLog_displayAddedStates =
+    Window_BattleLog.prototype.displayAddedStates;
+  Window_BattleLog.prototype.displayAddedStates = function (target) {
+    _Window_BattleLog_displayAddedStates.apply(this, arguments);
+    target
+      .result()
+      .addedStateObjects()
+      .forEach(function (state) {
+        var message = getMetaValues(state, ["Message", "メッセージ"]);
+        if (message) {
+          var flash = getMetaValues(state, ["FlashColor", "カラー"]);
+          if (flash) flash = getArgArrayNumber(flash, 0, 256);
+          this.pushPopupMessage(target, getArgString(message), flash);
         }
-        return _BattleManager_actionAddState.apply(this, arguments);
-    };
+      }, this);
+  };
+
+  var _Window_BattleLog_displayChangedBuffs =
+    Window_BattleLog.prototype.displayChangedBuffs;
+  Window_BattleLog.prototype.displayChangedBuffs = function (target) {
+    _Window_BattleLog_displayChangedBuffs.apply(this, arguments);
+    target.result().addedBuffs.forEach(function (paramId) {
+      var message = paramBuff.format(
+        paramParamName[paramId] || TextManager.param(paramId)
+      );
+      if (message) {
+        this.pushPopupMessage(target, getArgString(message), paramBuffColor);
+      }
+    }, this);
+    target.result().addedDebuffs.forEach(function (paramId) {
+      var message = paramDebuff.format(
+        paramParamName[paramId] || TextManager.param(paramId)
+      );
+      if (message) {
+        this.pushPopupMessage(target, getArgString(message), paramDebuffColor);
+      }
+    }, this);
+  };
+
+  Window_BattleLog.prototype.pushPopupMessage = function (
+    target,
+    message,
+    flashColor
+  ) {
+    if (this.hasPopupMessage() || target.isMessagePopupRequested()) {
+      this.push("waitForPopup");
+      this.push("popupMessage", target, message, flashColor);
+    } else {
+      this.popupMessage(target, message, flashColor);
+    }
+  };
+
+  Window_BattleLog.prototype.pushPopupAppointMessage = function (target) {
+    if (this.hasPopupMessage() || target.isMessagePopupRequested()) {
+      this.push("waitForPopup");
+      this.push("popupAppointMessage", target);
+    } else {
+      this.popupAppointMessage(target);
+    }
+  };
+
+  Window_BattleLog.prototype.hasPopupMessage = function () {
+    return this._methods.some(function (method) {
+      return (
+        method.name === "popupMessage" || method.name === "popupAppointMessage"
+      );
+    });
+  };
+
+  Window_BattleLog.prototype.waitForPopup = function () {
+    this._waitCount = paramMessageWait || 0;
+  };
+
+  //=============================================================================
+  // Sprite_Battler
+  //  ポップアップメッセージを作成します。
+  //=============================================================================
+  var _Sprite_Battler_updateDamagePopup =
+    Sprite_Battler.prototype.updateDamagePopup;
+  Sprite_Battler.prototype.updateDamagePopup = function () {
+    this.setupMessagePopup();
+    _Sprite_Battler_updateDamagePopup.apply(this, arguments);
+  };
+
+  var _Sprite_Battler_pushDamageSprite =
+    Sprite_Battler.prototype.pushDamageSprite;
+  Sprite_Battler.prototype.pushDamageSprite = function (sprite) {
+    var damage = this._damages;
+    this._damages = this._damages.filter(function (sprite) {
+      return !sprite.isMessage();
+    });
+    _Sprite_Battler_pushDamageSprite.apply(this, arguments);
+    damage.push(sprite);
+    this._damages = damage;
+  };
+
+  Sprite_Battler.prototype.setupMessagePopup = function () {
+    if (this._battler.isMessagePopupRequested()) {
+      // Resolve conflict for MOG_BattleHud.js
+      if (this._battler.isSpriteVisible() || this._sprite_face) {
+        var sprite = new Sprite_PopupMessage();
+        sprite.x = this.x + this.messageOffsetX();
+        sprite.y = this.y + this.messageOffsetY();
+        sprite.setup(this._battler);
+        if (!sprite.z) {
+          this.setZPositionOfPopup(sprite);
+        }
+        this._damages.push(sprite);
+        // for BigEnemy.js
+        if (this._enemy && this._enemy.isBigEnemy && this._enemy.isBigEnemy()) {
+          this.adjustDamagePopup();
+        }
+        // for BigEnemy.js
+        this.parent.addChild(sprite);
+      }
+      this._battler.clearMessagePopup();
+    }
+  };
+
+  Sprite_Battler.prototype.setZPositionOfPopup = function (sprite) {
+    if (this.z > 0) sprite.z = this.z + 10;
+    if (this._mainSprite && this._mainSprite.z > 0)
+      sprite.z = this._mainSprite.z + 10;
+  };
+
+  Sprite_Battler.prototype.messageOffsetX = function () {
+    return paramOffsetX;
+  };
+
+  Sprite_Battler.prototype.messageOffsetY = function () {
+    return paramOffsetY;
+  };
+
+  //=============================================================================
+  // Sprite_Damage
+  //  回避メッセージが有効な場合のミス表示を抑制します。
+  //=============================================================================
+  var _Sprite_Damage_setup = Sprite_Damage.prototype.setup;
+  Sprite_Damage.prototype.setup = function (target) {
+    // for YEP_BattleEngineCore.js
+    var result = target.shiftDamagePopup
+      ? target.shiftDamagePopup()
+      : target.result();
+    if ((!result.evaded || !paramAvoid) && (!result.missed || !paramMiss)) {
+      if (target.shiftDamagePopup) {
+        target._damagePopup.unshift(result);
+      }
+      _Sprite_Damage_setup.apply(this, arguments);
+    }
+    this.setupFlash(result, target);
+  };
+
+  Sprite_Damage.prototype.setupFlash = function (result, target) {
+    if (!result.missed && !result.evaded && result.hpAffected) {
+      var color =
+        target instanceof Game_Actor
+          ? paramActorDamageColor
+          : paramEnemyDamageColor;
+      if (color && color.length > 0) this.setupFlashEffect(color);
+    }
+  };
+
+  Sprite_Damage.prototype.setupFlashEffect = function (flashColor, duration) {
+    this._flashColor = flashColor.clone();
+    this._flashDuration = duration || paramFlashDuration;
+  };
+
+  Sprite_Damage.prototype.isMessage = function () {
+    return false;
+  };
+
+  //=============================================================================
+  // Sprite_PopupMessage
+  //  ポップアップメッセージを表示するスプライトです。
+  //=============================================================================
+  function Sprite_PopupMessage() {
+    this.initialize.apply(this, arguments);
+  }
+
+  Sprite_PopupMessage.prototype = Object.create(Sprite_Damage.prototype);
+  Sprite_PopupMessage.prototype.constructor = Sprite_PopupMessage;
+
+  Sprite_PopupMessage.prototype.setup = function (target) {
+    var text = target.getMessagePopupText();
+    var bitmap = paramUsingPicture
+      ? this.setupStaticText(text)
+      : this.setupDynamicText(text);
+    var sprite = this.createChildSprite();
+    sprite.bitmap = bitmap;
+    sprite.dy = 0;
+    var flashColor = target.getMessagePopupFlashColor();
+    if (flashColor) {
+      this.setupFlashEffect(flashColor);
+    }
+    // Resolve conflict for KMS_SomStyleDamage.js
+    if (this.setupSomStyleDamageParameter) {
+      this.setupSomStyleDamageParameter();
+    }
+  };
+
+  Sprite_PopupMessage.prototype.setupDynamicText = function (text) {
+    var bitmap = new Bitmap(paramMaxWidth, paramFontSize + 8);
+    bitmap.fontSize = paramFontSize;
+    if (paramUsingItalic) {
+      bitmap.fontItalic = true;
+    }
+    if (paramUsingOutline) {
+      bitmap.outlineWidth = Math.floor(bitmap.fontSize / 6);
+      bitmap.outlineColor = paramOutlineColor || "gray";
+      console.log(bitmap.outlineColor);
+    }
+    bitmap.drawText(text, 0, 0, bitmap.width, bitmap.height, "center");
+    return bitmap;
+  };
+
+  Sprite_PopupMessage.prototype.setupStaticText = function (textPicture) {
+    return ImageManager.loadPicture(textPicture, 0);
+  };
+
+  Sprite_PopupMessage.prototype.isMessage = function () {
+    return true;
+  };
+
+  // for YEP_X_ActSeqPack1.js
+  var _BattleManager_actionAddState = BattleManager.actionAddState;
+  BattleManager.actionAddState = function (actionName, actionArgs) {
+    var targets = this.makeActionTargets(actionArgs[0]);
+    if (targets) {
+      targets.forEach(function (target) {
+        target.result().used = true;
+        target.result().success = true;
+      });
+    }
+    return _BattleManager_actionAddState.apply(this, arguments);
+  };
 })();
-

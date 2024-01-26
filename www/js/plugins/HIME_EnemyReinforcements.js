@@ -15,7 +15,7 @@
  *
  * 元プラグイン:
  * http://himeworks.com/2015/11/enemy-reinforcements-mv/
- * 
+ *
  * == 説明 ==
  *
  * Video: https://youtu.be/ROy4nEoao-I
@@ -336,13 +336,12 @@ Imported.EnemyReinforcements = 1;
 TH.EnemyReinforcements = TH.EnemyReinforcements || {};
 
 (function ($) {
-
   /* New. Refresh the spriteset to draw new enemies */
   BattleManager.refreshEnemyReinforcements = function () {
     if (this._spriteset) {
       this._spriteset.refreshEnemyReinforcements();
     }
-  }
+  };
 
   /***************************************************************************/
 
@@ -351,7 +350,7 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
     for (var i = 0; i < sprites.length; i++) {
       this._battleField.removeChild(sprites[i]);
     }
-  }
+  };
 
   /* Delete all enemy sprites and re-draw them */
   Spriteset_Battle.prototype.refreshEnemyReinforcements = function () {
@@ -363,7 +362,7 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
     }
     // resolve conflict for MOG_BattleCursor.js v2.3
     // this.createEnemyReinforcements();
-  }
+  };
 
   Spriteset_Battle.prototype.createEnemyReinforcements = function () {
     var enemies = $gameTroop.newReinforcements();
@@ -376,7 +375,6 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
       // console.log(sprites[j]);
       this._enemySprites.push(sprites[j]);
       this._battleField.addChild(sprites[j]);
-
     }
   };
 
@@ -386,15 +384,15 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
   Game_Enemy.prototype.setup = function (enemyId, x, y) {
     TH_EnemyReinforcements_Game_Enemy_setup.call(this, enemyId, x, y);
     this._troopId = $gameTroop.troop.id;
-  }
+  };
 
   Game_Enemy.prototype.troopId = function () {
     return this._troopId;
-  }
+  };
 
   Game_Enemy.prototype.troopMemberId = function () {
     return this._troopMemberId;
-  }
+  };
 
   Game_Enemy.prototype.setTroopId = function (troopId) {
     this._troopId = troopId;
@@ -415,7 +413,7 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
   Game_Troop.prototype.setup = function (troopId) {
     TH_EnemyReinforcements_GameTroop_Setup.call(this, troopId);
     this.clearReinforcements();
-  }
+  };
 
   Game_Troop.prototype.newReinforcements = function () {
     return this._newEnemies;
@@ -425,7 +423,11 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
     this._newEnemies = [];
   };
 
-  Game_Troop.prototype.addReinforcementMember = function (troopId, memberId, member) {
+  Game_Troop.prototype.addReinforcementMember = function (
+    troopId,
+    memberId,
+    member
+  ) {
     if ($dataEnemies[member.enemyId]) {
       var enemyId = member.enemyId;
       var x = member.x;
@@ -439,7 +441,7 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
       this._enemies.push(enemy);
       this._newEnemies.push(enemy);
     }
-  }
+  };
 
   Game_Troop.prototype.addEnemyReinforcement = function (troopId, memberId) {
     var member = $dataTroops[troopId].members[memberId - 1];
@@ -464,12 +466,15 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
     var enemies = this._enemies;
     /* Start from the end of the array to avoid indexing issues */
     for (var i = enemies.length - 1; i > -1; i--) {
-      if (enemies[i].troopId() === troopId && enemies[i].troopMemberId() === memberId) {
+      if (
+        enemies[i].troopId() === troopId &&
+        enemies[i].troopMemberId() === memberId
+      ) {
         this._enemies.splice(i, 1);
       }
     }
     BattleManager.refreshEnemyReinforcements();
-  }
+  };
 
   Game_Troop.prototype.removeTroopReinforcements = function (troopId) {
     var enemies = this._enemies;
@@ -482,18 +487,24 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
     BattleManager.refreshEnemyReinforcements();
   };
 
-  Game_Troop.prototype.isEnemyReinforcementAdded = function (troopId, memberId, needsAlive) {
+  Game_Troop.prototype.isEnemyReinforcementAdded = function (
+    troopId,
+    memberId,
+    needsAlive
+  ) {
     var enemies = this._enemies;
     for (var i = 0; i < enemies.length; i++) {
-      if (enemies[i].troopId() === troopId && enemies[i].troopMemberId() === memberId) {
+      if (
+        enemies[i].troopId() === troopId &&
+        enemies[i].troopMemberId() === memberId
+      ) {
         /* Needs to be alive */
         if (needsAlive) {
           if (enemies[i].isAlive()) {
             return true;
           }
-        }
+        } else {
         /* Doesn't need to be alive */
-        else {
           return true;
         }
       }
@@ -501,7 +512,10 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
     return false;
   };
 
-  Game_Troop.prototype.isTroopReinforcementAdded = function (troopId, needsAlive) {
+  Game_Troop.prototype.isTroopReinforcementAdded = function (
+    troopId,
+    needsAlive
+  ) {
     var enemies = this._enemies;
     for (var i = 0; i < enemies.length; i++) {
       if (enemies[i].troopId() === troopId) {
@@ -510,9 +524,8 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
           if (enemies[i].isAlive()) {
             return true;
           }
-        }
+        } else {
         /* Doesn't need to be alive */
-        else {
           return true;
         }
       }
@@ -522,32 +535,32 @@ TH.EnemyReinforcements = TH.EnemyReinforcements || {};
 
   /***************************************************************************/
 
-  var TH_EnemyReinforcements_Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
+  var TH_EnemyReinforcements_Game_Interpreter_pluginCommand =
+    Game_Interpreter.prototype.pluginCommand;
   Game_Interpreter.prototype.pluginCommand = function (command, args) {
-
     // specify enemy from a certain troop
     if (command.toLowerCase() === "add_enemy") {
       var troopId = Math.floor(args[3]);
       var memberId = Math.floor(args[0]);
-      $gameTroop.addEnemyReinforcement(troopId, memberId)
+      $gameTroop.addEnemyReinforcement(troopId, memberId);
     }
     // add entire troop
     else if (command.toLowerCase() === "add_enemy_troop") {
       var troopId = Math.floor(args[0]);
       $gameTroop.addTroopReinforcements(troopId);
-    }
-    else if (command.toLowerCase() === "remove_enemy") {
+    } else if (command.toLowerCase() === "remove_enemy") {
       var troopId = Math.floor(args[3]);
       var memberId = Math.floor(args[0]);
       $gameTroop.removeEnemyReinforcement(troopId, memberId);
-    }
-    else if (command.toLowerCase() === "remove_enemy_troop") {
+    } else if (command.toLowerCase() === "remove_enemy_troop") {
       var troopId = Math.floor(args[0]);
       $gameTroop.removeTroopReinforcements(troopId);
-    }
-    else {
-      TH_EnemyReinforcements_Game_Interpreter_pluginCommand.call(this, command, args);
+    } else {
+      TH_EnemyReinforcements_Game_Interpreter_pluginCommand.call(
+        this,
+        command,
+        args
+      );
     }
   };
-
 })(TH.EnemyReinforcements);

@@ -10,5 +10,5 @@
  * @requiredAssets img/particles/_ANIM_Absorb_17
  */
 PluginManager._parameters.trp_particlelist = {
-	animImages:["ANIM:Absorb:17"]
+  animImages: ["ANIM:Absorb:17"],
 };

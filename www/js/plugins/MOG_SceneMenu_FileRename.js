@@ -60,68 +60,71 @@
  *
  */
 /*~struct~fileNameList:
-* @param menuCommand
-* @text 変更前のファイル名
-* @type string
-* @desc このファイルが呼び出された時を対象とします。大文字小文字も区別されます。
-*
-* @param loadFile
-* @text 変更後のファイル名
-* @type string
-* @desc 実在するファイル名を指定します。Windows以外では大文字小文字が区別されます。
-*/
-
+ * @param menuCommand
+ * @text 変更前のファイル名
+ * @type string
+ * @desc このファイルが呼び出された時を対象とします。大文字小文字も区別されます。
+ *
+ * @param loadFile
+ * @text 変更後のファイル名
+ * @type string
+ * @desc 実在するファイル名を指定します。Windows以外では大文字小文字が区別されます。
+ */
 
 (function () {
-    'use strict';
+  "use strict";
 
-    var parameters = PluginManager.parameters('MOG_SceneMenu_FileRename');
+  var parameters = PluginManager.parameters("MOG_SceneMenu_FileRename");
 
-    var param = JSON.parse(JSON.stringify(parameters, function (key, value) {
+  var param = JSON.parse(
+    JSON.stringify(parameters, function (key, value) {
+      try {
+        return JSON.parse(value);
+      } catch (e) {
         try {
-            return JSON.parse(value);
+          return eval(value);
         } catch (e) {
-            try {
-                return eval(value);
-            } catch (e) {
-                return value;
-            }
+          return value;
         }
-    }));
+      }
+    })
+  );
 
-    var changeFileList = param.changeFileList || [];
+  var changeFileList = param.changeFileList || [];
 
-    var replaceLoadFile = function (filename) {
-        var fileList;
-        var len = changeFileList.length;
-        for (var i = 0; i < len; i++) {
-            fileList = changeFileList[i];
-            if (fileList && fileList.menuCommand === filename && fileList.loadFile) {
-                return fileList.loadFile;
-            }
-        }
-        return filename;
-    };
+  var replaceLoadFile = function (filename) {
+    var fileList;
+    var len = changeFileList.length;
+    for (var i = 0; i < len; i++) {
+      fileList = changeFileList[i];
+      if (fileList && fileList.menuCommand === filename && fileList.loadFile) {
+        return fileList.loadFile;
+      }
+    }
+    return filename;
+  };
 
-    //============================================================================
-    // ** ImageManager
-    //============================================================================
+  //============================================================================
+  // ** ImageManager
+  //============================================================================
 
-    //==============================
-    // * Main Commands
-    //==============================
-    var _ImageManager_loadMenusMainCommands = ImageManager.loadMenusMainCommands;
-    ImageManager.loadMenusMainCommands = function (filename) {
-        return _ImageManager_loadMenusMainCommands.call(this, replaceLoadFile(filename));
-    };
+  //==============================
+  // * Main Commands
+  //==============================
+  var _ImageManager_loadMenusMainCommands = ImageManager.loadMenusMainCommands;
+  ImageManager.loadMenusMainCommands = function (filename) {
+    return _ImageManager_loadMenusMainCommands.call(
+      this,
+      replaceLoadFile(filename)
+    );
+  };
 
-    //==============================
-    // * BHud
-    //==============================
+  //==============================
+  // * BHud
+  //==============================
 
-    var _ImageManager_loadBcom = ImageManager.loadBcom;
-    ImageManager.loadBcom = function (filename) {
-        return _ImageManager_loadBcom.call(this, replaceLoadFile(filename));
-    };
-
+  var _ImageManager_loadBcom = ImageManager.loadBcom;
+  ImageManager.loadBcom = function (filename) {
+    return _ImageManager_loadBcom.call(this, replaceLoadFile(filename));
+  };
 })();

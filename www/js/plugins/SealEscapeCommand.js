@@ -34,15 +34,16 @@
  *   <seal_escape>  : ［逃げる］コマンド封印
  */
 
-(function() {
-
-    var _BattleManager_canEscape = BattleManager.canEscape;
-    BattleManager.canEscape = function() {
-        return _BattleManager_canEscape.call(this) && !$gameParty.members().some(function(actor) {
-            return actor.traitObjects().some(function(obj) {
-                return obj.meta.seal_escape === true;
-            });
+(function () {
+  var _BattleManager_canEscape = BattleManager.canEscape;
+  BattleManager.canEscape = function () {
+    return (
+      _BattleManager_canEscape.call(this) &&
+      !$gameParty.members().some(function (actor) {
+        return actor.traitObjects().some(function (obj) {
+          return obj.meta.seal_escape === true;
         });
-    };
-
+      })
+    );
+  };
 })();

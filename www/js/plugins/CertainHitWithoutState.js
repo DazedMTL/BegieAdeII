@@ -43,19 +43,22 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function() {
-    'use strict';
+(function () {
+  "use strict";
 
-    var _Game_Action_itemEffectAddNormalState = Game_Action.prototype.itemEffectAddNormalState;
-    Game_Action.prototype.itemEffectAddNormalState = function(target, effect) {
-        this._supplessCertainHit = true;
-        _Game_Action_itemEffectAddNormalState.apply(this, arguments);
-        this._supplessCertainHit = false;
-    };
+  var _Game_Action_itemEffectAddNormalState =
+    Game_Action.prototype.itemEffectAddNormalState;
+  Game_Action.prototype.itemEffectAddNormalState = function (target, effect) {
+    this._supplessCertainHit = true;
+    _Game_Action_itemEffectAddNormalState.apply(this, arguments);
+    this._supplessCertainHit = false;
+  };
 
-    var _Game_Action_isCertainHit = Game_Action.prototype.isCertainHit;
-    Game_Action.prototype.isCertainHit = function() {
-        return _Game_Action_isCertainHit.apply(this, arguments) && !this._supplessCertainHit;
-    };
+  var _Game_Action_isCertainHit = Game_Action.prototype.isCertainHit;
+  Game_Action.prototype.isCertainHit = function () {
+    return (
+      _Game_Action_isCertainHit.apply(this, arguments) &&
+      !this._supplessCertainHit
+    );
+  };
 })();
-

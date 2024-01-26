@@ -107,115 +107,126 @@
  *
  *
  * *
-*/
+ */
 (function () {
-    'use strict';
-    var Parameters, SeVolumeDef, SePitchDef, SePanDef,
-        WaitPeriodDef, WaitLineDef;
+  "use strict";
+  var Parameters, SeVolumeDef, SePitchDef, SePanDef, WaitPeriodDef, WaitLineDef;
 
-    var CheckParam = function(type, param, def) {
-        var regExp;
+  var CheckParam = function (type, param, def) {
+    var regExp;
 
-        regExp = /^\x1bV\[\d+\]$/i;
-        param = param.replace(/\\/g, '\x1b');
-        if(regExp.test(param)) {
-            return param;
-        }
-        switch(type) {
-            case "bool":
-                return param.toUpperCase() === "ON";
-            case "num":
-                return (isFinite(param))? parseInt(param, 10) : (def)? def : 0;
-            default:
-                return param;
-        }
+    regExp = /^\x1bV\[\d+\]$/i;
+    param = param.replace(/\\/g, "\x1b");
+    if (regExp.test(param)) {
+      return param;
     }
+    switch (type) {
+      case "bool":
+        return param.toUpperCase() === "ON";
+      case "num":
+        return isFinite(param) ? parseInt(param, 10) : def ? def : 0;
+      default:
+        return param;
+    }
+  };
 
-    var ConvertEscapeCharacters = function(text) {
-        text = String(text);
-        text = text.replace(/\\/g, '\x1b');
-        text = text.replace(/\x1b\x1b/g, '\\');
+  var ConvertEscapeCharacters = function (text) {
+    text = String(text);
+    text = text.replace(/\\/g, "\x1b");
+    text = text.replace(/\x1b\x1b/g, "\\");
 
-        text = text.replace(/\x1bV\[(\d+)\]/gi, function() {
-            return $gameVariables.value(parseInt(arguments[1]));
-        }.bind(this));
+    text = text.replace(
+      /\x1bV\[(\d+)\]/gi,
+      function () {
+        return $gameVariables.value(parseInt(arguments[1]));
+      }.bind(this)
+    );
 
-        text = text.replace(/\x1bV\[(\d+)\]/gi, function() {
-            return $gameVariables.value(parseInt(arguments[1]));
-        }.bind(this));
+    text = text.replace(
+      /\x1bV\[(\d+)\]/gi,
+      function () {
+        return $gameVariables.value(parseInt(arguments[1]));
+      }.bind(this)
+    );
 
-        return text;
-    };
+    return text;
+  };
 
-    Parameters = PluginManager.parameters('MKR_ControlCharacterEx');
-    SeVolumeDef = CheckParam("num", Parameters['Default_SE_Volume'], 90);
-    SePitchDef = CheckParam("num", Parameters['Default_SE_Pitch'], 100);
-    SePanDef = CheckParam("num", Parameters['Default_SE_Pan']);
-    WaitPeriodDef = CheckParam("num", Parameters['Default_Wait_Period'], 15);
-    WaitLineDef = CheckParam("num", Parameters['Default_Wait_Line'], 60);
+  Parameters = PluginManager.parameters("MKR_ControlCharacterEx");
+  SeVolumeDef = CheckParam("num", Parameters["Default_SE_Volume"], 90);
+  SePitchDef = CheckParam("num", Parameters["Default_SE_Pitch"], 100);
+  SePanDef = CheckParam("num", Parameters["Default_SE_Pan"]);
+  WaitPeriodDef = CheckParam("num", Parameters["Default_Wait_Period"], 15);
+  WaitLineDef = CheckParam("num", Parameters["Default_Wait_Line"], 60);
 
-    //=========================================================================
-    // Window_Base
-    //  エスケープコマンドを追加定義します。
-    //
-    //=========================================================================
+  //=========================================================================
+  // Window_Base
+  //  エスケープコマンドを追加定義します。
+  //
+  //=========================================================================
 
-    var _Window_Base_obtainEscapeCode = Window_Base.prototype.obtainEscapeCode;
-    Window_Base.prototype.obtainEscapeCode = function(textState) {
-        var regExp, arr;
+  var _Window_Base_obtainEscapeCode = Window_Base.prototype.obtainEscapeCode;
+  Window_Base.prototype.obtainEscapeCode = function (textState) {
+    var regExp, arr;
 
-        textState.index++;
-        regExp = /^SE\[.*?\]/i;
-        arr = regExp.exec(textState.text.slice(textState.index));
+    textState.index++;
+    regExp = /^SE\[.*?\]/i;
+    arr = regExp.exec(textState.text.slice(textState.index));
 
-        if (arr) {
-            textState.index += arr[0].length;
-            return arr[0];
-        } else {
-            textState.index--;
-            return _Window_Base_obtainEscapeCode.call(this, textState);
-        }
-    };
+    if (arr) {
+      textState.index += arr[0].length;
+      return arr[0];
+    } else {
+      textState.index--;
+      return _Window_Base_obtainEscapeCode.call(this, textState);
+    }
+  };
 
-    //=========================================================================
-    // Window_Messge
-    //  エスケープコマンドを追加定義します。
-    //
-    //=========================================================================
+  //=========================================================================
+  // Window_Messge
+  //  エスケープコマンドを追加定義します。
+  //
+  //=========================================================================
 
-    var _Window_Message_processEscapeCharacter = Window_Message.prototype.processEscapeCharacter;
-    Window_Message.prototype.processEscapeCharacter = function(code, textState) {
-        var regExp, arr, res, se;
-        se = {};
+  var _Window_Message_processEscapeCharacter =
+    Window_Message.prototype.processEscapeCharacter;
+  Window_Message.prototype.processEscapeCharacter = function (code, textState) {
+    var regExp, arr, res, se;
+    se = {};
 
-        regExp = /^(SE)\[(.*?)\]$/i;
-        arr = regExp.exec(code);
+    regExp = /^(SE)\[(.*?)\]$/i;
+    arr = regExp.exec(code);
 
-        if (arr) {
-            switch(arr[1].toUpperCase()) {
-                case "SE":
-                    res = arr[2].split(",");
-                    se["name"] = (res[0])? res[0].trim() : "";
-                    se["volume"] = (isFinite(res[1]))? parseInt(res[1],10) : ConvertEscapeCharacters(SeVolumeDef);
-                    se["pitch"] = (isFinite(res[2]))? parseInt(res[2],10) : ConvertEscapeCharacters(SePitchDef);
-                    se["pan"] = (isFinite(res[3]))? parseInt(res[3],10) : ConvertEscapeCharacters(SePanDef);
-                    AudioManager.playSe(se);
-                    break;
-                default:
-                    _Window_Message_processEscapeCharacter.call(this, code, textState);
-            }
-        } else {
-            switch(code) {
-                case '.':
-                    this.startWait(ConvertEscapeCharacters(WaitPeriodDef));
-                    break;
-                case '|':
-                    this.startWait(ConvertEscapeCharacters(WaitLineDef));
-                    break;
-                default:
-                    _Window_Message_processEscapeCharacter.call(this, code, textState);
-            }
-        }
-    };
-
+    if (arr) {
+      switch (arr[1].toUpperCase()) {
+        case "SE":
+          res = arr[2].split(",");
+          se["name"] = res[0] ? res[0].trim() : "";
+          se["volume"] = isFinite(res[1])
+            ? parseInt(res[1], 10)
+            : ConvertEscapeCharacters(SeVolumeDef);
+          se["pitch"] = isFinite(res[2])
+            ? parseInt(res[2], 10)
+            : ConvertEscapeCharacters(SePitchDef);
+          se["pan"] = isFinite(res[3])
+            ? parseInt(res[3], 10)
+            : ConvertEscapeCharacters(SePanDef);
+          AudioManager.playSe(se);
+          break;
+        default:
+          _Window_Message_processEscapeCharacter.call(this, code, textState);
+      }
+    } else {
+      switch (code) {
+        case ".":
+          this.startWait(ConvertEscapeCharacters(WaitPeriodDef));
+          break;
+        case "|":
+          this.startWait(ConvertEscapeCharacters(WaitLineDef));
+          break;
+        default:
+          _Window_Message_processEscapeCharacter.call(this, code, textState);
+      }
+    }
+  };
 })();

@@ -36,37 +36,39 @@
  */
 
 (function () {
-    'use strict';
+  "use strict";
 
-    const Torigoya = (window.Torigoya = window.Torigoya || {});
+  const Torigoya = (window.Torigoya = window.Torigoya || {});
 
-    function getPluginName() {
-        const cs = document.currentScript;
-        return cs ? cs.src.split('/').pop().replace(/\.js$/, '') : 'Torigoya_SameEquipType';
-    }
+  function getPluginName() {
+    const cs = document.currentScript;
+    return cs
+      ? cs.src.split("/").pop().replace(/\.js$/, "")
+      : "Torigoya_SameEquipType";
+  }
 
-    function readParameter() {
-        const parameter = PluginManager.parameters(getPluginName());
-        return {
-            version: '1.0.0',
-        };
-    }
-
-    Torigoya.SameEquipType = {
-        name: getPluginName(),
-        parameter: readParameter(),
+  function readParameter() {
+    const parameter = PluginManager.parameters(getPluginName());
+    return {
+      version: "1.0.0",
     };
+  }
 
-    (() => {
-        const upstream_Game_Actor_equipSlots = Game_Actor.prototype.equipSlots;
-        Game_Actor.prototype.equipSlots = function () {
-            const slots = upstream_Game_Actor_equipSlots.apply(this);
-            for (let i = 1; i < $dataSystem.equipTypes.length; ++i) {
-                const n = $dataSystem.equipTypes.indexOf($dataSystem.equipTypes[i]);
-                if (n === i) continue;
-                slots[i - 1] = n;
-            }
-            return slots;
-        };
-    })();
+  Torigoya.SameEquipType = {
+    name: getPluginName(),
+    parameter: readParameter(),
+  };
+
+  (() => {
+    const upstream_Game_Actor_equipSlots = Game_Actor.prototype.equipSlots;
+    Game_Actor.prototype.equipSlots = function () {
+      const slots = upstream_Game_Actor_equipSlots.apply(this);
+      for (let i = 1; i < $dataSystem.equipTypes.length; ++i) {
+        const n = $dataSystem.equipTypes.indexOf($dataSystem.equipTypes[i]);
+        if (n === i) continue;
+        slots[i - 1] = n;
+      }
+      return slots;
+    };
+  })();
 })();

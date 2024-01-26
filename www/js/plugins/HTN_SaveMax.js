@@ -23,15 +23,13 @@
  *
  */
 
-(function() {
+(function () {
+  var pluginName = "HTN_SaveMax";
 
-	var pluginName = "HTN_SaveMax";
+  var parameters = PluginManager.parameters(pluginName);
+  var saveMax = Number(parameters["Max Quantity"]);
 
-	var parameters = PluginManager.parameters(pluginName);
-	var saveMax = Number(parameters["Max Quantity"]);
-
-	DataManager.maxSavefiles = function() {
-		return saveMax;
-	};
-
+  DataManager.maxSavefiles = function () {
+    return saveMax;
+  };
 })();

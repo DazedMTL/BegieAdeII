@@ -105,9 +105,9 @@
  *
  * @help
  * TMPlugin - コスト表示拡張 ver1.0.0
- * 
+ *
  * 使い方:
- * 
+ *
  *   スキル名が長い場合や、コストの桁数が多い場合にはスキル名とコストが
  *   重なって表示されてしまいます。
  *
@@ -118,11 +118,11 @@
  *
  *   TMSkillCostEx を併用している場合、消費ＨＰ、経験値、お金も
  *   コスト表示されるようになります。
- * 
+ *
  *   プラグインコマンドはありません。
- * 
+ *
  *   このプラグインは RPGツクールMV Version 1.5.1 で動作確認をしています。
- * 
+ *
  *   このプラグインはMITライセンスのもとに配布しています、商用利用、
  *   改造、再配布など、自由にお使いいただけます。
  */
@@ -130,32 +130,31 @@
 var Imported = Imported || {};
 Imported.TMCostShow = true;
 
-(function() {
+(function () {
+  var parameters = PluginManager.parameters("TMCostShow");
+  var hpCostHeader = parameters["hpCostHeader"];
+  var mpCostHeader = parameters["mpCostHeader"];
+  var tpCostHeader = parameters["tpCostHeader"];
+  var expCostHeader = parameters["expCostHeader"];
+  var expCostFooter = parameters["expCostFooter"];
+  var goldCostHeader = parameters["goldCostHeader"];
+  var goldCostFooter = parameters["goldCostFooter"];
+  var acpCostHeader = parameters["acpCostHeader"];
+  var lcpCostHeader = parameters["lcpCostHeader"];
+  var conjunction = parameters["conjunction"];
+  var costWidthText = parameters["costWidthText"];
+  var maxCostNum = Number(parameters["maxCostNum"]);
+  var hpCostColor = Number(parameters["hpCostColor"]);
+  var expCostColor = Number(parameters["expCostColor"]);
+  var goldCostColor = Number(parameters["goldCostColor"]);
+  var acpCostColor = Number(parameters["acpCostColor"]);
+  var lcpCostColor = Number(parameters["lcpCostColor"]);
 
-  var parameters = PluginManager.parameters('TMCostShow');
-  var hpCostHeader = parameters['hpCostHeader'];
-  var mpCostHeader = parameters['mpCostHeader'];
-  var tpCostHeader = parameters['tpCostHeader'];
-  var expCostHeader = parameters['expCostHeader'];
-  var expCostFooter = parameters['expCostFooter'];
-  var goldCostHeader = parameters['goldCostHeader'];
-  var goldCostFooter = parameters['goldCostFooter'];
-  var acpCostHeader = parameters['acpCostHeader'];
-  var lcpCostHeader = parameters['lcpCostHeader'];
-  var conjunction = parameters['conjunction'];
-  var costWidthText = parameters['costWidthText'];
-  var maxCostNum = Number(parameters['maxCostNum'])
-  var hpCostColor   = Number(parameters['hpCostColor']);
-  var expCostColor  = Number(parameters['expCostColor']);
-  var goldCostColor = Number(parameters['goldCostColor']);
-  var acpCostColor = Number(parameters['acpCostColor']);
-  var lcpCostColor = Number(parameters['lcpCostColor']);
-  
   //-----------------------------------------------------------------------------
   // Window_SkillList
   //
 
-  Window_SkillList.prototype.drawSkillCost = function(skill, x, y, width) {
+  Window_SkillList.prototype.drawSkillCost = function (skill, x, y, width) {
     x += width;
     var count = 0;
     var cost = this._actor.skillTpCost(skill);
@@ -211,22 +210,22 @@ Imported.TMCostShow = true;
     }
   };
 
-  Window_SkillList.prototype.drawConjunction = function(x, y) {
+  Window_SkillList.prototype.drawConjunction = function (x, y) {
     this.resetTextColor();
     x -= this.textWidth(conjunction);
     this.drawText(conjunction, x, y);
     return x;
   };
 
-  Window_SkillList.prototype.drawSkillTpCost = function(tpCost, x, y) {
+  Window_SkillList.prototype.drawSkillTpCost = function (tpCost, x, y) {
     this.changeTextColor(this.tpCostColor());
     x -= this.textWidth(tpCost);
     this.drawText(tpCost, x, y);
     x -= this.drawSkillCostHeader(tpCostHeader, x, y);
     return x;
   };
-  
-  Window_SkillList.prototype.drawSkillMpCost = function(mpCost, x, y, count) {
+
+  Window_SkillList.prototype.drawSkillMpCost = function (mpCost, x, y, count) {
     if (count > 0) {
       x = this.drawConjunction(x, y);
     }
@@ -236,8 +235,8 @@ Imported.TMCostShow = true;
     x -= this.drawSkillCostHeader(mpCostHeader, x, y);
     return x;
   };
-  
-  Window_SkillList.prototype.drawSkillHpCost = function(hpCost, x, y, count) {
+
+  Window_SkillList.prototype.drawSkillHpCost = function (hpCost, x, y, count) {
     if (count > 0) {
       x = this.drawConjunction(x, y);
     }
@@ -247,8 +246,13 @@ Imported.TMCostShow = true;
     x -= this.drawSkillCostHeader(hpCostHeader, x, y);
     return x;
   };
-  
-  Window_SkillList.prototype.drawSkillExpCost = function(expCost, x, y, count) {
+
+  Window_SkillList.prototype.drawSkillExpCost = function (
+    expCost,
+    x,
+    y,
+    count
+  ) {
     if (count > 0) {
       x = this.drawConjunction(x, y);
     }
@@ -259,8 +263,13 @@ Imported.TMCostShow = true;
     x -= this.drawSkillCostHeader(expCostHeader, x, y);
     return x;
   };
-  
-  Window_SkillList.prototype.drawSkillGoldCost = function(goldCost, x, y, count) {
+
+  Window_SkillList.prototype.drawSkillGoldCost = function (
+    goldCost,
+    x,
+    y,
+    count
+  ) {
     if (count > 0) {
       x = this.drawConjunction(x, y);
     }
@@ -271,8 +280,13 @@ Imported.TMCostShow = true;
     x -= this.drawSkillCostHeader(goldCostHeader, x, y);
     return x;
   };
-  
-  Window_SkillList.prototype.drawSkillAcpCost = function(acpCost, x, y, count) {
+
+  Window_SkillList.prototype.drawSkillAcpCost = function (
+    acpCost,
+    x,
+    y,
+    count
+  ) {
     if (count > 0) {
       x = this.drawConjunction(x, y);
     }
@@ -282,8 +296,13 @@ Imported.TMCostShow = true;
     x -= this.drawSkillCostHeader(acpCostHeader, x, y);
     return x;
   };
-  
-  Window_SkillList.prototype.drawSkillLcpCost = function(lcpCost, x, y, count) {
+
+  Window_SkillList.prototype.drawSkillLcpCost = function (
+    lcpCost,
+    x,
+    y,
+    count
+  ) {
     if (count > 0) {
       x = this.drawConjunction(x, y);
     }
@@ -293,8 +312,8 @@ Imported.TMCostShow = true;
     x -= this.drawSkillCostHeader(lcpCostHeader, x, y);
     return x;
   };
-  
-  Window_SkillList.prototype.drawSkillCostHeader = function(header, x, y) {
+
+  Window_SkillList.prototype.drawSkillCostHeader = function (header, x, y) {
     this.contents.fontSize = this.standardFontSize() - 16;
     var w = this.textWidth(header);
     this.drawText(header, x - w, y + 4, w);
@@ -302,17 +321,16 @@ Imported.TMCostShow = true;
     this.contents.fontSize = this.standardFontSize() - 10;
     return w;
   };
-  
-  Window_SkillList.prototype.drawSkillCostFooter = function(footer, x, y) {
+
+  Window_SkillList.prototype.drawSkillCostFooter = function (footer, x, y) {
     this.contents.fontSize = this.standardFontSize() - 10;
     this.changeTextColor(this.systemColor());
     var w = this.textWidth(footer);
     this.drawText(footer, x - w, y, w);
     return w;
   };
-  
-  Window_SkillList.prototype.costWidth = function() {
+
+  Window_SkillList.prototype.costWidth = function () {
     return this.textWidth(costWidthText);
   };
-
 })();

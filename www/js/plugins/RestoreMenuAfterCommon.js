@@ -7,17 +7,17 @@
  * @author terunon (AliasAche)
  *
  * @help
- * ƒƒjƒ…[ã‚ÅƒRƒ‚ƒ“ƒCƒxƒ“ƒg‚ğŒÄ‚ÔƒAƒCƒeƒ€‚ğg—p‚µ‚Äƒƒjƒ…[‚ª•Â‚¶‚ç‚ê‚½‚Æ‚«A
- * Œ³‚Ì‰æ–Ê‚É–ß‚·ˆ—‚ğ’ñ‹Ÿ‚µ‚Ü‚·B
- * Ä’è‹`‚ğs‚Á‚Ä‚¢‚é‚Ì‚Åã‚Ì•û‚É”z’u‚µ‚Ä‚­‚¾‚³‚¢B
+ * ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½ÅƒRï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½xï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ä‚ÔƒAï¿½Cï¿½eï¿½ï¿½ï¿½ï¿½ï¿½gï¿½pï¿½ï¿½ï¿½Äƒï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ê‚½ï¿½Æ‚ï¿½ï¿½A
+ * ï¿½ï¿½ï¿½Ì‰ï¿½Ê‚É–ß‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‹Ÿ‚ï¿½ï¿½Ü‚ï¿½ï¿½B
+ * ï¿½Ä’ï¿½`ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚Åï¿½Ì•ï¿½ï¿½É”zï¿½uï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
  *
- * ‘ÎÛƒRƒ‚ƒ“ƒCƒxƒ“ƒg‚Ì––”ö‚ÉƒXƒNƒŠƒvƒgFthis.sceneRestore()‚Æ“ü‚ê‚é‚±‚Æ‚Åg—p‚Å‚«‚Ü‚·B
+ * ï¿½ÎÛƒRï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½xï¿½ï¿½ï¿½gï¿½Ì–ï¿½ï¿½ï¿½ï¿½ÉƒXï¿½Nï¿½ï¿½ï¿½vï¿½gï¿½Fthis.sceneRestore()ï¿½Æ“ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Ågï¿½pï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½B
  *
- * ƒNƒŒƒWƒbƒg‚Æ‚µ‚ÄAuterunoniƒGƒCƒŠƒAƒXƒGƒCƒNjv‚Ì‘fŞ‚ğg—p‚µ‚½|‚ğ
- * ReadMe‚Ü‚½‚Íƒuƒ‰ƒEƒU“™‚Ì‹”F‚Å‚«‚éêŠ‚É‹LÚ‚µ‚Ä‚¢‚½‚¾‚¯‚ê‚ÎA
- * ‰c—˜”ñ‰c—˜–â‚í‚¸A‚ ‚ç‚ä‚éƒcƒN[ƒ‹MVì•i‚Åg—pE‰ü•Ï‚¢‚½‚¾‚¯‚Ü‚·B
+ * ï¿½Nï¿½ï¿½ï¿½Wï¿½bï¿½gï¿½Æ‚ï¿½ï¿½ÄAï¿½uterunonï¿½iï¿½Gï¿½Cï¿½ï¿½ï¿½Aï¿½Xï¿½Gï¿½Cï¿½Nï¿½jï¿½vï¿½Ì‘fï¿½Ş‚ï¿½ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½ï¿½|ï¿½ï¿½
+ * ReadMeï¿½Ü‚ï¿½ï¿½Íƒuï¿½ï¿½ï¿½Eï¿½Uï¿½ï¿½ï¿½Ìï¿½ï¿½Fï¿½Å‚ï¿½ï¿½ï¿½êŠï¿½É‹Lï¿½Ú‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÎA
+ * ï¿½cï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½í‚¸ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½Nï¿½[ï¿½ï¿½MVï¿½ï¿½iï¿½Ågï¿½pï¿½Eï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
  *
- * ¦ 2018.10.30 ver 1.1F•s—v‚Èˆ—‚ğíœB
+ * ï¿½ï¿½ 2018.10.30 ver 1.1ï¿½Fï¿½sï¿½vï¿½Èï¿½ï¿½ï¿½ï¿½ï¿½ï¿½íœï¿½B
  *
  * Copyright (c) 2016 terunon (AliasAche)
  * You can use and modify it for every your commercial/non-commercial RPG Maker MV game
@@ -25,29 +25,25 @@
  */
 
 //Global variables
-    var aliasAcheCommon = false;
-    var aliasAcheSelectRestore = false;
+var aliasAcheCommon = false;
+var aliasAcheSelectRestore = false;
 
-(function() {
-
-Scene_Item.prototype.popScene = function() {
-    if (aliasAcheCommon){
-        aliasAcheCommon = false;
-        aliasAcheSelectRestore = false;
-        SceneManager.goto(Scene_Menu);
-    }else{
-    SceneManager.pop();
+(function () {
+  Scene_Item.prototype.popScene = function () {
+    if (aliasAcheCommon) {
+      aliasAcheCommon = false;
+      aliasAcheSelectRestore = false;
+      SceneManager.goto(Scene_Menu);
+    } else {
+      SceneManager.pop();
     }
-};
+  };
 
-Game_Interpreter.prototype.sceneRestore = function(){
-    if (!$gameParty.inBattle()){
-           aliasAcheCommon = true;
-           aliasAcheSelectRestore = true;
-	   SceneManager.push(Scene_Item);
+  Game_Interpreter.prototype.sceneRestore = function () {
+    if (!$gameParty.inBattle()) {
+      aliasAcheCommon = true;
+      aliasAcheSelectRestore = true;
+      SceneManager.push(Scene_Item);
     }
-};
-
-
-
+  };
 })();

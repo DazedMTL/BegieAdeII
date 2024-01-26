@@ -11,7 +11,7 @@ Imported.DP_FixEscapeRatio = true;
 var drowsepost = drowsepost || {};
 
 //=============================================================================
- /*:
+/*:
  * @plugindesc 逃走の成功確率を設定できます。v1.00
  * @author drowsepost
  *
@@ -32,30 +32,36 @@ var drowsepost = drowsepost || {};
  * 例: 0.5 * $gameParty.agility() / $gameTroop.agility();
  * Use Paramがfalseの場合、固定のパーセンテージで逃走判定が行われます。
  * 例: 0.5;
- * 
+ *
  * このプラグインはBattleManager.makeEscapeRatioを置き換えます。
- * 
+ *
  * 通常、逃走の成功確率は1回失敗するごとに10%増加します。
  * 増加値を変更する場合はBattleManager.processEscapeを置き換えてください。
  */
-(function(){
-	"use strict";
-	var parameters = PluginManager.parameters('DP_FixEscapeRatio');
-	
-	drowsepost.EscapeRatio = drowsepost.EscapeRatio || {};
-	drowsepost.EscapeRatio.useParam = Boolean(parameters['Use Param'] === 'true' || false);
-	drowsepost.EscapeRatio.ratio = (Number(parameters['Ratio'] || 50) / 100);
-	
-	BattleManager.makeEscapeRatio = function() {
-		if(drowsepost.EscapeRatio.useParam) {
-			this._escapeRatio = drowsepost.EscapeRatio.ratio * $gameParty.agility() / $gameTroop.agility();
-		} else {
-			this._escapeRatio = drowsepost.EscapeRatio.ratio;
-		}
-		console.log('escapeRatio:' + this._escapeRatio, {'party': $gameParty, 'troop': $gameTroop});
-	};
+(function () {
+  "use strict";
+  var parameters = PluginManager.parameters("DP_FixEscapeRatio");
 
-}());
+  drowsepost.EscapeRatio = drowsepost.EscapeRatio || {};
+  drowsepost.EscapeRatio.useParam = Boolean(
+    parameters["Use Param"] === "true" || false
+  );
+  drowsepost.EscapeRatio.ratio = Number(parameters["Ratio"] || 50) / 100;
+
+  BattleManager.makeEscapeRatio = function () {
+    if (drowsepost.EscapeRatio.useParam) {
+      this._escapeRatio =
+        (drowsepost.EscapeRatio.ratio * $gameParty.agility()) /
+        $gameTroop.agility();
+    } else {
+      this._escapeRatio = drowsepost.EscapeRatio.ratio;
+    }
+    console.log("escapeRatio:" + this._escapeRatio, {
+      party: $gameParty,
+      troop: $gameTroop,
+    });
+  };
+})();
 //=============================================================================
 // End of File
 //=============================================================================

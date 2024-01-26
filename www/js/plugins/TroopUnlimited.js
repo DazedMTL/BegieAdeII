@@ -61,48 +61,50 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function() {
-    'use strict';
+(function () {
+  "use strict";
 
-    //=============================================================================
-    // Game_Troop
-    //  グループ外の敵キャラを読み込みます。
-    //=============================================================================
-    var _Game_Troop_setup = Game_Troop.prototype.setup;
-    Game_Troop.prototype.setup = function(troopId) {
-        this.makeAdditionalEnemies(troopId);
-        _Game_Troop_setup.apply(this, arguments);
-        if (this.isExistAdditionalEnemies()) {
-            this.concatAdditionalEnemies();
-        }
-    };
+  //=============================================================================
+  // Game_Troop
+  //  グループ外の敵キャラを読み込みます。
+  //=============================================================================
+  var _Game_Troop_setup = Game_Troop.prototype.setup;
+  Game_Troop.prototype.setup = function (troopId) {
+    this.makeAdditionalEnemies(troopId);
+    _Game_Troop_setup.apply(this, arguments);
+    if (this.isExistAdditionalEnemies()) {
+      this.concatAdditionalEnemies();
+    }
+  };
 
-    Game_Troop.prototype.makeAdditionalEnemies = function(troopId) {
-        this._troopId = troopId;
-        var troopName = this.troop().name;
-        this._additionalEnemies = [];
-        troopName.replace(/\\ADD\[(\d+)\]/gi, function() {
-            _Game_Troop_setup.call(this, parseInt(arguments[1]));
-            this._additionalEnemies = this._additionalEnemies.concat(this._enemies);
-        }.bind(this));
-    };
+  Game_Troop.prototype.makeAdditionalEnemies = function (troopId) {
+    this._troopId = troopId;
+    var troopName = this.troop().name;
+    this._additionalEnemies = [];
+    troopName.replace(
+      /\\ADD\[(\d+)\]/gi,
+      function () {
+        _Game_Troop_setup.call(this, parseInt(arguments[1]));
+        this._additionalEnemies = this._additionalEnemies.concat(this._enemies);
+      }.bind(this)
+    );
+  };
 
-    Game_Troop.prototype.concatAdditionalEnemies = function() {
-        this._enemies = this._enemies.concat(this._additionalEnemies);
-        this.remakeUniqueNames();
-    };
+  Game_Troop.prototype.concatAdditionalEnemies = function () {
+    this._enemies = this._enemies.concat(this._additionalEnemies);
+    this.remakeUniqueNames();
+  };
 
-    Game_Troop.prototype.remakeUniqueNames = function() {
-        this.members().forEach(function(enemy) {
-            var name = enemy.originalName();
-            delete this._namesCount[name];
-            enemy.setLetter('');
-        }, this);
-        this.makeUniqueNames();
-    };
+  Game_Troop.prototype.remakeUniqueNames = function () {
+    this.members().forEach(function (enemy) {
+      var name = enemy.originalName();
+      delete this._namesCount[name];
+      enemy.setLetter("");
+    }, this);
+    this.makeUniqueNames();
+  };
 
-    Game_Troop.prototype.isExistAdditionalEnemies = function() {
-        return this._additionalEnemies.length > 0;
-    };
+  Game_Troop.prototype.isExistAdditionalEnemies = function () {
+    return this._additionalEnemies.length > 0;
+  };
 })();
-

@@ -29,7 +29,7 @@
  * プラグインで指定した背景と同じタイプにしてみて下さい。
  * 通常と同じメッセージウィンドウが表示されます。
  *
- * 
+ *
  * @param 背景タイプ
  * @type select
  * @option 暗くする
@@ -45,16 +45,17 @@
  * MIT Licenseにつき著作権表示とライセンスURLは残しておいて下さい。
  */
 
-(function() {
-    'use strict';
-    
-    //メッセージウィンドウの背景を強制的に変更する
-    var pd_MBGS_Game_Message_setBackground = Game_Message.prototype.setBackground;
-    Game_Message.prototype.setBackground = function(background) {
-        var parameters = Number(PluginManager.parameters('MessageBackGroundStd')['背景タイプ']);
-        if(background === parameters) background = 0;
-        else background = parameters;
-        pd_MBGS_Game_Message_setBackground.call(this, background);
-    };
-    
+(function () {
+  "use strict";
+
+  //メッセージウィンドウの背景を強制的に変更する
+  var pd_MBGS_Game_Message_setBackground = Game_Message.prototype.setBackground;
+  Game_Message.prototype.setBackground = function (background) {
+    var parameters = Number(
+      PluginManager.parameters("MessageBackGroundStd")["背景タイプ"]
+    );
+    if (background === parameters) background = 0;
+    else background = parameters;
+    pd_MBGS_Game_Message_setBackground.call(this, background);
+  };
 })();

@@ -17,7 +17,7 @@
  * @param Menu Disabled Switch Number
  * @desc サイドメニュー操作を一時無効するスイッチ番号
  * @default 100
- * 
+ *
  * @param On Close Common Event Number
  * @desc サイドメニューを閉じたときに実行するコモンイベント番号（0=なにもしない）
  * @default 0
@@ -30,17 +30,17 @@
  * メニュー開く => [プラグインコマンド] SideMenu
  * 表示中のメニューを一時非表示 => [プラグインコマンド] SideMenuHide
  * 表示中のメニューを再表示 => [プラグインコマンド] SideMenuShow
- * 
+ *
  * 設定例：
  * ◆変数の操作：#0041 SideMenu シーン名 = "セクハラ_1-A"
  * ◆プラグインコマンド：SideMenu
  *
  * ・プラグインコマンドを実行する直前に、表示するのシーン名を「表示中のシーンIDを格納した変数番号」で設定した変数に代入してください。
  * 　変数に入れる際は「スクリプト」を選択し、「"セクハラ_1-A"」という風にダブルクォーテーションで囲います。
- * 
+ *
  * ・サイドメニューのボタンを選んでコモンイベントが発動すると、サイドメニューが操作無効状態になります。
  * 　必ずコモンイベントの最後にサイドメニュー操作無効のスイッチをfalseにしてください
- * 
+ *
  * ・サイドメニュー表示中は通常メニュー開閉不可になります。
  *
  * ===========================================================================
@@ -48,7 +48,7 @@
  * ===========================================================================
  * ・シーン（セクハラ_1-Aなど）を追加・削除する場合、スクリプトの$dataSideMenuMetaを編集する必要があります。
  * ・コモンイベント（SideMenu＞状態＞平常など）を追加・削除する場合、スクリプトのcommonEventListを編集する必要があります。
- * 
+ *
  * ===========================================================================
  * 画像ファイル
  * ===========================================================================
@@ -62,10 +62,18 @@
 
 let Onakin = {};
 Onakin.parameters = PluginManager.parameters("ONA_SideMenu");
-Onakin.commonEventHeadNumber = Number(Onakin.parameters["Common Events Head Number"] || 148);
-Onakin.openSceneVariableNumber = Number(Onakin.parameters["Open Scene ID Variable Number"] || 41);
-Onakin.menuDisabledSwitchNumber = Number(Onakin.parameters["Menu Disabled Switch Number"] || 100);
-Onakin.onCloseCommonEventNumber = Number(Onakin.parameters["On Close Common Event Number"] || 0);
+Onakin.commonEventHeadNumber = Number(
+  Onakin.parameters["Common Events Head Number"] || 148
+);
+Onakin.openSceneVariableNumber = Number(
+  Onakin.parameters["Open Scene ID Variable Number"] || 41
+);
+Onakin.menuDisabledSwitchNumber = Number(
+  Onakin.parameters["Menu Disabled Switch Number"] || 100
+);
+Onakin.onCloseCommonEventNumber = Number(
+  Onakin.parameters["On Close Common Event Number"] || 0
+);
 Onakin.contentButtons = [];
 Onakin.categoryButtons = [];
 Onakin.eventName = ""; // 表示のシーン
@@ -107,574 +115,579 @@ const commonEventList = [
   "SideMenu＞イベント回想＞C：淫乱",
   "SideMenu＞イベント回想＞D：淫堕",
   "SideMenu＞オプション＞帽子",
-]
+];
 
 // シーン別のボタン一覧json
 const $dataSideMenuMeta = [
   {
-      "sceneType": "セクハラ_1-A",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_1-A",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_1-B",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_1-B",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_2-A",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_2-A",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_2-B",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_2-B",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_2-C",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_2-C",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_3-A",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_3-A",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_3-B",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_3-B",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_4-A",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_4-A",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_4-B",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_4-B",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_6-A",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_6-A",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セクハラ_6-B",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","剣"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "セクハラ_6-B",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "剣"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "拘束_1",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "拘束_1",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_1ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_1ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_1ｰB",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_1ｰB",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_1ｰC",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_1ｰC",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "拘束_2",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "拘束_2",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_2ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_2ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_2ｰB",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_2ｰB",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_2ｰC",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_2ｰC",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "拘束_3",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "拘束_3",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_3ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_3ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_3ｰB",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_3ｰB",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_3ｰC",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_3ｰC",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "拘束_4",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "拘束_4",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_4ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_4ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_4ｰB",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_4ｰB",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_4ｰC",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_4ｰC",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "拘束_5",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "拘束_5",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_5ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_5ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_5ｰB",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_5ｰB",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_5ｰC",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_5ｰC",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "拘束_6",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": [],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "拘束_6",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: [],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_6ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_6ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_6ｰB",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_6ｰB",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "セックス_6ｰC",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": ["無し","損壊","半壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "セックス_6ｰC",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "損壊", "半壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "敗北_1ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～","C：淫乱"]
+    sceneType: "敗北_1ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～", "C：淫乱"],
   },
   {
-      "sceneType": "敗北_1ｰB",
-      "itemsJyotai": [],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人","半透明／消去"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["D：淫堕"]
+    sceneType: "敗北_1ｰB",
+    itemsJyotai: [],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人", "半透明／消去"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["D：淫堕"],
   },
   {
-      "sceneType": "敗北_2ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～","C：淫乱"]
+    sceneType: "敗北_2ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～", "C：淫乱"],
   },
   {
-      "sceneType": "敗北_2ｰB",
-      "itemsJyotai": [],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["D：淫堕"]
+    sceneType: "敗北_2ｰB",
+    itemsJyotai: [],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["D：淫堕"],
   },
   {
-      "sceneType": "敗北_3ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～","C：淫乱"]
+    sceneType: "敗北_3ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～", "C：淫乱"],
   },
   {
-      "sceneType": "敗北_3ｰB",
-      "itemsJyotai": [],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["D：淫堕"]
+    sceneType: "敗北_3ｰB",
+    itemsJyotai: [],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["D：淫堕"],
   },
   {
-      "sceneType": "敗北_4ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～","C：淫乱"]
+    sceneType: "敗北_4ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～", "C：淫乱"],
   },
   {
-      "sceneType": "敗北_4ｰB",
-      "itemsJyotai": [],
-      "itemsFukuso": ["服装A","服装B","服装C","下着","全裸"],
-      "itemsFukuYabure": ["無し","半壊","全壊"],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["D：淫堕"]
+    sceneType: "敗北_4ｰB",
+    itemsJyotai: [],
+    itemsFukuso: ["服装A", "服装B", "服装C", "下着", "全裸"],
+    itemsFukuYabure: ["無し", "半壊", "全壊"],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["D：淫堕"],
   },
   {
-      "sceneType": "敗北_5ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～","C：淫乱"]
+    sceneType: "敗北_5ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～", "C：淫乱"],
   },
   {
-      "sceneType": "敗北_5ｰB",
-      "itemsJyotai": [],
-      "itemsFukuso": ["通常","胸はだけ","下着","全裸"],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["D：淫堕"]
+    sceneType: "敗北_5ｰB",
+    itemsJyotai: [],
+    itemsFukuso: ["通常", "胸はだけ", "下着", "全裸"],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["D：淫堕"],
   },
   {
-      "sceneType": "敗北_6ｰA",
-      "itemsJyotai": ["平常","淫欲(小)","淫欲(大)"],
-      "itemsFukuso": ["通常","胸はだけ","全裸"],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～","C：淫乱"]
+    sceneType: "敗北_6ｰA",
+    itemsJyotai: ["平常", "淫欲(小)", "淫欲(大)"],
+    itemsFukuso: ["通常", "胸はだけ", "全裸"],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～", "C：淫乱"],
   },
   {
-      "sceneType": "敗北_6ｰB",
-      "itemsJyotai": [],
-      "itemsFukuso": ["通常","全裸"],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["人間↔亜人"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["D：淫堕"]
+    sceneType: "敗北_6ｰB",
+    itemsJyotai: [],
+    itemsFukuso: ["通常", "全裸"],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["人間↔亜人"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["D：淫堕"],
   },
   {
-      "sceneType": "アメリア_H1",
-      "itemsJyotai": [],
-      "itemsFukuso": ["通常","全裸"],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["帽子"],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "アメリア_H1",
+    itemsJyotai: [],
+    itemsFukuso: ["通常", "全裸"],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["帽子"],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "アメリア_H2",
-      "itemsJyotai": ["平常","淫欲(小)"],
-      "itemsFukuso": [],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["帽子"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～"]
+    sceneType: "アメリア_H2",
+    itemsJyotai: ["平常", "淫欲(小)"],
+    itemsFukuso: [],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["帽子"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～"],
   },
   {
-      "sceneType": "アメリア_H3",
-      "itemsJyotai": ["平常","淫欲(小)"],
-      "itemsFukuso": [],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["帽子"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～"]
+    sceneType: "アメリア_H3",
+    itemsJyotai: ["平常", "淫欲(小)"],
+    itemsFukuso: [],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["帽子"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～"],
   },
   {
-      "sceneType": "アメリア_H4",
-      "itemsJyotai": ["平常","淫欲(小)"],
-      "itemsFukuso": [],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": ["帽子"],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["A：初回","B：２回目～"]
+    sceneType: "アメリア_H4",
+    itemsJyotai: ["平常", "淫欲(小)"],
+    itemsFukuso: [],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: ["帽子"],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["A：初回", "B：２回目～"],
   },
   {
-      "sceneType": "アメリア_H5",
-      "itemsJyotai": [],
-      "itemsFukuso": [],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": [],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["C：淫乱"]
+    sceneType: "アメリア_H5",
+    itemsJyotai: [],
+    itemsFukuso: [],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: [],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["C：淫乱"],
   },
   {
-      "sceneType": "アメリア_H6",
-      "itemsJyotai": [],
-      "itemsFukuso": [],
-      "itemsFukuYabure": [],
-      "itemsSeieki": ["無し","少量","多量"],
-      "itemsOption": [],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": ["D：淫堕"]
+    sceneType: "アメリア_H6",
+    itemsJyotai: [],
+    itemsFukuso: [],
+    itemsFukuYabure: [],
+    itemsSeieki: ["無し", "少量", "多量"],
+    itemsOption: [],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: ["D：淫堕"],
   },
   {
-      "sceneType": "リリック_H",
-      "itemsJyotai": [],
-      "itemsFukuso": [],
-      "itemsFukuYabure": [],
-      "itemsSeieki": [],
-      "itemsOption": [],
-      "itemsAnimeHenko": ["強度(弱)","強度(強)","絶頂"],
-      "itemsEventKaiso": []
+    sceneType: "リリック_H",
+    itemsJyotai: [],
+    itemsFukuso: [],
+    itemsFukuYabure: [],
+    itemsSeieki: [],
+    itemsOption: [],
+    itemsAnimeHenko: ["強度(弱)", "強度(強)", "絶頂"],
+    itemsEventKaiso: [],
   },
   {
-      "sceneType": "リクエスト",
-      "itemsJyotai": [],
-      "itemsFukuso": [],
-      "itemsFukuYabure": [],
-      "itemsSeieki": [],
-      "itemsOption": [],
-      "itemsAnimeHenko": [],
-      "itemsEventKaiso": []
+    sceneType: "リクエスト",
+    itemsJyotai: [],
+    itemsFukuso: [],
+    itemsFukuYabure: [],
+    itemsSeieki: [],
+    itemsOption: [],
+    itemsAnimeHenko: [],
+    itemsEventKaiso: [],
   },
 ];
 
 //　=============================================================================
 // Game_Interpreter
 //　=============================================================================
-const _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
+const _Game_Interpreter_pluginCommand =
+  Game_Interpreter.prototype.pluginCommand;
 Game_Interpreter.prototype.pluginCommand = function (command, args) {
   _Game_Interpreter_pluginCommand.call(this, command, args);
   switch (command) {
     case "SideMenu":
       // 変数◯に入っている「セクハラ・セックス・敗北 & 分岐ID」で表示分岐
       if (!$gameVariables.value(Onakin.openSceneVariableNumber)) {
-        console.error('変数[' + Onakin.openSceneVariableNumber + ']に表示対象のシーンIDが格納されていません');
-        break
+        console.error(
+          "変数[" +
+            Onakin.openSceneVariableNumber +
+            "]に表示対象のシーンIDが格納されていません"
+        );
+        break;
       }
       $gameScreen.showSideWindow();
       break;
@@ -760,7 +773,10 @@ Window_Side.prototype.initialize = function () {
 
 Window_Side.prototype.createMenu = async function () {
   // jsonからmenu成形
-  const buttons = $dataSideMenuMeta.filter((scene) => scene.sceneType === $gameVariables.value(Onakin.openSceneVariableNumber));
+  const buttons = $dataSideMenuMeta.filter(
+    (scene) =>
+      scene.sceneType === $gameVariables.value(Onakin.openSceneVariableNumber)
+  );
   buttons.map((button) => {
     Object.entries(button).reduce((result, [key, value]) => {
       if (value.length > 0) {
@@ -789,15 +805,17 @@ Window_Side.prototype.createMenu = async function () {
         }
         Onakin.contentButtons.push(value);
       }
-    })
+    });
   }, []);
-  Onakin.categoryButtons.push('終了')
+  Onakin.categoryButtons.push("終了");
 
   // 背景画像
-  this._backgroundSprite = new Sprite(ImageManager.loadSceneMenus("menu_background"));
+  this._backgroundSprite = new Sprite(
+    ImageManager.loadSceneMenus("menu_background")
+  );
   this.addChild(this._backgroundSprite);
   this._backgroundSprite.visible = false;
-  if (!Onakin.categoryButtons || !Onakin.contentButtons) return
+  if (!Onakin.categoryButtons || !Onakin.contentButtons) return;
 
   this._categoryButtons = [];
   this._contentButtons = [];
@@ -867,7 +885,7 @@ Window_Side.prototype.createMenu = async function () {
   // カーソル枠
   this._frameSelect = [];
   this._frameSelect[0] = 0;
-  this._frameSelectEventName = '';
+  this._frameSelectEventName = "";
   this._frame = new Sprite();
   this._frame.bitmap = ImageManager.loadSceneMenus("cursor_frame");
   this._frame.x = 37;
@@ -877,7 +895,7 @@ Window_Side.prototype.createMenu = async function () {
 };
 
 Window_Side.prototype.refresh = async function () {
-  if (!Onakin.categoryButtons || !Onakin.contentButtons) return
+  if (!Onakin.categoryButtons || !Onakin.contentButtons) return;
   if (!Onakin.menuVisible && _menuVisible) {
     // 非表示
     _menuVisible = false;
@@ -889,9 +907,17 @@ Window_Side.prototype.refresh = async function () {
         this._categoryButtons[i].visible = false;
       }
     }
-    if (this._contentButtons && this._frameSelect && this._frameSelect.length === 2) {
+    if (
+      this._contentButtons &&
+      this._frameSelect &&
+      this._frameSelect.length === 2
+    ) {
       this._categoryButtons[this._frameSelect[0]].visible = false;
-      for (let j = 0; j < this._contentButtons[this._frameSelect[0]].length; j++) {
+      for (
+        let j = 0;
+        j < this._contentButtons[this._frameSelect[0]].length;
+        j++
+      ) {
         this._contentButtons[this._frameSelect[0]][j].visible = false;
       }
     }
@@ -905,14 +931,26 @@ Window_Side.prototype.refresh = async function () {
     $gameSystem.disableMenu();
     // カテゴリボタン表示
     if (Onakin.contentButtons.length > 0) {
-      if (this._categoryButtons && this._frameSelect && this._frameSelect.length === 1) {
+      if (
+        this._categoryButtons &&
+        this._frameSelect &&
+        this._frameSelect.length === 1
+      ) {
         for (let i = 0; i < this._categoryButtons.length; i++) {
           this._categoryButtons[i].visible = true;
         }
       }
-      if (this._contentButtons && this._frameSelect && this._frameSelect.length === 2) {
+      if (
+        this._contentButtons &&
+        this._frameSelect &&
+        this._frameSelect.length === 2
+      ) {
         this._categoryButtons[this._frameSelect[0]].visible = true;
-        for (let j = 0; j < this._contentButtons[this._frameSelect[0]].length; j++) {
+        for (
+          let j = 0;
+          j < this._contentButtons[this._frameSelect[0]].length;
+          j++
+        ) {
           this._contentButtons[this._frameSelect[0]][j].visible = true;
         }
       }
@@ -930,7 +968,12 @@ Window_Side.prototype.refresh = async function () {
 Window_Side.prototype.update = function () {
   Window_Base.prototype.update.call(this);
 
-  if (!Onakin.menuVisible || !_menuVisible || $gameSwitches.value(Onakin.menuDisabledSwitchNumber)) return;
+  if (
+    !Onakin.menuVisible ||
+    !_menuVisible ||
+    $gameSwitches.value(Onakin.menuDisabledSwitchNumber)
+  )
+    return;
 
   if (Input.isTriggered("down")) {
     // 下キーが押された
@@ -1103,17 +1146,21 @@ Window_Side.prototype.onContentButton = async function () {
   //     contentCount++;
   //   }
   // }Onakin.categoryButtons[i], Onakin.contentButtons[i][j]
-  this._frameSelectEventName = `SideMenu＞${Onakin.categoryButtons[this._frameSelect[0]]}＞${Onakin.contentButtons[this._frameSelect[0]][this._frameSelect[1]]}`;
+  this._frameSelectEventName = `SideMenu＞${
+    Onakin.categoryButtons[this._frameSelect[0]]
+  }＞${Onakin.contentButtons[this._frameSelect[0]][this._frameSelect[1]]}`;
   if (!this._frameSelectEventName) {
-    console.error('_frameSelectEventNameがnull');
+    console.error("_frameSelectEventNameがnull");
     return;
   }
   const eventIndex = commonEventList.indexOf(this._frameSelectEventName);
   // HメニューポーズON
   $gameSwitches.setValue(Onakin.menuDisabledSwitchNumber, true);
   if (eventIndex < 0) {
-    console.error(this._frameSelectEventName + 'がイベント一覧に見つかりません');
-    return
+    console.error(
+      this._frameSelectEventName + "がイベント一覧に見つかりません"
+    );
+    return;
   }
   await $gameTemp.reserveCommonEvent(Onakin.commonEventHeadNumber + eventIndex);
 };
@@ -1127,9 +1174,17 @@ Window_Side.prototype.close = function () {
       this._categoryButtons[i].visible = false;
     }
   }
-  if (this._contentButtons && this._frameSelect && this._frameSelect.length === 2) {
+  if (
+    this._contentButtons &&
+    this._frameSelect &&
+    this._frameSelect.length === 2
+  ) {
     this._categoryButtons[this._frameSelect[0]].visible = false;
-    for (let j = 0; j < this._contentButtons[this._frameSelect[0]].length; j++) {
+    for (
+      let j = 0;
+      j < this._contentButtons[this._frameSelect[0]].length;
+      j++
+    ) {
       this._contentButtons[this._frameSelect[0]][j].visible = false;
     }
   }
@@ -1145,7 +1200,8 @@ Window_Side.prototype.close = function () {
   $gameScreen.eraseSideWindow();
   this.contents.clear();
   // _menuVisible = false;
-  if (Onakin.onCloseCommonEventNumber !== 0) $gameTemp.reserveCommonEvent(Onakin.onCloseCommonEventNumber);
+  if (Onakin.onCloseCommonEventNumber !== 0)
+    $gameTemp.reserveCommonEvent(Onakin.onCloseCommonEventNumber);
 };
 
 //　=============================================================================

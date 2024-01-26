@@ -110,166 +110,177 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function() {
-    'use strict';
-    var pluginName = 'CustomizeDamageSe';
+(function () {
+  "use strict";
+  var pluginName = "CustomizeDamageSe";
 
-    //=============================================================================
-    // ローカル関数
-    //  プラグインパラメータやプラグインコマンドパラメータの整形やチェックをします
-    //=============================================================================
-    var getParamOther = function(paramNames) {
-        if (!Array.isArray(paramNames)) paramNames = [paramNames];
-        for (var i = 0; i < paramNames.length; i++) {
-            var name = PluginManager.parameters(pluginName)[paramNames[i]];
-            if (name) return name;
-        }
-        return null;
-    };
+  //=============================================================================
+  // ローカル関数
+  //  プラグインパラメータやプラグインコマンドパラメータの整形やチェックをします
+  //=============================================================================
+  var getParamOther = function (paramNames) {
+    if (!Array.isArray(paramNames)) paramNames = [paramNames];
+    for (var i = 0; i < paramNames.length; i++) {
+      var name = PluginManager.parameters(pluginName)[paramNames[i]];
+      if (name) return name;
+    }
+    return null;
+  };
 
-    var getParamNumber = function(paramNames, min, max) {
-        var value = getParamOther(paramNames);
-        if (arguments.length < 2) min = -Infinity;
-        if (arguments.length < 3) max = Infinity;
-        return (parseInt(value, 10) || 0).clamp(min, max);
-    };
+  var getParamNumber = function (paramNames, min, max) {
+    var value = getParamOther(paramNames);
+    if (arguments.length < 2) min = -Infinity;
+    if (arguments.length < 3) max = Infinity;
+    return (parseInt(value, 10) || 0).clamp(min, max);
+  };
 
-    var getParamString = function(paramNames) {
-        var value = getParamOther(paramNames);
-        return value === null ? '' : value;
-    };
+  var getParamString = function (paramNames) {
+    var value = getParamOther(paramNames);
+    return value === null ? "" : value;
+  };
 
-    var isExistPlugin = function(pluginName) {
-        return Object.keys(PluginManager.parameters(pluginName)).length > 0;
-    };
+  var isExistPlugin = function (pluginName) {
+    return Object.keys(PluginManager.parameters(pluginName)).length > 0;
+  };
 
-    //=============================================================================
-    // パラメータの取得と整形
-    //=============================================================================
-    var paramWeaknessSe     = getParamString(['WeaknessSe', '弱点SE']);
-    var paramResistanceSe   = getParamString(['ResistanceSe', '耐性SE']);
-    var paramWeaknessLine   = getParamNumber(['WeaknessLine', '弱点閾値']);
-    var paramResistanceLine = getParamNumber(['ResistanceLine', '耐性閾値']);
-    var paramNoDamageSe     = getParamString(['NoDamageSe', '無効SE']);
+  //=============================================================================
+  // パラメータの取得と整形
+  //=============================================================================
+  var paramWeaknessSe = getParamString(["WeaknessSe", "弱点SE"]);
+  var paramResistanceSe = getParamString(["ResistanceSe", "耐性SE"]);
+  var paramWeaknessLine = getParamNumber(["WeaknessLine", "弱点閾値"]);
+  var paramResistanceLine = getParamNumber(["ResistanceLine", "耐性閾値"]);
+  var paramNoDamageSe = getParamString(["NoDamageSe", "無効SE"]);
 
-    var userSettings = new Map([
-        ['weaknessSe', {name: paramWeaknessSe, volume: 90, pitch: 100, pan: 0}],
-        ['resistanceSe', {name: paramResistanceSe, volume: 90, pitch: 100, pan: 0}],
-        ['noDamageSe', {name: paramNoDamageSe, volume: 90, pitch: 100, pan: 0}]
-    ]);
+  var userSettings = new Map([
+    ["weaknessSe", { name: paramWeaknessSe, volume: 90, pitch: 100, pan: 0 }],
+    [
+      "resistanceSe",
+      { name: paramResistanceSe, volume: 90, pitch: 100, pan: 0 },
+    ],
+    ["noDamageSe", { name: paramNoDamageSe, volume: 90, pitch: 100, pan: 0 }],
+  ]);
 
-    //=============================================================================
-    // Game_Action
-    //  弱点および耐性を検知します。
-    //=============================================================================
-    var _Game_Action_calcElementRate    = Game_Action.prototype.calcElementRate;
-    Game_Action.prototype.calcElementRate = function(target) {
-        var result = _Game_Action_calcElementRate.apply(this, arguments);
-        if (BattleManager.isInputting()) return result;
-        if (result >= paramWeaknessLine / 100) {
-            target.setEffectiveSe(userSettings.get('weaknessSe'));
-        } else if (result <= paramResistanceLine / 100) {
-            target.setEffectiveSe(userSettings.get('resistanceSe'));
-        }
-        return result;
-    };
+  //=============================================================================
+  // Game_Action
+  //  弱点および耐性を検知します。
+  //=============================================================================
+  var _Game_Action_calcElementRate = Game_Action.prototype.calcElementRate;
+  Game_Action.prototype.calcElementRate = function (target) {
+    var result = _Game_Action_calcElementRate.apply(this, arguments);
+    if (BattleManager.isInputting()) return result;
+    if (result >= paramWeaknessLine / 100) {
+      target.setEffectiveSe(userSettings.get("weaknessSe"));
+    } else if (result <= paramResistanceLine / 100) {
+      target.setEffectiveSe(userSettings.get("resistanceSe"));
+    }
+    return result;
+  };
 
-    var _Game_Action_executeDamage = Game_Action.prototype.executeDamage;
-    Game_Action.prototype.executeDamage = function(target, value) {
-        if (value === 0) {
-            target.setEffectiveSe(userSettings.get('noDamageSe'));
-        }
-        _Game_Action_executeDamage.apply(this, arguments);
-    };
+  var _Game_Action_executeDamage = Game_Action.prototype.executeDamage;
+  Game_Action.prototype.executeDamage = function (target, value) {
+    if (value === 0) {
+      target.setEffectiveSe(userSettings.get("noDamageSe"));
+    }
+    _Game_Action_executeDamage.apply(this, arguments);
+  };
 
-    //=============================================================================
-    // Game_Battler
-    //  弱点および耐性の効果音を設定します。
-    //=============================================================================
-    Game_Battler.prototype.setEffectiveSe = function(se) {
-        this._effectiveSe = se;
-    };
+  //=============================================================================
+  // Game_Battler
+  //  弱点および耐性の効果音を設定します。
+  //=============================================================================
+  Game_Battler.prototype.setEffectiveSe = function (se) {
+    this._effectiveSe = se;
+  };
 
-    Game_Battler.prototype.getEffectiveSe = function() {
-        return this._effectiveSe;
-    };
+  Game_Battler.prototype.getEffectiveSe = function () {
+    return this._effectiveSe;
+  };
 
-    Game_Battler.prototype.performNoDamage = function() {
-        SoundManager.playCustomDamage();
-    };
+  Game_Battler.prototype.performNoDamage = function () {
+    SoundManager.playCustomDamage();
+  };
 
-    var _Game_Battler_performResultEffects = Game_Battler.prototype.performResultEffects;
-    Game_Battler.prototype.performResultEffects = function() {
-        var effectiveSe = this.getEffectiveSe();
-        if (effectiveSe) {
-            SoundManager.changeDamageSe(effectiveSe);
-            this.setEffectiveSe(null);
-        }
-        _Game_Battler_performResultEffects.apply(this, arguments);
-    };
+  var _Game_Battler_performResultEffects =
+    Game_Battler.prototype.performResultEffects;
+  Game_Battler.prototype.performResultEffects = function () {
+    var effectiveSe = this.getEffectiveSe();
+    if (effectiveSe) {
+      SoundManager.changeDamageSe(effectiveSe);
+      this.setEffectiveSe(null);
+    }
+    _Game_Battler_performResultEffects.apply(this, arguments);
+  };
 
-    //=============================================================================
-    // SoundManager
-    //  ダメージ効果音をカスタマイズ可能にします。
-    //=============================================================================
-    SoundManager.changeDamageSe = function(se) {
-        this._damageSe = se;
-    };
+  //=============================================================================
+  // SoundManager
+  //  ダメージ効果音をカスタマイズ可能にします。
+  //=============================================================================
+  SoundManager.changeDamageSe = function (se) {
+    this._damageSe = se;
+  };
 
-    SoundManager.playCustomDamage = function() {
-        var result = false;
-        if (this._damageSe && this._damageSe.name) {
-            AudioManager.playSe(this._damageSe);
-            this._damageSe = null;
-            result = true;
-        }
-        this._damageSe = null;
-        return result;
-    };
+  SoundManager.playCustomDamage = function () {
+    var result = false;
+    if (this._damageSe && this._damageSe.name) {
+      AudioManager.playSe(this._damageSe);
+      this._damageSe = null;
+      result = true;
+    }
+    this._damageSe = null;
+    return result;
+  };
 
-    var _SoundManager_playActorDamage = SoundManager.playActorDamage;
-    SoundManager.playActorDamage        = function() {
-        this.playCustomDamage() || _SoundManager_playActorDamage.apply(this, arguments);
-    };
+  var _SoundManager_playActorDamage = SoundManager.playActorDamage;
+  SoundManager.playActorDamage = function () {
+    this.playCustomDamage() ||
+      _SoundManager_playActorDamage.apply(this, arguments);
+  };
 
-    var _SoundManager_playEnemyDamage = SoundManager.playEnemyDamage;
-    SoundManager.playEnemyDamage        = function() {
-        this.playCustomDamage() || _SoundManager_playEnemyDamage.apply(this, arguments);
-    };
+  var _SoundManager_playEnemyDamage = SoundManager.playEnemyDamage;
+  SoundManager.playEnemyDamage = function () {
+    this.playCustomDamage() ||
+      _SoundManager_playEnemyDamage.apply(this, arguments);
+  };
 
-    //=============================================================================
-    // Window_BattleLog
-    //  ダメージ効果音を演奏します。
-    //=============================================================================
-    var _Window_BattleLog_performDamage    = Window_BattleLog.prototype.performDamage;
-    Window_BattleLog.prototype.performDamage = function(target) {
-        this.setEffectiveSe(target);
-        _Window_BattleLog_performDamage.apply(this, arguments);
-    };
+  //=============================================================================
+  // Window_BattleLog
+  //  ダメージ効果音を演奏します。
+  //=============================================================================
+  var _Window_BattleLog_performDamage =
+    Window_BattleLog.prototype.performDamage;
+  Window_BattleLog.prototype.performDamage = function (target) {
+    this.setEffectiveSe(target);
+    _Window_BattleLog_performDamage.apply(this, arguments);
+  };
 
-    Window_BattleLog.prototype.performNoDamage = function(target) {
-        this.setEffectiveSe(target);
-        target.performNoDamage();
-    };
+  Window_BattleLog.prototype.performNoDamage = function (target) {
+    this.setEffectiveSe(target);
+    target.performNoDamage();
+  };
 
-    Window_BattleLog.prototype.setEffectiveSe = function(target) {
-        var effectiveSe = target.getEffectiveSe();
-        if (effectiveSe) {
-            SoundManager.changeDamageSe(effectiveSe);
-            target.setEffectiveSe(null);
-        }
-    };
+  Window_BattleLog.prototype.setEffectiveSe = function (target) {
+    var effectiveSe = target.getEffectiveSe();
+    if (effectiveSe) {
+      SoundManager.changeDamageSe(effectiveSe);
+      target.setEffectiveSe(null);
+    }
+  };
 
-    var _Window_BattleLog_displayHpDamage = Window_BattleLog.prototype.displayHpDamage;
-    Window_BattleLog.prototype.displayHpDamage = function(target) {
-        if (target.result().hpAffected) {
-            if (target.result().hpDamage === 0) {
-                this.push('performNoDamage', target);
-            }
-        }
-        if (isExistPlugin('CustumCriticalSoundVer5') && target.result().hpDamage > 0) {
-            this.setEffectiveSe(target);
-        }
-        _Window_BattleLog_displayHpDamage.apply(this, arguments);
-    };
+  var _Window_BattleLog_displayHpDamage =
+    Window_BattleLog.prototype.displayHpDamage;
+  Window_BattleLog.prototype.displayHpDamage = function (target) {
+    if (target.result().hpAffected) {
+      if (target.result().hpDamage === 0) {
+        this.push("performNoDamage", target);
+      }
+    }
+    if (
+      isExistPlugin("CustumCriticalSoundVer5") &&
+      target.result().hpDamage > 0
+    ) {
+      this.setEffectiveSe(target);
+    }
+    _Window_BattleLog_displayHpDamage.apply(this, arguments);
+  };
 })();

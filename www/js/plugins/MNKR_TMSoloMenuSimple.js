@@ -38,7 +38,7 @@
  * メニュー系シーンでのアクター選択の処理が省略される部分のみを残しました。
  *
  *   プラグインコマンドはありません。
- * 
+ *
  * このプラグインについて
  *   RPGツクールMV用に作成されたプラグインを改変したものです。
  *   お問い合わせは改変者へお願いいたします。
@@ -56,9 +56,14 @@ Imported.TMSoloMenu = true;
 (() => {
   "use strict";
 
-  const pluginName = document.currentScript.src.split("/").pop().replace(/\.js$/, "");
+  const pluginName = document.currentScript.src
+    .split("/")
+    .pop()
+    .replace(/\.js$/, "");
   var parameters = PluginManager.parameters(pluginName);
-  var forceChangeSoloMenu = JSON.parse(parameters['forceChangeSoloMenu'] || 'true');
+  var forceChangeSoloMenu = JSON.parse(
+    parameters["forceChangeSoloMenu"] || "true"
+  );
 
   //-----------------------------------------------------------------------------
   // Game_Party
@@ -80,7 +85,13 @@ Imported.TMSoloMenu = true;
   Window_SoloItemStatus.prototype.constructor = Window_SoloItemStatus;
 
   Window_SoloItemStatus.prototype.initialize = function (x, y, width) {
-    Window_Base.prototype.initialize.call(this, x, y, width, this.fittingHeight(1));
+    Window_Base.prototype.initialize.call(
+      this,
+      x,
+      y,
+      width,
+      this.fittingHeight(1)
+    );
     this.refresh();
   };
 
@@ -155,5 +166,4 @@ Imported.TMSoloMenu = true;
   //     _Scene_ItemBase_determineItem.call(this);
   //   }
   // };
-
 })();

@@ -151,43 +151,44 @@
  */
 
 (() => {
-  const pluginName = 'invokeCommonAtEquipChange';
+  const pluginName = "invokeCommonAtEquipChange";
   //
   // process parameters
   //
   const parameters = PluginManager.parameters(pluginName);
-  const defaultCommonId = Number(parameters['commonId'] || 0);
-  const invokeTiming   = parameters['timing'] || 'wait';
-  const doesInvokeAtNone = !!eval(parameters['doesInvokeAtNone']);
-  const commonIdAtNone = Number(parameters['commonIdAtNone'] || 0);
+  const defaultCommonId = Number(parameters["commonId"] || 0);
+  const invokeTiming = parameters["timing"] || "wait";
+  const doesInvokeAtNone = !!eval(parameters["doesInvokeAtNone"]);
+  const commonIdAtNone = Number(parameters["commonIdAtNone"] || 0);
 
   //
   // determine common event id to invoke
   //
-  const commonIdForTheEquip = item => {
+  const commonIdForTheEquip = (item) => {
     if (item) {
       let commonId;
-      if (commonId = item.meta.invokeCommonEventId) {
+      if ((commonId = item.meta.invokeCommonEventId)) {
         return +commonId;
       }
     }
     return defaultCommonId;
   };
 
-  const commonIdForRemoved = item => {
+  const commonIdForRemoved = (item) => {
     if (item) {
       let commonId;
-      if (commonId = item.meta.removeCommonEventId) {
+      if ((commonId = item.meta.removeCommonEventId)) {
         return +commonId;
       }
     }
     return commonIdAtNone;
   };
 
-  const isImmediate = () => invokeTiming === 'immediate';
+  const isImmediate = () => invokeTiming === "immediate";
 
   const discardOldReservation = () => {
-    if ("clearCommonEventReservation" in $gameTemp) { // MZ
+    if ("clearCommonEventReservation" in $gameTemp) {
+      // MZ
       $gameTemp.clearCommonEventReservation();
     }
   };
@@ -195,7 +196,7 @@
   // reserve common event
   //
   const _Scene_Equip_onItemOk = Scene_Equip.prototype.onItemOk;
-  Scene_Equip.prototype.onItemOk = function() {
+  Scene_Equip.prototype.onItemOk = function () {
     const oldEquip = this.actor().equips()[this._slotWindow.index()];
     const itemToEquip = this._itemWindow.item();
     _Scene_Equip_onItemOk.call(this);
@@ -210,5 +211,4 @@
       Scene_ItemBase.prototype.checkCommonEvent.call(this);
     }
   };
-
 })();

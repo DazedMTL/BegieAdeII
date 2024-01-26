@@ -221,20 +221,20 @@ Yanfly.Instant.version = 1.12;
 // Parameter Variables
 //=============================================================================
 
-Yanfly.Parameters = PluginManager.parameters('YEP_InstantCast');
+Yanfly.Parameters = PluginManager.parameters("YEP_InstantCast");
 Yanfly.Icon = Yanfly.Icon || {};
 
-Yanfly.Icon.Instant = Number(Yanfly.Parameters['Instant Icon']);
+Yanfly.Icon.Instant = Number(Yanfly.Parameters["Instant Icon"]);
 
 //=============================================================================
 // DataManager
 //=============================================================================
 
 Yanfly.Instant.DataManager_isDatabaseLoaded = DataManager.isDatabaseLoaded;
-DataManager.isDatabaseLoaded = function() {
+DataManager.isDatabaseLoaded = function () {
   if (!Yanfly.Instant.DataManager_isDatabaseLoaded.call(this)) return false;
   if (!Yanfly._loaded_YEP_InstantCast) {
-  	DataManager.processInstantNotetags1($dataSkills);
+    DataManager.processInstantNotetags1($dataSkills);
     DataManager.processInstantNotetags1($dataItems);
     DataManager.processInstantNotetags2($dataActors);
     DataManager.processInstantNotetags2($dataClasses);
@@ -244,34 +244,34 @@ DataManager.isDatabaseLoaded = function() {
     DataManager.processInstantNotetags2($dataStates);
     Yanfly._loaded_YEP_InstantCast = true;
   }
-	return true;
+  return true;
 };
 
-DataManager.processInstantNotetags1 = function(group) {
-	for (var n = 1; n < group.length; n++) {
-		var obj = group[n];
-		var notedata = obj.note.split(/[\r\n]+/);
+DataManager.processInstantNotetags1 = function (group) {
+  for (var n = 1; n < group.length; n++) {
+    var obj = group[n];
+    var notedata = obj.note.split(/[\r\n]+/);
 
     obj.instantCast = false;
-    obj.instantEval = '';
-    var evalMode = 'none';
+    obj.instantEval = "";
+    var evalMode = "none";
 
-		for (var i = 0; i < notedata.length; i++) {
-			var line = notedata[i];
-			if (line.match(/<(?:INSTANT|instant cast)>/i)) {
-				obj.instantCast = true;
-			} else if (line.match(/<(?:INSTANT EVAL)>/i)) {
-        evalMode = 'instant';
+    for (var i = 0; i < notedata.length; i++) {
+      var line = notedata[i];
+      if (line.match(/<(?:INSTANT|instant cast)>/i)) {
+        obj.instantCast = true;
+      } else if (line.match(/<(?:INSTANT EVAL)>/i)) {
+        evalMode = "instant";
       } else if (line.match(/<\/(?:INSTANT EVAL)>/i)) {
-        evalMode = 'none';
-      } else if (evalMode === 'instant') {
-        obj.instantEval = obj.instantEval + line + '\n';
+        evalMode = "none";
+      } else if (evalMode === "instant") {
+        obj.instantEval = obj.instantEval + line + "\n";
       }
-		}
-	}
+    }
+  }
 };
 
-DataManager.processInstantNotetags2 = function(group) {
+DataManager.processInstantNotetags2 = function (group) {
   var note1 = /<(?:INSTANT SKILL):[ ]*(\d+(?:\s*,\s*\d+)*)>/i;
   var note2 = /<(?:INSTANT SKILL):[ ](\d+)[ ](?:THROUGH|to)[ ](\d+)>/i;
   var note3 = /<(?:INSTANT ITEM):[ ]*(\d+(?:\s*,\s*\d+)*)>/i;
@@ -280,48 +280,56 @@ DataManager.processInstantNotetags2 = function(group) {
   var note6 = /<(?:CANCEL INSTANT SKILL):[ ](\d+)[ ](?:THROUGH|to)[ ](\d+)>/i;
   var note7 = /<(?:CANCEL INSTANT ITEM):[ ]*(\d+(?:\s*,\s*\d+)*)>/i;
   var note8 = /<(?:CANCEL INSTANT ITEM):[ ](\d+)[ ](?:THROUGH|to)[ ](\d+)>/i;
-	for (var n = 1; n < group.length; n++) {
-		var obj = group[n];
-		var notedata = obj.note.split(/[\r\n]+/);
+  for (var n = 1; n < group.length; n++) {
+    var obj = group[n];
+    var notedata = obj.note.split(/[\r\n]+/);
 
     obj.instantSkill = [];
     obj.instantItem = [];
     obj.cancelInstantSkill = [];
     obj.cancelInstantItem = [];
 
-		for (var i = 0; i < notedata.length; i++) {
-			var line = notedata[i];
-			if (line.match(note1)) {
-        var array = JSON.parse('[' + RegExp.$1.match(/\d+/g) + ']');
+    for (var i = 0; i < notedata.length; i++) {
+      var line = notedata[i];
+      if (line.match(note1)) {
+        var array = JSON.parse("[" + RegExp.$1.match(/\d+/g) + "]");
         obj.instantSkill = obj.instantSkill.concat(array);
-			} else if (line.match(note2)) {
-        var range = Yanfly.Util.getRange(parseInt(RegExp.$1),
-					parseInt(RegExp.$2));
+      } else if (line.match(note2)) {
+        var range = Yanfly.Util.getRange(
+          parseInt(RegExp.$1),
+          parseInt(RegExp.$2)
+        );
         obj.instantSkill = obj.instantSkill.concat(range);
-			} else if (line.match(note3)) {
-        var array = JSON.parse('[' + RegExp.$1.match(/\d+/g) + ']');
+      } else if (line.match(note3)) {
+        var array = JSON.parse("[" + RegExp.$1.match(/\d+/g) + "]");
         obj.instantItem = obj.instantItem.concat(array);
-			} else if (line.match(note4)) {
-        var range = Yanfly.Util.getRange(parseInt(RegExp.$1),
-					parseInt(RegExp.$2));
+      } else if (line.match(note4)) {
+        var range = Yanfly.Util.getRange(
+          parseInt(RegExp.$1),
+          parseInt(RegExp.$2)
+        );
         obj.instantItem = obj.instantItem.concat(range);
-			} else if (line.match(note5)) {
-        var array = JSON.parse('[' + RegExp.$1.match(/\d+/g) + ']');
+      } else if (line.match(note5)) {
+        var array = JSON.parse("[" + RegExp.$1.match(/\d+/g) + "]");
         obj.cancelInstantSkill = obj.cancelInstantSkill.concat(array);
-			} else if (line.match(note6)) {
-        var range = Yanfly.Util.getRange(parseInt(RegExp.$1),
-					parseInt(RegExp.$2));
+      } else if (line.match(note6)) {
+        var range = Yanfly.Util.getRange(
+          parseInt(RegExp.$1),
+          parseInt(RegExp.$2)
+        );
         obj.cancelInstantSkill = obj.cancelInstantSkill.concat(range);
-			} else if (line.match(note7)) {
-        var array = JSON.parse('[' + RegExp.$1.match(/\d+/g) + ']');
+      } else if (line.match(note7)) {
+        var array = JSON.parse("[" + RegExp.$1.match(/\d+/g) + "]");
         obj.cancelInstantItem = obj.cancelInstantItem.concat(array);
-			} else if (line.match(note8)) {
-        var range = Yanfly.Util.getRange(parseInt(RegExp.$1),
-					parseInt(RegExp.$2));
+      } else if (line.match(note8)) {
+        var range = Yanfly.Util.getRange(
+          parseInt(RegExp.$1),
+          parseInt(RegExp.$2)
+        );
         obj.cancelInstantItem = obj.cancelInstantItem.concat(range);
-			}
-		}
-	}
+      }
+    }
+  }
 };
 
 //=============================================================================
@@ -329,264 +337,264 @@ DataManager.processInstantNotetags2 = function(group) {
 //=============================================================================
 
 Yanfly.Instant.BattleManager_isInputting = BattleManager.isInputting;
-BattleManager.isInputting = function() {
-    if (this._instantCasting) return false;
-    return Yanfly.Instant.BattleManager_isInputting.call(this);
+BattleManager.isInputting = function () {
+  if (this._instantCasting) return false;
+  return Yanfly.Instant.BattleManager_isInputting.call(this);
 };
 
-BattleManager.performInstantCast = function() {
-    if (Imported.YEP_BattleEngineCore) {
-      this.stopAllSelection();
-      this.resetSelection();
-    }
-    this._subject = BattleManager.actor();
-    this._instantCasting = true;
-    if (Imported.YEP_BattleEngineCore && BattleManager.isDTB()) {
-      this._ignoreTurnOrderFirstIndex = true;
-    }
-    this.startAction();
+BattleManager.performInstantCast = function () {
+  if (Imported.YEP_BattleEngineCore) {
+    this.stopAllSelection();
+    this.resetSelection();
+  }
+  this._subject = BattleManager.actor();
+  this._instantCasting = true;
+  if (Imported.YEP_BattleEngineCore && BattleManager.isDTB()) {
+    this._ignoreTurnOrderFirstIndex = true;
+  }
+  this.startAction();
 };
 
 Yanfly.Instant.BattleManager_startAction = BattleManager.startAction;
-BattleManager.startAction = function() {
-    this._startedInstantCasting = true;
-    Yanfly.Instant.BattleManager_startAction.call(this);
+BattleManager.startAction = function () {
+  this._startedInstantCasting = true;
+  Yanfly.Instant.BattleManager_startAction.call(this);
 };
 
 Yanfly.Instant.BattleManager_endAction = BattleManager.endAction;
-BattleManager.endAction = function() {
-    if (this._instantCasting) {
-      this.endActorInstantCast();
-    } else {
-      this.endEnemyInstantCastAction();
-      Yanfly.Instant.BattleManager_endAction.call(this);
-    }
-    this._startedInstantCasting = false;
-};
-
-BattleManager.endActorInstantCast = function() {
-    if (Imported.YEP_BattleEngineCore && BattleManager.isDTB()) {
-      this._ignoreTurnOrderFirstIndex = false;
-    }
-    var user = this._subject;
-    if (Imported.YEP_BattleEngineCore) {
-      if (this._processingForcedAction) this._phase = this._preForcePhase;
-      this._processingForcedAction = false;
-    }
-    if (this.updateEventMain()) return;
+BattleManager.endAction = function () {
+  if (this._instantCasting) {
+    this.endActorInstantCast();
+  } else {
+    this.endEnemyInstantCastAction();
     Yanfly.Instant.BattleManager_endAction.call(this);
-    this._subject = user;
-    this._instantCasting = undefined;
+  }
+  this._startedInstantCasting = false;
+};
+
+BattleManager.endActorInstantCast = function () {
+  if (Imported.YEP_BattleEngineCore && BattleManager.isDTB()) {
+    this._ignoreTurnOrderFirstIndex = false;
+  }
+  var user = this._subject;
+  if (Imported.YEP_BattleEngineCore) {
+    if (this._processingForcedAction) this._phase = this._preForcePhase;
+    this._processingForcedAction = false;
+  }
+  if (this.updateEventMain()) return;
+  Yanfly.Instant.BattleManager_endAction.call(this);
+  this._subject = user;
+  this._instantCasting = undefined;
+  user.makeActions();
+  if (this.checkBattleEnd()) return;
+  this._phase = "input";
+  if (user.canMove() && user.canInput()) {
+    user.endInstantCast();
+  } else {
     user.makeActions();
-    if (this.checkBattleEnd()) return;
-    this._phase = 'input';
-    if (user.canMove() && user.canInput()) {
-      user.endInstantCast();
-    } else {
-      user.makeActions();
-      this.selectNextCommand();
-    }
-    this.refreshStatus();
-    if (Imported.YEP_BattleEngineCore && BattleManager.isDTB()) {
-      this._subject = undefined;
-    }
+    this.selectNextCommand();
+  }
+  this.refreshStatus();
+  if (Imported.YEP_BattleEngineCore && BattleManager.isDTB()) {
+    this._subject = undefined;
+  }
 };
 
-BattleManager.endEnemyInstantCastAction = function() {
-    var battler = this._subject;
-    if (!battler) return;
-    if (battler.isActor()) return;
-    var action = this._action;
-    if (!action) return;
-    var item = action.item();
-    if (!item) return;
-    if (battler.isInstantCast(item)) this.addInstantCastAction(battler);
+BattleManager.endEnemyInstantCastAction = function () {
+  var battler = this._subject;
+  if (!battler) return;
+  if (battler.isActor()) return;
+  var action = this._action;
+  if (!action) return;
+  var item = action.item();
+  if (!item) return;
+  if (battler.isInstantCast(item)) this.addInstantCastAction(battler);
 };
 
-BattleManager.addInstantCastAction = function(battler) {
-    if (Imported.YEP_X_BattleSysATB && this.isATB()) return;
-    if (Imported.YEP_X_BattleSysCTB && this.isCTB()) return;
-    var action = new Game_Action(battler);
-    battler._actions.push(action);
-    battler.makeActions();
-    this.makeActionOrders();
+BattleManager.addInstantCastAction = function (battler) {
+  if (Imported.YEP_X_BattleSysATB && this.isATB()) return;
+  if (Imported.YEP_X_BattleSysCTB && this.isCTB()) return;
+  var action = new Game_Action(battler);
+  battler._actions.push(action);
+  battler.makeActions();
+  this.makeActionOrders();
 };
 
 if (Imported.YEP_BattleEngineCore) {
-
-Yanfly.Instant.BattleManager_savePreForceActionSettings =
+  Yanfly.Instant.BattleManager_savePreForceActionSettings =
     BattleManager.savePreForceActionSettings;
-BattleManager.savePreForceActionSettings = function() {
+  BattleManager.savePreForceActionSettings = function () {
     Yanfly.Instant.BattleManager_savePreForceActionSettings.call(this);
     this._instantCasting = false;
-};
+  };
 
-Yanfly.Instant.BattleManager_setPreForceActionSettings =
-BattleManager.setPreForceActionSettings;
-BattleManager.setPreForceActionSettings = function() {
+  Yanfly.Instant.BattleManager_setPreForceActionSettings =
+    BattleManager.setPreForceActionSettings;
+  BattleManager.setPreForceActionSettings = function () {
     var settings =
       Yanfly.Instant.BattleManager_setPreForceActionSettings.call(this);
-    settings['instantCasting'] = this._instantCasting;
+    settings["instantCasting"] = this._instantCasting;
     return settings;
-};
+  };
 
-Yanfly.Instant.BattleManager_resetPreForceActionSettings =
-BattleManager.resetPreForceActionSettings;
-BattleManager.resetPreForceActionSettings = function(settings) {
-    Yanfly.Instant.BattleManager_resetPreForceActionSettings.call(this,
-      settings);
-    this._instantCasting = settings['instantCasting'];
-};
-
+  Yanfly.Instant.BattleManager_resetPreForceActionSettings =
+    BattleManager.resetPreForceActionSettings;
+  BattleManager.resetPreForceActionSettings = function (settings) {
+    Yanfly.Instant.BattleManager_resetPreForceActionSettings.call(
+      this,
+      settings
+    );
+    this._instantCasting = settings["instantCasting"];
+  };
 } // Imported.YEP_BattleEngineCore
 
 //=============================================================================
 // Game_Battler
 //=============================================================================
 
-Game_Battler.prototype.isInstantCast = function(item) {
-    if (!item) return false;
-    for (var i = 0; i < this.states().length; ++i) {
-      var state = this.states()[i];
-      if (!state) continue;
-      if (this.checkInstantCast(state, item)) return true;
-    }
-    return item.instantCast;
+Game_Battler.prototype.isInstantCast = function (item) {
+  if (!item) return false;
+  for (var i = 0; i < this.states().length; ++i) {
+    var state = this.states()[i];
+    if (!state) continue;
+    if (this.checkInstantCast(state, item)) return true;
+  }
+  return item.instantCast;
 };
 
-Game_Battler.prototype.performInstantEval = function(item) {
-    var instant = undefined;
-    var skill = item;
-    var a = this;
-    var user = this;
-    var subject = this;
-    var s = $gameSwitches._data;
-    var v = $gameVariables._data;
-    var code = item.instantEval;
-    try {
-      eval(code);
-    } catch (e) {
-      Yanfly.Util.displayError(e, code, 'CUSTOM INSTANT CAST ERROR');
-    }
-    return instant;
+Game_Battler.prototype.performInstantEval = function (item) {
+  var instant = undefined;
+  var skill = item;
+  var a = this;
+  var user = this;
+  var subject = this;
+  var s = $gameSwitches._data;
+  var v = $gameVariables._data;
+  var code = item.instantEval;
+  try {
+    eval(code);
+  } catch (e) {
+    Yanfly.Util.displayError(e, code, "CUSTOM INSTANT CAST ERROR");
+  }
+  return instant;
 };
 
-Game_Battler.prototype.isCancelInstantCast = function(item) {
-    if (!item) return false;
-    for (var i = 0; i < this.states().length; ++i) {
-      var state = this.states()[i];
-      if (!state) continue;
-      if (this.checkCancelInstantCast(state, item)) return true;
-    }
-    return false;
+Game_Battler.prototype.isCancelInstantCast = function (item) {
+  if (!item) return false;
+  for (var i = 0; i < this.states().length; ++i) {
+    var state = this.states()[i];
+    if (!state) continue;
+    if (this.checkCancelInstantCast(state, item)) return true;
+  }
+  return false;
 };
 
-Game_Battler.prototype.checkInstantCast = function(obj, item) {
-    var id = item.id;
-    if (!obj) return false;
-    if (DataManager.isSkill(item)) {
-      if (!obj.instantSkill) return false;
-      if (obj.instantSkill.contains(id)) return true;
-    } else if (DataManager.isItem(item)) {
-      if (!obj.instantItem) return false;
-      if (obj.instantItem.contains(id)) return true;
-    }
-    return false;
+Game_Battler.prototype.checkInstantCast = function (obj, item) {
+  var id = item.id;
+  if (!obj) return false;
+  if (DataManager.isSkill(item)) {
+    if (!obj.instantSkill) return false;
+    if (obj.instantSkill.contains(id)) return true;
+  } else if (DataManager.isItem(item)) {
+    if (!obj.instantItem) return false;
+    if (obj.instantItem.contains(id)) return true;
+  }
+  return false;
 };
 
-Game_Battler.prototype.checkCancelInstantCast = function(obj, item) {
-    var id = item.id;
-    if (!obj) return false;
-    if (DataManager.isSkill(item)) {
-      if (!obj.cancelInstantSkill) return false;
-      if (obj.cancelInstantSkill.contains(id)) return true;
-    } else if (DataManager.isItem(item)) {
-      if (!obj.cancelInstantItem) return false;
-      if (obj.cancelInstantItem.contains(id)) return true;
-    }
-    return false;
+Game_Battler.prototype.checkCancelInstantCast = function (obj, item) {
+  var id = item.id;
+  if (!obj) return false;
+  if (DataManager.isSkill(item)) {
+    if (!obj.cancelInstantSkill) return false;
+    if (obj.cancelInstantSkill.contains(id)) return true;
+  } else if (DataManager.isItem(item)) {
+    if (!obj.cancelInstantItem) return false;
+    if (obj.cancelInstantItem.contains(id)) return true;
+  }
+  return false;
 };
 
 Yanfly.Instant.Game_Battler_onRestrict = Game_Battler.prototype.onRestrict;
-Game_Battler.prototype.onRestrict = function() {
-    var instant = false;
-    if ($gameParty.inBattle()) {
-      if (BattleManager._subject === this && BattleManager._instantCasting) {
-        instant = true;
-        var currentAction = this.currentAction();
-      }
+Game_Battler.prototype.onRestrict = function () {
+  var instant = false;
+  if ($gameParty.inBattle()) {
+    if (BattleManager._subject === this && BattleManager._instantCasting) {
+      instant = true;
+      var currentAction = this.currentAction();
     }
-    Yanfly.Instant.Game_Battler_onRestrict.call(this);
-    if (instant) {
-      this.setAction(0, currentAction);
-    }
+  }
+  Yanfly.Instant.Game_Battler_onRestrict.call(this);
+  if (instant) {
+    this.setAction(0, currentAction);
+  }
 };
 
 //=============================================================================
 // Game_Actor
 //=============================================================================
 
-Game_Actor.prototype.endInstantCast = function() {
-    if (Imported.YEP_BattleEngineCore) {
-      this.spriteStepForward();
-      $gameParty.requestMotionRefresh();
-      this.requestMotion('walk');
-    } else {
-      this.setActionState('inputting');
-    }
+Game_Actor.prototype.endInstantCast = function () {
+  if (Imported.YEP_BattleEngineCore) {
+    this.spriteStepForward();
+    $gameParty.requestMotionRefresh();
+    this.requestMotion("walk");
+  } else {
+    this.setActionState("inputting");
+  }
 };
 
-Game_Actor.prototype.isInstantCast = function(item) {
-    if (!item) return false;
-    if ($gameParty.inBattle() && BattleManager._startedInstantCasting) {
-      return BattleManager._instantCasting;
-    }
-    if (item.instantEval.length > 0) {
-      var outcome = this.performInstantEval(item);
-      if (outcome === true || outcome === false) return outcome;
-    }
-    if (this.isCancelInstantCast(item)) return false;
-    if (this.checkInstantCast(this.actor(), item)) return true;
-    if (this.checkInstantCast(this.currentClass(), item)) return true;
-    for (var i = 0; i < this.equips().length; ++i) {
-      var equip = this.equips()[i];
-      if (!equip) continue;
-      if (this.checkInstantCast(equip, item)) return true;
-    }
-    return Game_Battler.prototype.isInstantCast.call(this, item);
+Game_Actor.prototype.isInstantCast = function (item) {
+  if (!item) return false;
+  if ($gameParty.inBattle() && BattleManager._startedInstantCasting) {
+    return BattleManager._instantCasting;
+  }
+  if (item.instantEval.length > 0) {
+    var outcome = this.performInstantEval(item);
+    if (outcome === true || outcome === false) return outcome;
+  }
+  if (this.isCancelInstantCast(item)) return false;
+  if (this.checkInstantCast(this.actor(), item)) return true;
+  if (this.checkInstantCast(this.currentClass(), item)) return true;
+  for (var i = 0; i < this.equips().length; ++i) {
+    var equip = this.equips()[i];
+    if (!equip) continue;
+    if (this.checkInstantCast(equip, item)) return true;
+  }
+  return Game_Battler.prototype.isInstantCast.call(this, item);
 };
 
-Game_Actor.prototype.isCancelInstantCast = function(item) {
-    if (!item) return false;
-    if (this.checkCancelInstantCast(this.actor(), item)) return true;
-    if (this.checkCancelInstantCast(this.currentClass(), item)) return true;
-    for (var i = 0; i < this.equips().length; ++i) {
-      var equip = this.equips()[i];
-      if (!equip) continue;
-      if (this.checkCancelInstantCast(equip, item)) return true;
-    }
-    return Game_Battler.prototype.isCancelInstantCast.call(this, item);
+Game_Actor.prototype.isCancelInstantCast = function (item) {
+  if (!item) return false;
+  if (this.checkCancelInstantCast(this.actor(), item)) return true;
+  if (this.checkCancelInstantCast(this.currentClass(), item)) return true;
+  for (var i = 0; i < this.equips().length; ++i) {
+    var equip = this.equips()[i];
+    if (!equip) continue;
+    if (this.checkCancelInstantCast(equip, item)) return true;
+  }
+  return Game_Battler.prototype.isCancelInstantCast.call(this, item);
 };
 
 //=============================================================================
 // Game_Enemy
 //=============================================================================
 
-Game_Enemy.prototype.isInstantCast = function(item) {
-    if (!item) return false;
-    if (item.instantEval.length > 0) {
-      var outcome = this.performInstantEval(item);
-      if (outcome === true || outcome === false) return outcome;
-    }
-    if (this.isCancelInstantCast(item)) return false;
-    if (this.checkInstantCast(this.enemy(), item)) return true;
-    return Game_Battler.prototype.isInstantCast.call(this, item);
+Game_Enemy.prototype.isInstantCast = function (item) {
+  if (!item) return false;
+  if (item.instantEval.length > 0) {
+    var outcome = this.performInstantEval(item);
+    if (outcome === true || outcome === false) return outcome;
+  }
+  if (this.isCancelInstantCast(item)) return false;
+  if (this.checkInstantCast(this.enemy(), item)) return true;
+  return Game_Battler.prototype.isInstantCast.call(this, item);
 };
 
-Game_Enemy.prototype.isCancelInstantCast = function(item) {
-    if (!item) return false;
-    if (this.checkCancelInstantCast(this.enemy(), item)) return true;
-    return Game_Battler.prototype.isCancelInstantCast.call(this, item);
+Game_Enemy.prototype.isCancelInstantCast = function (item) {
+  if (!item) return false;
+  if (this.checkCancelInstantCast(this.enemy(), item)) return true;
+  return Game_Battler.prototype.isCancelInstantCast.call(this, item);
 };
 
 //=============================================================================
@@ -594,54 +602,53 @@ Game_Enemy.prototype.isCancelInstantCast = function(item) {
 //=============================================================================
 
 Yanfly.Instant.Scene_Battle_selectNextCommand =
-    Scene_Battle.prototype.selectNextCommand;
-Scene_Battle.prototype.selectNextCommand = function() {
-    if (this.isInstantCast()) {
-      this.instantCastStart();
-      BattleManager.performInstantCast();
-    } else {
-      Yanfly.Instant.Scene_Battle_selectNextCommand.call(this);
-    }
+  Scene_Battle.prototype.selectNextCommand;
+Scene_Battle.prototype.selectNextCommand = function () {
+  if (this.isInstantCast()) {
+    this.instantCastStart();
+    BattleManager.performInstantCast();
+  } else {
+    Yanfly.Instant.Scene_Battle_selectNextCommand.call(this);
+  }
 };
 
-Scene_Battle.prototype.instantCastStart = function() {
-    this._enemyWindow.hide();
-    this._actorWindow.hide();
-    this._skillWindow.hide();
-    this._itemWindow.hide();
+Scene_Battle.prototype.instantCastStart = function () {
+  this._enemyWindow.hide();
+  this._actorWindow.hide();
+  this._skillWindow.hide();
+  this._itemWindow.hide();
 };
 
-Scene_Battle.prototype.isInstantCast = function() {
-    var actor = BattleManager.actor();
-    if (!actor) return false;
-    var action = BattleManager.inputtingAction();
-    if (!action) return false;
-    if (action !== actor.action(0)) return false;
-    var item = action.item();
-    return actor.isInstantCast(item);
+Scene_Battle.prototype.isInstantCast = function () {
+  var actor = BattleManager.actor();
+  if (!actor) return false;
+  var action = BattleManager.inputtingAction();
+  if (!action) return false;
+  if (action !== actor.action(0)) return false;
+  var item = action.item();
+  return actor.isInstantCast(item);
 };
 
 //=============================================================================
 // Window_Base
 //=============================================================================
 
-Yanfly.Instant.Window_Base_drawItemName =
-    Window_Base.prototype.drawItemName;
-Window_Base.prototype.drawItemName = function(item, wx, wy, ww) {
-    Yanfly.Instant.Window_Base_drawItemName.call(this, item, wx, wy, ww)
-    ww = ww || 312;
-    this.drawInstantIcon(item, wx, wy, ww);
+Yanfly.Instant.Window_Base_drawItemName = Window_Base.prototype.drawItemName;
+Window_Base.prototype.drawItemName = function (item, wx, wy, ww) {
+  Yanfly.Instant.Window_Base_drawItemName.call(this, item, wx, wy, ww);
+  ww = ww || 312;
+  this.drawInstantIcon(item, wx, wy, ww);
 };
 
-Window_Base.prototype.drawInstantIcon = function(item, wx, wy, ww) {
-    var icon = Yanfly.Icon.Instant;
-    if (icon <= 0) return;
-    if (!item) return;
-    if (!DataManager.isItem(item) && !DataManager.isSkill(item)) return;
-    var actor = this._actor;
-    if (!actor) return;
-    if (!actor.isInstantCast(item)) return;
-    this.drawIcon(icon, wx + 2, wy + 2);
+Window_Base.prototype.drawInstantIcon = function (item, wx, wy, ww) {
+  var icon = Yanfly.Icon.Instant;
+  if (icon <= 0) return;
+  if (!item) return;
+  if (!DataManager.isItem(item) && !DataManager.isSkill(item)) return;
+  var actor = this._actor;
+  if (!actor) return;
+  if (!actor.isInstantCast(item)) return;
+  this.drawIcon(icon, wx + 2, wy + 2);
 };
 
 //=============================================================================
@@ -650,14 +657,14 @@ Window_Base.prototype.drawInstantIcon = function(item, wx, wy, ww) {
 
 Yanfly.Util = Yanfly.Util || {};
 
-Yanfly.Util.displayError = function(e, code, message) {
+Yanfly.Util.displayError = function (e, code, message) {
   console.log(message);
-  console.log(code || 'NON-EXISTENT');
+  console.log(code || "NON-EXISTENT");
   console.error(e);
   if (Utils.RPGMAKER_VERSION && Utils.RPGMAKER_VERSION >= "1.6.0") return;
-  if (Utils.isNwjs() && Utils.isOptionValid('test')) {
-    if (!require('nw.gui').Window.get().isDevToolsOpen()) {
-      require('nw.gui').Window.get().showDevTools();
+  if (Utils.isNwjs() && Utils.isOptionValid("test")) {
+    if (!require("nw.gui").Window.get().isDevToolsOpen()) {
+      require("nw.gui").Window.get().showDevTools();
     }
   }
 };

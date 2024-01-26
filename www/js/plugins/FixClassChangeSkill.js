@@ -49,7 +49,7 @@
  *
  * レベルを保持した場合は、現在レベルまでのスキルを習得し、
  * 保持しなかった場合はレベル1で習得できるスキルを習得します。
- *　
+ *
  * このプラグインにはプラグインコマンドはありません。
  *
  * 利用規約：
@@ -58,39 +58,41 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function() {
-    'use strict';
+(function () {
+  "use strict";
 
-    var createPluginParameter = function(pluginName) {
-        var paramReplacer = function(key, value) {
-            if (value === 'null') {
-                return value;
-            }
-            if (value[0] === '"' && value[value.length - 1] === '"') {
-                return value;
-            }
-            try {
-                return JSON.parse(value);
-            } catch (e) {
-                return value;
-            }
-        };
-        var parameter     = JSON.parse(JSON.stringify(PluginManager.parameters(pluginName), paramReplacer));
-        PluginManager.setParameters(pluginName, parameter);
-        return parameter;
+  var createPluginParameter = function (pluginName) {
+    var paramReplacer = function (key, value) {
+      if (value === "null") {
+        return value;
+      }
+      if (value[0] === '"' && value[value.length - 1] === '"') {
+        return value;
+      }
+      try {
+        return JSON.parse(value);
+      } catch (e) {
+        return value;
+      }
     };
-    var param = createPluginParameter('FixClassChangeSkill');
+    var parameter = JSON.parse(
+      JSON.stringify(PluginManager.parameters(pluginName), paramReplacer)
+    );
+    PluginManager.setParameters(pluginName, parameter);
+    return parameter;
+  };
+  var param = createPluginParameter("FixClassChangeSkill");
 
-    var _Game_Actor_changeClass = Game_Actor.prototype.changeClass;
-    Game_Actor.prototype.changeClass = function(classId, keepExp) {
-        _Game_Actor_changeClass.apply(this, arguments);
-        if ($gameSwitches.value(param.invalidSwitchId)) {
-            return;
-        }
-        this.currentClass().learnings.forEach(function(learning) {
-            if (learning.level <= this._level) {
-                this.learnSkill(learning.skillId);
-            }
-        }, this);
-    };
+  var _Game_Actor_changeClass = Game_Actor.prototype.changeClass;
+  Game_Actor.prototype.changeClass = function (classId, keepExp) {
+    _Game_Actor_changeClass.apply(this, arguments);
+    if ($gameSwitches.value(param.invalidSwitchId)) {
+      return;
+    }
+    this.currentClass().learnings.forEach(function (learning) {
+      if (learning.level <= this._level) {
+        this.learnSkill(learning.skillId);
+      }
+    }, this);
+  };
 })();
