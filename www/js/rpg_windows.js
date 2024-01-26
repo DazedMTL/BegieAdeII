@@ -2955,7 +2955,7 @@ Window_SavefileList.prototype.drawContentsText = function (info, rect, valid) {
   rect.y += 35;
   if (info.gold) {
     this.changeTextColor(this.textColor(4));
-    this.drawText("所持金 ", rect.x, rect.y, rect.width - 192);
+    this.drawText("Money ", rect.x, rect.y, rect.width - 192);
     this.resetTextColor();
     this.drawText(info.gold + "G", rect.x + 100, rect.y, rect.width - 192);
   }

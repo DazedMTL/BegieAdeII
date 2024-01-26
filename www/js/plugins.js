@@ -1440,7 +1440,7 @@ var $plugins = [
     status: true,
     description: "タイトル画面にバージョンを明記します。",
     parameters: {
-      Text: "製品版 ver1.07",
+      Text: "Version: ver1.07",
       "Font Size": "20",
       "Font Color": "255,255,255",
       "Window X": "0",
