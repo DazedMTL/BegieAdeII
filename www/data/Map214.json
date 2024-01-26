@@ -7258,7 +7258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief a>\"Deorc, sir! We've got trouble!\""
+                                "\\n<Thief A>\"Deorc, sir! We've got trouble!\""
                             ]
                         },
                         {
@@ -7939,7 +7939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief b>\"The Imperial Army---!!\""
+                                "\\n<Thief B>\"The Imperial Army---!!\""
                             ]
                         },
                         {
@@ -7956,7 +7956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief c>\"Deorc, sir! The Imperial Army! The soldiers from the Empire\nare here!\""
+                                "\\n<Thief C>\"Deorc, sir! The Imperial Army! The soldiers from the Empire\nare here!\""
                             ]
                         },
                         {
@@ -8024,7 +8024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief a>\"What should we do, Deorc sir?\""
+                                "\\n<Thief A>\"What should we do, Deorc sir?\""
                             ]
                         },
                         {
@@ -8089,7 +8089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief a>\"But how can we...!?\""
+                                "\\n<Thief A>\"But how can we...!?\""
                             ]
                         },
                         {

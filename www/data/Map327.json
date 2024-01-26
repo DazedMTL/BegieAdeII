@@ -10019,7 +10019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bandit a>\"Is that the last of the food we carried over?\""
+                                "\\n<Bandit A>\"Is that the last of the food we carried over?\""
                             ]
                         },
                         {
@@ -10036,7 +10036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bandit b>\"Yeah. We had quite the haul today. We're getting pretty\ngood at hunting, aren't we?\""
+                                "\\n<Bandit B>\"Yeah. We had quite the haul today. We're getting pretty\ngood at hunting, aren't we?\""
                             ]
                         },
                         {
@@ -10053,7 +10053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bandit a>\"Not sure if I should be happy about it... This is just like\nliving a hunter's life.\""
+                                "\\n<Bandit A>\"Not sure if I should be happy about it... This is just like\nliving a hunter's life.\""
                             ]
                         },
                         {
@@ -10070,7 +10070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bandit c>\"Can't help it. Our leader isn't going to open the road to\nthe town side for just any reason.... Now, let's hurry up\nand carry it inside.\""
+                                "\\n<Bandit C>\"Can't help it. Our leader isn't going to open the road to\nthe town side for just any reason.... Now, let's hurry up\nand carry it inside.\""
                             ]
                         },
                         {

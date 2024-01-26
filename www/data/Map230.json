@@ -22287,7 +22287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief a>\"She's tired! Now's our chance to rush her all at once!\""
+                                "\\n<Thief A>\"She's tired! Now's our chance to rush her all at once!\""
                             ]
                         },
                         {
@@ -22304,7 +22304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief b>\"Go, you monsters! Take down those Valam soldiers!\""
+                                "\\n<Thief B>\"Go, you monsters! Take down those Valam soldiers!\""
                             ]
                         },
                         {

@@ -4859,7 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager a>\"Sorry doesn't fix this!\""
+                                "\\n<Villager A>\"Sorry doesn't fix this!\""
                             ]
                         },
                         {
@@ -4876,7 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager b>\"We don't even have a doctor! What are we supposed to do if\nsomeone gets hurt?\""
+                                "\\n<Villager B>\"We don't even have a doctor! What are we supposed to do if\nsomeone gets hurt?\""
                             ]
                         },
                         {
@@ -4910,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager b>\"You still dare to say that! I don't want to be treated by\nsomeone like you!\""
+                                "\\n<Villager B>\"You still dare to say that! I don't want to be treated by\nsomeone like you!\""
                             ]
                         },
                         {
@@ -5717,7 +5717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager a>\"Village chief! This woman, she's using magic...!\""
+                                "\\n<Villager A>\"Village chief! This woman, she's using magic...!\""
                             ]
                         },
                         {
@@ -10892,7 +10892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager a>\"Do you think a simple 'sorry' is going to fix this?!\""
+                                "\\n<Villager A>\"Do you think a simple 'sorry' is going to fix this?!\""
                             ]
                         },
                         {
@@ -10909,7 +10909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager b>\"We don't even have a doctor! What are we supposed to do if\nsomeone gets hurt?!\""
+                                "\\n<Villager B>\"We don't even have a doctor! What are we supposed to do if\nsomeone gets hurt?!\""
                             ]
                         },
                         {
@@ -10943,7 +10943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager b>\"You still dare to say that! I wouldn't want to be treated\nby someone like you!\""
+                                "\\n<Villager B>\"You still dare to say that! I wouldn't want to be treated\nby someone like you!\""
                             ]
                         },
                         {
@@ -11750,7 +11750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Villager a>\"Village chief! This woman, she's using magic...!\""
+                                "\\n<Villager A>\"Village chief! This woman, she's using magic...!\""
                             ]
                         },
                         {

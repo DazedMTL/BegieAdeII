@@ -23328,7 +23328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Valam soldier a>\"Damn it, why are monsters appearing all of a sudden!?\""
+                                "\\n<Valam soldier A>\"Damn it, why are monsters appearing all of a sudden!?\""
                             ]
                         },
                         {
@@ -23345,7 +23345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Valam soldier b>\"I have no idea! Anyway, we've got no choice but to take\ndown these monsters one by one!\""
+                                "\\n<Valam soldier B>\"I have no idea! Anyway, we've got no choice but to take\ndown these monsters one by one!\""
                             ]
                         },
                         {
@@ -23513,7 +23513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Valam soldier c>\"Hey, does anyone know where His Highness is!? I can't find\nhim anywhere!\""
+                                "\\n<Valam soldier C>\"Hey, does anyone know where His Highness is!? I can't find\nhim anywhere!\""
                             ]
                         },
                         {
@@ -23530,7 +23530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Valam soldier a>\"No, I haven't seen him... But Roselitte-sama should be with\nhim! We'll drive these monsters away!\""
+                                "\\n<Valam soldier A>\"No, I haven't seen him... But Roselitte-sama should be with\nhim! We'll drive these monsters away!\""
                             ]
                         },
                         {

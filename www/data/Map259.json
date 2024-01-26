@@ -8316,7 +8316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Valam soldier a>\"Damn it...! We're going to be overrun at this rate!!\""
+                                "\\n<Valam soldier A>\"Damn it...! We're going to be overrun at this rate!!\""
                             ]
                         },
                         {
@@ -8333,7 +8333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Valam soldier b>\"We, we're already--!\""
+                                "\\n<Valam soldier B>\"We, we're already--!\""
                             ]
                         },
                         {
@@ -8532,7 +8532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Valam soldier c>\"--Fall back!! It's hopeless here! Retreat to the\ncastle--!!\""
+                                "\\n<Valam soldier C>\"--Fall back!! It's hopeless here! Retreat to the\ncastle--!!\""
                             ]
                         },
                         {

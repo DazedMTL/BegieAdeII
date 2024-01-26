@@ -8812,7 +8812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier a>\"Damn it! How many of them are there?!\""
+                                "\\n<Soldier A>\"Damn it! How many of them are there?!\""
                             ]
                         },
                         {
@@ -8829,7 +8829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier b>\"This isn't something we can overcome with just spirit...!\""
+                                "\\n<Soldier B>\"This isn't something we can overcome with just spirit...!\""
                             ]
                         },
                         {
@@ -8887,7 +8887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier c>\"--They're coming again! Everyone, brace yourselves--!!\""
+                                "\\n<Soldier C>\"--They're coming again! Everyone, brace yourselves--!!\""
                             ]
                         },
                         {
@@ -9791,7 +9791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier a>\"Whose magic was that just now?! Who did it?!\""
+                                "\\n<Soldier A>\"Whose magic was that just now?! Who did it?!\""
                             ]
                         },
                         {
@@ -10023,7 +10023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier a>\"Who is that woman... Did she cast that magic earlier?\""
+                                "\\n<Soldier A>\"Who is that woman... Did she cast that magic earlier?\""
                             ]
                         },
                         {
@@ -10040,7 +10040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier b>\"Be careful! She might be an enemy!\""
+                                "\\n<Soldier B>\"Be careful! She might be an enemy!\""
                             ]
                         },
                         {
@@ -11117,7 +11117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier a>\"...An ally? You're not citizens of Annabern. Who exactly\nare you?\""
+                                "\\n<Soldier A>\"...An ally? You're not citizens of Annabern. Who exactly\nare you?\""
                             ]
                         },
                         {
@@ -11399,7 +11399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier a>\"A member of the Royal Knights--Lady Roselitte?! Ah...!\nIndeed, that is your appearance...!\""
+                                "\\n<Soldier A>\"A member of the Royal Knights--Lady Roselitte?! Ah...!\nIndeed, that is your appearance...!\""
                             ]
                         },
                         {

@@ -38711,7 +38711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man a>\"You guys! Ah, what a relief! I never thought I'd meet\nsomeone at a time like this!\""
+                                "\\n<Man A>\"You guys! Ah, what a relief! I never thought I'd meet\nsomeone at a time like this!\""
                             ]
                         },
                         {
@@ -38745,7 +38745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man a>\"We were out hunting. Then, a bunch of monsters appeared,\nand we couldn't make it back to town... Oh! More\nimportantly, please look at my partner!\""
+                                "\\n<Man A>\"We were out hunting. Then, a bunch of monsters appeared,\nand we couldn't make it back to town... Oh! More\nimportantly, please look at my partner!\""
                             ]
                         },
                         {
@@ -38762,7 +38762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man b>\"Ugh...\""
+                                "\\n<Man B>\"Ugh...\""
                             ]
                         },
                         {
@@ -38946,7 +38946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man a>\"We were trying to make it back to town somehow, but we were\njust attacked by a monster! Please, help us!\""
+                                "\\n<Man A>\"We were trying to make it back to town somehow, but we were\njust attacked by a monster! Please, help us!\""
                             ]
                         },
                         {
@@ -39178,7 +39178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man b>\"Ah... It's like a lie. Such a terrible injury, healed in an\ninstant...\""
+                                "\\n<Man B>\"Ah... It's like a lie. Such a terrible injury, healed in an\ninstant...\""
                             ]
                         },
                         {
@@ -39195,7 +39195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man a>\"Amazing! A miracle! To think we'd meet a healer in a place\nlike this!\""
+                                "\\n<Man A>\"Amazing! A miracle! To think we'd meet a healer in a place\nlike this!\""
                             ]
                         },
                         {
@@ -39212,7 +39212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man b>\"...Thank you. You saved me. It's not much, but please\naccept this.\""
+                                "\\n<Man B>\"...Thank you. You saved me. It's not much, but please\naccept this.\""
                             ]
                         },
                         {
@@ -39284,7 +39284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man b>\"No... It's okay. The town is just around the corner. You're\nout here at such a time too. You must have some urgent\nbusiness, right?\""
+                                "\\n<Man B>\"No... It's okay. The town is just around the corner. You're\nout here at such a time too. You must have some urgent\nbusiness, right?\""
                             ]
                         },
                         {
@@ -39301,7 +39301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man a>\"Now that the injury is healed, there's no need to worry if\nwe've made it this far! This area is like our backyard!\""
+                                "\\n<Man A>\"Now that the injury is healed, there's no need to worry if\nwe've made it this far! This area is like our backyard!\""
                             ]
                         },
                         {
@@ -39318,7 +39318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man a>\"Let's go, partner! Let's hurry back and share our\nincredible adventure story!\""
+                                "\\n<Man A>\"Let's go, partner! Let's hurry back and share our\nincredible adventure story!\""
                             ]
                         },
                         {
@@ -39335,7 +39335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man a>\"Miss! Thank you so much for your help! We're lucky to have\nmet a healer like you!\""
+                                "\\n<Man A>\"Miss! Thank you so much for your help! We're lucky to have\nmet a healer like you!\""
                             ]
                         },
                         {

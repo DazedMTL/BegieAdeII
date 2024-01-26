@@ -8541,7 +8541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Injured person a>\"Ugh...uuuuuuuh...!\""
+                                "\\n<Injured person A>\"Ugh...uuuuuuuh...!\""
                             ]
                         },
                         {
@@ -8662,7 +8662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Injured person a>\"The wound I got from the monster is... ughhh...!\""
+                                "\\n<Injured person A>\"The wound I got from the monster is... ughhh...!\""
                             ]
                         },
                         {
@@ -8775,7 +8775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Injured person a>\"Ah... amazing, it feels better... I'm glad we have such a\nskilled healer here... truly saved me...\""
+                                "\\n<Injured person A>\"Ah... amazing, it feels better... I'm glad we have such a\nskilled healer here... truly saved me...\""
                             ]
                         },
                         {
@@ -8927,7 +8927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Injured person b>\"Ameria-chan. Could you look at my wound too? The pain has\ncome back...\""
+                                "\\n<Injured person B>\"Ameria-chan. Could you look at my wound too? The pain has\ncome back...\""
                             ]
                         },
                         {
@@ -8944,7 +8944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Injured person c>\"Me too, after that would be fine.\""
+                                "\\n<Injured person C>\"Me too, after that would be fine.\""
                             ]
                         },
                         {

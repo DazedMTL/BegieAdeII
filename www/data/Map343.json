@@ -3108,7 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse a>\"No way... This person is...!? You're joking, right!?\""
+                                "\\n<Nurse A>\"No way... This person is...!? You're joking, right!?\""
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse b>\"How could this happen... What in the world?!\""
+                                "\\n<Nurse B>\"How could this happen... What in the world?!\""
                             ]
                         },
                         {
@@ -3159,7 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse a>\"I... I understand! Sir Knight, please step back!\""
+                                "\\n<Nurse A>\"I... I understand! Sir Knight, please step back!\""
                             ]
                         },
                         {
@@ -3210,7 +3210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse a>\"Even if you say that! Please just step back!\""
+                                "\\n<Nurse A>\"Even if you say that! Please just step back!\""
                             ]
                         },
                         {
@@ -3227,7 +3227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse b>\"--No good, we need the doctor... Call the medical\npractitioner! We need to perform medical arts quickly or she\nwon't make it!\""
+                                "\\n<Nurse B>\"--No good, we need the doctor... Call the medical\npractitioner! We need to perform medical arts quickly or she\nwon't make it!\""
                             ]
                         },
                         {
@@ -3261,7 +3261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse c>\"They're in the back room, attending to other patients!\""
+                                "\\n<Nurse C>\"They're in the back room, attending to other patients!\""
                             ]
                         },
                         {
@@ -3535,7 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse a>\"--This is bad, she's losing consciousness...!\""
+                                "\\n<Nurse A>\"--This is bad, she's losing consciousness...!\""
                             ]
                         },
                         {
@@ -3552,7 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nurse b>\"Stay with us! Doctor! Please come quickly, doctor--!\""
+                                "\\n<Nurse B>\"Stay with us! Doctor! Please come quickly, doctor--!\""
                             ]
                         },
                         {

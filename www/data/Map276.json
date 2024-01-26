@@ -5049,7 +5049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Male voice a>\"The woman has escaped! Chase her down!!\""
+                                "\\n<Male voice A>\"The woman has escaped! Chase her down!!\""
                             ]
                         },
                         {
@@ -5066,7 +5066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Male voice b>\"This way! She went this way! Don't let her get away!\""
+                                "\\n<Male voice B>\"This way! She went this way! Don't let her get away!\""
                             ]
                         },
                         {
@@ -7410,7 +7410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief a>\"Found them! You're not getting away this time!\""
+                                "\\n<Thief A>\"Found them! You're not getting away this time!\""
                             ]
                         },
                         {
@@ -7995,7 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief b>\"It's a pincer attack! Capture them now!\""
+                                "\\n<Thief B>\"It's a pincer attack! Capture them now!\""
                             ]
                         },
                         {
@@ -8987,7 +8987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief c>\"Wha... She broke through the iron bars...!\""
+                                "\\n<Thief C>\"Wha... She broke through the iron bars...!\""
                             ]
                         },
                         {
@@ -9004,7 +9004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief d>\"Don't be scared! We can handle this with numbers!\""
+                                "\\n<Thief D>\"Don't be scared! We can handle this with numbers!\""
                             ]
                         },
                         {
@@ -10678,7 +10678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief a>\"--You won't escape anymore!\""
+                                "\\n<Thief A>\"--You won't escape anymore!\""
                             ]
                         },
                         {
@@ -11113,7 +11113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief b>\"Stupid woman. To think she'd come to a place with no escape\non her own!\""
+                                "\\n<Thief B>\"Stupid woman. To think she'd come to a place with no escape\non her own!\""
                             ]
                         },
                         {
@@ -11130,7 +11130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief c>\"Don't expect any mercy now, brace yourself!\""
+                                "\\n<Thief C>\"Don't expect any mercy now, brace yourself!\""
                             ]
                         },
                         {
@@ -11992,7 +11992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Thief a>\"Let's go, everyone! Let's make them suffer!\""
+                                "\\n<Thief A>\"Let's go, everyone! Let's make them suffer!\""
                             ]
                         },
                         {
