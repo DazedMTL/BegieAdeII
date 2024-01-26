@@ -1101,7 +1101,7 @@ var _Window_MenuCommand_addSaveCommand =
 Window_MenuCommand.prototype.addSaveCommand = function () {
   _Window_MenuCommand_addSaveCommand.call(this);
   var enabled = this.isLoadEnabled();
-  this.addCommand("ロード", "load", enabled);
+  this.addCommand("Load", "load", enabled);
 };
 
 Window_MenuCommand.prototype.isLoadEnabled = function () {

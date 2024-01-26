@@ -97,7 +97,7 @@ var $plugins = [
       "Chinese Font": "SimHei, Heiti TC, sans-serif",
       "Korean Font": "Dotum, AppleGothic, sans-serif",
       "Default Font": "GameFont, Verdana, Arial, Courier New",
-      "Font Size": "28",
+      "Font Size": "24",
       "Text Align": "left",
       "---Windows---": "",
       "Digit Grouping": "true",
@@ -607,7 +607,7 @@ var $plugins = [
       volume: "70",
       pitch: "100",
       pan: "0",
-      "Battle Voice Name at Option": "被ダメージボイス再生",
+      "Battle Voice Name at Option": "Battle Voice",
     },
   },
   {
@@ -977,7 +977,7 @@ var $plugins = [
     description: "MOG SceneMenu / BattleCommandsでファイル名を変更します",
     parameters: {
       changeFileList:
-        '["{\\"menuCommand\\":\\"アイテム\\",\\"loadFile\\":\\"Item\\"}","{\\"menuCommand\\":\\"装備\\",\\"loadFile\\":\\"Equip\\"}","{\\"menuCommand\\":\\"スキル\\",\\"loadFile\\":\\"Skill\\"}","{\\"menuCommand\\":\\"ステータス\\",\\"loadFile\\":\\"Status\\"}","{\\"menuCommand\\":\\"並び替え\\",\\"loadFile\\":\\"Formation\\"}","{\\"menuCommand\\":\\"オプション\\",\\"loadFile\\":\\"Options\\"}","{\\"menuCommand\\":\\"セーブ\\",\\"loadFile\\":\\"Save\\"}","{\\"menuCommand\\":\\"ロード\\",\\"loadFile\\":\\"load\\"}","{\\"menuCommand\\":\\"ゲーム終了\\",\\"loadFile\\":\\"GameEnd\\"}","{\\"menuCommand\\":\\"Com_攻撃\\",\\"loadFile\\":\\"Com_Attack\\"}","{\\"menuCommand\\":\\"Com_防御\\",\\"loadFile\\":\\"Com_Guard\\"}","{\\"menuCommand\\":\\"Com_アイテム\\",\\"loadFile\\":\\"Com_Item\\"}","{\\"menuCommand\\":\\"Com_魔法\\",\\"loadFile\\":\\"Com_Magic\\"}","{\\"menuCommand\\":\\"Com_必殺技\\",\\"loadFile\\":\\"Com_Special\\"}","{\\"menuCommand\\":\\"Com_逃げる\\",\\"loadFile\\":\\"Com_Escape\\"}","{\\"menuCommand\\":\\"Com_Coop\\",\\"loadFile\\":\\"Com_Coop\\"}","{\\"menuCommand\\":\\"Com_スキル\\",\\"loadFile\\":\\"Com_Skill\\"}"]',
+        '["{\\"menuCommand\\":\\"アイテム\\",\\"loadFile\\":\\"Item\\"}","{\\"menuCommand\\":\\"装備\\",\\"loadFile\\":\\"Equip\\"}","{\\"menuCommand\\":\\"スキル\\",\\"loadFile\\":\\"Skill\\"}","{\\"menuCommand\\":\\"ステータス\\",\\"loadFile\\":\\"Status\\"}","{\\"menuCommand\\":\\"並び替え\\",\\"loadFile\\":\\"Formation\\"}","{\\"menuCommand\\":\\"オプション\\",\\"loadFile\\":\\"Options\\"}","{\\"menuCommand\\":\\"セーブ\\",\\"loadFile\\":\\"Save\\"}","{\\"menuCommand\\":\\"Load\\",\\"loadFile\\":\\"load\\"}","{\\"menuCommand\\":\\"ゲーム終了\\",\\"loadFile\\":\\"GameEnd\\"}","{\\"menuCommand\\":\\"Com_攻撃\\",\\"loadFile\\":\\"Com_Attack\\"}","{\\"menuCommand\\":\\"Com_防御\\",\\"loadFile\\":\\"Com_Guard\\"}","{\\"menuCommand\\":\\"Com_アイテム\\",\\"loadFile\\":\\"Com_Item\\"}","{\\"menuCommand\\":\\"Com_魔法\\",\\"loadFile\\":\\"Com_Magic\\"}","{\\"menuCommand\\":\\"Com_必殺技\\",\\"loadFile\\":\\"Com_Special\\"}","{\\"menuCommand\\":\\"Com_逃げる\\",\\"loadFile\\":\\"Com_Escape\\"}","{\\"menuCommand\\":\\"Com_Coop\\",\\"loadFile\\":\\"Com_Coop\\"}","{\\"menuCommand\\":\\"Com_スキル\\",\\"loadFile\\":\\"Com_Skill\\"}"]',
     },
   },
   {
@@ -1497,7 +1497,7 @@ var $plugins = [
     status: true,
     description: "「キャラクターボイス実装プラグイン」",
     parameters: {
-      CommandText_WindowOptions: "戦闘／Hボイス音量",
+      CommandText_WindowOptions: "Combat/H-Volume",
       CV_StoreFolderName: "me",
       UseToVolume: "true",
       BgmVolume_DuringPlayCV: "0",
@@ -1512,7 +1512,7 @@ var $plugins = [
     description: "簡易ボイスプラグイン",
     parameters: {
       フォルダ名: "bcv",
-      オプション名称: "Hボイス(喘ぎ声)音量",
+      オプション名称: "H Voice Volume",
       オプション初期値: "50",
     },
   },
@@ -1520,7 +1520,7 @@ var $plugins = [
     name: "MasterVolumeOption",
     status: true,
     description: "マスターボリューム設定プラグイン",
-    parameters: { 項目名称: "全体音量", 初期値: "100", 音量の増減量: "5" },
+    parameters: { 項目名称: "Master Volume", 初期値: "100", 音量の増減量: "5" },
   },
   {
     name: "NRP_AudioManager",
@@ -1571,7 +1571,7 @@ var $plugins = [
       文字項目: "",
       スイッチ項目: "",
       音量項目:
-        '["{\\"Name\\":\\"・ローゼリッテ\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"30\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"・アメリア\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"31\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"・リリック\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"32\\",\\"HiddenFlag\\":\\"true\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"・ルエール\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"33\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"・ベギーアデ\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"34\\",\\"HiddenFlag\\":\\"true\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}"]',
+        '["{\\"Name\\":\\"Roselitte\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"30\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"Ameria\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"31\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"Lyric\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"32\\",\\"HiddenFlag\\":\\"true\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"Luerre\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"33\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}","{\\"Name\\":\\"Begieade\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"34\\",\\"HiddenFlag\\":\\"true\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"seVolume\\",\\"PaddingTop\\":\\"0\\"}"]',
     },
   },
   {
@@ -1600,17 +1600,17 @@ var $plugins = [
     parameters: {
       "Init Difficulty ID": "2",
       "Use Option": "1",
-      "Option Name": "難易度",
+      "Option Name": "Difficulty",
       "--(Difficulty ID:1)--": "",
-      "1 : Name": "ノーマル",
+      "1 : Name": "Normal",
       "1 : Param Rate": "1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0",
       "1 : Drop Rate": "1.0,1.0,1.0,1.0,1.0",
       "--(ID:2)-------------": "",
-      "2 : Name": "イージー",
+      "2 : Name": "Easy",
       "2 : Param Rate": "0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7",
       "2 : Drop Rate": "1.0,1.0,1.0,1.0,1.0",
       "--(ID:3)-------------": "",
-      "3 : Name": "ベリーイージー",
+      "3 : Name": "Very Easy",
       "3 : Param Rate": "0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5",
       "3 : Drop Rate": "1.2,1.2,1.2,1.2,1.2",
       "--(ID:4)-------------": "",
@@ -1733,8 +1733,8 @@ var $plugins = [
         '{"width":"3","text":"{\\"jp\\":\\"JIS/US\\",\\"en\\":\\"JIS/US\\"}"}',
       exit: '{"width":"3","text":"{\\"jp\\":\\"やめる\\",\\"en\\":\\"exit\\"}"}',
       gamepadConfigCommandText:
-        '{"en":"gamepad config","jp":"ゲームパッドコンフィグ"}',
-      keyConfigCommandText: '{"en":"keyboard config","jp":"キーコンフィグ"}',
+        '{"en":"gamepad config","jp":"Gamepad"}',
+      keyConfigCommandText: '{"en":"keyboard config","jp":"Keyboard"}',
       gamepadBackground: "",
       keyBackground: "",
       SettingsForYEP_OptionsCore: '{"gamepad":"true","Keyboard":"true"}',
@@ -1947,11 +1947,11 @@ var $plugins = [
     description: "アイテムリスト、スキルリスト等の列数を改変します",
     parameters: {
       ItemListCols: "2",
-      ItemFontSize: "28",
+      ItemFontSize: "24",
       SkillListCols: "2",
       SkillFontSize: "20",
       ShopListCols: "2",
-      ShopListFontSize: "28",
+      ShopListFontSize: "24",
       EquipListCols: "2",
     },
   },

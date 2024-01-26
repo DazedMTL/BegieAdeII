@@ -3331,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man's voice>??? \"I've found them!\""
+                                "\\n<Man's voice> \"I've found them!\""
                             ]
                         },
                         {
@@ -6750,7 +6750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man's voice>??? \"I've found them!\""
+                                "\\n<Man's voice> \"I've found them!\""
                             ]
                         },
                         {

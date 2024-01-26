@@ -3493,7 +3493,7 @@ Scene_Battle.prototype.createAllWindows = function () {
       : true;
   this._helpWindow.vis = this._helpWindow.visible;
   this._helpWindow.width = Moghunter.bhud_help_width;
-  this._helpWindow.height = Moghunter.bhud_help_height;
+  this._helpWindow.height = Moghunter.bhud_help_height + 50;
   if (String(Moghunter.bhud_help_layout) === "true") {
     this._helpWindow.opacity = 0;
   }
