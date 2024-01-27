@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cheap HP recovery medicine. A bit bitter. Effect: Restores 25% HP",
+        "description": "Cheap HP recovery medicine. Slightly bitter. Effect: Recovers 25% HP",
         "effects": [
             {
                 "code": 11,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Expensive HP recovery medicine. Quite bitter. Effect: Restores 50% HP",
+        "description": "Expensive HP recovery medicine. Quite bitter. Effect: Recovers 50% HP",
         "effects": [
             {
                 "code": 11,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Very expensive HP recovery medicine. Very bitter. Effect: Restores 80%\nHP",
+        "description": "Very expensive HP recovery medicine. Very bitter. Effect: Recovers 80%\nHP",
         "effects": [
             {
                 "code": 11,
@@ -240,7 +240,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cheap MP recovery medicine. An addictive taste. Effect: Restores 30%\nMP",
+        "description": "Cheap MP recovery medicine. An acquired taste. Effect: Recovers 30% MP",
         "effects": [
             {
                 "code": 12,
@@ -273,7 +273,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Expensive MP recovery medicine. A taste you can get hooked on. Effect:\nRestores 60% MP",
+        "description": "Expensive MP recovery medicine. Addictively tasty. Effect: Recovers\n60% MP",
         "effects": [
             {
                 "code": 12,
@@ -306,7 +306,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Very expensive MP recovery medicine. A taste that can cause addiction.\nEffect: Restores 90% MP",
+        "description": "Very expensive MP recovery medicine. Dangerously delicious. Effect:\nRecovers 90% MP",
         "effects": [
             {
                 "code": 12,
@@ -469,7 +469,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Herb with a nice smell. Calms the mind. Effect: Restores 20 TP",
+        "description": "Herb with a pleasant smell. Calms the mind. Effect: Recovers 20 TP",
         "effects": [
             {
                 "code": 44,
@@ -502,7 +502,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Herb with a very nice smell. Feels like your head is melting. Effect:\nRestores 45 TP",
+        "description": "Herb with a very pleasant smell. Feels like melting your brain.\nEffect: Recovers 45 TP",
         "effects": [
             {
                 "code": 44,
@@ -535,7 +535,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Herb with a strong smell. Makes you feel like you're losing\nconsciousness and becoming an observer. Effect: Restores 70 TP",
+        "description": "Herb with a strong smell. Makes you feel like you're in a third-person\nperspective. Effect: Recovers 70 TP",
         "effects": [
             {
                 "code": 44,
@@ -698,7 +698,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cologne made with Semen Herb fragrance. Smells good. Effect: Decreases\nlust by 10",
+        "description": "Cologne made with Semen Herb fragrance. Smells nice. Effect: Decreases\nlust by 10",
         "effects": [
             {
                 "code": 44,
@@ -764,7 +764,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cologne made with Flos Herb fragrance. A smell that should not be\nmisused. Effect: Decreases lust by 50",
+        "description": "Cologne made with Flos Herb fragrance. Smell not to be misused.\nEffect: Decreases lust by 50",
         "effects": [
             {
                 "code": 44,
@@ -797,7 +797,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Indecent book. Oddly hits the spot with your fetishes. Effect:\nIncreases lust by 10",
+        "description": "Indecent book. Oddly hits right in the fetish. Effect: Increases lust\nby 10",
         "effects": [
             {
                 "code": 44,
@@ -908,7 +908,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine that cures abnormal states. Effect: Cures [Darkness]\ncondition",
+        "description": "Medicine that recovers from abnormal states. Effect: Recovers from\n[Darkness] state",
         "effects": [
             {
                 "code": 22,
@@ -941,7 +941,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine that cures abnormal states. Effect: Cures [Poison] condition",
+        "description": "Medicine that recovers from abnormal states. Effect: Recovers from\n[Poison] state",
         "effects": [
             {
                 "code": 22,
@@ -974,7 +974,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine that cures abnormal states. Effect: Cures [Burn] condition",
+        "description": "Medicine that recovers from abnormal states. Effect: Recovers from\n[Burn] state",
         "effects": [
             {
                 "code": 22,
@@ -1007,7 +1007,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine that cures abnormal states. Effect: Cures [Bleeding]\ncondition",
+        "description": "Medicine that recovers from abnormal states. Effect: Recovers from\n[Bleeding] state",
         "effects": [
             {
                 "code": 22,
@@ -1040,7 +1040,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Luxury medicine that cures abnormal states. Effect: Cures all abnormal\nconditions except [Heat]",
+        "description": "Luxury medicine that recovers from abnormal states. Effect: Recovers\nfrom all abnormal states except [Heat]",
         "effects": [
             {
                 "code": 22,
@@ -1091,7 +1091,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recovery medicine that calms both mind and body. Effect: Cures [Heat]\ncondition",
+        "description": "Medicine that calms both mind and body. Effect: Recovers from [Heat]\nstate",
         "effects": [
             {
                 "code": 22,
@@ -1260,7 +1260,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Magic needle and thread that can fix clothes anywhere. Effect: Repairs\none stage of clothing damage.",
+        "description": "Magic needle and thread that can fix clothes anywhere. Effect: Repairs\none level of clothing damage.",
         "effects": [
             {
                 "code": 44,
@@ -1293,7 +1293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Just an ordinary pair of scissors. Effect: Progresses one stage of\nclothing damage.",
+        "description": "Just an ordinary pair of scissors. Effect: Progresses one level of\nclothing damage.",
         "effects": [
             {
                 "code": 44,
@@ -1305,7 +1305,7 @@
         "hitType": 0,
         "iconIndex": 1471,
         "itypeId": 1,
-        "name": "Shears",
+        "name": "Scissors",
         "note": "",
         "occasion": 2,
         "price": 80,
@@ -1326,7 +1326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bottled clean water. Not for drinking. Effect: Washes away one stage\nof semen stains.",
+        "description": "Bottled clean water. Not for drinking. Effect: Washes away one level\nof semen stains.",
         "effects": [
             {
                 "code": 44,
@@ -1338,7 +1338,7 @@
         "hitType": 0,
         "iconIndex": 1471,
         "itypeId": 1,
-        "name": "Pure Water",
+        "name": "Beautiful Water",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1359,7 +1359,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bottled cloudy liquid. What's inside...? Effect: Progresses one stage\nof semen stains.",
+        "description": "Bottled cloudy liquid. What's inside...? Effect: Progresses one level\nof semen stains.",
         "effects": [
             {
                 "code": 44,
@@ -1371,7 +1371,7 @@
         "hitType": 0,
         "iconIndex": 1471,
         "itypeId": 1,
-        "name": "Cloudy Fluid",
+        "name": "Cloudy Liquid",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1737,7 +1737,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Call Lyric and you can kiss her. *Shortcut call possible with the C\nkey (default)",
+        "description": "You can call Lyric and kiss her. *Shortcut callable with C key\n(default)",
         "effects": [
             {
                 "code": 44,
@@ -1879,7 +1879,7 @@
         "hitType": 0,
         "iconIndex": 1481,
         "itypeId": 2,
-        "name": "Underground Prison Town Key",
+        "name": "Dungeon Prison Street Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1931,7 +1931,7 @@
         "hitType": 0,
         "iconIndex": 1480,
         "itypeId": 2,
-        "name": "Penal Labor Workshop Key",
+        "name": "Labor Camp Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2264,12 +2264,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "",
+        "description": "<Material Notes>\\nKoyoru Forest / \"Reddish-brown Futsugi\"  Hornus Cave\n/ \"Zoko Shade Crystal\"\\nNanuma Forest / \"Hasubu Leaf\"  Leanda Jungle /\n\"Gonkakoke\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1497,
         "itypeId": 2,
-        "name": "Note on Quality Recovery Medicine",
+        "name": "Note on Quality Healing Medicine",
         "note": "\\n<材料のメモ>「コヨルの森／『赤褐色フーツギ』\n　ホルヌス洞窟／『ゾコ陰結晶』\n　ナヌーマ森林／『ハスウブの葉』\n　レアンダ密林／『ゴンカコケ』」\\n",
         "occasion": 3,
         "price": 0,
@@ -2295,7 +2295,7 @@
         "hitType": 0,
         "iconIndex": 1532,
         "itypeId": 2,
-        "name": "Brownish Red Futsugi",
+        "name": "Brownish Futsugi",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2347,7 +2347,7 @@
         "hitType": 0,
         "iconIndex": 1535,
         "itypeId": 2,
-        "name": "Husuub Leaf",
+        "name": "Hasubu Leaf",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2368,7 +2368,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You can view an explanation about \"COOP Battles\".",
+        "description": "",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1530,
@@ -2784,7 +2784,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You can view an explanation about \"Battle H\".",
+        "description": "During H scenes, you can switch the display method of the male\ncharacter overlaying the character to [Show][Transparent][Erase]. It\nis currently set to \\nデフォルトでは[透過].",
         "effects": [
             {
                 "code": 44,
@@ -2817,7 +2817,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is an emergency item for when glitches occur. It initializes and\nredisplay the standing picture processing. Please try it if the\nstanding picture stops being displayed for some reason.\\nNote that\nusing this will also partially initialize related statuses to the\nstanding picture display.",
+        "description": "An emergency item for bug occurrences. It initializes and redisplay\ncharacter sprites processing. Please try it if character sprites stop\ndisplaying for some reason.\\nUsing it will also partially initialize\nstatuses related to character sprite display.",
         "effects": [
             {
                 "code": 44,
@@ -2829,7 +2829,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "Character Art Initialization Switch",
+        "name": "Character Art Reset Switch",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2980,7 +2980,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You can view an explanation about \"COOP Battles\".",
+        "description": "You can view explanations about \"COOP Battle\".",
         "effects": [
             {
                 "code": 44,
@@ -3013,7 +3013,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You can view an explanation about \"Battle H\".",
+        "description": "You can view explanations about \"Combat H\".",
         "effects": [
             {
                 "code": 44,
@@ -3025,7 +3025,7 @@
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "Manual \"Battle H\"",
+        "name": "Manual \"Combat H\"",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -3164,7 +3164,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Receiving lewd acts and various other conditions can increase the\nvalue, and when it reaches a certain level, you will enter a [Lustful]\nstate. Items can increase or decrease this value, and if defeated, the\nlust level will decrease to some extent.\\nSpecial Effect: Lowered\nAttack Power",
+        "description": "Receiving lewd acts among various conditions increases the value, and\nwhen it exceeds a certain level, it becomes a [Lustful] state. The\nvalue can be increased or decreased with items, and losing a battle\nwill decrease the lust level to some extent.\\nSpecial effect: Decrease\nin attack power",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1280,
@@ -3190,7 +3190,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "If you are ejaculated on multiple times during a single battle, you\nwill enter a [Semen] state. Items can be used to put on or take off\nthis state, and if defeated, semen will be applied at one\nlevel.\\nSpecial Effect: Lowered Defense & Magic Defense",
+        "description": "Being ejaculated on multiple times during a single battle will result\nin a [Semen] state. It can be put on or taken off with items, and\nlosing a battle will apply semen to a certain degree.\\nSpecial effect:\nDecrease in defense and magic defense power",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1280,
@@ -3216,12 +3216,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "During battle, receiving certain attacks may cause you to enter a\n[Heat] state with a certain probability. Roselitte's behavior changes,\nand the value of lust increase is amplified.",
+        "description": "Receiving certain attacks during battle may result in a [Heat] state.\nRoselitte's condition changes, and the increase in lust level is\namplified.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1280,
         "itypeId": 2,
-        "name": "Special State \"Heat\"",
+        "name": "Special State \"Estrus\"",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3320,7 +3320,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘中に特定の攻撃を受けると確率で[発情]状態となります。\nローゼリッテの様子が変化するほか、淫欲度上昇値が増加します。",
+        "description": "If you receive certain attacks during the battle, you will enter the [rutting] \nstate with a probability. In addition to changing the appearance of Roselitte, \nthe increase in lewdness level will be increased.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1280,
