@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Defense\n+5",
+        "description": "Battle clothes that Roselitte often wears.\nShe doesn't like to wear them unless it's for a big battle.",
         "etypeId": 2,
         "traits": [
             {
@@ -197,7 +197,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Defense\n+7",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: Attack +5",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1461,
@@ -218,7 +218,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Defense\n+10",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: Attack +7",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1461,
@@ -239,7 +239,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: M.\nDefense +5",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: Attack +10",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1461,
@@ -341,7 +341,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: M.\nDefense +7",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: Defense +5",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1462,
@@ -362,7 +362,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: M.\nDefense +10",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: Defense +7",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1462,
@@ -383,7 +383,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Max HP\n+10% / HP Regen 3%",
+        "description": "A ring that enhances the wearer's physical abilities.\nEffect: Defense +10",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1462,
@@ -485,7 +485,7 @@
     {
         "id": 20,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Max HP\n+20% / HP Regen 5%",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: M.Defense +5",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1459,
@@ -506,7 +506,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Max HP\n+30% / HP Regen 7%",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: M.Defense +7",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1459,
@@ -527,7 +527,7 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Max MP\n+10% / MP Regen 3%",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: M.Defense +10",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1459,
@@ -629,7 +629,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Max MP\n+20% / MP Regen 5%",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: Max HP +10% / HP Regen +3%",
         "etypeId": 3,
         "traits": [
             {
@@ -661,7 +661,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "A ring that enhances the wearer's physical abilities. Effect: Max MP\n+30% / MP Regen 7%",
+        "description": "A ring that enhances the wearer's physical abilities. \nEffect: Max HP +20% / HP Regen +5%",
         "etypeId": 3,
         "traits": [
             {
@@ -693,7 +693,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +5 / ACP Recovery Amount +3",
+        "description": "A ring that enhances the wearer's physical abilities.\nEffect: Max HP +30% / HP Regen +7%",
         "etypeId": 3,
         "traits": [
             {
@@ -806,7 +806,7 @@
     {
         "id": 32,
         "atypeId": 1,
-        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +7 / ACP Recovery Amount +4",
+        "description": "A ring that enhances the wearer's physical abilities.\nEffect: Max MP +10% / MP Regen +3%",
         "etypeId": 3,
         "traits": [
             {
@@ -838,7 +838,7 @@
     {
         "id": 33,
         "atypeId": 1,
-        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +10 / ACP Recovery Amount +5",
+        "description": "A ring that enhances the wearer's physical abilities.\nEffect: Max MP +20% / MP Regen +5%",
         "etypeId": 3,
         "traits": [
             {
@@ -870,7 +870,7 @@
     {
         "id": 34,
         "atypeId": 1,
-        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +5 / LCP Recovery Amount +3",
+        "description": "A ring that enhances the wearer's physical abilities.\nEffect: Max MP +30% / MP Regen +7%",
         "etypeId": 3,
         "traits": [
             {
@@ -983,7 +983,7 @@
     {
         "id": 38,
         "atypeId": 1,
-        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +7 / LCP Recovery Amount +4",
+        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +5 / ACP Recovery Amount +3",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1557,
@@ -1004,7 +1004,7 @@
     {
         "id": 39,
         "atypeId": 1,
-        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +10 / LCP Recovery Amount +5",
+        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +7 / ACP Recovery Amount +4",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1557,
@@ -1025,7 +1025,7 @@
     {
         "id": 40,
         "atypeId": 1,
-        "description": "A contract for forming a pact with a succubus. Enjoy pleasure and\nreceive its benefits. Effect: TP Consumption Increase / Increased Lewd\nEXP during battle",
+        "description": "A magic stone blessed with holy protection. It empowers clerics.\nEffect: Initial ACP Max Value +10 / ACP Recovery Amount +5",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1557,
@@ -1127,7 +1127,7 @@
     {
         "id": 44,
         "atypeId": 1,
-        "description": "A contract for forming a pact with a succubus. Enjoy pleasure and gain\npower. Effect: TP Consumption Increase / Increase in all basic\nabilities",
+        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +5 / LCP Recovery Amount +3",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1575,
@@ -1148,7 +1148,7 @@
     {
         "id": 45,
         "atypeId": 1,
-        "description": "An ornament that protects from calamity. The indomitable magic within\nsupports the wearer's resistance. Effect: TP does not decrease from\nsexual attacks while restrained (clothing does not change when\nrestrained)",
+        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +7 / LCP Recovery Amount +4",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1575,
@@ -1169,7 +1169,7 @@
     {
         "id": 46,
         "atypeId": 1,
-        "description": "An ornament that protects from calamity. The resisting magic within\nsupports the wearer's resistance. Effect: TP Recovery +10 every turn",
+        "description": "A magic stone blessed with demonic protection. It empowers magicians.\nEffect: Initial LCP Max Value +10 / LCP Recovery Amount +5",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1575,
@@ -1271,7 +1271,7 @@
     {
         "id": 50,
         "atypeId": 1,
-        "description": "Perfume that sexually excites [Assailants]. Effect: Induces [Sexual\nHarassment Attacks].",
+        "description": "A contract for forming a pact with a succubus. Enjoy pleasure\npower. Effect: TP Consumption Increase / Increase Sex EXP",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1497,
@@ -1319,7 +1319,7 @@
     {
         "id": 52,
         "atypeId": 1,
-        "description": "A contract for forming a pact with a succubus. Enjoy pleasure and gain\npower. Effect: TP Consumption Increase / Increase in all basic\nabilities",
+        "description": "A contract for forming a pact with a succubus. Enjoy pleasure\npower. Effect: TP Consumption Increase / Increase all basic abilities",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1497,
@@ -1448,7 +1448,7 @@
     {
         "id": 57,
         "atypeId": 1,
-        "description": "An ornament that protects from calamity. The indomitable magic within\nsupports the wearer's resistance. Effect: TP does not decrease from\nsexual attacks while restrained (clothing does not change when\nrestrained)",
+        "description": "An ornament that protects from calamity. The indomitable magic within\nsupports resistance. Effect: TP does not decrease while restrained.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1493,
@@ -1517,7 +1517,7 @@
     {
         "id": 60,
         "atypeId": 1,
-        "description": "Perfume that sexually excites [Assailants]. Effect: Induces [Sexual\nHarassment Attacks].",
+        "description": "Perfume that sexually excites [Assailants].\nEffect: Induces [Sexual Harassment Attacks].",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 1454,
